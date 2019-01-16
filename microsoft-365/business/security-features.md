@@ -16,11 +16,11 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Microsoft 365 iş gelen güvenlik özellikleri hakkında bilgi edinin.
-ms.openlocfilehash: bfddb419dbe5db441741a73ecb49e3d52649e382
-ms.sourcegitcommit: eb1a77e4cc4e8f564a1c78d2ef53d7245fe4517a
+ms.openlocfilehash: 17bcc57d57e837f18b05f66cfd54185324f3cad8
+ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/28/2018
+ms.lasthandoff: 01/16/2019
 ms.locfileid: "26983180"
 ---
 # <a name="microsoft-365-business-security-features"></a>Microsoft 365 iş güvenlik özellikleri
@@ -130,11 +130,9 @@ Web'de Outlook'taki e-posta gönderirken, aşağıdaki kısıtlamalar geçerlidi
 
 AIP etkinleştirilmiş olduğunu doğrulamak için:
 
-1. [Azure Active Directory Yönetim Merkezi](https://portal.azure.com/)ile imzalayın.
+1. [Azure portal](https://portal.azure.com/)oturum açın.
 
-    Siz de içinde **Yönetim Merkezleri** bularak oturum \> **Azure Active Directory** Yönetim Merkezi'nde sol nav.
-
-2. **Tüm hizmetleri** ve tyoe *Azure bilgi koruma* **Arama kutusunu**seçin.
+2. **Arama kutusu** *Azure bilgi koruma* **tüm hizmetleri** ve türünü seçin.
 
 3. Sonuçları görüntüledikten sonra sık yapmak için **Azure bilginin korunması** için İleri ve kolayca bulabilmek için Başlat'ı tıklatın.
 
@@ -144,7 +142,7 @@ AIP etkinleştirilmiş olduğunu doğrulamak için:
 
 Görüntülemek ve değiştirmek için varolan etiketleri:
 
-1. Azure bilgi koruma Panosu üzerinde **sınıflandırmaları** seçin \> ** etiketleri. <br/>![Azure bilginin korunması için standart etiketler.](media/AIPLabels.png)
+1. Azure bilgi koruma Panosu üzerinde **sınıflandırmaları** seçin \> **etiketleri**. <br/>![Azure bilginin korunması için standart etiketler.](media/AIPLabels.png)
 
 2. Tüm etiket seçeneklerini görüntülemek için seçebilirsiniz, ancak değiştirebilirsiniz görünen ad, renkler vb..
  
@@ -159,6 +157,16 @@ AIP istemciyi el ile yüklemek için:
 2. Yükleme Word belgesi görüntüleme ve **Koru** seçeneği **Giriş** sekmesinde kullanılabilir durumda olmasını sağlayarak çalışılan doğrulayabilirsiniz. <br/>![Koruma sekmesini aşağı açılan bir Word belgesinde.](media/Word_Protect.png)
 
 Daha fazla bilgi için bkz: [İstemci Yükleme](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3)
+
+## <a name="go-to-intune-admin-center"></a>Intune Yönetim Merkezine gidin
+
+1. [Azure portal](https://portal.azure.com/)oturum açın.
+
+2. **Arama kutusu** *Intune* **tüm hizmetleri** ve türünü seçin.
+
+3. Sonuçları görüntüledikten sonra sık yapmak için **Microsoft Intune** için İleri ve kolayca bulabilmek için Başlat'ı tıklatın.
+ 
+Intune, kaydolmak ve kuruluşunuzun aygıtları yönetmek için kullanabilirsiniz. Daha fazla bilgi için bkz: [Windows aygıtları için kayıt yöntemi tarafından yetenekleri](https://docs.microsoft.com/intune/enrollment-method-capabs) ve [Intune tarafından yönetilen aygıtlar için kayıt seçenekleri](https://docs.microsoft.com/intune/enrollment-options).
     
 ## <a name="faq"></a>SSS
 
@@ -174,15 +182,4 @@ Evet, bu özellikler Microsoft 365 iş nerede satıldığı tüm pazarlarda kull
     
     ![Microsoft 365 Yönetim Merkezi sol nav uygulamasında yönetim merkezlerini seçin.](media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
-3. Seçin **Güvenlik &amp; uyum** güvenlik için gitmek için &amp; Uyumluluk Merkezi. 
-    
- ### <a name="how-do-i-find-the-intune-admin-center"></a>Intune Yönetim Merkezi nasıl buldunuz?
-  
-  
-1. Yönetici kimlik bilgilerinizi kullanarak [Microsoft 365 iş için oturum açın](https://portal.microsoft.com/) . 
-    
-2. Sol nav **Yönetim Merkezleri** bulun ve genişletin. 
-    
-3. Intune yönetim merkezine gitmek için **Intune** seçin. 
-    
-
+3. Seçin **Güvenlik &amp; uyum** güvenlik için gitmek için &amp; Uyumluluk Merkezi.

@@ -17,10 +17,10 @@ search.appverid:
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: 'Microsoft 365 iş kullanıcıları için Windows 10 Pro çalıştıran Windows aygıtı kurmayı öğrenin. '
 ms.openlocfilehash: 482199b175c568bfae420619aa02024303894789
-ms.sourcegitcommit: eb1a77e4cc4e8f564a1c78d2ef53d7245fe4517a
+ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/28/2018
+ms.lasthandoff: 01/16/2019
 ms.locfileid: "26982860"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>Microsoft 365 Business kullanıcıları için Windows cihazlarını ayarlama
