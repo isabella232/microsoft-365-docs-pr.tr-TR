@@ -4,10 +4,12 @@ ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
 ms.audience: Admin
-ms.topic: overview
+ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -18,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Microsoft 365 iş öğrenin.
-ms.openlocfilehash: 1c4adc64f62f7d4ae5038603804aa10e48d8a6e1
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 78f7360c80667b8d34fad9d849cfc2cf83a8577b
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983800"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32278119"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>Microsoft 365 İş ile çalışmaya başlama
 
@@ -33,7 +35,7 @@ Microsoft 365 İş, sürekli güncelleştirilen Outlook, Word, Excel ve diğer O
   
 Microsoft 365 İş 300 lisansa kadar yöneliktir, daha fazla lisansa ihtiyacınız varsa daha fazla bilgi için [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) belgelerine göz atın. 
   
-## <a name="get-microsoft-365-business"></a>Microsoft 365 İş'i alma
+## <a name="get-microsoft-365-business"></a>Microsoft 365 İş'i edinme
 
 - İş ortağınız varsa, onlar da Microsoft 365 İş ürününü alır: [Microsoft 365 İş'i Microsoft İş Ortağı Merkezi'nden alma](get-microsoft-365-business.md).
     
@@ -43,7 +45,7 @@ Microsoft 365 İş 300 lisansa kadar yöneliktir, daha fazla lisansa ihtiyacın�
 
  **Microsoft 365 Business Suite ayarlanan genel bakış**
   
-Aşağıdaki diyagramda Microsoft 365 iş yöneticileri nasıl ayarlanacağını açıklar. Ayrıca 365 işletmeler için Microsoft Windows PC'ler hazırlamak için gereken adımları açıklar. Yeni aygıtlar için Microsoft 365 iş Yönetim Merkezi'nde [Windows AutoPilot](add-autopilot-devices-and-profile.md)ile de ekleyebilirsiniz. AutoPilot ayarlamak ve yeni aygıtlar kendi Microsoft 365 iş kimlik bilgileriyle kullanıcı imzalar hemen sonra bunları üretken kullanılmaya hazır alma önceden yapılandırmak için kullanabilirsiniz.
+Aşağıdaki diyagramda Microsoft 365 iş yöneticileri nasıl ayarlanacağını açıklar. Ayrıca Windows bilgisayarları Microsoft 365 İş için hazırlama adımları da açıklanır. Ayrıca, [Windows AutoPilot](add-autopilot-devices-and-profile.md) ile Microsoft 365 İş yönetim merkezinde yeni cihazlar da ekleyebilirsiniz. AutoPilot'ı kullanarak yeni cihazları ayarlayıp önceden yapılandırabilir, böylece kullanıcı kendi Microsoft 365 İş kimlik bilgileriyle oturum açtığı anda cihazın üretimde kullanıma hazır olmasını sağlayabilirsiniz.
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
   
@@ -59,11 +61,11 @@ Genel yönetici kimlik bilgilerinizle [Microsoft 365 İş yönetim merkezinde](h
     
     **Bulut için bir yerel Active Directory'den kalıcı olarak taşıma**iseniz, ya da kullanıcıların el ile Microsoft 365 iş Yönetim Merkezi'nde Kurulum Sihirbazı'nı kullanarak ekleyebilirsiniz veya Azure AD Connect ile bir kerelik eşitleme yapabilirsiniz. Bunu yapmanın iki yolu vardır: 
     
-  - Ayrıca bir Exchange 2010, Exchange 2013 veya 2016 Exchange sunucusu varsa, [Hızlı bir şekilde Office 365 Exchange posta kutularına geçirmek için en az karma](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef)olabilir. En az karma adımları Azure Reklam kullanıcılara tek seferlik bir eşitleme dahil yanı sıra yerinde geçiş bulut için e-posta. E-posta geçişi tamamlandıktan sonra dizin eşitleme otomatik olarak bu yöntemi kullanırken kapalı.
+  - Ayrıca bir Exchange 2010, Exchange 2013 veya 2016 Exchange sunucusu varsa, [Hızlı bir şekilde Office 365 Exchange posta kutularına geçirmek için en az karma](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef)olabilir. Düşük karma adımlarında, kullanıcıların Azure AD ile tek seferlik eşitlenmesinin yanı sıra şirket içi e-postaları buluta geçirme işlemleri bulunur. Bu yöntem kullanıldığında, e-posta geçişi tamamlandıktan sonra dizin eşitleme otomatik olarak kapatılır.
     
   - Kullanıcılarınızı buluta eşitlemek için Office 365 dizin eşitleme sihirbazını kullanın. Bu işlemi tamamlamak üzere [Set up directory synchronization for Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) bölümündeki adımları izleyin. Kullanıcılarınızı buluta eşitledikten sonra [Turn off directory synchronization for Office 365](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d).
     
-    Bu şekilde bir lisans Microsoft 365 iş için eklenen her kullanıcıya vermek gerekecektir. [Kurulum Sihirbazı](set-up.md)' nı veya [iş için Office 365'te kullanıcılara lisans atama](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC)bunu yapabilirsiniz.
+    Ayrıca, bu yolla eklenen her kullanıcıya bir Microsoft 365 İş lisansı vermeniz gerekir. [Kurulum Sihirbazı](set-up.md)' nı veya [iş için Office 365'te kullanıcılara lisans atama](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC)bunu yapabilirsiniz.
     
 ### <a name="2-prepare-mobile-devices"></a>2: mobil cihazlar hazırla
 

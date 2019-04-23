@@ -10,11 +10,11 @@ audience: microsoft-business 
 keywords: Microsoft 365 iş, CSP abonelik Microsoft 365, SMB, geçiş
 ms.date: 11/01/2017
 ms.openlocfilehash: 8109c0b00f06a15c12bbccf89e7f49dc3fa4b34a
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982490"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32286304"
 ---
 # <a name="transition-a-microsoft-365-business-csp-subscription"></a>Microsoft 365 iş CSP abonelik geçiş
 
@@ -48,7 +48,7 @@ Bir Microsoft 365 iş Önizleme CSP aboneliğiniz varsa, varolan Microsoft 365 i
 
     ![Önizleme abonelik durumunu askıya Onayla](images/pc_customer_m365bpreview_suspend_confirm.png)
 
-9. İsteğe bağlı olarak, Lisans Sözleşmesi'ni de doğrulayabilirsiniz. Bunu yapmak için şu adımları izleyin:
+9. İsteğe bağlı olarak, Lisans Sözleşmesi'ni de doğrulayabilirsiniz. Bunu yapmak için aşağıdaki adımları izleyin:
     1. **Kullanıcılar ve lisansları** şirketin **Subscriptions** sayfasını seçin.
     2. **Kullanıcılar ve lisansları** sayfasından bir kullanıcı seçin.
     3. Kullanıcının sayfasında, **lisansları atama** bölümüne bakın ve **Microsoft 365 iş**gösterdiğini doğrulayın.
@@ -81,7 +81,7 @@ Mobil cihazlarda uygulama yönetimi ilkeleri etkisini followint tabloda özetlen
 |                            | Tam lisanslı deneyimi                      | T + 60 gün sonrası süre sonu          |
 |----------------------------|------------------------------------------------|------------------------------------|
 | **Çalışma dosyaları etkin olmayan bir aygıttan sil** | Çalışma dosyaları gün seçtikten sonra kaldırılır. | Kullanıcının kişisel aygıtlarında çalışma dosyaları kalır |
-| **Tüm kullanıcıları, iş dosyalarını OneDrive İş üzerine kaydetmeye zorlama** | Çalışma dosyaları yalnızca OneDrive iş için kaydedilebilir | Herhangi bir iş dosyaları kaydedilebilir |
+| **Tüm kullanıcıları iş dosyalarını OneDrive İş üzerine kaydetmeye zorla** | Çalışma dosyaları yalnızca OneDrive iş için kaydedilebilir | Herhangi bir iş dosyaları kaydedilebilir |
 | **İş dosyalarını şifrele** | Çalışma dosyaları şifreli | Artık iş dosyalar şifrelenir.</br> Güvenlik ilkeleri kaldırılır ve Office apps verileri kaldırılır. |
 | **Office uygulamaları erişmek için parmak izi ya da PIN iste** | Sınırlı erişim için apps | Uygulama düzeyinde erişimi kısıtlama |
 | **Oturum açma başarısız olduğunda PIN'i Sıfırla** | Sınırlı erişim için apps | Uygulama düzeyinde erişimi kısıtlama |

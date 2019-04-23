@@ -7,6 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -16,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: İşletmeniz için Microsoft 365 iş taşımak nasıl öğrenin.
-ms.openlocfilehash: fd6f18c02453e6751d6163ab79e726eae9c951a9
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 3e45ba13e4cfe772829f545219bf86a9a3317d59
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983500"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32285730"
 ---
 # <a name="migrate-to-microsoft-365-business-from-office-365-business-premium"></a>Office 365 iş Premium'dan 365 Microsoft iş için geçiş
 
@@ -55,7 +58,7 @@ Lisans satın almak için bir bağlantı verilirse, aşağıdaki gibi bir sihirb
     
 2. **Oturum açma işleminizin kişiselleştirme ve e-posta** sayfasında, etki alanı aboneliğiniz için başka bir etki alanı eklemek için bu fırsatı kullanmak istiyorsanız, **bağlantı zaten size ait olan bir etki alanı** seçerek ekleyebilirsiniz. 
     
-    Etki alanını oluşturan ayarladıysanız, ikinci alan bulunduğunu gösterir ve **devam kullanarak** söyleyin \< _etki alanı adınızı_ \> **e-posta ve oturum açmak için**. Bir etki alanı, abonelik ile ayarlamadıysanız, **devam kullanarak** Söyleyeceğiniz \< _, şirket name.onmicrosoft.com_ \> **e-posta ve oturum açmak için**.    
+    Etki alanını oluşturan ayarladıysanız, ikinci alan bulunduğunu gösterir ve **devam kullanarak** söyleyin \< _etki alanı adınızı_ \> **e-posta ve oturum açmak için**.   Bir etki alanı, abonelik ile ayarlamadıysanız, **devam kullanarak** Söyleyeceğiniz \< _, şirket name.onmicrosoft.com_ \> **e-posta ve oturum açmak için**.  
     
     **İleri**'yi seçin.
     
@@ -65,7 +68,7 @@ Lisans satın almak için bir bağlantı verilirse, aşağıdaki gibi bir sihirb
     
     Ekleme ve varolan kullanıcılara lisans atamak istediğiniz yeni çalışanlara sahip değilseniz, **bir sonraki**seçin.
     
-4. Üzerinde ** e-posta iletilerini taşıma ** sayfa herhangi 3 numaralı adımda eklenen yeni kullanıcılara e-posta geçirmek için seçin. Ayrıca, bu adımı atlayabilirsiniz. **İleri**' yi seçin.
+4. Üzerinde ** e-posta iletilerini taşıma ** sayfa herhangi 3 numaralı adımda eklenen yeni kullanıcılara e-posta geçirmek için seçin. Ayrıca, bu adımı atlayabilirsiniz. **İleri**'yi seçin.
     
 5. Son sayfasında, **Yönetim Merkezine gidin**seçin ve kurulum devam etmek.
     
@@ -95,7 +98,7 @@ Microsoft 365 işletme lisansları atadıktan sonra kullanıcılar aygıtları v
     
   - [Windows 10 cihazlarına yönelik uygulama koruma ayarlarını belirleme](protection-settings-for-windows-10-devices.md)
     
-  - [Windows 10 PC'lere yönelik cihaz koruma ayarlarını belirleme](protection-settings-for-windows-10-pcs.md)
+  - [Windows 10 PC'ler için aygıtı koruma ayarlarını belirleme](protection-settings-for-windows-10-pcs.md)
     
    ![İlke Ekle bölmesinde, bir ad girin ve ilke türü açılır menüsünden seçin.](media/76ef37e4-1d18-4f34-8a0f-391ab1d0ae2b.png)
   

@@ -7,6 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -16,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: 'Microsoft 365 iş kullanıcıları için Windows 10 Pro çalıştıran Windows aygıtı kurmayı öğrenin. '
-ms.openlocfilehash: 482199b175c568bfae420619aa02024303894789
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: f93257bd9a68385fca4f178a2e09c5c11506ee2c
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982860"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32284451"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>Microsoft 365 Business kullanıcıları için Windows cihazlarını ayarlama
 
@@ -33,7 +36,7 @@ Windows 7 Pro, Windows 8 Pro veya Windows 8.1 Pro çalıştıran Windows cihazla
   
 Windows cihazları Windows 10 Pro Creators Update sürümüne yükseltme hakkında daha fazla bilgi için bu konudaki adımları izleyin: [Windows cihazları Windows Pro Creators Update sürümüne yükseltme](upgrade-to-windows-pro-creators-update.md).
   
-Yükseltmeye sahip olduğunuzu doğrulamak veya yükseltmenin çalıştığından emin olmak için bkz. [Cihazın Windows 10 Business'a yükseltildiğini doğrulama](set-up-windows-devices.md#bkmk_verifywin10). 
+[Aygıt için Azure AD bağlı olun](#verify-the-device-is-connected-to-azure-ad) çalışılan yükseltme emin olmak için veya yükseltme olduğunu doğrulamak için bkz. 
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Kuruluşunuzun Azure AD'sine Windows 10 cihazlarını ekleme
 
@@ -51,7 +54,7 @@ Windows 10 Pro Creators Update çalıştıran yeni bir cihaz için ya da Windows
     
 3. Windows 10 cihazı kurulumunu tamamlayın.
     
-   İşiniz bittiğinde kullanıcı, kuruluşunuzun Azure AD'sine bağlanmış olur. Emin olmak için bkz. [Cihazın Azure AD'ye bağlı olduğunu doğrulama](set-up-windows-devices.md#bkmk_verifyaad). 
+   İşiniz bittiğinde kullanıcı, kuruluşunuzun Azure AD'sine bağlanmış olur. Emin olmak için bkz. [Cihazın Azure AD'ye bağlı olduğunu doğrulama](#verify-the-device-is-connected-to-azure-ad). 
   
 ### <a name="for-a-device-already-set-up-and-running-windows-10-pro"></a>Önceden ayarlanmış ve Windows 10 Pro çalıştıran bir cihaz için
 
@@ -73,13 +76,13 @@ Windows 10 Pro Creators Update çalıştıran yeni bir cihaz için ya da Windows
   
    ![Click Join this device to Azure Active Directory](media/fb709a1b-05a9-4750-9cb9-e097f4412cba.png)
   
-5. **Diyelim ki, oturum açmanızın Al** sayfasında, iş veya Okul hesabınıza girin \> **sonraki**.
+5. On the **Let's get you signed in** page, enter your work or school account \> **Next**.
   
-   Parolanızı **Parola gir** sayfasında girin \> **oturum açın**.
+   On the **Enter password** page, enter your password \> **Sign in**.
   
    ![Enter your work or school email on the Let's get you signed in page](media/f70eb148-b1d2-4ba3-be38-7317eaf0321a.png)
   
-6. Üzerinde ** kuruluşunuzun bu olduğundan emin olun ** sayfa, bilgilerin doğru olduğundan emin olun ve **Katıl**' ı tıklatın.
+6. **Kuruluşunuz bu olduğundan emin olun** sayfasında bilgilerin doğruluğundan emin olun ve **Katıl**' ı tıklatın.
   
    **Hazırsınız!** sayfasında **Bitti**'ye tıklayın.
   

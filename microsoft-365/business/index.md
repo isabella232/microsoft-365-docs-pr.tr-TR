@@ -8,14 +8,15 @@ keywords: Microsoft 365 iş, Microsoft 365, iş, SMB getirebilen iş, Microsoft 
 localization_priority: Normal
 audience: microsoft-business
 ms.prod: microsoft-365-business
+ms.collection: M365-subscription-management
 title: Microsoft 365 Business Kaynakları
 description: Planlamak, dağıtmak ve Microsoft Office 365, Windows 10 ve kurumsal hareketlilik + güvenlik işinizde ekip çalışması sağlar ve yaratıcılık kilidini açan bir tümleşik ve güvenli altyapısı için birlikte kullanmak nasıl öğrenin.
-ms.openlocfilehash: 386c829a6b635b1b23301e838f05b0b84bbfb3b4
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: fc3a702f76426f3b7ffcb0f45996b097d0d17e94
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982510"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32278507"
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -57,7 +58,7 @@ ms.locfileid: "26982510"
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>Microsoft 365 İş'i ayarlama</h3>
+                                                <h3>Microsoft 365 Business'ı ayarlama</h3>
                                                 <P><a href="set-up.md" target="_blank">(yalnızca ilk kez)</a></p>
                                             </div>
                                         </div>
@@ -110,8 +111,8 @@ ms.locfileid: "26982510"
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>Temel matematik işlemleri için </h3>
-                                                <P><a href="set-up-mobile-devices.md" target="_blank">Mobil cihazları ayarlama</a></p>
+                                                <h3>Kullanım</h3>
+                                                <P><a href="set-up-mobile-devices.md" target="_blank">Mobil aygıtları Ayarla</a></p>
                                                 <P><a href="https://support.office.com/office-training-center" target="_blank">Herkesin ve çalışıyor Office ile Al</a></p>
                                                 <P><a href="https://www.microsoft.com/itpro/windows-10/end-user-readiness" target="_blank">Herkesin Windows 10'a geçin.</a></p>
                                                 <P><a href="https://docs.microsoft.com/intune-user-help/use-managed-devices-to-get-work-done" target="_blank">Intune eğitim</a></p>

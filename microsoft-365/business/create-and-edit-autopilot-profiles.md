@@ -7,7 +7,10 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -19,12 +22,12 @@ search.appverid:
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: 'Oluşturmak, düzenlemek, silmek veya kaldırmak AutoPilot profilleri hakkında bilgi edinin. '
-ms.openlocfilehash: 4658a27e5f2c64a52f8a7d08b3fc13df5e239dc3
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 85fc897b2f428afae8d55feeb577021adaa30f72
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983140"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32277181"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>AutoPilot profillerini oluşturma ve düzenleme
 
@@ -32,11 +35,9 @@ ms.locfileid: "26983140"
 
 Profiller bir cihaza veya cihaz grubuna uygulanır,
   
-1. Microsoft 365 İş Yönetim merkezinde **Cihaz eylemleri** kartında **Windows'u AutoPilot ile Dağıt**'ı seçin. 
-    
-    ![On the Device actions card, choose Deploy Windows with Autopilot.](media/160d5c2a-11a8-48f9-a8aa-70f084b85448.png)
+1. Microsoft 365 iş Yönetim Merkezi'nde **cihaz** seçmenizi \> **AutoPilot**.
   
-2. **Windows'u Hazırla** sayfasında **Profiller** sekmesi \> **Profil oluştur**'u seçin.
+2. **AutoPilot** sayfasında, **Profiller** sekmesini seçin \> **Profil Oluştur**.
     
 3. **Profil oluştur** sayfasında, profili tanımanıza yardımcı olacak bir ad (örneğin, Pazarlama) girin, istediğiniz ayarı açın (daha fazla bilgi edinmek için bkz. [AutoPilot Profili ayarları hakkında](autopilot-profile-settings.md)) ve **Kaydet**'i seçin.
     
@@ -48,7 +49,7 @@ Profili oluşturduktan sonra bir cihaza veya cihaz grubuna uygulayabilirsiniz. [
   
 1. **Windows'u Hazırla** sayfasında **Cihazlar** sekmesini seçin. 
     
-2. Onay kutusunu aygıt adının yanındaki ve **Aygıt** Bölmesi'ni tıklatın, **atanan profil** açılan listesinden bir profil seçin \> **kaydedin**.
+2. Click the check-box next to a device name and in the **Device** panel, choose a profile from the **Assigned profile** drop-down \> **Save**.
     
     ![In the Device panel, select an Assigned profile to apply it.](media/ed0ce33f-9241-4403-a5de-2dddffdc6fb9.png)
   
@@ -60,7 +61,7 @@ Bir profili bir cihaza atadıktan sonra, cihazı daha önce bir kullanıcıya ve
 
 1. **Windows'u Hazırla** sayfasında **Profiller** sekmesini seçin. 
     
-2. Aygıt adının yanındaki onay kutusunu tıklatın ve **Profil** paneli kullanılabilir ayarlarını güncelleştirmek \> **kaydedin**.
+2. Click the check-box next to a device name and in the **Profile** panel update any of the available settings \> **Save**.
     
     Bunu cihaz bir kullanıcı tarafından İnternet'e bağlanmadan önce gerçekleştirirseniz, profil kurulum işlemine uygulanır.
     
@@ -76,5 +77,5 @@ Bir profili bir cihaza atadıktan sonra, cihazı daha önce bir kullanıcıya ve
 
 1. **Windows'u Hazırla** sayfasında **Cihazlar** sekmesini seçin. 
     
-2. Onay kutusunu aygıt adının yanındaki ve **Aygıt** Bölmesi'ni tıklatın, **Hiçbiri** **atanmadı profil** açılan listesinden seçin \> **kaydedin**.
+2. Click the check-box next to a device name and in the **Device** panel, choose a **None** from the **Assigned profile** drop-down \> **Save**.
     

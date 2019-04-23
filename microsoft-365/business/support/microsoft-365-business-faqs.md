@@ -5,16 +5,17 @@ author: jasongroce
 ms.author: jasgro
 ms.topic: article 
 ms.prod: microsoft-365-business
+ms.collection: M365-subscription-management
 localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 iş, Microsoft 365, SMB, SSS, sık sorulan sorular, yanıtlar, iş
 ms.date: 06/08/2018
-ms.openlocfilehash: e5937b1436701e872898dc079ba892181772202f
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 1e277aed366d82e524ef99c43ab0401b5d35e5b0
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983490"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32286139"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 iş sık sorulan sorular
 
@@ -29,11 +30,11 @@ Microsoft 365 küçük ve orta ölçekli işletmeler için en iyi sınıfının 
 * İş apps (kayıtlar, Outlook müşteri Yöneticisi, MileIQ<sup>[1](#footnote1)</sup>,<sup>[1](#footnote1)</sup>Microsoft listeleri, Microsoft bağlantıları<sup>[1](#footnote1)</sup>, Microsoft faturalama<sup>[1](#footnote1)</sup>) ofisten 
  
 **Kurumsal seviyede aygıt yönetimi ve güvenlik özellikleri** 
-- Yardımcı kimlik avı & Office 365 Gelişmiş tehdit koruması ve bu güvenlik açığından Windows Defender Guard ile karmaşık kötü amaçlı yazılım gibi dış tehditlere karşı koruma sağlar 
--  Yardımcı kontrol & ne kadar duyarlı bilgileri yönetmek erişilen ve Office 365 veri kaybını önleme ilkeleri (Yaz, 2018 kullanılabilir olması için) ile aktarılan ve Azure bilgi koruma planı 1 
+- Kimlik avı gibi dış tehditlere karşı koruma sağlayan yardımcı & Gelişmiş Office 365 Gelişmiş tehdit koruması ve bu güvenlik açığından Windows Defender Guard ile kötü amaçlı yazılım 
+-  Denetim & ne kadar duyarlı bilgileri yönetmenize yardımcı olan erişilen ve Office 365 veri kaybını önleme ilkeleri (Yaz, 2018 kullanılabilir olması için) ile aktarılan ve Azure bilgi koruma planı 1 
 -  Yardımcı korumak, korumak ve çevrimiçi Exchange arşivleme sayesinde verilerinizi yedekleme  
--   Office & Intune App koruma ile diğer mobil uygulamalar için uygulama koruma 
--  Intune aygıt yönetimi ile 10 PC'ler Windows, MacOS ve Mobiles aygıtlar için Aygıt Yönetimi 
+-   Office & için App koruma Intune App koruma ile diğer mobil uygulamalar 
+-  Windows 10 PC'ler, Intune aygıt yönetimi ile MacOS & Mobiles aygıtlar için Aygıt Yönetimi 
 -  Tutarlı güvenlik yapılandırması aygıtlar arasında-her zaman açık ve güncel Windows Defender şirket veri koruma aygıtları arasında- 
  
  
@@ -81,10 +82,10 @@ Microsoft 365 Business müşteriler bu aygıtların erişme, koruma, ve/veya iş
   
 * **10 PC'ler için Aygıt Yönetimi** aallows işletmeler ve yetenekleri gibi kötü amaçlı yazılım, Otomatik Güncelleştirmeler ve ekranlar kapatmak için belirlenmiş bir süre sonra Windows Defender korumasını zorla ayarlamak seçin. Buna ek olarak, kayıp veya çalıntı aygıtları Windows 10 tamamen iş uygulamaları ve Yönetim Merkezi üzerinden veri sildin. 
 
-* **IOS Android & MacOS için Aygıt Yönetimi** özellikleri güvenli IOS, Android, Windows ve macOS aygıtları içeren farklı aygıt ekosistem yönetmek işletmeler yardımcı olur. 
+* **IOS, Android & MacOS için Aygıt Yönetimi** özellikleri güvenli IOS, Android, Windows ve macOS aygıtları içeren farklı aygıt ekosistem yönetmek işletmeler yardımcı olur. 
 
 ### <a name="how-does-microsoft-365-business-help-protect-pcs-in-my-organization-from-malicious-attacks"></a>Microsoft 365 iş PC'leri Kuruluşumdaki kötü amaçlı saldırılara karşı korunmasına nasıl yardımcı olur? 
-Microsoft 365 iş ile yönetilen bilgisayarlar ile başka bir çözüm daha çok bilgisayara virüs, kötü amaçlı yazılım, casus yazılım ve diğer tehditlere karşı koruma Windows 10 No 1 virüsten koruma özelliğini Windows Defender, korunmuş olur.  365 işlerle işletmeler çalışan ve her zaman güncel aygıtlarında tüm Windows 10 Windows Defender korumasını sağlayabilirsiniz.  
+No olduğu Windows Defender ile korunan Microsoft 365 iş ile yönetilen bilgisayarlar başka bir çözüm daha çok bilgisayara virüs, kötü amaçlı yazılım, casus yazılım ve diğer tehditlere karşı koruma Windows 10 1 virüsten koruma özelliği.  365 işlerle işletmeler çalışan ve her zaman güncel aygıtlarında tüm Windows 10 Windows Defender korumasını sağlayabilirsiniz.  
  
 Windows 10 iş de bu güvenlik açığından Windows Defender Guard, izinsiz giriş önleme yetenekleri yeni bir dizi içerir. Kontrollü klasör erişimi, özelliklerinden birini klasörleri kilitleme ve yetkisiz apps kullanıcının önemli dosyalara erişmesini engelleyerek ransomware kendi parçalardaki durdurur. 
 
@@ -179,7 +180,7 @@ Windows Orijinal Ürün Aksi halde orijinal olmayan bir sürümünü Microsoft 3
 Aynı destek kanalları bugün CSP ortakları için kullanılabilir (premier destek ve gelişmiş destek programı) Microsoft 365 iş üzerinde eğitimli ve ortakları ile destek sağlamak hazırsınız. 
 
 ### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-help-customers-with-their-compliance-obligations"></a>GDPR nedir ve nasıl Microsoft 365 iş müşterileri onların uyumluluk yükümlülükler ile yardımcı olur?
-Genel veri koruma yönetmelik (GDPR) ikamet eden, "kişisel verilerini" üzerinde Avrupa Birliği (AB) daha fazla denetim sağlar ve kişisel verilerin bütünlüğünü korumak için organizasyonlar gerektirir kapsamlı bir yeni gizlilik yasasını demektir. GDPR, denetim veya işlem kişisel veriler yalnızca GDPR'in kişisel veri işleme gereksinimlerini karşılayan üçüncü taraf veri işlemcileri kullanmak için AB sakinleri bağlı kuruluşlar gerektirir. Mart 2017'de, Microsoft bu güvence sağlayan kullanılabilir sözleşmeli garanti yaptı. Microsoft bunları kendi ek GDPR yükümlülüklerini karşılamak nasıl yardımcı olabileceği hakkında sorularınız müşteriler Gelişmiş uyumluluğu ve eklentileri (örn: Azure bilgi koruma, veri kaybı önleme Advnaced kullanılabilen güvenlik özellikleri hakkında bilgi sahibi olmalıdır Tehdit koruması, vs.) ve diğer paketleri (örneğin Microsoft 365 Kurumsal E5). Daha fazla bilgi için [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr)ziyaret edin.
+Genel veri koruma yönetmelik (GDPR) ikamet eden, "kişisel verilerini" üzerinde Avrupa Birliği (AB) daha fazla denetim sağlar ve kişisel verilerin bütünlüğünü korumak için organizasyonlar gerektirir kapsamlı bir yeni gizlilik yasasını demektir. GDPR, denetim veya işlem kişisel veriler yalnızca GDPR'in kişisel veri işleme gereksinimlerini karşılayan üçüncü taraf veri işlemcileri kullanmak için AB sakinleri bağlı kuruluşlar gerektirir. Mart 2017'de, Microsoft bu güvence sağlayan kullanılabilir sözleşmeli garanti yaptı. Microsoft bunları kendi ek GDPR yükümlülüklerini karşılamak nasıl yardımcı olabileceği hakkında sorularınız müşteriler Gelişmiş uyumluluğu ve eklentileri (örn: Azure bilgi koruma, veri kaybı önleme Gelişmiş kullanılabilen güvenlik özellikleri hakkında bilgi sahibi olmalıdır Tehdit koruması, vs.) ve diğer paketleri (örneğin Microsoft 365 Kurumsal E5). Daha fazla bilgi için [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr)ziyaret edin.
 
 
 

@@ -11,6 +11,9 @@ f1_keywords:
 - BCS365_ZTDTroubleshootDeviceErrors
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -21,12 +24,12 @@ search.appverid:
 - MOE150
 ms.assetid: 1f468690-530c-47ea-918f-fede24607c53
 description: AutoPilot aygıt dosyası hatalarında sorun giderme yöntemlerini öğrenin.
-ms.openlocfilehash: 9b8d8ab424dd3189ff5c228dab8f5c513ff5dafc
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 9d4a47f78c38d8c076f5b3876a36b6bf46eaaaf3
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982750"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32279848"
 ---
 # <a name="troubleshoot-autopilot-device-errors"></a>AutoPilot cihazı sorunlarını giderme
 
@@ -40,6 +43,6 @@ Bazı hatalar buraya ait bilgileri Microsoft 365 iş AutoPilot aygıt dosyaları
 |Bir aygıt için donanım karma değeri doğru değil.  <br/> |Bu hatayı görüyorsanız, CSV dosyanızdaki bir aygıtın donanım karma değeri için sağlanan değerin doğru olmadığını gösterir. İlk olarak, değeri doğru yazdığınızdan emin olun. Değerin doğru olduğunu, ancak bu hatayı hala olmuyor düşünüyorsanız, donanım satıcınıza Yardım isteyin.  <br/> |
 |Başka bir kiracı için atanmış olan aygıt  <br/> |Bu hatayı görüyorsanız, CSV dosyanızda seri numarasını veya ürün anahtarı bir veya daha fazla aygıt için sağlanan değerin doğru olmadığını gösterir. İlk olarak, değeri doğru yazdığınızdan emin olun. Değerin doğru olduğunu, ancak bu hatayı hala olmuyor düşünüyorsanız, donanım satıcınıza Yardım isteyin.  <br/> |
 |CSV dosyasını bir seri numarası geçersiz veya ürün anahtarı içerir.  <br/> |Bu hatayı görürseniz oluştu kaydetmek için olan aygıt zaten başka bir kuruluş tarafından kayıtlı anlamına gelir. Bu sorunu gidermek için donanım satıcınıza Yardım isteyin.  <br/> |
-|Bu aygıt için bir kurulum AutoPilot kullanarak desteklenmiyor  <br/> | Bu hata, aygıt AutoPilot dağıtım gereksinimlerini karşılamıyor anlamına gelir. Aygıtları aşağıdaki gereksinimleri karşılaması gerekir:  <br/>  Windows 10, sürüm 1703 veya üstü.  <br/>  Windows ilk çalıştırma deneyimi uygulanmamış olan yeni cihazlar.  <br/> |
+|Bu aygıt için bir kurulum AutoPilot kullanarak desteklenmiyor  <br/> | Bu hata, aygıt AutoPilot dağıtım gereksinimlerini karşılamıyor anlamına gelir. Cihazların şu gereksinimleri karşılaması gerekir:  <br/>  Windows 10, sürüm 1703 veya üstü.  <br/>  Windows ilk çalıştırma deneyimi uygulanmamış olan yeni cihazlar.  <br/> |
 |Aygıt bulunamadı  <br/> |Bu hata, bir veya daha fazla aygıt, CSV dosyanızdaki kayıtlı değil, kuruluşunuz için anlamına gelir. Bu sorunu gidermek için donanım satıcınıza Yardım isteyin.  <br/> |
    

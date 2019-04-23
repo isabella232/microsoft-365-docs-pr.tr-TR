@@ -7,7 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -18,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: cbc6bfe5-565a-4fb8-95f0-b06e7b74ac46
 description: "Yüklemek veya Windows 10 aygıtlarda Microsoft 365 iş Yönetim Merkezi'nden Office yüklemesini kaldırın. "
-ms.openlocfilehash: 997c001ed1520f1ac989255632d36f9b7bedd16c
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: fef4a543aed489202bf05dfb1e8cafbb784ca819
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983340"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32277316"
 ---
 # <a name="automatically-install-or-uninstall-office-on-windows-10-devices"></a>Windows 10 cihazlarında Office'i otomatik olarak yükleme veya kaldırma
 
@@ -35,7 +37,8 @@ Daha önce yüklenmiş Office uygulamaları olduğunda bu işlemin nasıl çalı
 
 1. Genel yönetici kimlik bilgileriyle [yönetim merkezinde](https://aka.ms/bcsportal) oturum açın. 
     
-2. **Aygıtları** kartında **Yönetme Office dağıtım**seçin.    **Aygıt Eylemler** kartı görmüyorsanız Yönetim Merkezi **Giriş** sayfasında admin evinizin eklemek için **Ekle** (+) tıklatın.
+2. **Cihazlar** kartında **Office Dağıtımını Yönet**'i seçin.
+      **Aygıt Eylemler** kartı görmüyorsanız Yönetim Merkezi **Giriş** sayfasında admin evinizin eklemek için **Ekle** (+) tıklatın.
     
     ![Screenshot of the Devices card in the admin center](media/9982e784-dbf9-4a76-a159-bb3e2e5aa23f.png)
   
@@ -45,7 +48,7 @@ Daha önce yüklenmiş Office uygulamaları olduğunda bu işlemin nasıl çalı
     
     ![In the Manage Office deployment pane, choose either Install Office as soon as possible, or Uninstall Office.](media/00f24a61-1848-40c0-b037-78d726c7d757.png)
   
-5. **Sonraki** seçim \> ayarlarını gözden geçirin ve sonra **Onayla**' ı seçin.
+5. Choose **Next** \> review the settings and then choose **Confirm**.
     
 Kullandığınız grup veya gruplarla belirtilen kullanıcıların sahip olduğu cihazlarda 32 bit bir Office otomatik olarak yüklenir veya kaldırılır.
   

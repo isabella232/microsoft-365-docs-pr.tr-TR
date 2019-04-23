@@ -10,7 +10,9 @@ f1_keywords:
 - BCS365_M365SetupBanner
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -20,18 +22,18 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Dört adımları izleyerek Microsoft 365 iş kurmayı öğrenin.
-ms.openlocfilehash: f57239b884bd2e186c0bc01973130a10fa4cfe84
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: a1c8a41c3e291983276280a063248bdd10a7f85a
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982200"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32283961"
 ---
 # <a name="set-up-microsoft-365-business-by-using-the-setup-wizard"></a>Microsoft 365 Business'ı kurulum sihirbazını kullanarak ayarlama
 
 1-4 aşağıdaki adımları tamamlayın.
   
-### <a name="set-up-microsoft-365-business"></a>Microsoft 365 İş'i ayarlama
+### <a name="set-up-microsoft-365-business"></a>Microsoft 365 Business'ı ayarlama
 
 Microsoft 365 iş yerinde Active Directory olmadığında ayarlanması hakkında bir video izleyin:
   
@@ -53,11 +55,11 @@ Bilgi içeren Active Directory yerel kurulumları için kurulum adımları içer
     
 3. Kullanmak istediğiniz etki alanı adını (contoso.com gibi) girin.
     
-    Devam edin ve Azure AD bağlan, örneğin kullanırken doğruladıktan bile, etki alanınızı girin. Etki alanınızın doğrulamak için Azure AD Connect kullandıysanız aşağıdaki iki adımı sizin için geçerli değildir.
+    Etki alanınızı girerek işleme devam edin. Örneğin, Azure AD Connect'i kullanırken etki alanınızı doğrulamış olsanız bile bunu yapmanız gerekir. Etki alanınızın doğrulamak için Azure AD Connect kullandıysanız aşağıdaki iki adımı sizin için geçerli değildir.
     
 4. Doğrulayan etki alanı sahibi [herhangi bir DNS barındırma sağlayıcı için Office 365 oluşturmak DNS kayıtları](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166) için sihirbazdaki adımları izleyin. 
     
-    Bir örnek video görüntüleyebilirsiniz [Video: Yeni Yönetim Merkezi'ndeki Kurulum Office 365](https://support.office.com/article/a8c2002a-34bc-4ab3-93d8-9b5156c48bf8). Not Bu video 365 iş Microsoft veri koruma adımları içermez.
+    Bir örnek video görüntüleyebilirsiniz [Video: Yeni Yönetim Merkezi'ndeki Kurulum Office 365](https://support.office.com/article/a8c2002a-34bc-4ab3-93d8-9b5156c48bf8). Bu videonun Microsoft 365 İş üzerinde veri korumaya ilişkin adımları içermediğini unutmayın.
     
     ![Screenshot of the Business Cloud Suite setup wizard.](media/3c4fd40c-2de1-4a87-8ee0-78d3928c7bb7.png)
   
@@ -84,7 +86,7 @@ Bilgi içeren Active Directory yerel kurulumları için kurulum adımları içer
   
 Hizmetleri ayarlamak için DNS ana bilgisayarınızda veya etki alanı kayıt şirketinizde bazı kayıtları güncelleştirmeniz gerekir.
   
-1. Kurulum Sihirbazı'nı genellikle, kaydedici algılar ve bağlantıyı registrar Web sitesinde, NS kayıtları güncelleştirmek için adım adım yönergeler sağlar. Seçili değilse, [herhangi bir etki alanı Kaydedicisi ile Office 365 ayarlamak için değişiklik nameservers](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2).
+1. Kurulum sihirbazı, genellikle kayıt şirketinizi algılar ve kayıt şirketinin web sitesinde NS kayıtlarınızı güncelleştirmek için adım adım yönergelere ulaşabileceğiniz bir bağlantı verir. Seçili değilse, [herhangi bir etki alanı Kaydedicisi ile Office 365 ayarlamak için değişiklik nameservers](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2).
     
 2. E-posta ve diğer hizmetler sizin için ayarlanır
     
