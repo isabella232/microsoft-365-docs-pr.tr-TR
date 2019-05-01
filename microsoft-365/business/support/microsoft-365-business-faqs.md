@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 iş, Microsoft 365, SMB, SSS, sık sorulan sorular, yanıtlar, iş
 ms.date: 06/08/2018
-ms.openlocfilehash: 1e277aed366d82e524ef99c43ab0401b5d35e5b0
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: bdcfd6a78278aff83b3fc21ae0fbb43bce140a16
+ms.sourcegitcommit: 1034f54472de62897f2e8f12459db8043ac8443b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32286139"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "33497762"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 iş sık sorulan sorular
 
@@ -116,7 +116,7 @@ Tüm özelliklerini Microsoft 365 iş deneyimi isteyen müşteriler Windows 7, 8
 Direk başarılı bir Microsoft 365 iş dağıtımı bir Microsoft Partner ile sağlayacağı yoludur. Onlar kapsamlı eğitim vardır ve çok çeşitli müşteri senaryosunda deneyimi ve ortamı ve gereksinimlerini anlamak en iyi donatılmışlardır. Karşılaşmış müşteriler üzerinde BT personeli <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">Microsoft 365 iş Başlarken</a> onları kendi Microsoft 365 iş dağıtımında yardımcı olmak için kullanabilirsiniz. 
 
 ### <a name="does-microsoft-365-business-include-the-full-capabilities-of-microsoft-intune"></a>Microsoft 365 iş Microsoft Intune tüm yeteneklerini içerir? 
-Evet, Microsoft 365 iş aboneleri IOS, Android, MacOS ve diğer platformlar arası aygıt yönetimi için tam Intune özellikleri kullanmak için lisanslanmıştır. 3 parti app yönetim ve yapılandırma WiFi profilleri, VPN sertifikaları, vs. gibi şeyleri gibi Microsoft 365 işletmede Basitleştirilmiş Yönetim Konsolu'nda kullanılabilen özellikler tam Intune konsolunda yönetilebilir.   
+Evet, Microsoft 365 iş aboneleri IOS, Android, MacOS ve diğer platformlar arası aygıt yönetimi için tam Intune özellikleri kullanmak için lisanslanmıştır. 3 parti app yönetim ve yapılandırma WiFi profilleri, VPN sertifikaları, vb, gibi Microsoft 365 işletmede Basitleştirilmiş Yönetim Konsolu'nda kullanılabilen özellikler tam Intune konsolunda yönetilebilir. EMS lisans tarafından kapsanan istemcileri yönetmek için Yapılandırma Yöneticisi'ni kullanma hakkı var. SCCM için ilgili sorguları, lütfen <a href="https://docs.microsoft.com/en-us/sccm/core/understand/product-and-licensing-faq#bkmk_csp" target="_blank">SCCM SSS'ye</a> bakın
   
 
 ### <a name="does-azure-active-directory-premium-p1-come-with-microsoft-365-business"></a>Azure Active Directory Premium P1 ile Microsoft 365 iş geliyor? 
