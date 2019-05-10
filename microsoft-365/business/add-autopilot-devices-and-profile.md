@@ -20,16 +20,16 @@ search.appverid:
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: İşletmeniz için yeni Windows 10 aygıtları kurmak için Windows AutoPilot kullanmayı öğrenin.
-ms.openlocfilehash: e0802ddcc0964d0b8d102f7dbdb9116b33cdcf58
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 8c4a14b4b9dcbf7a30c1e6e0bdd53418a1ab8a03
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32277178"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660699"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>AutoPilot cihaz ve profilleri eklemek için adım adım kılavuzu kullanın.
 
-Cihazların çalışanlarınıza verdiğiniz anda üretken kullanıma hazır olması için, kuruluşunuza yönelik yeni Windows 10 cihazlarını Windows AutoPilot ile ayarlayabilirsiniz.
+Windows AutoPilot, çalışanlarınıza vermediğiniz sürece bunlar üretken kullanılmak üzere hazır olacak şekilde işletmeniz için **Yeni** Windows 10 aygıtları belirlemek için kullanabilirsiniz.
   
 ## <a name="device-requirements"></a>Cihaz gereksinimleri
 
@@ -41,13 +41,17 @@ Cihazların şu gereksinimleri karşılaması gerekir:
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>Cihaz ve profil oluşturmak için kurulum kılavuzunu kullanma
 
+![Üzerine kapak https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+
 Henüz cihaz grubu veya profil oluşturmadıysanız başlamanın en iyi yolu adım adım kılavuzu kullanmaktır. Bununla birlikte, kılavuzu kullanmadan da [cihaz ekleyebilir](create-and-edit-autopilot-devices.md) ve bu cihazlara [profil atayabilirsiniz](create-and-edit-autopilot-profiles.md). 
   
-1. Microsoft 365 İş yönetim merkezinde **Cihaz eylemleri** kartını bulun ve **Windows'u Autopilot ile Dağıt**'ı seçin.
-    
-    ![On the Device actions card, choose Deploy Windows with Autopilot.](media/160d5c2a-11a8-48f9-a8aa-70f084b85448.png)
+1. Yönetim merkezinde mi <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+
+2. **Aygıtlar** üzerinde sol nav seçin \> **AutoPilot**.
+
+    ![Yönetim Merkezi'nde aygıtları ve AutoPilot seçin.](media/AutoPilot.png)
   
-2. **Windows'u hazırlama** sayfasında **Başlangıç kılavuzuna** tıklayın veya dokunun.
+2. **AutoPilot** sayfasında **Kılavuzu Başlat**' a dokunun veya tıklatın.
     
     ![Click Start guide for step-by-step instructions for Autopilot.](media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   

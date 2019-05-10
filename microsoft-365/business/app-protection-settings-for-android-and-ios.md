@@ -21,20 +21,22 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: Oluşturmak, düzenlemek veya bir uygulama yönetimi ilkesini silin ve Android veya IOS cihazlarda çalışma dosyaları korumak öğrenin.
-ms.openlocfilehash: e81ff8a4bd71dbbbf7ccc31249d450e03f4bd241
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 04479360bf13a8ff685a91ed95440c08f8cf80b4
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32277471"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660604"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Android veya iOS cihazlara yönelik uygulama koruma ayarlarını belirleme
 
+![Üzerine kapak https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+
 ## <a name="create-an-app-management-policy"></a>Uygulama yönetimi ilkesi oluşturma
 
-1. [Microsoft 365 iş Yönetim Merkezi](https://go.microsoft.com/fwlink/p/?linkid=837890) genel yönetim kimlik bilgileriyle oturum açın. 
+1. Yönetim merkezinde mi <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
     
-2. Yönetim Merkezi'nde **cihaz** seçmenizi \> **ilkeleri** \> **İlkesi Ekle**.
+2. Sol nav uygulamasında, **cihaz** seçmenizi \> **ilkeleri** \> **Ekle**.
   
 3. **İlke ekle** bölmesinde bu ilke için benzersiz bir ad girin. 
     
@@ -62,9 +64,9 @@ ms.locfileid: "32277471"
     
 ## <a name="delete-an-app-management-policy"></a>Uygulama yönetimi ilkesini silme
 
-1. **İlkeler** kartında **İlkeyi sil**'i seçin.
+1. **İlkeleri** sayfasında, bir ilke ve sonra **Sil**seçin.
     
-2. On the **Delete policy** pane, choose the policies you want to delete \> **Select**, then **Confirm** to delete the policy or policies you chose. 
+2. **İlke Sil** bölmesinde **Onayla** ilke veya seçtiğiniz ilkelerini silmek için seçin. 
     
 ## <a name="available-settings"></a>Kullanılabilir ayarlar
 

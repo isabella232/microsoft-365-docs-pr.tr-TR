@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 İş ile çalışmaya başlama
+title: 365 Microsoft Business genel bakış
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -21,73 +21,42 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Microsoft 365 iş öğrenin.
-ms.openlocfilehash: 80c6590a682af5fadeceac7a75e409adac897f6f
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: eb3d611d2be0480fdd0ff897ec5ba69b17695041
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32276747"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660487"
 ---
-# <a name="get-started-with-microsoft-365-business"></a>Microsoft 365 İş ile çalışmaya başlama
+# <a name="overview-of-microsoft-365-business"></a>365 Microsoft Business genel bakış
 
 ## <a name="what-is-microsoft-365-business"></a>Microsoft 365 İş nedir?
 
 Microsoft 365 İş, sürekli güncelleştirilen Outlook, Word, Excel ve diğer Office ürünlerini içeren bir grup kapsamlı iş üretkenliği ve işbirliği aracıdır. Tüm iOS, Android ve Windows 10 cihazlarınızdaki iş dosyalarınızı, yönetimi kolay kurumsal düzeyde bir güvenlikle koruyabilirsiniz.
   
-Microsoft 365 İş 300 lisansa kadar yöneliktir, daha fazla lisansa ihtiyacınız varsa daha fazla bilgi için [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) belgelerine göz atın. 
+Microsoft 365 İş 300 lisansa kadar yöneliktir, daha fazla lisansa ihtiyacınız varsa daha fazla bilgi için [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) belgelerine göz atın.
+
+[Hizmet açıklaması Microsoft 365 iş](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-business-service-description) tüm özelliklerin listesi için bkz.
   
+## <a name="small-business-security-needs"></a>Küçük iş güvenliği gereksinimlerini
+
+Birçok bakımdan iş verilerinizi tehlikeye girebilir. Ele geçirilen kimlik bilgilerini veya görünümü kuruluşun verileri farklı aygıtlar ve uygulamalar üzerinde oturum, siz ve Kullanıcılarınız kuruluşunuzun güvenliğini tehlikeye sokabilir. Daha özel olarak, kuruluşunuzun etkilenir:
+
+1. Zayıf veya ele geçirilen oturum açma kimlik.
+2. Zayıf bir PIN veya kullanıcı güvenliği aşılan aygıtla aygıt aittir.
+3. Kullanıcılar kişisel apps için kuruluşunuzun veri kopyala/yapıştır/Kaydet yapabilirsiniz.
+4. Yükleyin ve zayıf güvenlik ile 3<sup>rd</sup> taraf uygulamalar kullanan kullanıcılar.
+5. Hassas veri paylaşımı da dahil olmak üzere e-posta güvenlik açıkları kimlik avı çalışır, kötü amaçlı yazılım, vs.
+6. Ne zaman gerekir değil, kişilerin hassas bilgiler içeren belgeleri erişebilir.
+
+Microsoft 365 iş verilerinizi bu durumların her birinde güvenceye almanıza yardımcı olur. İş verilerinizi korumak güvenlik özellikleri aşağıdaki şekilde ayrıntılı olarak belirtilir.
+
+![M365B işinizi nasıl koruduğunu gösteren şekil.](media/m365businessvalueadd.png)
+
+Güvenlik özelliklerinin tam listesini görmek için bkz: [Microsoft 365 iş güvenlik özellikleri](security-features.md). Sonra [Microsoft 365 iş ayarlamanız](set-up.md), Kur'un bir parçası olarak dahil olmayan güvenlik özellikleri kullanmaya başlamak için [Gelişmiş güvenlik ilkelerini kurun](set-up-advanced-security.md) görürsünüz. Ayrıca [Office 365 ve Microsoft 365 iş planları güvenliğini sağlamak için ilk 10 yolu](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) cyber suçlular ve bilgisayar korsanlarına karşı korumaları kurma konusunda iyi bir Genel Bakış makalesini okuyun.
+
 ## <a name="get-microsoft-365-business"></a>Microsoft 365 İş'i edinme
 
-- İş ortağınız varsa, onlar da Microsoft 365 İş ürününü alır: [Microsoft 365 İş'i Microsoft İş Ortağı Merkezi'nden alma](get-microsoft-365-business.md).
-    
-- İş ortağınız yoksa ve Microsoft 365 İş'i edinmek istiyorsanız, [buradan satın alabilirsiniz](https://www.microsoft.com/en-us/microsoft-365/business).
-    
-## <a name="set-up-microsoft-365-business"></a>Microsoft 365 İş'i ayarlama
+- İş ortağınız varsa, onlar da Microsoft 365 İş ürününü alır: [Microsoft 365 İş'i Microsoft İş Ortağı Merkezi'nden alma](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
 
- **Microsoft 365 Business Suite ayarlanan genel bakış**
-  
-Aşağıdaki diyagramda Microsoft 365 iş yöneticileri nasıl ayarlanacağını açıklar. Ayrıca Windows bilgisayarları Microsoft 365 İş için hazırlama adımları da açıklanır. Ayrıca, [Windows AutoPilot](add-autopilot-devices-and-profile.md) ile Microsoft 365 İş yönetim merkezinde yeni cihazlar da ekleyebilirsiniz. AutoPilot'ı kullanarak yeni cihazları ayarlayıp önceden yapılandırabilir, böylece kullanıcı kendi Microsoft 365 İş kimlik bilgileriyle oturum açtığı anda cihazın üretimde kullanıma hazır olmasını sağlayabilirsiniz.
-  
-![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
-  
-### <a name="1-set-up-microsoft-365-business-admin"></a>1: Microsoft 365 iş (Admin) ayarlamanız
-
-Genel yönetici kimlik bilgilerinizle [Microsoft 365 İş yönetim merkezinde](https://portal.office.com/adminportal/home) oturum açın ve Microsoft 365 İş'ı ayarlamak için aşağıdaki adımları tamamlayın. 
-  
-1. [Cihazlardaki verileri Microsoft 365 İş ile korumanın önkoşulları](pre-requisites-for-data-protection.md)
-    
-    Önkoşulları okuyun ve cihazınızın Microsoft 365 İş için hazır olduğundan emin olun.
-    
-2. [Microsoft 365 İş'i kurulum sihirbazını kullanarak ayarlama](set-up.md)
-    
-    **Bulut için bir yerel Active Directory'den kalıcı olarak taşıma**iseniz, ya da kullanıcıların el ile Microsoft 365 iş Yönetim Merkezi'nde Kurulum Sihirbazı'nı kullanarak ekleyebilirsiniz veya Azure AD Connect ile bir kerelik eşitleme yapabilirsiniz. Bunu yapmanın iki yolu vardır: 
-    
-  - Ayrıca bir Exchange 2010, Exchange 2013 veya 2016 Exchange sunucusu varsa, [Hızlı bir şekilde Office 365 Exchange posta kutularına geçirmek için en az karma](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef)olabilir. Düşük karma adımlarında, kullanıcıların Azure AD ile tek seferlik eşitlenmesinin yanı sıra şirket içi e-postaları buluta geçirme işlemleri bulunur. Bu yöntem kullanıldığında, e-posta geçişi tamamlandıktan sonra dizin eşitleme otomatik olarak kapatılır.
-    
-  - Kullanıcılarınızı buluta eşitlemek için Office 365 dizin eşitleme sihirbazını kullanın. Bu işlemi tamamlamak üzere [Set up directory synchronization for Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) bölümündeki adımları izleyin. Kullanıcılarınızı buluta eşitledikten sonra [Turn off directory synchronization for Office 365](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d).
-    
-    Ayrıca, bu yolla eklenen her kullanıcıya bir Microsoft 365 İş lisansı vermeniz gerekir. [Kurulum Sihirbazı](set-up.md)' nı veya [iş için Office 365'te kullanıcılara lisans atama](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC)bunu yapabilirsiniz.
-    
-### <a name="2-prepare-mobile-devices"></a>2: mobil cihazlar hazırla
-
-[Mobil aygıtlar Microsoft 365 iş kullanıcıları için ayarlama](set-up-mobile-devices.md) aygıtları ve Microsoft 365 işletme tarafından korunan emin olarak Office uygulamaları yüklemek için adımları izleyin. 
-  
-### <a name="3-prepare-pcs"></a>3: bilgisayarları hazırlama
-
-Yöneticiler yeni aygıtların Windows 10 PC'ler ayarlarını [Windows AutoPilot](add-autopilot-devices-and-profile.md)kullanarak önceden seçebilirsiniz. Kullanıcılar, varolan veya yeni Windows 10 aygıtları bu konudaki adımları izleyerek ayarlayabilirsiniz: [Microsoft 365 iş kullanıcıları için Windows PC'ler ayarlayın](set-up-windows-devices.md). Varolan aygıtlar için **isteğe bağlı olarak**[İş OneDrive için dosyaları taşıyın](move-files-to-onedrive.md)kullanıcıları da yapabilirsiniz. Bunlar da OneDrive için Windows profili ile ilişkili dosyaları taşımak için üçüncü taraf araçları kullanabilirsiniz.
-  
-Kuruluşunuz yerinde Windows Server Active Directory kullanıyorsa, Microsoft 365 iş hala yerinde yerel kimlik doğrulaması gerektiren kaynaklara erişimi koruyarak Windows 10 aygıtlarınızın korumak için ayarlayabilirsiniz. Bunu ayarlamak için [Microsoft 365 işletme tarafından yönetilecek etki alanına katılmış Windows 10 aygıtları etkinleştirme](manage-windows-devices.md) adımlarını izleyin. Tercih edilen yöntem budur ve bu durumda aygıtları **karma Azure AD alanına bağlı aygıtlar**denir. 
-  
-Yerel korumak bazı içeren Active Directory yerinde kaynaklar (örneğin, dosya paylaşımları ve yazıcılar), bu kaynakların **Azure AD alanına bağlı aygıtlara** erişiminizi burada adımları izleyerek verebilirsiniz: [erişim şirket içi kaynaklardan bir 365 işletmede Azure AD alanına bağlı aygıt](access-resources.md).
-  
-Windows 10 PC'ler ayarladıktan sonra aygıtlara [otomatik olarak Office yükleme](auto-install-or-uninstall-office.md) yapabilirsiniz. 
-  
-## <a name="contact-support"></a>Desteğe başvurun
-
- **Desteğe başvurmanız gerekiyorsa:**
-  
-- İş ortağınızla iletişime geçin.
-    
-- Microsoft 365 iş yönetici, müşteri destek ekibimiz, ** [iş ürünleri - yönetici Yardım için desteğe başvurun](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) erişebilirsiniz**
-    
-
+- Bir ortağı varsa ve Microsoft 365 iş almak istediğiniz yoksa, [Buraya satın](https://www.microsoft.com/microsoft-365/business) olabilir ve [kaydolun](sign-up.md) yönergeleri izleyin.

@@ -19,20 +19,22 @@ search.appverid:
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
 description: 'Microsoft 365 iş için kullanmayı öğrenin Fabrika sıfırlama Windows 10 aygıtlarınızın. '
-ms.openlocfilehash: 8340bd6a24f3b4d875f6482c03a69275a9a48f33
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: c125cdb72bf3ca7077b1c283b698ae92ef454b88
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32283733"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660601"
 ---
 # <a name="reset-windows-10-devices-to-their-factory-settings"></a>Windows 10 cihazlarını fabrika ayarlarına sıfırlama
 
+![Üzerine kapak https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+
 Fabrika sıfırlaması, cihazı satın alındığı sırada geçerli olan özgün ayarlarına döndürür. Satın alındıktan sonra cihaza yüklenmiş olan tüm uygulamalar ve veriler kaldırılır. Microsoft 365 İş kullanarak, yönettiğiniz Windows 10 cihazlarını fabrika ayarlarına sıfırlayabilirsiniz.
   
-1. Genel yönetici kimlik bilgileriyle [yönetim merkezinde](https://aka.ms/bcsportal) oturum açın. 
+1. Gidin Yönetim Merkezi'nde <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>... 
     
-2. Yönetim Merkezi'nde sol nav **aygıtları** seçin \> **Yönet**.
+2. Sol nav uygulamasında, **cihaz** seçmenizi \> **Yönet**.
 
 3. **Yönet** sayfasında verileri kaldırmak ve daha sonra **Fabrika sıfırlama** **Yönet** ' de açılan seçin istediğiniz aygıtın yanındaki onay kutusunu işaretleyin.
     

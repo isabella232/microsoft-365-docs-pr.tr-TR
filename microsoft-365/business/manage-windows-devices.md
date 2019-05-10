@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: 365 korumak Microsoft etkinleştirmeyi öğrenin Yerel AD alanına katılmış Windows 10 aygıtlar.
-ms.openlocfilehash: d61b3bf6be50d6b21e7b883774567bb63995e60e
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 661e5bf8205a661eb4382b4bdd8fcf3a54ecc12f
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32278087"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660368"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business"></a>Etki alanına katılmış Windows 10 cihazlarını Microsoft 365 İş tarafından yönetilecek şekilde etkinleştirme
 
@@ -33,7 +33,7 @@ Kuruluşunuz yerinde Windows Server Active Directory kullanıyorsa, Microsoft 36
   
 ## <a name="set-up-domain-joined-devices-to-be-managed-by-microsoft-365-business"></a>Microsoft 365 işletme tarafından yönetilecek etki alanına katılmış aygıtları Ayarla
 
-Kuruluşunuzun etki alanına katılmış aygıtları Azure yerinde Active Directory ek olarak Active Directory tarafından sağlanan yeteneklerinin sağladığı avantajlardan yararlanabilmenizi ayarlamak için **karma Azure AD alanına bağlı aygıtlar**uygulayabilirsiniz. Bunlar hem yerinde Active Directory ve Active Directory Azure katılan aygıtlardır. Karma Azure AD alanına bağlı aygıtların korumalı ve Microsoft 365 işletme tarafından yönetilen... 
+Kuruluşunuzun etki alanına katılmış aygıtları Azure yerinde Active Directory ek olarak Active Directory tarafından sağlanan yeteneklerinin sağladığı avantajlardan yararlanabilmenizi ayarlamak için **karma Azure AD alanına bağlı aygıtlar**uygulayabilirsiniz. Bunlar hem yerinde Active Directory ve Active Directory Azure katılan aygıtlardır. Karma Azure AD alanına bağlı aygıtların korumalı ve Microsoft 365 işletme tarafından yönetilir. 
   
 Windows 10 aygıtlarınızın karma katıldı ve Microsoft 365 işletme tarafından yönetilen Azure Reklam yapmak için aşağıdaki adımları tamamlayın.
   
@@ -43,15 +43,13 @@ Windows 10 aygıtlarınızın karma katıldı ve Microsoft 365 işletme tarafın
     > Tam olarak Microsoft 365 iş için aynı adımlardır. 
   
 2. Karma Azure AD alanına bağlı olarak Windows 10 aygıtları etkinleştirmek için 3 adım tamamlamadan önce aşağıdaki önkoşulları karşıladığından emin olmanız gerekir:
-    
+
    - Azure AD'ın en son sürümünü çalıştırdığınızı bağlayın.
-    
+
    - Azure AD bağlanmak karma Azure AD alanına dahil olmasını istediğiniz aygıtların tüm bilgisayar nesneleri eşitlendi. Bilgisayar nesnelerine ait belirli kuruluş birimleri (OU), sonra bu OU Azure AD alanında eşitleme için ayarlandığından emin olun, aynı zamanda bağlayın.
     
 3. Karma Azure AD katılmış olması ve Mobil Aygıt Yönetimi tarafından Intune (Microsoft 365 iş) kaydolmak için varolan etki alanına katılmış Windows 10 aygıtları kaydedin:
     
 4. [Karma Azure Active Directory alanına bağlı aygıtları yapılandırma hakkında](https://go.microsoft.com/fwlink/p/?linkid=872870)adım adım yönergeleri izleyin. Bu, şirket içi Active Directory eşitlemesine olanak sağlar Windows 10 bilgisayar katıldı ve bunları bulut hazır olun.
     
-5. Windows 10 aygıt taşınabilir aygıt yönetimi için kaydolmak için [Grup İlkesi kullanarak Intune Windows 10 aygıtla kaydetmek](https://go.microsoft.com/fwlink/p/?linkid=872871) yönergeler için bkz. Grup İlkesi yerel bilgisayar düzeyinde ayarlayabilirsiniz veya toplu işlemler için etki alanı denetleyicisi sunucunuzda bu Grup İlkesi ayarı oluşturabilirsiniz. 
-    
-
+5. Windows 10 aygıt taşınabilir aygıt yönetimi için kaydolmak için [Grup İlkesi kullanarak Intune Windows 10 aygıtla kaydetmek](https://go.microsoft.com/fwlink/p/?linkid=872871) yönergeler için bkz. Grup İlkesi yerel bilgisayar düzeyinde ayarlayabilirsiniz veya toplu işlemler için etki alanı denetleyicisi sunucunuzda bu Grup İlkesi ayarı oluşturabilirsiniz.

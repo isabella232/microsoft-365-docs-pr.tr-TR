@@ -22,12 +22,12 @@ search.appverid:
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
 description: 365 işletmede AutoPilot kullanan aygıtları yüklemek nasıl öğrenin. Bir aygıt ya da aygıt grubu için bir profil atayabilirsiniz.
-ms.openlocfilehash: fff2dbc6af45ef9d4189f23849d638172c19dfb2
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 6492f1469a1ac9ea67750e9ffa071d19c88c743f
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32277085"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660492"
 ---
 # <a name="create-and-edit-autopilot-devices"></a>AutoPilot cihazlarını oluşturma ve düzenleme
 
@@ -41,9 +41,9 @@ Cihazların şu gereksinimleri karşılaması gerekir:
     
 - Windows ilk çalıştırma deneyimi uygulanmamış olan yeni cihazlar.
 
-1. Microsoft 365 iş Yönetim Merkezi'nde **cihaz** seçmenizi \> **AutoPilot** \> **Ekle**.
+1. Microsoft 365 iş Yönetim Merkezi'nde **cihaz** seçmenizi \> **AutoPilot**.
   
-2. **Windows'u Hazırla** sayfasında **Cihazlar** sekmesi \> **Cihaz ekle**'yi seçin.
+2. **AutoPilot** sayfasında, **aygıtlar** sekmesini seçin \> **Ekle aygıtları**.
     
     ![In the Devices tab, choose Add devices.](media/6ba81e22-c873-40ad-8a72-ce64d15ea6ba.png)
   
