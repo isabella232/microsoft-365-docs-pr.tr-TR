@@ -1,4 +1,5 @@
-# [Başlarken](microsoft-365-business-overview.md)
+# [Microsoft 365 iş](index.md)
+## [Genel Bakış](microsoft-365-business-overview.md)
 ## [Microsoft 365 iş alın](sign-up.md)
 ## [Veri koruması için ön gereksinimleri](pre-requisites-for-data-protection.md)
 ## [(yalnızca ilk kez)](set-up.md)
