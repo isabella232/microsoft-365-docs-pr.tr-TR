@@ -3,8 +3,9 @@
 ## [Microsoft 365 iş nedir?](microsoft-365-business-overview.md)
 ## [Microsoft 365 iş alın](sign-up.md)
 ## [Veri koruması için ön gereksinimleri](pre-requisites-for-data-protection.md)
-## [Ayarlama, genel bakış](set-up-overview.md)
-## [(yalnızca ilk kez)](set-up.md)
+## Kurulum
+### [Kurulum, genel bakış](set-up-overview.md)
+### [Microsoft 365 işletmeniz ayarlama](set-up.md)
 ### [Windows Update Pro oluşturucuları için yükseltme](upgrade-to-windows-pro-creators-update.md)
 ### [Mobil aygıtları Ayarla](set-up-mobile-devices.md)
 ### [Windows aygıtlarını kurabileceğiniz](set-up-windows-devices.md)
