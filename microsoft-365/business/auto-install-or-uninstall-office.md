@@ -3,7 +3,7 @@ title: Windows 10 cihazlarında Office'i otomatik olarak yükleme veya kaldırma
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: cbc6bfe5-565a-4fb8-95f0-b06e7b74ac46
 description: "Yüklemek veya Windows 10 aygıtlarda Microsoft 365 iş Yönetim Merkezi'nden Office yüklemesini kaldırın. "
-ms.openlocfilehash: 94e5761b516c150caa11048be73d97f468b09fb5
-ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
+ms.openlocfilehash: 1e962f51882ddfd97da566858a0a1e6fb56ecbb8
+ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33660622"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34071970"
 ---
 # <a name="automatically-install-or-uninstall-office-on-windows-10-devices"></a>Windows 10 cihazlarında Office'i otomatik olarak yükleme veya kaldırma
 

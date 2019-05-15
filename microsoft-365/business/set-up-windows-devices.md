@@ -3,7 +3,7 @@ title: Microsoft 365 Business kullanıcıları için Windows cihazlarını ayarl
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
@@ -19,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: 'Microsoft 365 iş kullanıcıları için Windows 10 Pro çalıştıran Windows aygıtı kurmayı öğrenin. '
-ms.openlocfilehash: f93257bd9a68385fca4f178a2e09c5c11506ee2c
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 5efe3aa1e329e7a9edcfd49fcc1f1391f95fd97f
+ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32284451"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34074560"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>Microsoft 365 Business kullanıcıları için Windows cihazlarını ayarlama
 
