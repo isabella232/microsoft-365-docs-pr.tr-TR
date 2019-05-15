@@ -1,7 +1,9 @@
-# [Microsoft 365 iş](index.md)
-## [Genel Bakış](microsoft-365-business-overview.md)
+# Microsoft 365 iş
+## [Microsoft 365](index.md)
+## [Microsoft 365 iş nedir?](microsoft-365-business-overview.md)
 ## [Microsoft 365 iş alın](sign-up.md)
 ## [Veri koruması için ön gereksinimleri](pre-requisites-for-data-protection.md)
+## [Ayarlama, genel bakış](set-up-overview.md)
 ## [(yalnızca ilk kez)](set-up.md)
 ### [Windows Update Pro oluşturucuları için yükseltme](upgrade-to-windows-pro-creators-update.md)
 ### [Mobil aygıtları Ayarla](set-up-mobile-devices.md)
@@ -14,8 +16,10 @@
 ## [Güvenli](security-features.md)
 ### [İşletmenizin güvenli](/Office365/Admin/security-and-compliance/secure-your-business-data?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [Gelişmiş güvenlik özellikleri kurma](set-up-advanced-security.md)
-## [Yönet](manage.md)
+## Kullanıcılar
 ### [Add users](add-users-m365b.md)
+### [Bir çalışanın Kaldır](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
+## Aygıtları yönetme
 ### [İlkeleri ve aygıtları görüntüleyin ve düzenleyin](view-policies-and-devices.md)
 ### [Şirket verileri Kaldır](remove-company-data.md)
 ### [Aygıtı fabrika ayarlarına sıfırlama](reset-devices-to-factory-settings.md)
@@ -26,7 +30,12 @@
 #### [10 PC'lerde Windows ayarlarını doğrula](validate-settings-on-windows-10-pcs.md)
 ### [Windows 10 aygıtlar için koruma ayarları](protection-settings-for-windows-10-devices.md)
 ## [Microsoft 365 İş'e geçiş](migrate-to-microsoft-365-business.md)
-## [AutoPilot aygıtları ve profil Ekle](add-autopilot-devices-and-profile.md)
+## Faturalama
+### [Faturanızı](/Office365/Admin/subscriptions-and-billing/view-your-bill-or-invoice?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
+### [Ödeme](/Office365/Admin/subscriptions-and-billing/pay-for-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
+### [İptal](/Office365/Admin/subscriptions-and-billing/cancel-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
+## AutoPilot
+### [AutoPilot aygıtları ve profil Ekle](add-autopilot-devices-and-profile.md)
 ### [AutoPilot profillerini oluşturma ve düzenleme](create-and-edit-autopilot-profiles.md)
 ### [AutoPilot cihazlarını oluşturma ve düzenleme](create-and-edit-autopilot-devices.md)
 ### [AutoPilot profil ayarları](autopilot-profile-settings.md)
