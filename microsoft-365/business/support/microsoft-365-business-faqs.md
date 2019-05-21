@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 iş, Microsoft 365, SMB, SSS, sık sorulan sorular, yanıtlar, iş
 ms.date: 06/08/2018
-ms.openlocfilehash: 9757abb98f4f1c2612f20c75fffd5da10bbbc381
-ms.sourcegitcommit: b05aa01a72c3bc257a9f3b06a7779d88a89758c6
+ms.openlocfilehash: 6ef500c9b0c9e83e77e46c1eaf7057e3e46cfe0d
+ms.sourcegitcommit: 5c6bbf6dd7020b462b56b644b5a0fcc0217d6a53
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33657217"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34276233"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 iş sık sorulan sorular
 
@@ -80,7 +80,7 @@ Birçok Çalışanlar kendi cep telefonları veya tabletler erişim kişisel ve 
 Microsoft 365 Business müşteriler bu aygıtların erişme, koruma, ve/veya iş bilgilerini paylaşmak önlemek için iş yeteneği sağlayarak iş için kendi kişisel aygıtlar kullanmak için çalışanların bir basit ama güçlü araç sunar. . Özellikle: 
 * İş verileri belirlenmiş bir süre sonra otomatik olarak silme gibi ilkelerini zorlama tarafından e-posta, takvim, kişiler ve belgeler üzerinde IOS ve Android mobil aygıtlar da dahil olmak üzere Office verileri korumak **İçin Office mobile apps App koruma** yardımcı olur yalnızca iş için OneDrive için bilgiler depolanır gerektiren hizmetine bağlanma değil kişisel apps bir Office uygulaması kopyalanan Office uygulamaları ve önleme şirket verileri erişmek için PIN/parmak izi doğrulama gerektirme. Mobil uygulama yönetimi Intune aracılığıyla diğer mobil uygulamalar için de Microsoft 365 iş aboneleri için kullanılabilir. 
   
-* **10 PC'ler için Aygıt Yönetimi** aallows işletmeler ve yetenekleri gibi kötü amaçlı yazılım, Otomatik Güncelleştirmeler ve ekranlar kapatmak için belirlenmiş bir süre sonra Windows Defender korumasını zorla ayarlamak seçin. Buna ek olarak, kayıp veya çalıntı aygıtları Windows 10 tamamen iş uygulamaları ve Yönetim Merkezi üzerinden veri sildin. 
+* **10 PC'ler için Aygıt Yönetimi** ayarlayın ve yetenekleri gibi kötü amaçlı yazılım, Otomatik Güncelleştirmeler ve ekranlar kapatmak için belirlenmiş bir süre sonra Windows Defender korumasını zorla seçmek işletmeler sağlar. Buna ek olarak, kayıp veya çalıntı aygıtları Windows 10 tamamen iş uygulamaları ve Yönetim Merkezi üzerinden veri sildin. 
 
 * **IOS, Android & MacOS için Aygıt Yönetimi** özellikleri güvenli IOS, Android, Windows ve macOS aygıtları içeren farklı aygıt ekosistem yönetmek işletmeler yardımcı olur. 
 
