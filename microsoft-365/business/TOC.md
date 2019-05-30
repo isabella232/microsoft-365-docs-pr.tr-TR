@@ -7,17 +7,18 @@
 ### [Kurulum, genel bakış](set-up-overview.md)
 ### [Microsoft 365 işletmeniz ayarlama](set-up.md)
 ### [Windows Update Pro oluşturucuları için yükseltme](upgrade-to-windows-pro-creators-update.md)
-### [Mobil aygıtları Ayarla](set-up-mobile-devices.md)
-### [Windows aygıtlarını kurabileceğiniz](set-up-windows-devices.md)
 ### [Office istemci dağıtım için hazırlama](prepare-for-office-client-deployment.md)
 ### [Otomatik yükleme veya Office kaldırma](auto-install-or-uninstall-office.md)
 ### [Şirket içi kaynaklara erişmek]()
 #### [Yönetilecek etki alanına katılmış Windows 10 aygıtları etkinleştirme](manage-windows-devices.md)
 #### [Azure AD alanına aygıtından erişim kaynakları](access-resources.md)
+## Kullanıcı aygıtı Kur
+### [Mobil aygıtları Ayarla](set-up-mobile-devices.md)
+### [Windows aygıtlarını kurabileceğiniz](set-up-windows-devices.md)
 ## [Güvenli](security-features.md)
 ### [İşletmenizin güvenli](/Office365/Admin/security-and-compliance/secure-your-business-data?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [Gelişmiş güvenlik özellikleri kurma](set-up-advanced-security.md)
-## Kullanıcılar
+## Kullanıcıları yönetme
 ### [Add users](add-users-m365b.md)
 ### [Bir çalışanın Kaldır](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ## Aygıtları yönetme
