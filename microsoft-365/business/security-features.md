@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 iş güvenlik özellikleri
+title: Microsoft 365 iş güvenlik ve uyumluluk özellikleri
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -19,14 +19,14 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Microsoft 365 iş gelen güvenlik özellikleri hakkında bilgi edinin.
-ms.openlocfilehash: 6ce69f387461edc0eea6c705f15a9083547698ff
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+ms.openlocfilehash: 54bac38ca3a60f88f848ec3ab8bdd8a7c0fabd54
+ms.sourcegitcommit: ab04fea2765a63489d70b506f0e14303a5be16a0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074540"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780789"
 ---
-# <a name="microsoft-365-business-security-features"></a>Microsoft 365 iş güvenlik özellikleri
+# <a name="microsoft-365-business-security-and-compliance-features"></a>Microsoft 365 iş güvenlik ve uyumluluk özellikleri
 
 Microsoft 365 iş PC'leri, telefonlar ve tabletler, verilerinizi korumanıza yardımcı olacak Basitleştirilmiş güvenlik özellikleri sunar.
     
@@ -36,7 +36,6 @@ Microsoft 365 iş PC'leri, telefonlar ve tabletler, verilerinizi korumanıza yar
 
 Bu özellikleri açma veya kapatma için basit bir yol sağlar Yönetim Merkezi'nde Microsoft 365 iş güvenlik özelliklerinin çoğunu yönetebilirsiniz. Yönetim Merkezi'nde aşağıdakileri yapabilirsiniz:
   
-![Screenshot of the Devices card in the admin center](media/9982e784-dbf9-4a76-a159-bb3e2e5aa23f.png)
   
 - [Android veya IOS cihazlar için uygulama yönetimi ayarlarını ayarlayın](app-protection-settings-for-android-and-ios.md) . 
     
@@ -68,8 +67,19 @@ Gelişmiş özellikleri Microsoft 365 iş cyber tehditlere karşı İşinizin ko
     
   - Karmaşık eki tarama ve AI destekli analiz algılamak ve tehlikeli iletileri atmak için.
     
-  - Otomatik web bağlantıları değerlendirmek için e-posta kimlik avı düzeninin bir parçası olup olmadığını kontrol eder. Bu, güvenli olmayan Web sitelerine erişmesini güvenli tutar.
+  - Kimlik avı düzeninin bir parçası olup olmadığını değerlendirmek için e-posta içindeki bağlantıları otomatik denetler. Bu, güvenli olmayan Web sitelerine erişmesini güvenli tutar.
+
+- **[Azure portalındaki tüm yeteneklerini Intune](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
+    Azure Portal Yönetim Merkezi Yönetimi MacOS aygıtları, iPhone ve Android aygıtların yanı sıra, Windows için Gelişmiş aygıt yönetimi gibi ek güvenlik özelliklerini ayarlamak verir Intune erişme, Microsoft kullanılabilir değil 365 iş Yönetim Merkezi.
+- **Aynı [Koşullu erişim](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview) Azure AD P1 planı**
+
+    Koşullu erişim yardımcı olabilir kuruluşunuz oturumaçma Riskten korumak, girişimleri bir beklenmeyen bir ağ ya da yerel erişim, access form riskli aygıt türleri vb. çalışır. Birinci kimlik doğrulama tamamlandıktan ve erişim girişimi onaylanması ise, belirlemek için birinci kimlik doğrulama olaydan sinyalleri kullanan ilkeleri uygulanır koşullu erişim vermez veya f (ikinci form tanımı gibi) daha prova Gerekli.
+    
+## <a name="compliance-features"></a>Uyumluluk Özellikleri
+
+Microsoft 365 abonelik içeren iş özellikleri uyumluluk ve yasal standartlara tutmak yardımcı olacak.
+
 - **[Veri kaybını önleme İlkeleri'ne genel bakış](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
     
     Yanlışlıkla kendi önlemek için kredi kartı numaraları, sosyal güvenlik numaraları, vb. gibi hassas bilgileri otomatik olarak algılayacak şekilde DLP ayarlayabilirsiniz, şirket dışına paylaşımı.
@@ -80,13 +90,9 @@ Gelişmiş özellikleri Microsoft 365 iş cyber tehditlere karşı İşinizin ko
     
 - **[Azure bilgi koruma](https://go.microsoft.com/fwlink/p/?linkid=871406)**
     
-    Bilgi koruma yardımcı olan denetimleri gibi hassas bilgileri e-posta ve belgeler erişimi denetlemek "ileriye doğru olmayan" ve "kopyalamayın." Hassas bilgileri "Gizli" olarak sınıflandırmak ve nasıl dışında sınıflandırılmış bilgi paylaşılabilir ve işletme içinde belirtin. Kurumsal seviyede şifreleme bilgilerinizin gizliliğini sağlamak için belgeleri ve e-posta uygulamak kolaydır. 365 iş Microsoft [Azure bilgi koruma planı 1](https://go.microsoft.com/fwlink/p/?linkid=871407)' in tüm özellikleri içerir. Azure bilgi koruma istemci eklentisi Office uygulamaları yükleyebilirsiniz. Daha fazla ayrıntı için [Azure bilgi koruma istemci atanır Kılavuzu'na](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide)bakın.
-    
-- **[Azure portalındaki tüm yeteneklerini Intune](https://go.microsoft.com/fwlink/p/?linkid=871403)**
-    
-    Azure Portal Yönetim Merkezi Yönetimi MacOS aygıtları, iPhone ve Android aygıtların yanı sıra, Windows için Gelişmiş aygıt yönetimi gibi ek güvenlik özelliklerini ayarlamak verir Intune erişme, Microsoft kullanılabilir değil 365 iş Yönetim Merkezi.
-    
-Sonraki bölümlerde, bu özelliklerin güvenliğini yönetmek hakkında açıklamak &amp; Uyumluluk Merkezi ve Intune Yönetim Merkezi. Zamanla Basitleştirilmiş denetimleri Microsoft 365 iş yönetim merkezine eklenecektir.
+    Bilgi koruma yardımcı olan denetimleri gibi hassas bilgileri e-posta ve belgeler erişimi denetlemek "ileriye doğru olmayan" ve "kopyalamayın." Hassas bilgileri "Gizli" olarak sınıflandırmak ve nasıl dışında sınıflandırılmış bilgi paylaşılabilir ve işletme içinde belirtin. Kurumsal seviyede şifreleme bilgilerinizin gizliliğini sağlamak için belgeleri ve e-posta uygulamak kolaydır. 365 iş Microsoft [Azure bilgi koruma planı 1](https://go.microsoft.com/fwlink/p/?linkid=871407)' in tüm özellikleri içerir. Azure bilgi koruma istemci eklentisi Office uygulamaları yükleyebilirsiniz. Daha fazla ayrıntı için [Azure bilgi koruma istemci Yönetici Kılavuzu'na](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide)bakın.
+
+Bu güvenlik özellikleri yönetebilirsiniz &amp; Uyumluluk Merkezi ve Intune Yönetim Merkezi. Zamanla Basitleştirilmiş denetimleri Microsoft 365 iş yönetim merkezine eklenecektir.
   
     
 ## <a name="faq"></a>SSS
