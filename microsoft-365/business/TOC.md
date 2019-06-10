@@ -15,9 +15,10 @@
 ## Kullanıcı aygıtı Kur
 ### [Mobil aygıtları Ayarla](set-up-mobile-devices.md)
 ### [Windows aygıtlarını kurabileceğiniz](set-up-windows-devices.md)
-## [Güvenli](security-features.md)
-### [İşletmenizin güvenli](/Office365/Admin/security-and-compliance/secure-your-business-data?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
-### [Gelişmiş güvenlik özellikleri kurma](set-up-advanced-security.md)
+## [İşletmenizin güvenli](security-features.md)
+### [Tehdit koruması artırın](increase-threat-protection.md)
+### [Koşullu erişim ile Başlarken](set-up-conditional-access-policies.md)
+### [Uyumluluk Özellikleri Kurma](set-up-compliance.md)
 ## Kullanıcıları yönetme
 ### [Add users](add-users-m365b.md)
 ### [Bir çalışanın Kaldır](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
