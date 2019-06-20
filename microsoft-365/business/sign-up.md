@@ -1,0 +1,56 @@
+---
+title: Microsoft 365 işletmeler için kaydolun
+ms.author: sirkkuw
+author: Sirkkuw
+manager: scotv
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- M365-subscription-management
+ms.custom:
+- Adm_O365
+- Core_O365Admin_Migration
+- MSB365
+search.appverid:
+- BCS160
+- MET150
+description: Satınalma ve Microsoft 365 işletmeler için kaydolun öğrenin.
+ms.openlocfilehash: ecbf316f63e11ed07dc775f6659f650112cc8cb4
+ms.sourcegitcommit: 274af83139ad7da3aa33366c3323d533d95c7db4
+ms.translationtype: MT
+ms.contentlocale: tr-TR
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "35086417"
+---
+# <a name="sign-up-for-microsoft-365-business"></a><span data-ttu-id="93f81-103">Microsoft 365 işletmeler için kaydolun</span><span class="sxs-lookup"><span data-stu-id="93f81-103">Sign up for Microsoft 365 Business</span></span>
+
+<span data-ttu-id="93f81-104">Bir ortağı varsa, [Microsoft iş ortağı Merkezi'nden Microsoft 365 iş alın](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center)bakın.</span><span class="sxs-lookup"><span data-stu-id="93f81-104">If you are a partner, see [Get Microsoft 365 Business from Microsoft Partner Center](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).</span></span>
+
+<span data-ttu-id="93f81-105">[Microsoft 365 iş bulma avantajı](https://www.microsoft.com/microsoft-365/business#pmg-cmp-desktop) gidin ve **Şimdi satın** Microsoft 365 iş altında seçin.</span><span class="sxs-lookup"><span data-stu-id="93f81-105">Go to [Discover Microsoft 365 Business advantage](https://www.microsoft.com/microsoft-365/business#pmg-cmp-desktop) and choose **Buy Now** under Microsoft 365 Business.</span></span>
+
+1. <span data-ttu-id="93f81-106">**Hoş Geldiniz, diyelim ki, tanımaya başlayın** sayfasında gerekli bilgileri girin.</span><span class="sxs-lookup"><span data-stu-id="93f81-106">On the **Welcome, let's get to know you** page enter the required information.</span></span> <span data-ttu-id="93f81-107">Not:</span><span class="sxs-lookup"><span data-stu-id="93f81-107">Note that:</span></span>
+ 
+    -  <span data-ttu-id="93f81-108">**Ülke veya bölgeler:** Bu hizmeti almak ve daha sonra değiştirilemez belirler.</span><span class="sxs-lookup"><span data-stu-id="93f81-108">**Country or regions:** This determines the service you receive and can't be changed later.</span></span>
+    - <span data-ttu-id="93f81-109">**İş e-posta adresi:** Geçerli e-posta adresinizi girin.</span><span class="sxs-lookup"><span data-stu-id="93f81-109">**Business email address:** Enter your current email address.</span></span> <span data-ttu-id="93f81-110">Microsoft, Microsoft 365 aboneliğinizle ilgili sizinle yazışmak için bu adresi kullanır.</span><span class="sxs-lookup"><span data-stu-id="93f81-110">Microsoft uses this address to correspond with you about your Microsoft 365 subscription.</span></span>
+    - <span data-ttu-id="93f81-111">**Şirket adı** Biz şirket adınızı Yönetim Merkezi'nde görüntülersiniz; Burada Microsoft 365 kullanıcılar, lisansları ve benzeri yönetirsiniz budur.</span><span class="sxs-lookup"><span data-stu-id="93f81-111">**Company name** We'll display your company name in the admin center; this is where you'll manage Microsoft 365 users, licenses, and so on.</span></span> <span data-ttu-id="93f81-112">Biz de bunu içinde herhangi bir SharePoint sitesi URL dahil.</span><span class="sxs-lookup"><span data-stu-id="93f81-112">We'll also include it in any SharePoint site URLs.</span></span>
+
+2. <span data-ttu-id="93f81-113">**Kullanıcı Kimliğinizi Oluştur** sayfasında:</span><span class="sxs-lookup"><span data-stu-id="93f81-113">On the **Create your user ID** page:</span></span>
+
+    - <span data-ttu-id="93f81-114">**Kullanıcı adı**: (bir diğer ad olarak da adlandırılır) bir ad girin, kendi iş e-posta için kullanacaksınız.</span><span class="sxs-lookup"><span data-stu-id="93f81-114">**Username**: Enter the name (called an alias) that you'll use for your own business email.</span></span> <span data-ttu-id="93f81-115">Örneğin, Robert Young RobY veya RobYoung bir iş diğer adı kullanabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="93f81-115">For example, Robert Young might use RobY or RobYoung as a work alias.</span></span>
+    - <span data-ttu-id="93f81-116">**Şirket**: benzersiz iş adınızı girin.</span><span class="sxs-lookup"><span data-stu-id="93f81-116">**Your company**: Enter your unique business name.</span></span> <span data-ttu-id="93f81-117">Bu iş web siteniz varsa kullandığı addır ve de sonra dahil etmek istediğiniz addır @ işareti iş e-posta alırsınız.</span><span class="sxs-lookup"><span data-stu-id="93f81-117">This is the name that your business web site uses if you have one, and is also the name you want to include after the @ sign when you receive a business email.</span></span> <span data-ttu-id="93f81-118">Bu adı bir etki alanı adı verilir.</span><span class="sxs-lookup"><span data-stu-id="93f81-118">This name is called a domain.</span></span> <span data-ttu-id="93f81-119">Örneğin, Contoso Skis işinizi çağrılırsa, sonra ContosoSkis girin @ işareti.</span><span class="sxs-lookup"><span data-stu-id="93f81-119">For example, if your business is called Contoso Skis, enter ContosoSkis after the @ sign.</span></span>
+    - <span data-ttu-id="93f81-120">**Bir etki alanı seçin**: etki alanı adınızı zaten sahipseniz, seçin. onmicrosoft.com menü açılır ve biz, daha sonra kurmak için isteyeceğiz.</span><span class="sxs-lookup"><span data-stu-id="93f81-120">**Select a domain**: If you own your domain name already, select .onmicrosoft.com from the drop down menu and we'll ask you to set it up later.</span></span> <span data-ttu-id="93f81-121">Aksi halde, işinizi temsil eden bir etki alanı adı satın almak kolaydır.</span><span class="sxs-lookup"><span data-stu-id="93f81-121">Otherwise, it's easy to buy a domain name that represents your business.</span></span> <span data-ttu-id="93f81-122">Bunu yapmak için açılır menüden tercih ettiğiniz etki alanını seçin.</span><span class="sxs-lookup"><span data-stu-id="93f81-122">To do that, select the domain you prefer from the drop down menu.</span></span> <span data-ttu-id="93f81-123">Örneğin, tam e-posta adresinizi *Teresa@ContosoSkis.net*olabilir.</span><span class="sxs-lookup"><span data-stu-id="93f81-123">For example, your full email address might be *Teresa@ContosoSkis.net*.</span></span> <span data-ttu-id="93f81-124">Biz hemen etki alanı adının kullanılabilir olup olmadığını size bildirilir.</span><span class="sxs-lookup"><span data-stu-id="93f81-124">We'll let you know right away if the domain name is available.</span></span> <span data-ttu-id="93f81-125">Eğer öyleyse, Microsoft 365 Business aboneliğinizi maliyetine etki alanınızın maliyet ekleyeceğiz.</span><span class="sxs-lookup"><span data-stu-id="93f81-125">If it is, we'll add the cost of your domain to the cost of your Microsoft 365 Business subscription.</span></span> <span data-ttu-id="93f81-126">Burada satın yeni etki alanı da yukarı ve hazır Microsoft 365 kullanmak için ayarlanır.</span><span class="sxs-lookup"><span data-stu-id="93f81-126">The new domain will also be set up and ready for use in Microsoft 365 if you purchase it here.</span></span> <span data-ttu-id="93f81-127">Etki alanları hakkında daha fazla bilgi için bkz: [Etki alanları hakkında SSS](https://docs.microsoft.com/office365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="93f81-127">For information about domains, see [Domains FAQ](https://docs.microsoft.com/office365/admin/setup/domains-faq).</span></span>
+    
+    ![Ekran görüntüsü oluşturma, kullanıcı kimliği sayfa.](media/signinuserid.png)
+
+3. <span data-ttu-id="93f81-129">Kalan alanları doldurun ve **Hesabımı Oluştur**' u seçin.</span><span class="sxs-lookup"><span data-stu-id="93f81-129">Fill in the rest of the fields and select **Create my account**.</span></span>
+4. <span data-ttu-id="93f81-130">**Üzerinde .tüm olduğunuzu kanıtlar. Not.A.Robot.**</span><span class="sxs-lookup"><span data-stu-id="93f81-130">On the **Prove.You're.Not.A.Robot.**</span></span> <span data-ttu-id="93f81-131">Sayfa, bir kod ya da metin veya arama ve seçme **metin bana** veya **Bana çağrı**yoluyla almak, sonra doğrulama kodunu girmek için bir telefon numarası girin \> **sonraki**.</span><span class="sxs-lookup"><span data-stu-id="93f81-131">page enter a phone number to receive a code either via text or a call and select **Text me** or **Call me**, then enter the verification code \> **Next**.</span></span>
+5. <span data-ttu-id="93f81-132">**Nerede bu kullanacağınız** sayfada İş adresinizi girin.</span><span class="sxs-lookup"><span data-stu-id="93f81-132">On the **Where will you be using this** page enter your business address.</span></span> <span data-ttu-id="93f81-133">Bu bilgiler, ödeme ve abonelikleri olan hangi vergileri kullanılabilir olduğunu belirler.</span><span class="sxs-lookup"><span data-stu-id="93f81-133">This information determines what taxes you pay and which subscriptions are are available.</span></span> <span data-ttu-id="93f81-134">Vergiler hakkında daha fazla bilgi için bkz: [hangi vergi ı tahsil edilir?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="93f81-134">For more information about taxes, see [What tax will I be charged?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide)</span></span> 
+1. <span data-ttu-id="93f81-135">**İleri**' yi seçin, siparişinizi gözden geçirin ve **bir sonraki** yeniden seçin.</span><span class="sxs-lookup"><span data-stu-id="93f81-135">Select **Next**, review your order and select **Next** again.</span></span>
+1. <span data-ttu-id="93f81-136">**Nasıl ödemek istiyorsunuz** sayfasında, ödeme ayrıntıları ve daha sonra **yer sipariş**girin.</span><span class="sxs-lookup"><span data-stu-id="93f81-136">On the **How do you want to pay** page, enter your payment details, and then **Place order**.</span></span>
+    <span data-ttu-id="93f81-137">Sonra [ayarlanan](set-up.md)bitirmek için [Yönetim Merkezi](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide) gidebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="93f81-137">You can then go to the [admin center](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide) to finish your [set up](set-up.md).</span></span>
+
+    > [!NOTE]
+    > <span data-ttu-id="93f81-138">Kur'un sonunda **Yönetim Merkezine gidin**bağlantısını seçerseniz, doğrudan [Kurulum](set-up.md) deneyimi için alınır.</span><span class="sxs-lookup"><span data-stu-id="93f81-138">If, at the end of the setup you select the link **Go to the admin center**, you will be taken directly to the [set up](set-up.md) experience.</span></span>
