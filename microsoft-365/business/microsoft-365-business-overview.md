@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Microsoft 365 iş öğrenin.
-ms.openlocfilehash: b34db3dcfbe5ccd5feae7b275b6455e67c5f0029
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+ms.openlocfilehash: 6fd328ebd4a8d3fbcde836c4aa87b56b9775c3cd
+ms.sourcegitcommit: 64a7511d8c5ef527673b4c05753e6bb52ce9ab86
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074290"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35114972"
 ---
 # <a name="overview-of-microsoft-365-business"></a>365 Microsoft Business genel bakış
 
@@ -60,3 +60,5 @@ Güvenlik özelliklerinin tam listesini görmek için bkz: [Microsoft 365 iş g�
 - İş ortağınız varsa, onlar da Microsoft 365 İş ürününü alır: [Microsoft 365 İş'i Microsoft İş Ortağı Merkezi'nden alma](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
 
 - Bir ortağı varsa ve Microsoft 365 iş almak istediğiniz yoksa, [Buraya satın](https://www.microsoft.com/microsoft-365/business) olabilir ve [kaydolun](sign-up.md) yönergeleri izleyin.
+
+- Siz de üzerinden hem Microsoft 365 iş satın almak ve kurulum yardımı almak için bir [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) head.

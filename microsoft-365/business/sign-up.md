@@ -18,18 +18,24 @@ search.appverid:
 - BCS160
 - MET150
 description: Satınalma ve Microsoft 365 işletmeler için kaydolun öğrenin.
-ms.openlocfilehash: ecbf316f63e11ed07dc775f6659f650112cc8cb4
-ms.sourcegitcommit: 274af83139ad7da3aa33366c3323d533d95c7db4
+ms.openlocfilehash: 0f92bf35d2a7898d530fd509d8d13c91f32ccab3
+ms.sourcegitcommit: 64a7511d8c5ef527673b4c05753e6bb52ce9ab86
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "35086417"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35114932"
 ---
 # <a name="sign-up-for-microsoft-365-business"></a>Microsoft 365 işletmeler için kaydolun
 
 Bir ortağı varsa, [Microsoft iş ortağı Merkezi'nden Microsoft 365 iş alın](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center)bakın.
 
-[Microsoft 365 iş bulma avantajı](https://www.microsoft.com/microsoft-365/business#pmg-cmp-desktop) gidin ve **Şimdi satın** Microsoft 365 iş altında seçin.
+Microsoft 365 iş çevrimiçi satın almak için [Microsoft 365 iş bulma avantajı](https://www.microsoft.com/microsoft-365/business#pmg-cmp-desktop) gidin ve **Şimdi satın** Microsoft 365 iş altında seçin.
+
+Siz de üzerinden hem Microsoft 365 iş satın almak ve kurulum yardımı almak için bir [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) head.
+
+## <a name="complete-the-sign-up-steps"></a>Kayıt adımları tamamlayın
+
+Microsoft 365 iş satın aldıktan sonra aşağıdaki adımları tamamlayın.
 
 1. **Hoş Geldiniz, diyelim ki, tanımaya başlayın** sayfasında gerekli bilgileri girin. Not:
  
@@ -43,7 +49,7 @@ Bir ortağı varsa, [Microsoft iş ortağı Merkezi'nden Microsoft 365 iş alın
     - **Şirket**: benzersiz iş adınızı girin. Bu iş web siteniz varsa kullandığı addır ve de sonra dahil etmek istediğiniz addır @ işareti iş e-posta alırsınız. Bu adı bir etki alanı adı verilir. Örneğin, Contoso Skis işinizi çağrılırsa, sonra ContosoSkis girin @ işareti.
     - **Bir etki alanı seçin**: etki alanı adınızı zaten sahipseniz, seçin. onmicrosoft.com menü açılır ve biz, daha sonra kurmak için isteyeceğiz. Aksi halde, işinizi temsil eden bir etki alanı adı satın almak kolaydır. Bunu yapmak için açılır menüden tercih ettiğiniz etki alanını seçin. Örneğin, tam e-posta adresinizi *Teresa@ContosoSkis.net*olabilir. Biz hemen etki alanı adının kullanılabilir olup olmadığını size bildirilir. Eğer öyleyse, Microsoft 365 Business aboneliğinizi maliyetine etki alanınızın maliyet ekleyeceğiz. Burada satın yeni etki alanı da yukarı ve hazır Microsoft 365 kullanmak için ayarlanır. Etki alanları hakkında daha fazla bilgi için bkz: [Etki alanları hakkında SSS](https://docs.microsoft.com/office365/admin/setup/domains-faq).
     
-    ![Ekran görüntüsü oluşturma, kullanıcı kimliği sayfa.](media/signinuserid.png)
+        ![Ekran görüntüsü oluşturma, kullanıcı kimliği sayfa.](media/signinuserid.png)
 
 3. Kalan alanları doldurun ve **Hesabımı Oluştur**' u seçin.
 4. **Üzerinde .tüm olduğunuzu kanıtlar. Not.A.Robot.** Sayfa, bir kod ya da metin veya arama ve seçme **metin bana** veya **Bana çağrı**yoluyla almak, sonra doğrulama kodunu girmek için bir telefon numarası girin \> **sonraki**.
