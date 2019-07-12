@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 iş, Microsoft 365, SMB, SSS, sık sorulan sorular, yanıtlar, iş
 ms.date: 06/08/2018
-ms.openlocfilehash: 6ef500c9b0c9e83e77e46c1eaf7057e3e46cfe0d
-ms.sourcegitcommit: 5c6bbf6dd7020b462b56b644b5a0fcc0217d6a53
+ms.openlocfilehash: 9f3f82169dcd4454ffb46b1269422688a107f2b0
+ms.sourcegitcommit: 0c1227dc79b66bab529bf178c5672791369ba471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34276233"
+ms.lasthandoff: 07/11/2019
+ms.locfileid: "35630599"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 iş sık sorulan sorular
 
@@ -27,7 +27,7 @@ Microsoft 365 küçük ve orta ölçekli işletmeler için en iyi sınıfının 
 **Bütünsel bir dizi iş verimlilik ve işbirliği araçları** 
 * Word, Excel, PowerPoint, Outlook, OneNote, Publisher ve erişim 
 * Exchange, OneDrive, Skype iş, Microsoft ekipleri, SharePoint için 
-* İş apps (kayıtlar, Outlook müşteri Yöneticisi, MileIQ<sup>[1](#footnote1)</sup>,<sup>[1](#footnote1)</sup>Microsoft listeleri, Microsoft bağlantıları<sup>[1](#footnote1)</sup>, Microsoft faturalama<sup>[1](#footnote1)</sup>) ofisten 
+* İş apps (kayıtlar, müşteri Yöneticisi Outlook'u, MileIQ<sup>[1](#footnote1)</sup>,<sup>[1](#footnote1)</sup>faturalama Microsoft) ofisten 
  
 **Kurumsal seviyede aygıt yönetimi ve güvenlik özellikleri** 
 - Kimlik avı gibi dış tehditlere karşı koruma sağlayan yardımcı & Gelişmiş Office 365 Gelişmiş tehdit koruması ve bu güvenlik açığından Windows Defender Guard ile kötü amaçlı yazılım 
