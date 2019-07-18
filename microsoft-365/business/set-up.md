@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Microsoft 365 iş kurmayı öğrenin.
-ms.openlocfilehash: 42a35810531b6abd5b22e5fdbce2c0cfea57b8d7
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+ms.openlocfilehash: ac9c8b828ff131a15bf057fa8bdc0bf56dd00987
+ms.sourcegitcommit: 75b97d1ff617bc4b1b0ef9135dfe6a8842ea1b52
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074600"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35772577"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Kur Sihirbazı'nda Microsoft 365 işletmeniz ayarlama
 
@@ -123,4 +123,4 @@ Sihirbazda ayarladığınız ilkeleri *Tüm kullanıcıları*adlı bir [güvenli
 Otomatik olarak yedekleme kümesi sırasında Office uygulamaları yüklemek seçerseniz, kullanıcılar için Azure AD iş kimlik bilgilerini Windows aygıtlarına gelen oturum açtıktan sonra Windows 10 aygıtlarda apps yükleyecektir.
 Office mobile IOS veya Android aygıtları yüklemek için [Microsoft 365 iş kullanıcıları için mobil aygıtları ayarlayın](set-up-mobile-devices.md)bkz.
 
-Office ayrı olarak da yükleyebilirsiniz. [Bir PC veya Mac Office yükleme](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665) yönergeleri için bkz.
+Office ayrı olarak da yükleyebilirsiniz. [Bir PC veya Mac Office yükleme](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658) yönergeleri için bkz.
