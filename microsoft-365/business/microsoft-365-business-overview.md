@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Microsoft 365 iş öğrenin.
-ms.openlocfilehash: 6fd328ebd4a8d3fbcde836c4aa87b56b9775c3cd
-ms.sourcegitcommit: 64a7511d8c5ef527673b4c05753e6bb52ce9ab86
+ms.openlocfilehash: 64cfa460311af6cdafb637ceb3415511e003e394
+ms.sourcegitcommit: dd0d99d2ff930cd1777d6704f4d88a70adc9ca74
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35114972"
+ms.lasthandoff: 07/24/2019
+ms.locfileid: "35853159"
 ---
 # <a name="overview-of-microsoft-365-business"></a>365 Microsoft Business genel bakış
 
@@ -36,7 +36,7 @@ Microsoft 365 İş, sürekli güncelleştirilen Outlook, Word, Excel ve diğer O
   
 Microsoft 365 İş 300 lisansa kadar yöneliktir, daha fazla lisansa ihtiyacınız varsa daha fazla bilgi için [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) belgelerine göz atın.
 
-[Hizmet açıklaması Microsoft 365 iş](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-business-service-description) tüm özelliklerin listesi için bkz.
+[Hizmet açıklaması Microsoft 365 iş](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) tüm özelliklerin listesi için bkz.
   
 ## <a name="small-business-security-needs"></a>Küçük iş güvenliği gereksinimlerini
 
