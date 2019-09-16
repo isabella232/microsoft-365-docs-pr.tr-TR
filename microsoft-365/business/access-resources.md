@@ -17,18 +17,16 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Windows 10 aygıtına katılan bir Azure Active Directory'den Line Of Business uygulamaları, dosya paylaşımları ve yazıcılar gibi şirket içi kaynaklara nasıl erişebilirsiniz öğrenin.
-ms.openlocfilehash: ab9049e78617372463b8446dc8f8bc0089d8c117
-ms.sourcegitcommit: 91ff1d4339f0f043c2b43997d87d84677c79e279
+ms.openlocfilehash: 6065dd68bc8d306898ee02baa97fe07f71042439
+ms.sourcegitcommit: c0f769244d05ad019ea2307c38d5543d7b1e5afd
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2019
-ms.locfileid: "36981671"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36992259"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Microsoft 365 Business'ta Azure AD ile birleştirilmiş bir cihazdan şirket içi kaynaklara erişin
 
-Azure Active Directory'nin birleştiği tüm Windows 10 aygıtları Office 365 uygulamalarınız gibi bulut tabanlı tüm kaynaklara erişebilir ve Microsoft 365 Business tarafından korunabilir. Ayrıca, Business Line (LOB) uygulamaları, dosya paylaşımları ve yazıcılar gibi şirket içi kaynaklara erişim eizin vermek için, [Azure AD Connect'i](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect)kullanarak şirket içi Active Directory'nizi Azure Etkin Dizini ile eşitlemeniz gerekir. Aşağıdaki video, bunu en yaygın senaryo için nasıl ayarlayabilmek için gereken adımları ayrıntılarıyla açıklar.
- 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
+Azure Active Directory'nin birleştiği tüm Windows 10 aygıtları Office 365 uygulamalarınız gibi bulut tabanlı tüm kaynaklara erişebilir ve Microsoft 365 Business tarafından korunabilir. Ayrıca, Business Line (LOB) uygulamaları, dosya paylaşımları ve yazıcılar gibi şirket içi kaynaklara erişim eizin vermek için, [Azure AD Connect'i](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect)kullanarak şirket içi Active Directory'nizi Azure Etkin Dizini ile eşitlemeniz gerekir. 
 
 Daha fazla bilgi edinmek [için Azure Active Directory'de aygıt yönetimine giriş](https://docs.microsoft.com/en-us/azure/active-directory/device-management-introduction) e-giriş e bakın.
 Adımlar da aşağıdaki bölümlerde özetlenmiştir.
