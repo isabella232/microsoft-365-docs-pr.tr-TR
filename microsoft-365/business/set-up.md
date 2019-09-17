@@ -21,106 +21,107 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: Microsoft 365 iş kurmayı öğrenin.
-ms.openlocfilehash: ac9c8b828ff131a15bf057fa8bdc0bf56dd00987
-ms.sourcegitcommit: 75b97d1ff617bc4b1b0ef9135dfe6a8842ea1b52
+description: Microsoft 365 Business'ı nasıl ayarlayın öğrenin.
+ms.openlocfilehash: 1efb7379930f639cf10875cf5aa6731001bb41c8
+ms.sourcegitcommit: 2e5ae52bb641ee1f72c077260b5d0f35622935fe
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35772577"
+ms.lasthandoff: 09/17/2019
+ms.locfileid: "37005208"
 ---
-# <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Kur Sihirbazı'nda Microsoft 365 işletmeniz ayarlama
+# <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Kurulum sihirbazında Microsoft 365 Business'ı ayarlama
 
-## <a name="add-your-domain-users-and-set-up-policies"></a>Etki alanı, kullanıcılar, ekleme ve ilkelerini kurun
+## <a name="add-your-domain-users-and-set-up-policies"></a>Etki alanınızı, kullanıcılarınızı ekleyin ve ilkeler ayarlayın
 
-![Üzerine kapak https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+![Banner bu https://aka.ms/aboutM365previewişaret .](media/m365admincenterchanging.png)
 
-Microsoft 365 iş satın aldığınızda, size ait olan bir etki alanı kullanarak ya da sırasında satın seçeneğiniz [Kaydolma](sign-up.md).
+Microsoft 365 Business'ı satın aldığınızda, sahip olduğunuz bir etki alanını kullanma veya [kayıt](sign-up.md)sırasında bir etki alanı satın alma seçeneğiniz vardır.
 
-- Siz oturum açtığınızda yeni bir etki alanı satın aldıysanız, etki alanınızın tüm yedekleme kümesidir ve [lisanslar atayabilir ve kullanıcıları eklemek](#add-users-and-assign-licenses)için taşıyabilirsiniz.
+- Kaydolduğunuzda yeni bir etki alanı satın aldıysanız, etki alanınız tamamen ayarlanmıştır ve [kullanıcı ekle'ye taşınabilir ve lisans atayabilirsiniz.](#add-users-and-assign-licenses)
 
-### <a name="add-your-domain-to-personalize-sign-in"></a>Oturum kişiselleştirmek için etki alanı ekleme
+### <a name="add-your-domain-to-personalize-sign-in"></a>Oturum açma'yı kişiselleştirmek için etki alanınızı ekleyin
 
-1. [Microsoft 365 Yönetim Merkezi](https://admin.microsoft.com) genel yönetici kimlik bilgilerinizi kullanarak oturum açın. 
+1. Genel yönetici kimlik bilgilerinizi kullanarak [Microsoft 365 yönetici merkezinde](https://admin.microsoft.com) oturum açın. 
 
-2. **Ekle bir etki alanı** veya **Kullanıcı Ekle** Sihirbazı'nı başlatmak için seçin.
+2. Sihirbazı başlatmak için **etki alanı ekle** veya kullanıcı **ekle'yi** seçin.
     > [!IMPORTANT]
-    > Kayıt sırasında bir etki alanı satın aldıysanız, değil bkz: **etki alanı eklemek** adım burada olur. Bunun yerine, [Kullanıcı Ekle](#add-users-and-assign-licenses) gidin.
+    > Kayıt sırasında bir etki alanı satın aldıysanız, burada **bir etki alanı** adımı ekle'yi görmezsiniz. Bunun yerine [Kullanıcı Ekle'ye](#add-users-and-assign-licenses) gidin.
 
-    ![Bir etki alanına Ekle'yi seçin.](media/addadomainadmincenter.png)
+    ![Etki alanı ekle'yi seçin.](media/addadomainadmincenter.png)
     
-3. Sihirbazda, (contoso.com gibi) kullanmak istediğiniz etki alanı adını girin.
+3. Sihirbazda, kullanmak istediğiniz alan adını girin (contoso.com gibi).
 
 
-    ![Oturum açma sayfası kişiselleştirme ekran görüntüsü.](media/personalizesignin.png)
+    ![Oturum açma sayfanızı Kişiselleştir'in ekran görüntüsü.](media/personalizesignin.png)
 
     
-4. Doğrulayan etki alanı sahibi [herhangi bir DNS barındırma sağlayıcı için Office 365 oluşturmak DNS kayıtları](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) için sihirbazdaki adımları izleyin. Ayrıca, etki alanı ana biliyorsanız, [ana bilgisayar belirli yönergeler](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)bakın.
+4. Etki alanına sahip olduğunuzu doğrulayan [Office 365 için herhangi bir DNS barındırma sağlayıcısında DNS kayıtları oluşturmak için](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) sihirbazdaki adımları izleyin. Etki alanı ana bilgisayarınızı tanıyorsanız, [ana bilgisayara özel yönergeler](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)de bakın.
 
-    GoDaddy barındırma sağlayıcınıza ise, kolay bir işlemdir ve sizden oturum açıp Microsoft'un sizin adınıza kimliğini otomatik olarak istenecektir:
+    Barındırma sağlayıcınız GoDaddy veya [etki alanı bağlantısı](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)yla etkin leştirilmiş başka bir ana bilgisayarsa, işlem kolaydır ve otomatik olarak oturum açmanız ve Microsoft'un sizin adınıza kimlik doğrulamasına izin vermeniz istenir:
 
-    ![GoDaddy erişimi Onayla sayfasında, Authorize seçeneğini seçin.](media/godaddyauth.png)
+    ![GoDaddy Access'i Onayla sayfasında Yetkilendirme'yi seçin.](media/godaddyauth.png)
 
 ### <a name="add-users-and-assign-licenses"></a>Kullanıcı ekleme ve lisans atama
 
-Sihirbazda kullanıcılar ekleyebilirsiniz, ancak [daha sonra kullanıcılar eklemek](add-users-m365b.md) Yönetim Merkezi'nde de olabilir. Ayrıca, yerel etki alanı denetleyicisi varsa, [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)ile kullanıcılar ekleyebilirsiniz.
+Sihirbaza kullanıcı ekleyebilirsiniz, ancak daha sonra yönetici merkezine [de ekleyebilirsiniz.](add-users-m365b.md) Ayrıca, yerel bir etki alanı denetleyiciniz varsa, [Azure AD Connect'e](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)sahip kullanıcılar ekleyebilirsiniz.
 
-#### <a name="add-users-in-the-wizard"></a>Kullanıcı Ekleme Sihirbazı'nda
+#### <a name="add-users-in-the-wizard"></a>Sihirbaza kullanıcı ekleme
 
-Sihirbazda eklediğiniz kullanıcılar Microsoft 365 işletme lisans otomatik olarak atanan.
+Sihirbaza eklediğiniz tüm kullanıcılara otomatik olarak microsoft 365 Business lisansı atanabilir.
 
-![Ekle yeni kullanıcılar Sayfa Sihirbazı'nda ekran görüntüsü](media/addnewuserspage.png)
+![Sihirbazda yeni kullanıcı ekle sayfasının ekran görüntüsü](media/addnewuserspage.png)
 
-1. Varolan kullanıcıların (örneğin, Azure AD Connect kullandıysanız) Microsoft 365 iş aboneliğiniz varsa, lisansları şimdi onlara atamak için bir seçenek alın. Bu kullanıcılara da lisans ekleyerek işleme devam edin.
+1. Microsoft 365 Business aboneliğinizde mevcut kullanıcılar varsa (örneğin, Azure AD Connect'i kullandıysanız) artık onlara lisans atama seçeneğine sahip olabilirsiniz. Bu kullanıcılara da lisans ekleyerek işleme devam edin.
 
-3. Kullanıcıları ekledikten sonra kimlik bilgileri eklediğiniz yeni kullanıcıları ile paylaşmak için bir seçenek de alırsınız. Bunları yazdırabilir, e-posta ile gönderebilir veya indirebilirsiniz.
+3. Kullanıcıları ekledikten sonra, eklediğiniz yeni kullanıcılarla kimlik bilgilerini paylaşma seçeneği de alırsınız. Bunları yazdırabilir, e-posta ile gönderebilir veya indirebilirsiniz.
 
 4. E-posta iletilerini geçirmeyi atlayın ve **E-posta iletilerini geçir** sayfasında **İleri**'yi seçin. 
 
-    Eğer başka bir e-posta Sağlayıcısı'ndan taşıma ve verilerinizi daha sonra kopyalamak istediğiniz [geçiş e-posta ve kişiler Office 365'e](https://support.office.com/article/a3e3bddb-582e-4133-8670-e61b9f58627e)kaydedebilirsiniz.
+    Başka bir e-posta sağlayıcısından taşınıyorsanız ve verilerinizi daha sonra kopyalamak istiyorsanız, [e-posta ve kişileri Office 365'e geçirebilirsiniz.](https://support.office.com/article/a3e3bddb-582e-4133-8670-e61b9f58627e)
 
 
 ### <a name="connect-your-domain"></a>Etki alanınızı bağlama
 
 > [!NOTE]
-> .Onmicrosoft etki alanı kullanmayı seçtiniz veya Azure AD Connect kullanıcıları ayarlamak için kullanılan, bu adımı göremez.
+> .onmicrosoft etki alanını kullanmayı seçtiyseniz veya kullanıcıları ayarlamak için Azure AD Connect'i kullandıysanız, bu adımı görmezsiniz.
   
 Hizmetleri ayarlamak için DNS ana bilgisayarınızda veya etki alanı kayıt şirketinizde bazı kayıtları güncelleştirmeniz gerekir.
   
-1. Kurulum sihirbazı, genellikle kayıt şirketinizi algılar ve kayıt şirketinin web sitesinde NS kayıtlarınızı güncelleştirmek için adım adım yönergelere ulaşabileceğiniz bir bağlantı verir. Seçili değilse, [herhangi bir etki alanı Kaydedicisi ile Office 365 ayarlamak için değişiklik nameservers](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2). 
+1. Kurulum sihirbazı, genellikle kayıt şirketinizi algılar ve kayıt şirketinin web sitesinde NS kayıtlarınızı güncelleştirmek için adım adım yönergelere ulaşabileceğiniz bir bağlantı verir. Yoksa, [office 365'i herhangi bir etki alanı kayıt şirketiyle ayarlamak için ad sunucularını değiştirin.](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2) 
 
-    - Varolan bir web sitesi gibi varolan DNS kayıtları varsa, varolan Hizmetleri bağlı kalmak emin olmak için kendi DNS kayıtlarınızı yönetmek isteyeceksiniz. [Etki alanı temelleri](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics) daha fazla bilgi için bkz.
+    - Varolan DNS kayıtlarınız varsa, örneğin varolan bir web sitesi, ancak [etki alanı bağlantısı](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)için DNS ana bilgisayarınız etkinse, benim için kayıt **ekle'yi**seçin. 
+    - Diğer DNS ana bilgisayarlarıyla varolan DNS kayıtlarınız varsa (etki alanı bağlantısı için etkinleştirilmez), varolan hizmetlerin bağlı kalmasını sağlamak için kendi DNS kayıtlarınızı yönetmek istersiniz. Daha fazla bilgi için [etki alanı temellerine](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics) bakın.
 
-        ![Etki alanınızı Bağlan sayfası ben kendi DNS kayıtlarını yönetmek.](media/connectyourdomainpage.png)
+        ![Etki alanı sayfanızı kendi DNS kayıtlarımı yönetirim.](media/connectyourdomainpage.png)
 
-2. Sihirbazı'ndaki adımları izleyin ve e-posta ve diğer hizmetleri sizin için ayarlanır.
+2. Sihirbazve e-posta ve diğer hizmetler adımları izleyin sizin için ayarlanır.
 
 ### <a name="set-up-security-policies-and-device-configurations"></a>Güvenlik ilkeleri ve aygıt yapılandırmaları ayarlama 
 
-Sihirbazda ayarladığınız ilkeleri *Tüm kullanıcıları*adlı bir [güvenlik grubu](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) otomatik olarak uygulanır. Yönetim Merkezi için ilkeleri atamak için ek grupları da oluşturabilirsiniz.
+Sihirbazda ayarladığınız *ilkeler, Tüm Kullanıcılar*adlı bir [Güvenlik grubuna](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) otomatik olarak uygulanır. Ayrıca, yönetici merkezinde ilkeler atamak için ek gruplar oluşturabilirsiniz.
 
-1. **Çalışma dosyaları koruma aygıtları kaybolur veya çalınırsa,** **mobil cihazlarda iş dosyalarınızı korumak** üzerinde seçeneği varsayılan olarak seçilidir. **Kullanıcıların Office dosyalarını mobil aygıtlarda nasıl eriştiğini yönetmek**bırakma seçeneği vardır ve bu önerilir.
+1. Mobil **cihazlardaki iş dosyalarınızı koru** **seçeneği, aygıtlar kaybolduğunda veya çalındığında iş dosyalarını koruyun** seçeneği varsayılan olarak seçilir. **Kullanıcıların mobil cihazlardaki Office dosyalarına nasıl erişirlerini yönet'i**açma seçeneğiniz vardır ve bu önerilir.
 
-    ![Mobil aygıtlar sayfasında, ekran görüntüsü korumaya çalışma dosyaları.](media/protectworkfilesondevices.png)
+    ![Mobil cihazlar sayfasındaki çalışma dosyalarını koru ekran görüntüsü.](media/protectworkfilesondevices.png)
 
-     - **Çalışma dosyaları koruma aygıtları kaybolur veya çalınırsa,** [varsayılan değerleri](protect-work-files-on-lost-or-stolen-device.md)görüntülemek için genişlet:
+     - **Aygıtlar kaybolduğunda veya çalındığında varsayılan** [değerleri](protect-work-files-on-lost-or-stolen-device.md)görüntülemek için iş dosyalarını koruyun'u genişletin:
 
-        ![Ekran görüntüsü aygıtlarında kayıp dosyaları korumak için varsayılan değerler.](media/protectworkfilesondevicesdefault.png)
+        ![Kayıp aygıtlarda dosyaları korumak için varsayılan değerlerin ekran görüntüsü.](media/protectworkfilesondevicesdefault.png)
 
-    - **Kullanıcıların Office dosyalarını mobil aygıtlarda nasıl eriştiğini Yönet** ' i seçin ve [varsayılan değerlerini](manage-user-access-on-mobile-devices.md)görüntülemek için genişletin. Android, IOS ve Windows 10 uygulama ilkeleri oluşturmak için Kurulum sırasında tüm kullanıcılar için geçerli varsayılan değerleri kabul etmenizi öneririz. Kurulum tamamlandıktan sonra daha fazla ilke oluşturabilirsiniz.
+    - **Kullanıcıların mobil cihazlardaki Office dosyalarına nasıl eriştürün** ünü yönet'i seçin ve varsayılan [değerleri](manage-user-access-on-mobile-devices.md)görüntülemek için genişletin. Tüm kullanıcılar için geçerli olan Android, iOS ve Windows 10 için uygulama ilkeleri oluşturmak için kurulum sırasında varsayılan değerleri kabul etmenizi öneririz. Kurulum tamamlandıktan sonra daha fazla ilke oluşturabilirsiniz.
 
-        ![Mobile Office dosyaları için koruma ayarları ekran görüntüsü.](media/useraccessonmobile.png)
+        ![Mobil cihazlardaki Office dosyaları için koruma ayarlarının ekran görüntüsü.](media/useraccessonmobile.png)
 
-2. Son adımda, veri koruma ve aygıtları Windows 10 aygıtlar güvenli hale getirmek için ilkeler ayarlamanıza olanak sağlar. Kuruluşunuzda bir kullanıcının Windows 10 bağlandığında, bu ayarları otomatik olarak uygulanır. **Güvenli Windows 10 aygıtları** görmek ve [varsayılan değerlerini](secure-windows-10-devices.md)değiştirmek için genişletebilirsiniz.
-3. Windows 10 cihazlarda [Office otomatik olarak yüklemek](install-office-on-windows-10-during-setup.md) için seçebilirsiniz.
+2. Verileri ve aygıtları koruma konusundaki son adım, Windows 10 aygıtlarını korumak için ilkeler ayarlamanıza olanak tanır. Bu ayarlar, bir kullanıcının Windows 10'u kuruluşunuza bağlandığında otomatik olarak uygulanır. [Varsayılan değerleri](secure-windows-10-devices.md)görmek ve değiştirmek için Güvenli **Windows 10 aygıtlarını** genişletebilirsiniz.
+3. Office'i Windows 10 aygıtlarına [otomatik olarak yüklemeyi](install-office-on-windows-10-during-setup.md) de seçebilirsiniz.
 
-    ![Ekran görüntüsünü Windows 10 aygıt yapılandırma sayfası ayarlayın.](media/setwin10config.png)
+    ![Set Windows 10 aygıt yapılandırma sayfasının ekran görüntüsü.](media/setwin10config.png)
 
 
 
-## <a name="deploy-office-365-client-apps"></a>Office 365 istemci uygulamaları dağıtma
+## <a name="deploy-office-365-client-apps"></a>Office 365 istemci uygulamalarını dağıtma
 
-Otomatik olarak yedekleme kümesi sırasında Office uygulamaları yüklemek seçerseniz, kullanıcılar için Azure AD iş kimlik bilgilerini Windows aygıtlarına gelen oturum açtıktan sonra Windows 10 aygıtlarda apps yükleyecektir.
-Office mobile IOS veya Android aygıtları yüklemek için [Microsoft 365 iş kullanıcıları için mobil aygıtları ayarlayın](set-up-mobile-devices.md)bkz.
+Kurulum sırasında Office uygulamalarını otomatik olarak yüklemeyi seçtiyseniz, kullanıcılar windows aygıtlarından Iş kimlik bilgileriyle Azure AD'ye oturum açtıktan sonra uygulamalar Windows 10 cihazlarına yüklenir.
+Office'i mobil iOS veya Android cihazlara yüklemek [için](set-up-mobile-devices.md)bkz.
 
-Office ayrı olarak da yükleyebilirsiniz. [Bir PC veya Mac Office yükleme](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658) yönergeleri için bkz.
+Office'i tek tek yükleyebilirsiniz. Talimatlar için [Office'i pc'ye veya Mac'e yükleyin'](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658) e bakın.
