@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, SSS, sık sorulan sorular, yanıtlar, iş
 ms.date: 06/08/2018
-ms.openlocfilehash: 3ab99b402bf440cd0c113a87dc453ff388a5befb
-ms.sourcegitcommit: 91ff1d4339f0f043c2b43997d87d84677c79e279
+ms.openlocfilehash: e722cc117d967796f0063b20e3d117b36b179f3e
+ms.sourcegitcommit: 14624abb412b6a34138a6266c994bb9cae411ad9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2019
-ms.locfileid: "36982331"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37028417"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 İş Sık Sorulan Sorular
 
@@ -24,7 +24,7 @@ ms.locfileid: "36982331"
 ### <a name="what-is-microsoft-365-business"></a>Microsoft 365 İş nedir? 
 Microsoft 365, sınıfının en iyisi üretkenlik araçlarını, güvenliği ve küçük ve orta ölçekli işletmeler için cihaz yönetimi özelliklerini bir araya getiren entegre bir çözümdür. 
 
-**İş üretkenliği ve işbirliği araçlarının bütünsel bir kümesi** 
+**Bir dizi iş üretkenliği ve işbirliği araçları** 
 * Word, Excel, PowerPoint, Outlook, OneNote, Publisher ve Access 
 * Exchange, OneDrive, Skype for Business, Microsoft Teams, SharePoint 
 * Office'ten iş uygulamaları (Rezervasyonlar, Outlook Müşteri Yöneticisi, MileIQ<sup>[1](#footnote1)</sup>, Microsoft Faturalama<sup>[1](#footnote1)</sup>) 
@@ -118,11 +118,11 @@ Microsoft 365 Business'ın tüm özelliklerini deneyimlemek isteyen müşteriler
 Başarılı bir Microsoft 365 İş dağıtımına giden en doğrudan yol, bir Microsoft İş Ortağı ile etkileşimde bulunmaktır. Çok çeşitli müşteri senaryoları ile kapsamlı bir eğitim ve deneyime sahiptirler ve çevrenizi ve ihtiyaçlarınızı en iyi şekilde anlayacak donanıma sahiptirler. Bt'yi personel de deneyimleyen müşteriler, Microsoft 365 Business dağıtımlarında yardımcı olmak için <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">Microsoft 365 Business Getting'ı</a> kullanabilir. 
 
 ### <a name="does-microsoft-365-business-include-the-full-capabilities-of-microsoft-intune"></a>Microsoft 365 Business, Microsoft Intune'un tüm özelliklerini içeriyor mu? 
-Evet, Microsoft 365 Business aboneleri iOS, Android, MacOS ve diğer çapraz platform aygıt yönetimi için tam Intune özelliklerini kullanma lisansına sahipdir. Microsoft 365 Business'ta basitleştirilmiş yönetim konsolunda bulunmayan özellikler, üçüncü taraf uygulama yönetimi ve WiFi profilleri, VPN sertifikaları vb. yapılandırması gibi tam Intune konsolunda yönetilebilir. EMS lisansı kapsamındaki istemcileri yönetmek için Configuration Manager'ı kullanma hakkına sahipsiniz. SCCM ile ilgili sorgular için lütfen <a href="https://docs.microsoft.com/en-us/sccm/core/understand/product-and-licensing-faq#bkmk_csp" target="_blank">SCCM sss</a>
+Evet, Microsoft 365 Business aboneleri iOS, Android, MacOS ve diğer çapraz platform aygıt yönetimi için tam Intune özelliklerini kullanma lisansına sahipdir. Microsoft 365 Business'ta basitleştirilmiş yönetim konsolunda bulunmayan özellikler, üçüncü taraf uygulama yönetimi ve WiFi profilleri, VPN sertifikaları vb. yapılandırması gibi tam Intune konsolunda yönetilebilir. 
   
 
 ### <a name="does-azure-active-directory-premium-p1-come-with-microsoft-365-business"></a>Azure Active Directory Premium P1 Microsoft 365 Business ile birlikte geliyor mu? 
-Microsoft 365 Business, Microsoft'un dört bir yanından gelen teknoloji üzerine kuruludur ve azure Active Directory ile bazı özellikleri paylaşırken, tam sürüm değildir. Microsoft 365 Business'ta oluşturulan güvenlik ve yönetim ilkeleri bazı Azure işlevlerine dayanır, ancak tüm özellikleri içermez (örn. self servis özellikleri, koşullu erişim özellikleri ve raporlama). Müşteriler, Microsoft 365 Business'a eklenti olarak Azure Active Directory Premium P1 veya P2 satın almayı seçebilir. Daha fazla bilgi için lütfen [Microsoft 365 İş Hizmeti Açıklamasına](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148) bakın 
+Microsoft 365 Business, AD geri yazma, Azure MFA ve Koşullu Erişim ile Self Servis Parola sıfırlama gibi belirli Azure AD Premium P1 (AADP P1) özelliklerini içerir. AADP P1'in tamamını içermez. Daha fazla bilgi için lütfen [Microsoft 365 İş Hizmeti Açıklamasına](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148) bakın 
  
  
 ### <a name="does-microsoft-365-business-allow-customers-to-manage-macs"></a>Microsoft 365 Business müşterilerin Mac'leri yönetmesine izin veriyor mu? 
