@@ -18,33 +18,33 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
-description: Aygıt ilkeleri ve Eylemler Microsoft 365 iş genel yönetim credintials ile oturum açarak görüntüleyin.
-ms.openlocfilehash: 3231cfa61dcc85cda162b05f2c653048e980a8d9
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Genel yönetici ilkeleriyle Microsoft 365'te oturum imzalayarak aygıt ilkelerini ve eylemlerini görüntüleyin.
+ms.openlocfilehash: ea53276f4ee8430031105f2b9c516471c702e839
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072210"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121288"
 ---
-# <a name="view-and-manage-policies-and-devices"></a><span data-ttu-id="3e96f-103">İlkeleri ve aygıtları görüntülemek ve yönetmek</span><span class="sxs-lookup"><span data-stu-id="3e96f-103">View and manage policies and devices</span></span>
+# <a name="view-and-manage-policies-and-devices"></a><span data-ttu-id="c3120-103">İlkeleri ve cihazları görüntüleme ve yönetme</span><span class="sxs-lookup"><span data-stu-id="c3120-103">View and manage policies and devices</span></span>
 
-![Üzerine kapak https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+<span data-ttu-id="c3120-104">[![Yönetici merkezinin değiştiğini bildirmek için etiket ve aka.ms/aboutM365preview daha fazla ayrıntı bulabilirsiniz.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)</span><span class="sxs-lookup"><span data-stu-id="c3120-104">[![Label to let you know the admin center is changing and you can find more details at aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)</span></span>
 
-## <a name="view-and-edit-device-policies"></a><span data-ttu-id="3e96f-105">Aygıt ilkelerini görüntüleme ve düzenleme</span><span class="sxs-lookup"><span data-stu-id="3e96f-105">View and edit device policies</span></span>
+## <a name="view-and-edit-device-policies"></a><span data-ttu-id="c3120-105">Aygıt ilkelerini görüntüleme ve görüntüleme</span><span class="sxs-lookup"><span data-stu-id="c3120-105">View and edit device policies</span></span>
 
-1.  <span data-ttu-id="3e96f-106">Yönetim merkezinde mi <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.</span><span class="sxs-lookup"><span data-stu-id="3e96f-106">Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.</span></span>
-2. <span data-ttu-id="3e96f-107">**Aygıtlar** üzerinde sol nav, seçim \> **ilkeleri**.</span><span class="sxs-lookup"><span data-stu-id="3e96f-107">On the left nav, choose **Devices** \> **Policies**.</span></span>
+1.  <span data-ttu-id="c3120-106">'deki <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>yönetici merkezine gidin.</span><span class="sxs-lookup"><span data-stu-id="c3120-106">Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.</span></span>
+2. <span data-ttu-id="c3120-107">Sol daki gezinmede **Aygıt** \> **İlkeleri'ni**seçin.</span><span class="sxs-lookup"><span data-stu-id="c3120-107">On the left nav, choose **Devices** \> **Policies**.</span></span>
 
-    <span data-ttu-id="3e96f-108">Bu sayfada ilkeleri oluşturabilir, düzenleyebilir, silebilir veya ilkelerin hedef grubunu değiştirebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="3e96f-108">On this page you can create, edit, change target group, or delete a policy.</span></span>
+    <span data-ttu-id="c3120-108">Bu sayfada ilkeleri oluşturabilir, düzenleyebilir, silebilir veya ilkelerin hedef grubunu değiştirebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="c3120-108">On this page you can create, edit, change target group, or delete a policy.</span></span>
 
     ![Screenshot of the Policies page](media/devicepolicies.png)
   
-## <a name="view-and-manage-devices"></a><span data-ttu-id="3e96f-110">Görüntüleme ve aygıtları yönetme</span><span class="sxs-lookup"><span data-stu-id="3e96f-110">View and manage devices</span></span>
+## <a name="view-and-manage-devices"></a><span data-ttu-id="c3120-110">Cihazları görüntüleme ve yönetme</span><span class="sxs-lookup"><span data-stu-id="c3120-110">View and manage devices</span></span>
 
 
-1. <span data-ttu-id="3e96f-111">**Aygıtlar** üzerinde sol nav, seçim \> **Yönet**.</span><span class="sxs-lookup"><span data-stu-id="3e96f-111">On the left nav, choose **Devices** \> **Manage**.</span></span> 
+1. <span data-ttu-id="c3120-111">Sol daki gezinmede, **Aygıtları** \> **Yönet'i**seçin.</span><span class="sxs-lookup"><span data-stu-id="c3120-111">On the left nav, choose **Devices** \> **Manage**.</span></span> 
     
-    <span data-ttu-id="3e96f-p101">Bu sayfada bir veya daha cihaz seçerek şirket verilerini silebilirsiniz. Cihaz koruma ayarlarını yaptığınız Windows 10 cihazlarında, cihazı fabrika ayarlarına sıfırlamayı da seçebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="3e96f-p101">On this page you can select one or more devices and either remove company data. For Windows 10 devices that you have set device protections settings for, you can also choose to reset the device to factory settings.</span></span>
+    <span data-ttu-id="c3120-p101">Bu sayfada bir veya daha cihaz seçerek şirket verilerini silebilirsiniz. Cihaz koruma ayarlarını yaptığınız Windows 10 cihazlarında, cihazı fabrika ayarlarına sıfırlamayı da seçebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="c3120-p101">On this page you can select one or more devices and either remove company data. For Windows 10 devices that you have set device protections settings for, you can also choose to reset the device to factory settings.</span></span>
   
-   ![Sayfa aygıtları yönetme](media/devicesmanage.png)
+   ![Aygıtlar sayfasını yönetme](media/devicesmanage.png)
 
