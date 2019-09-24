@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, SSS, sık sorulan sorular, yanıtlar, iş
 ms.date: 06/08/2018
-ms.openlocfilehash: e722cc117d967796f0063b20e3d117b36b179f3e
-ms.sourcegitcommit: 14624abb412b6a34138a6266c994bb9cae411ad9
+ms.openlocfilehash: cc6cc924cf45fa19d7f91235515981b636abf77d
+ms.sourcegitcommit: bd17ee20da1685e5c660d5f99746c81c63a17b22
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37028417"
+ms.lasthandoff: 09/24/2019
+ms.locfileid: "37141519"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 İş Sık Sorulan Sorular
 
@@ -43,6 +43,9 @@ Microsoft 365, sınıfının en iyisi üretkenlik araçlarını, güvenliği ve 
 * Windows 10 bilgisayarlarına Office uygulamalarının otomatik olarak yüklenmesi 
 * Her zaman güncel Office + Windows 10 
 * Windows AutoPilot ile bilgisayarların kolaylaştırılmış dağıtımı
+
+**Koşullu Erişimi Etkinleştirme**
+- Microsoft 365 Kurumsal müşteriler, Azure portalındaki Azure Dizin ayarları aracılığıyla Koşullu Erişimi etkinleştirebilir. Koşullu Erişim ilkelerinin nasıl yapılandırılabildikleri hakkında daha fazla bilgi için lütfen [Koşullu erişim nedir](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)makalesine bakın.
 
 ### <a name="who-should-consider-adopting-microsoft-365-business"></a>Microsoft 365 Business'ı kimler benimsemeyi düşünmelidir? 
 Microsoft 365 Business, personelde çok az BT kaynağı olan ve Office 365'in sınıfının en iyisi üretkenlik ve işbirliği özellikleri isteyen küçük ve orta ölçekli müşteriler için, cihaz yönetimi ve güvenlik çözümleriyle birlikte oluşturulmuştür. iş verilerini korumak. Microsoft 365 Business müşterisi BT işlemlerini buluta taşımaya hazırdır ve hem şirket hem de çalışana ait cihazlardaki verilerin korunmasına yardımcı olmak için proaktif bir duruş sürdürmekle ilgilenir.
