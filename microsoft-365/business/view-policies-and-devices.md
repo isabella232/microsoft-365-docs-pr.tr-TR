@@ -18,33 +18,33 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
-description: Aygıt ilkeleri ve Eylemler Microsoft 365 iş genel yönetim credintials ile oturum açarak görüntüleyin.
-ms.openlocfilehash: 3231cfa61dcc85cda162b05f2c653048e980a8d9
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Genel yönetici ilkeleriyle Microsoft 365'te oturum imzalayarak aygıt ilkelerini ve eylemlerini görüntüleyin.
+ms.openlocfilehash: ea53276f4ee8430031105f2b9c516471c702e839
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072210"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121288"
 ---
-# <a name="view-and-manage-policies-and-devices"></a>İlkeleri ve aygıtları görüntülemek ve yönetmek
+# <a name="view-and-manage-policies-and-devices"></a>İlkeleri ve cihazları görüntüleme ve yönetme
 
-![Üzerine kapak https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+[![Yönetici merkezinin değiştiğini bildirmek için etiket ve aka.ms/aboutM365preview daha fazla ayrıntı bulabilirsiniz.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
-## <a name="view-and-edit-device-policies"></a>Aygıt ilkelerini görüntüleme ve düzenleme
+## <a name="view-and-edit-device-policies"></a>Aygıt ilkelerini görüntüleme ve görüntüleme
 
-1.  Yönetim merkezinde mi <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
-2. **Aygıtlar** üzerinde sol nav, seçim \> **ilkeleri**.
+1.  'deki <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>yönetici merkezine gidin.
+2. Sol daki gezinmede **Aygıt** \> **İlkeleri'ni**seçin.
 
     Bu sayfada ilkeleri oluşturabilir, düzenleyebilir, silebilir veya ilkelerin hedef grubunu değiştirebilirsiniz.
 
     ![Screenshot of the Policies page](media/devicepolicies.png)
   
-## <a name="view-and-manage-devices"></a>Görüntüleme ve aygıtları yönetme
+## <a name="view-and-manage-devices"></a>Cihazları görüntüleme ve yönetme
 
 
-1. **Aygıtlar** üzerinde sol nav, seçim \> **Yönet**. 
+1. Sol daki gezinmede, **Aygıtları** \> **Yönet'i**seçin. 
     
     Bu sayfada bir veya daha cihaz seçerek şirket verilerini silebilirsiniz. Cihaz koruma ayarlarını yaptığınız Windows 10 cihazlarında, cihazı fabrika ayarlarına sıfırlamayı da seçebilirsiniz.
   
-   ![Sayfa aygıtları yönetme](media/devicesmanage.png)
+   ![Aygıtlar sayfasını yönetme](media/devicesmanage.png)
 

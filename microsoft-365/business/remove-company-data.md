@@ -18,33 +18,33 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
-description: "Microsoft 365 iş kullanıcı aygıtları veya Windows PC'ler şirket verileri kaldırmak için nasıl kullanılacağını öğrenin. "
-ms.openlocfilehash: 804c8104dca4c9203f603346da2a746e36c23dcd
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: "Şirket verilerini kullanıcı aygıtlarından veya Windows bilgisayarlarından kaldırmak için Microsoft 365 Business'ı nasıl kullanacağınızı öğrenin. "
+ms.openlocfilehash: b9dc2d612ee1e63428526fc486a565cfd997e1ab
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074580"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121308"
 ---
 # <a name="remove-company-data-from-devices"></a>Şirket verilerini cihazlardan kaldırma
 
-![Üzerine kapak https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+[![Yönetici merkezinin değiştiğini bildirmek için etiket ve aka.ms/aboutM365preview daha fazla ayrıntı bulabilirsiniz.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 ## <a name="remove-company-data"></a>Şirket verilerini kaldırma
 
 Microsoft 365 İş'i kullanarak kullanıcılarınıza ait olan ve Microsoft 365 tarafından korunan [cihazlarda](app-protection-settings-for-android-and-ios.md) veya [Windows PC'lerinde](protection-settings-for-windows-10-devices.md) bulunan şirket verilerini kaldırabilirsiniz. **Cihazdan kaldırdığınız şirket verilerini daha sonra geri yükleyemezsiniz**. 
   
-1. Yönetim merkezinde mi <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+1. 'deki <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>yönetici merkezine gidin.
     
-2. **Aygıtlar** üzerinde sol nav, seçim\> **Yönet**.  
+2. Sol daki gezinmede, **Aygıtları** \> **Yönet'i**seçin.  
   
-3. **Yönet** sayfasında seçin veya aramak için bir kullanıcı kimin sahip verileri kaldırmak ve bir ad seçin. 
+3. **Yönet** sayfasında, kaldırmak istediğiniz verileri seçen veya arayan bir kullanıcı yı seçin ve adı seçin. 
     
-4. Sonraki bölmesindeki aygıt ya da aygıt **aygıtlar** listesinden seçin ve aygıtta aygıtı fabrika ayarlarına Sıfırla veya aygıtın türüne bağlı olarak şirket verileri kaldırmak açılan bölmesi seçebilirsiniz. 
+4. Bir sonraki bölmede, **Aygıtlar** listesinden aygıtı veya cihazları seçin ve açılan aygıt bölmesinden aygıtı fabrika ayarlarına sıfırlamayı veya aygıt türüne bağlı olarak şirket verilerini kaldırmayı seçebilirsiniz. 
     
     ![On the remove comapany data pane, select the device from which you want to remove the data.](media/resetorremove.png)
   
-5. **Onayla** onay bölmesinde seçin \> **Kapat**.
+5. Onay bölmesine, \> **Kapat'ı** **Onayla'yı** seçin.
     
 
 

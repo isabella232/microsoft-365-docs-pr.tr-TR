@@ -19,17 +19,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
-description: İşletmeniz için yeni Windows 10 aygıtları kurmak için Windows AutoPilot kullanmayı öğrenin.
-ms.openlocfilehash: 9a70978156fb26ac3aad08f1758b7ee125067d38
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: İşletmeniz için yeni Windows 10 aygıtları ayarlamak için Windows AutoPilot'u nasıl kullanacağınızı öğrenin.
+ms.openlocfilehash: ee4b4a9b06c08b8f9456822b680542665c27baf3
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072160"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121208"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>AutoPilot cihaz ve profilleri eklemek için adım adım kılavuzu kullanın.
 
-Windows AutoPilot, çalışanlarınıza vermediğiniz sürece bunlar üretken kullanılmak üzere hazır olacak şekilde işletmeniz için **Yeni** Windows 10 aygıtları belirlemek için kullanabilirsiniz.
+Windows AutoPilot'u işletmeniz için **yeni** Windows 10 aygıtları ayarlamak için kullanabilirsiniz, böylece çalışanlarınıza verdiğiniz anda verimli kullanıma hazır olurlar.
   
 ## <a name="device-requirements"></a>Cihaz gereksinimleri
 
@@ -41,17 +41,17 @@ Cihazların şu gereksinimleri karşılaması gerekir:
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>Cihaz ve profil oluşturmak için kurulum kılavuzunu kullanma
 
-![Üzerine kapak https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+[![Yönetici merkezinin değiştiğini bildirmek için etiket ve aka.ms/aboutM365preview daha fazla ayrıntı bulabilirsiniz.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 Henüz cihaz grubu veya profil oluşturmadıysanız başlamanın en iyi yolu adım adım kılavuzu kullanmaktır. Bununla birlikte, kılavuzu kullanmadan da [cihaz ekleyebilir](create-and-edit-autopilot-devices.md) ve bu cihazlara [profil atayabilirsiniz](create-and-edit-autopilot-profiles.md). 
   
-1. Yönetim merkezinde mi <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+1. 'deki <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>yönetici merkezine gidin.
 
-2. **Aygıtlar** üzerinde sol nav seçin \> **AutoPilot**.
+2. Sol navigasyon cihazlar \> **Otomatik Pilot** **seçin.**
 
-    ![Yönetim Merkezi'nde aygıtları ve AutoPilot seçin.](media/AutoPilot.png)
+    ![Yönetici merkezinde cihazları seçin ve sonra Otomatik Pilot.](media/AutoPilot.png)
   
-2. **AutoPilot** sayfasında **Kılavuzu Başlat**' a dokunun veya tıklatın.
+2. Otomatik **Pilot** sayfasında **Başlat kılavuzuna**tıklayın veya dokunun.
     
     ![Click Start guide for step-by-step instructions for Autopilot.](media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   

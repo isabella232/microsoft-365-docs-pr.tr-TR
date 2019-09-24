@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 iş güvenlik ve uyumluluk özellikleri
+title: Microsoft 365 İş güvenliği ve uyumluluk özellikleri
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -18,108 +18,108 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
-description: Microsoft 365 iş gelen güvenlik özellikleri hakkında bilgi edinin.
-ms.openlocfilehash: bd61ad3bf1b34635a7b80f1c9ccf63fa98d31915
-ms.sourcegitcommit: 274af83139ad7da3aa33366c3323d533d95c7db4
+description: Microsoft 365 Business ile birlikte gelen güvenlik özellikleri hakkında bilgi edinin.
+ms.openlocfilehash: 6b8fc215b95913e1beef3a3715119b947a7af406
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "35017532"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121168"
 ---
-# <a name="microsoft-365-business-security-and-compliance-features"></a>Microsoft 365 iş güvenlik ve uyumluluk özellikleri
+# <a name="microsoft-365-business-security-and-compliance-features"></a>Microsoft 365 İş güvenliği ve uyumluluk özellikleri
 
-Microsoft 365 iş PC'leri, telefonlar ve tabletler, verilerinizi korumanıza yardımcı olacak Basitleştirilmiş güvenlik özellikleri sunar.
+Microsoft 365 Business, bilgisayar, telefon ve tabletlerdeki verilerinizin korunmasına yardımcı olmak için basitleştirilmiş güvenlik özellikleri sunar.
     
-## <a name="microsoft-365-business-admin-center-security-features"></a>Microsoft 365 iş Yönetim Merkezi güvenlik özellikleri
+## <a name="microsoft-365-business-admin-center-security-features"></a>Microsoft 365 İş yönetici merkezi güvenlik özellikleri
 
-![Üzerine kapak https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+[![Yönetici merkezinin değiştiğini bildirmek için etiket ve aka.ms/aboutM365preview daha fazla ayrıntı bulabilirsiniz.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
-Bu özellikleri açma veya kapatma için basit bir yol sağlar Yönetim Merkezi'nde Microsoft 365 iş güvenlik özelliklerinin çoğunu yönetebilirsiniz. Yönetim Merkezi'nde aşağıdakileri yapabilirsiniz:
+Bu özellikleri açmak veya kapatmak için basitleştirilmiş bir yol sağlayan microsoft 365 İş güvenliği özelliklerinin çoğunu yönetici merkezinde yönetebilirsiniz. Yönetici merkezinde aşağıdakileri yapabilirsiniz:
   
   
-- [Android veya IOS cihazlar için uygulama yönetimi ayarlarını ayarlayın](app-protection-settings-for-android-and-ios.md) . 
+- [Android veya iOS aygıtları için uygulama yönetimi ayarlarını ayarlayın.](app-protection-settings-for-android-and-ios.md) 
     
-    Bu ayarlar, bir süre sonra etkin olmayan bir aygıttan dosyaları silme, iş dosyaları şifreleme, kullanıcıların bir PIN, vb ayarlamak gerektiren içerir.
+    Bu ayarlar arasında, belirli bir süre sonra etkin olmayan bir aygıttan dosyaları silme, iş dosyalarını şifreleme, kullanıcıların PIN ayarlamalarını gerektirmevb.
     
-- [Windows 10 aygıtlar için uygulama koruması ayarlarını ayarlayın](protection-settings-for-windows-10-devices.md) . 
+- [Windows 10 aygıtları için uygulama koruma ayarlarını ayarlayın.](protection-settings-for-windows-10-devices.md) 
     
-    Bu ayarlar, her iki şirket sahibi şirket veri veya kişisel olarak sahip olunan aygıtlar için uygulanabilir.
+    Bu ayarlar, hem şirkete ait hem de kişisel olarak sahip olunan aygıtlarda şirket verilerine uygulanabilir.
     
-- [Windows 10 aygıtlar için aygıt koruma ayarlarını belirleyin](protection-settings-for-windows-10-pcs.md) . 
+- [Windows 10 aygıtları için aygıt koruma ayarlarını ayarlayın.](protection-settings-for-windows-10-pcs.md) 
     
-    Bir aygıtı kaybolabilir veya çalınması durumunda verilerin korunmasına yardımcı olmak [BitLocker](https://go.microsoft.com/fwlink/p/?linkid=871405) şifrelemesi etkinleştir ve ransomware karşı gelişmiş koruma sağlamak üzere [Bu güvenlik açığından Windows koruma](https://go.microsoft.com/fwlink/p/?linkid=871404) sağlar. 
+    Bir aygıtın kaybolması veya çalınması durumunda verilerin korunmasına yardımcı olmak için [BitLocker](https://go.microsoft.com/fwlink/p/?linkid=871405) şifrelemesini etkinleştirebilir ve [Windows Exploit Guard'ın](https://go.microsoft.com/fwlink/p/?linkid=871404) fidye yazılımlarına karşı gelişmiş koruma sağlamasını sağlayabilirsiniz. 
     
 - [Cihazlardan şirket verilerini kaldırma](remove-company-data.md)
     
-    Bir aygıt kayıp, çalınmış, ya da bir çalışan, şirketten ayrılması uzaktan şirket verileri silme.
+    Bir aygıt kaybolursa, çalınırsa veya bir çalışan şirketinizden ayrılırsa şirket verilerini uzaktan silebilirsiniz.
     
-- [Fabrika ayarlarına sıfırlama Windows 10 aygıtlar](reset-devices-to-factory-settings.md) . 
+- [Windows 10 aygıtlarını fabrika ayarlarına sıfırlayın.](reset-devices-to-factory-settings.md) 
     
-    Aygıt koruma ayarları uygulanmış olan tüm Windows 10 aygıtları sıfırlayabilirsiniz.
+    Aygıt koruma ayarları uygulanan windows 10 aygıtlarını sıfırlayabilirsiniz.
     
 ## <a name="additional-security-features"></a>Ek güvenlik özellikleri 
 
-Gelişmiş özellikleri Microsoft 365 iş cyber tehditlere karşı İşinizin korunmasına ve önemli bilgilerin korunmasına yardımcı olmak kullanılabilir.
+Microsoft 365 Business'taki gelişmiş özellikler, işletmenizi siber tehditlere karşı korumanıza ve hassas bilgileri korumanıza yardımcı olmak için kullanılabilir.
   
-- **[Office 365 Gelişmiş tehdit koruması](https://support.office.com/article/e100fe7c-f2a1-4b7d-9e08-622330b83653)**
+- **[Office 365 Gelişmiş Tehdit Koruması](https://support.office.com/article/e100fe7c-f2a1-4b7d-9e08-622330b83653)**
     
-    Tehdit Koruması (ATP) Gelişmiş yardımcı iş karmaşık kimlik avı ve çalışan veya müşteri bilgilerini aşmaya tasarlanan ransomware saldırılara karşı koruyun. Özellikleri aşağıdakileri içerir:
+    Gelişmiş Tehdit Koruması (ATP), çalışan veya müşteri bilgilerini tehlikeye atmak üzere tasarlanmış gelişmiş kimlik avı ve fidye yazılımı saldırılarına karşı işletmenizi korumaya yardımcı olur. Özellikler şunlardır:
     
-  - Karmaşık eki tarama ve AI destekli analiz algılamak ve tehlikeli iletileri atmak için.
+  - Tehlikeli iletileri algılamak ve atmak için gelişmiş ek tarama ve AI destekli analiz.
     
-  - Kimlik avı düzeninin bir parçası olup olmadığını değerlendirmek için e-posta içindeki bağlantıları otomatik denetler. Bu, güvenli olmayan Web sitelerine erişmesini güvenli tutar.
+  - Kimlik avı düzeninin parçası olup olmadıklarını değerlendirmek için e-postadaki bağlantıların otomatik denetimleri. Bu, güvenli olmayan web sitelerine erişmenizi sağlar.
 
-- **[Azure portalındaki tüm yeteneklerini Intune](https://go.microsoft.com/fwlink/p/?linkid=871403)**
+- **[Azure portalında Intune'un tüm özellikleri](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
-    Azure Portal Yönetim Merkezi Yönetimi MacOS aygıtları, iPhone ve Android aygıtların yanı sıra, Windows için Gelişmiş aygıt yönetimi gibi ek güvenlik özelliklerini ayarlamak verir Intune erişme, Microsoft kullanılabilir değil 365 iş Yönetim Merkezi.
-- **Aynı [Koşullu erişim](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview) Azure AD P1 planı**
+    Azure portalındaki Intune yönetici merkezine erişmek, MacOS aygıtlarının yönetimi, iPhone ve Android aygıtlarının yanı sıra Microsoft tarafından kullanılamayan Windows için gelişmiş aygıt yönetimi gibi ek güvenlik özellikleri ayarlamanıza olanak tanır 365 İş yönetici merkezi.
+- **Azure AD P1 planıyla Aynı [Koşullu Erişim](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview)**
 
-    Koşullu erişim yardımcı olabilir kuruluşunuz oturumaçma Riskten korumak, girişimleri bir beklenmeyen bir ağ ya da yerel erişim, access form riskli aygıt türleri vb. çalışır. Birinci kimlik doğrulama tamamlandıktan ve erişim girişimi onaylanması ise, belirlemek için birinci kimlik doğrulama olaydan sinyalleri kullanan ilkeleri uygulanır koşullu erişim vermez veya f (ikinci form tanımı gibi) daha prova Gerekli.
+    Koşullu Erişim, kuruluşunuzun oturum açma riskine karşı korunmasına, beklenmeyen bir ağdan veya yerel olarak erişim girişimlerine, erişim girişimlerinin riskli aygıt türleri oluşturmasına ve benzeri nedenlerle korunmasına yardımcı olabilir. Koşullu Erişim ilkeleri ilk kimlik doğrulama tamamlandıktan sonra uygulanır ve girişimde bulunulması onaylanması, reddedilmesi veya f daha fazla kanıt (ikinci kimlik biçimi gibi) olup olmadığını belirlemek için ilk kimlik doğrulama olayından gelen sinyalleri kullanır Gerekli.
 
-    Koşullu erişim özelliği şunlardır:
+    Koşullu erişim özellikleri şunlardır:
 
-    - Kullanıcı adı, Grup ve role dayalı erişim
-    - Erişim [tabanlı bir uygulama üzerinde](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) 
-    - [Konumuna erişim dayalı](https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration);  yalnızca güvenilen IP aralıkları veya belirli ülkelerde erişime izin ver 
-    - MFA erişmesi için
-    - [Eski kimlik doğrulamasını](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication) kullanan uygulamalar erişimi engelleme
-    - Apps tp [Intune app koruma](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access) kullanması
-    - Üçüncü taraf sağlayıcılar, örneğin DUO ile özel kimlik doğrulama MFA gibi.
+    - Kullanıcı adına, gruba ve role göre erişim
+    - [Bir uygulamaya dayalı](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) erişim 
+    - [Konuma göre erişim](https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration);  yalnızca güvenilir IP aralıklarından veya belirli ülkelerden erişime izin 
+    - Erişim için MFA gerektirir
+    - [Eski kimlik doğrulaması](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication) kullanan uygulamalara erişimi engelleme
+    - Uygulamalar tp kullanımı [Intune uygulama koruması](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access) gerektirir
+    - Örneğin DUO, üçüncü taraf sağlayıcılarla MFA gibi özel kimlik doğrulaması.
    
     Diğer özellikler:
-    - Karma Azure AD için [kendi kendine parola sıfırlama](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-customization)
+    - Karma Azure AD için [self servis parola sıfırlama](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-customization)
     
-## <a name="compliance-features"></a>Uyumluluk Özellikleri
+## <a name="compliance-features"></a>Uyumluluk özellikleri
 
-Microsoft 365 abonelik içeren iş özellikleri uyumluluk ve yasal standartlara tutmak yardımcı olacak.
+Microsoft 365 Business aboneliğiniz, uyumluluk ve düzenleme standartlarını korumanıza yardımcı olan özellikler içerir.
 
-- **[Veri kaybını önleme İlkeleri'ne genel bakış](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
+- **[Veri kaybını önleme politikalarına genel bakış](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
     
-    Yanlışlıkla kendi önlemek için kredi kartı numaraları, sosyal güvenlik numaraları, vb. gibi hassas bilgileri otomatik olarak algılayacak şekilde DLP ayarlayabilirsiniz, şirket dışına paylaşımı.
+    Kredi kartı numaraları, sosyal güvenlik numaraları, vb. gibi hassas bilgileri şirketiniz dışında yanlışlıkla paylaşmalarını önlemek için otomatik olarak algılamak için DLP'yi ayarlayabilirsiniz.
     
 - **[Exchange Online Arşivleme](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)**
     
-    Sürekli veri yedekleme ile kolayca arşivlenecek iletileri Exchange Online arşivleme lisans sağlar. Bir kullanıcının e-postalar, daha sonra bulma veya geri yükleme işlemi için gereken yerlere durumunda silinmiş öğeleri de dahil olmak üzere tüm depolar. Ayrıca, farklı bir bekletme ilkeleri dava ayrı tutma, eBulma, e-posta verileri korumak için ya da uyumluluk gereksinimlerini karşılamak üzere kullanabilirsiniz.
+    Exchange Online Arşivleme lisansı, iletilerin sürekli veri yedekleme ile kolayca arşivlemesini sağlar. Daha sonra keşif veya geri yükleme için ihtiyaç duyulması durumunda, silinen öğeler de dahil olmak üzere kullanıcının tüm e-postalarını saklar. Ayrıca, e-posta verilerini dava tutma, eDiscovery veya uyumluluk gereksinimlerini karşılamak için korumak için farklı saklama ilkeleri kullanabilirsiniz.
     
-- **[Azure bilgi koruma](https://go.microsoft.com/fwlink/p/?linkid=871406)**
+- **[Azure Bilgi Koruması](https://go.microsoft.com/fwlink/p/?linkid=871406)**
     
-    Bilgi koruma yardımcı olan denetimleri gibi hassas bilgileri e-posta ve belgeler erişimi denetlemek "ileriye doğru olmayan" ve "kopyalamayın." Hassas bilgileri "Gizli" olarak sınıflandırmak ve nasıl dışında sınıflandırılmış bilgi paylaşılabilir ve işletme içinde belirtin. Kurumsal seviyede şifreleme bilgilerinizin gizliliğini sağlamak için belgeleri ve e-posta uygulamak kolaydır. 365 iş Microsoft [Azure bilgi koruma planı 1](https://go.microsoft.com/fwlink/p/?linkid=871407)' in tüm özellikleri içerir. Azure bilgi koruma istemci eklentisi Office uygulamaları yükleyebilirsiniz. Daha fazla ayrıntı için [Azure bilgi koruma istemci Yönetici Kılavuzu'na](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide)bakın.
+    Bilgi koruması, e-posta ve belgelerdeki hassas bilgilere erişimi "İdem etmeyin" ve "Kopyalamayın" gibi denetimlerle kontrol etmemenize yardımcı olur. Ayrıca hassas bilgileri "Gizli" olarak sınıflandırabilir ve gizli bilgilerin işletmenin dışında ve içinde nasıl paylaşılabileceğini belirtebilirsiniz. Bilgilerinizi gizli tutmak için e-posta ve belgelere kurumsal sınıf şifreleme uygulamak kolaydır. Microsoft 365 Business, [Azure Bilgi Koruma Planı 1'in](https://go.microsoft.com/fwlink/p/?linkid=871407)tüm özelliklerini içerir. Office uygulamaları için Azure Bilgi Koruması istemci eklentisini de yükleyebilirsiniz. Daha fazla bilgi için [Azure Bilgi Koruması istemci yöneticisi kılavuzuna](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide)bakın.
 
-Bu güvenlik özellikleri yönetebilirsiniz &amp; Uyumluluk Merkezi ve Intune Yönetim Merkezi. Zamanla Basitleştirilmiş denetimleri Microsoft 365 iş yönetim merkezine eklenecektir.
+Bu özellikleri Güvenlik &amp; Uyumluluğu merkezinde ve Intune yönetici merkezinde yönetebilirsiniz. Zamanla basitleştirilmiş denetimler Microsoft 365 Business yönetici merkezine eklenir.
   
     
 ## <a name="faq"></a>SSS
 
- ### <a name="are-these-security-features-available-in-all-markets"></a>Bu güvenlik özelliklerinin tüm pazarlarda kullanılabilir mi?
+ ### <a name="are-these-security-features-available-in-all-markets"></a>Bu güvenlik özellikleri tüm pazarlarda kullanılabilir mi?
   
-Evet, bu özellikler Microsoft 365 iş nerede satıldığı tüm pazarlarda kullanılabilir.
+Evet, bu özellikler Microsoft 365 Business'ın satıldığı tüm pazarlarda kullanılabilir.
   
-### <a name="how-do-i-find-the-security-amp-compliance-center"></a>Güvenlik nasıl bulabilirim &amp; Uyumluluk Merkezi?
+### <a name="how-do-i-find-the-security-amp-compliance-center"></a>Güvenlik &amp; Uyumluluk merkezini nasıl bulabilirim?
   
-1. Yönetici kimlik bilgilerinizi kullanarak [Microsoft 365 iş için oturum açın](https://portal.microsoft.com/) . 
+1. Yönetici kimlik bilgilerinizi kullanarak [Microsoft 365 Business'ta oturum açın.](https://portal.microsoft.com/) 
     
-2. Sol nav **Yönetim Merkezleri** bulun ve genişletin. 
+2. Sol navigasyonda, **Yönetici merkezlerini** bulun ve genişletin. 
     
-    ![Microsoft 365 Yönetim Merkezi sol nav uygulamasında yönetim merkezlerini seçin.](media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
+    ![Microsoft 365 yönetici merkezindeki sol gezinmede Yönetici merkezlerini seçin.](media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
-3. Seçin **Güvenlik &amp; uyum** güvenlik için gitmek için &amp; Uyumluluk Merkezi.
+3. Güvenlik uyumluluk merkezine gitmek &amp; için **Güvenlik &amp; Uyumluluğu'ni** seçin.

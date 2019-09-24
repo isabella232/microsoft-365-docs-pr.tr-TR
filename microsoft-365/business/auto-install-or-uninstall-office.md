@@ -19,17 +19,17 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: cbc6bfe5-565a-4fb8-95f0-b06e7b74ac46
-description: "Yüklemek veya Windows 10 aygıtlarda Microsoft 365 iş Yönetim Merkezi'nden Office yüklemesini kaldırın. "
-ms.openlocfilehash: 1e962f51882ddfd97da566858a0a1e6fb56ecbb8
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: "Microsoft 365 Business yönetici merkezinden Windows 10 cihazlarına Office'i yükleyin veya kaldırın. "
+ms.openlocfilehash: 70fd2f1ded87e04f506b1ba415c820af5d535938
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34071970"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121268"
 ---
 # <a name="automatically-install-or-uninstall-office-on-windows-10-devices"></a>Windows 10 cihazlarında Office'i otomatik olarak yükleme veya kaldırma
 
-![Üzerine kapak https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+[![Yönetici merkezinin değiştiğini bildirmek için etiket ve aka.ms/aboutM365preview daha fazla ayrıntı bulabilirsiniz.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 Microsoft 365 İş yönetim merkezinden, Windows 10 bilgisayarlarına Office'i hızla ve kolayca yükleyebilirsiniz.
   
@@ -40,7 +40,7 @@ Daha önce yüklenmiş Office uygulamaları olduğunda bu işlemin nasıl çalı
 1. Genel yönetici kimlik bilgileriyle [yönetim merkezinde](https://aka.ms/bcsportal) oturum açın. 
     
 2. **Cihazlar** kartında **Office Dağıtımını Yönet**'i seçin.
-      **Aygıt Eylemler** kartı görmüyorsanız Yönetim Merkezi **Giriş** sayfasında admin evinizin eklemek için **Ekle** (+) tıklatın.
+      Yönetici merkezi **Giriş** sayfasında **Cihaz eylemleri** kartını görmüyorsanız, yönetici evinize eklemek için **Ekle** (+) seçeneğini tıklatın.
     
     ![Screenshot of the Devices card in the admin center](media/9982e784-dbf9-4a76-a159-bb3e2e5aa23f.png)
   
