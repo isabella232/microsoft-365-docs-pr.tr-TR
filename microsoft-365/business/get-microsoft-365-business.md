@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 iş ortağı Merkezi'nden edinin
+title: Microsoft 365 Business'ı iş ortağı merkezinden alın
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -10,22 +10,18 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
-description: Microsoft Partner Center'dan Microsoft 365 iş satın öğrenin.
-ms.openlocfilehash: 61e178b73c83880aab22336814dd9dc7fca046a5
-ms.sourcegitcommit: 64a7511d8c5ef527673b4c05753e6bb52ce9ab86
+description: Microsoft İş Ortağı Merkezi'nden Microsoft 365 Business'ı nasıl satın alabildiğini öğrenin.
+ms.openlocfilehash: 27f0b291861959c7fe925f5c72698895999d65f8
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35114952"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287805"
 ---
 # <a name="get-microsoft-365-business"></a>Microsoft 365 İş'i edinme
 
@@ -33,9 +29,9 @@ ms.locfileid: "35114952"
 
 İş ortağınız yoksa ve Microsoft 365 İş'i edinmek istiyorsanız, [buradan satın alabilirsiniz](https://www.microsoft.com/en-US/microsoft-365/business).
 
-Ayrıntılı yönergeler için [Microsoft 365 işletmeler için kaydolun](sign-up.md) bakın.
+Ayrıntılı talimatlar için [Microsoft 365 Business'a kaydolun.](sign-up.md)
 
-Siz de üzerinden hem Microsoft 365 iş satın almak ve kurulum yardımı almak için bir [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) head.
+Ayrıca, hem Microsoft 365 Business satın almak hem de kurulum yardımı almak için bir [Microsoft Mağazası'na](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) gidebilirsiniz.
   
 ## <a name="get-microsoft-365-business-from-microsoft-partner-center"></a>Microsoft 365 Business'ı Microsoft İş Ortağı Merkezi'nden edinme
 

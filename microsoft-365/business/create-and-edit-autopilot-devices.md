@@ -11,23 +11,19 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
-description: 365 işletmede AutoPilot kullanan aygıtları yüklemek nasıl öğrenin. Bir aygıt ya da aygıt grubu için bir profil atayabilirsiniz.
-ms.openlocfilehash: dee77a014ef519f3487a082edc3cf81058ec1c00
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Microsoft 365 Business'ta Otomatik Pilot'u kullanarak cihazları nasıl yükleyin öğrenin. Bir aygıta veya aygıt grubuna profil atayabilirsiniz.
+ms.openlocfilehash: 9ae94266f5a41d8d115fc92f0f080a6fdbdc9f15
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34071650"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288025"
 ---
 # <a name="create-and-edit-autopilot-devices"></a>AutoPilot cihazlarını oluşturma ve düzenleme
 
@@ -41,13 +37,13 @@ Cihazların şu gereksinimleri karşılaması gerekir:
     
 - Windows ilk çalıştırma deneyimi uygulanmamış olan yeni cihazlar.
 
-1. Microsoft 365 iş Yönetim Merkezi'nde **cihaz** seçmenizi \> **AutoPilot**.
+1. Microsoft 365 Business Admin merkezinde, **Cihazlar** \> **Otomatik Pilot'u**seçin.
   
-2. **AutoPilot** sayfasında, **aygıtlar** sekmesini seçin \> **Ekle aygıtları**.
+2. Otomatik **Pilot** sayfasında, **Aygıtlar** \> sekmesini seçin **aygıtlar ekle.**
     
     ![In the Devices tab, choose Add devices.](media/6ba81e22-c873-40ad-8a72-ce64d15ea6ba.png)
   
-3. Hazırladığınız bir [aygıt listesi CSV dosyası](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e) **Ekle aygıtları** panelde göz \> **kaydetmek** \> **Kapat**.
+3. Aygıt **ekle** panelinde, \> **Kaydet** \> **Kapat'ı**kaydet'i hazırladığınız [Aygıt listesi CSV dosyasına](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e) göz atın.
     
     Bu bilgileri donanım satıcınızdan alabilir veya csv dosyasını oluşturmak için [Get-WindowsAutoPilotInfo PowerShell betiğini](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) kullanabilirsiniz. 
     

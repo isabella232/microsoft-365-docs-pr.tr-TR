@@ -1,5 +1,5 @@
 ---
-title: 365 Microsoft Business genel bakış
+title: Genel Bakış Microsoft 365 İş
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -11,24 +11,20 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
-description: Microsoft 365 iş öğrenin.
-ms.openlocfilehash: 64cfa460311af6cdafb637ceb3415511e003e394
-ms.sourcegitcommit: dd0d99d2ff930cd1777d6704f4d88a70adc9ca74
+description: Microsoft 365 Business'ı ayarlamayı öğrenin.
+ms.openlocfilehash: 8568232eb65485f1e016342bb13de9a07f706c00
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35853159"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288545"
 ---
-# <a name="overview-of-microsoft-365-business"></a>365 Microsoft Business genel bakış
+# <a name="overview-of-microsoft-365-business"></a>Microsoft 365 Business'a Genel Bakış
 
 ## <a name="what-is-microsoft-365-business"></a>Microsoft 365 İş nedir?
 
@@ -36,29 +32,29 @@ Microsoft 365 İş, sürekli güncelleştirilen Outlook, Word, Excel ve diğer O
   
 Microsoft 365 İş 300 lisansa kadar yöneliktir, daha fazla lisansa ihtiyacınız varsa daha fazla bilgi için [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) belgelerine göz atın.
 
-[Hizmet açıklaması Microsoft 365 iş](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) tüm özelliklerin listesi için bkz.
+Tüm özellikler listesi için [Microsoft 365 İş hizmeti açıklamasına](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) bakın.
   
-## <a name="small-business-security-needs"></a>Küçük iş güvenliği gereksinimlerini
+## <a name="small-business-security-needs"></a>Küçük işletme güvenlik ihtiyaçları
 
-Birçok bakımdan iş verilerinizi tehlikeye girebilir. Ele geçirilen kimlik bilgilerini veya görünümü kuruluşun verileri farklı aygıtlar ve uygulamalar üzerinde oturum, siz ve Kullanıcılarınız kuruluşunuzun güvenliğini tehlikeye sokabilir. Daha özel olarak, kuruluşunuzun etkilenir:
+İş verileriniz birçok şekilde tehlikeye atılabilir. Siz ve kullanıcılarınız, gizliliği ihlal edilen kimlik bilgileriyle oturum açtığınızda veya farklı aygıtlarda ve uygulamalarda kuruluş verilerini görüntülediğinizde kuruluşunuzun güvenliğini tehlikeye atabilirsiniz. Daha ayrıntılı olarak, kuruluşunuz şu nedenlerden dolayı risk altındadır:
 
-1. Zayıf veya ele geçirilen oturum açma kimlik.
-2. Zayıf bir PIN veya kullanıcı güvenliği aşılan aygıtla aygıt aittir.
-3. Kullanıcılar kişisel apps için kuruluşunuzun veri kopyala/yapıştır/Kaydet yapabilirsiniz.
-4. Yükleyin ve zayıf güvenlik ile 3<sup>rd</sup> taraf uygulamalar kullanan kullanıcılar.
-5. Hassas veri paylaşımı da dahil olmak üzere e-posta güvenlik açıkları kimlik avı çalışır, kötü amaçlı yazılım, vs.
-6. Ne zaman gerekir değil, kişilerin hassas bilgiler içeren belgeleri erişebilir.
+1. Gizliliği ihlal edilen veya zayıf oturum açma kimlik bilgileri.
+2. Zayıf bir pime sahip bozulmuş aygıt veya kullanıcıya ait bir aygıt.
+3. Kuruluşunuzun verilerini kişisel uygulamalara kopyala/yapıştırabilen/kaydedebilen kullanıcılar.
+4. Güvenlik leri zayıf olan<sup>3.</sup>
+5. Hassas verilerin paylaşılması, kimlik avı girişimleri, kötü amaçlı yazılımlar vb. dahil olmak üzere e-posta güvenlik açıkları
+6. Olmaması gereken kişiler, hassas bilgilere sahip belgelere erişebilir.
 
-Microsoft 365 iş verilerinizi bu durumların her birinde güvenceye almanıza yardımcı olur. İş verilerinizi korumak güvenlik özellikleri aşağıdaki şekilde ayrıntılı olarak belirtilir.
+Microsoft 365 Business, bu örneklerin her birinde verilerinizin korunmasına yardımcı olur. İş verilerinizi koruyan güvenlik özellikleri aşağıdaki şekilde ayrıntılı olarak açıklanmaktadır.
 
-![M365B işinizi nasıl koruduğunu gösteren şekil.](media/m365businessvalueadd.png)
+![M365B'nin işletmenizi nasıl koruduğunun bir figürü.](media/m365businessvalueadd.png)
 
-Güvenlik özelliklerinin tam listesini görmek için bkz: [Microsoft 365 iş güvenlik özellikleri](security-features.md). Sonra [Microsoft 365 iş ayarlamanız](set-up.md), Kur'un bir parçası olarak dahil olmayan güvenlik özellikleri kullanmaya başlamak için [Gelişmiş güvenlik ilkelerini kurun](set-up-advanced-security.md) görürsünüz. Ayrıca [Office 365 ve Microsoft 365 iş planları güvenliğini sağlamak için ilk 10 yolu](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) cyber suçlular ve bilgisayar korsanlarına karşı korumaları kurma konusunda iyi bir Genel Bakış makalesini okuyun.
+Güvenlik özelliklerinin tam listesini görmek için [Microsoft 365 İş güvenlik özelliklerine](security-features.md)bakın. Microsoft [365 Business'ı ayarladıktan](set-up.md)sonra [bkz.](set-up-advanced-security.md) Ayrıca, siber suçlulara ve bilgisayar korsanlarına karşı korumalar nasıl ayarlanıncaya ilişkin iyi bir genel bakış için [Office 365 ve Microsoft 365 İş planlarını güvence altına almanın en iyi 10 yolunu](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) da okuyun.
 
 ## <a name="get-microsoft-365-business"></a>Microsoft 365 İş'i edinme
 
 - İş ortağınız varsa, onlar da Microsoft 365 İş ürününü alır: [Microsoft 365 İş'i Microsoft İş Ortağı Merkezi'nden alma](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
 
-- Bir ortağı varsa ve Microsoft 365 iş almak istediğiniz yoksa, [Buraya satın](https://www.microsoft.com/microsoft-365/business) olabilir ve [kaydolun](sign-up.md) yönergeleri izleyin.
+- Bir iş ortağınız yoksa ve Microsoft 365 Business'ı almak istiyorsanız, [buradan satın alabilir](https://www.microsoft.com/microsoft-365/business) ve [kaydolma](sign-up.md) yönergelerini takip edebilirsiniz.
 
-- Siz de üzerinden hem Microsoft 365 iş satın almak ve kurulum yardımı almak için bir [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) head.
+- Ayrıca, hem Microsoft 365 Business satın almak hem de kurulum yardımı almak için bir [Microsoft Mağazası'na](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) gidebilirsiniz.

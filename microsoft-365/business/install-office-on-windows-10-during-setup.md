@@ -10,27 +10,23 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
-description: Şimdi otomatik olarak Office 10 Windows aygıtlarına Kurulum sırasında dağıtmayı öğrenin.
-ms.openlocfilehash: 10d1b14fdc1d4cf937bfe29c51525b0bf2f1a2e7
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Kurulum sırasında Office'i Windows 10 aygıtlarına otomatik olarak dağıtmayı şimdi öğrenin.
+ms.openlocfilehash: b924cf148bbd765d9ef5265853f1354f5cd5db0e
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074000"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288185"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>Kurulum sırasında Windows 10'da Office'i yükleme
 
-![Üzerine kapak https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+![Banner bu https://aka.ms/aboutM365previewişaret .](media/m365admincenterchanging.png)
 
 Bu ayar varsayılan olarak kapalıdır. Kullanıcıların tüm Windows 10 cihazlarında Office'in en son sürümüne sahip olduklarından emin olmak için bu ayarı açabilirsiniz ama önce tüm önkoşulların karşılandığından emin olmanız gerekir. Bu ayarın yazılımı cihaza iletmesi için kullanıcıların [Microsoft 365 İş tarafından Office istemci dağıtımı hazırlığı](prepare-for-office-client-deployment.md) alanında açıklanan diğer gereksinimlere ek olarak Microsoft 365 İş lisansına da sahip olması gerekir. 
   

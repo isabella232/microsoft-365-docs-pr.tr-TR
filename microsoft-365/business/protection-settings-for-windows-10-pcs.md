@@ -10,21 +10,18 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: bd66c26c-73a4-45a8-8642-3ea4ee7cd89d
-description: Varsayılan Windows 10 aygıtları güvenliğini sağlamak için Microsoft 365 işletmede bulunan diğer ayarlar hakkında bilgi edinin.
-ms.openlocfilehash: 844bddc4b93c7dc543ad6c6a79f5cf92c96ceff0
-ms.sourcegitcommit: 0c1227dc79b66bab529bf178c5672791369ba471
+description: Windows 10 aygıtlarını güvenli hale getirmek için Microsoft 365 Business'ta varsayılan ve diğer ayarlar hakkında bilgi edinin.
+ms.openlocfilehash: 11042a63c1c0938d73ee8c2ee4326430af31b92d
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/11/2019
-ms.locfileid: "35630619"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288695"
 ---
 # <a name="set-device-protection-settings-for-windows-10-pcs"></a>Windows 10 PC'lere yönelik cihaz koruma ayarlarını belirleme
 
@@ -34,9 +31,9 @@ Microsoft 365 İş ile Windows 10 cihazlarının güvenliğini sağlama hakkınd
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/a5734146-620a-4cec-8618-536b3ca37972?autoplay=false]
   
-1. Yönetim merkezinde mi <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
+1. 'deki <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>yönetici merkezine gidin. 
     
-2. **Aygıtlar** üzerinde sol nav, seçim \> **ilkeleri** \> **Ekle**.
+2. Sol daki gezinmede, **Aygıt** \> **İlkeleri** \> **Ekle'yi**seçin.
   
 3. **İlke ekle** bölmesinde bu ilke için benzersiz bir ad girin. 
     

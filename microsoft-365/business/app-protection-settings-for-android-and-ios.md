@@ -11,38 +11,34 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
-description: Oluşturmak, düzenlemek veya bir uygulama yönetimi ilkesini silin ve Android veya IOS cihazlarda çalışma dosyaları korumak öğrenin.
-ms.openlocfilehash: 21cc1d91c2952c6e9414d3742c26547fc36016a5
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Android veya iOS cihazlardaki çalışma dosyalarını nasıl oluşturup, düzenlemeyi veya silmeyi ve çalışma dosyalarını nasıl koruyacağınızı öğrenin.
+ms.openlocfilehash: 68a338ffb4f9b6cab16c677f80d27481ccec4bd8
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34073520"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287705"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Android veya iOS cihazlara yönelik uygulama koruma ayarlarını belirleme
 
-![Üzerine kapak https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+![Banner bu https://aka.ms/aboutM365previewişaret .](media/m365admincenterchanging.png)
 
 ## <a name="create-an-app-management-policy"></a>Uygulama yönetimi ilkesi oluşturma
 
-1. Yönetim merkezinde mi <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
+1. 'deki <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>yönetici merkezine gidin. 
     
-2. Sol nav uygulamasında, **cihaz** seçmenizi \> **ilkeleri** \> **Ekle**.
+2. Sol gezinmede, \> **Aygıtİlkeleri** \> **Ekle'yi**seçin. ****
   
 3. **İlke ekle** bölmesinde bu ilke için benzersiz bir ad girin. 
     
 4. **İlke türü**'nün altında, oluşturmak istediğiniz ilke grubuna bağlı olarak **Android için Uygulama Yönetimi**'ni veya **iOS için Uygulama Yönetimi**'ni seçin. 
     
-5. Expand **Protect work files when devices are lost or stolen** and **Manage how users access Office files on mobile devices** \> configure the settings how you would like. The **Manage how users access Office files on mobile devices** is **Off** by default, but it is recommended that you turn it **On** and accept the default values. Daha fazla bilgi için bkz: [kullanılabilir ayarları](#available-settings) . 
+5. Expand **Protect work files when devices are lost or stolen** and **Manage how users access Office files on mobile devices** \> configure the settings how you would like. The **Manage how users access Office files on mobile devices** is **Off** by default, but it is recommended that you turn it **On** and accept the default values. Daha fazla bilgi için [kullanılabilir ayarlara](#available-settings) bakın. 
     
     Varsayılan ayarlara geri dönmek için istediğiniz zaman **Varsayılan ayarlara sıfırla** seçeneğini kullanabilirsiniz. 
     
@@ -54,7 +50,7 @@ ms.locfileid: "34073520"
     
 ## <a name="edit-an-app-management-policy"></a>Uygulama yönetimi ilkesini düzenleme
 
-1. **İlkeleri** kartında **ilkesini Düzenle**' yi seçin.
+1. **İlkeler** kartında, **politikayı edit'i**seçin.
     
 2. **İlkeyi düzenle** bölmesinde değiştirmek istediğiniz ilkeyi seçin. 
     
@@ -64,9 +60,9 @@ ms.locfileid: "34073520"
     
 ## <a name="delete-an-app-management-policy"></a>Uygulama yönetimi ilkesini silme
 
-1. **İlkeleri** sayfasında, bir ilke ve sonra **Sil**seçin.
+1. **İlkeler** sayfasında bir ilke seçin ve sonra **silin.**
     
-2. **İlke Sil** bölmesinde **Onayla** ilke veya seçtiğiniz ilkelerini silmek için seçin. 
+2. Silme **ilkesi** bölmesinde seçtiğiniz ilke veya ilkeleri silmek için **Onayla'yı** seçin. 
     
 ## <a name="available-settings"></a>Kullanılabilir ayarlar
 

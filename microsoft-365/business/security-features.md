@@ -10,21 +10,18 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-security-compliance
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Microsoft 365 Business ile birlikte gelen güvenlik özellikleri hakkında bilgi edinin.
-ms.openlocfilehash: 6b8fc215b95913e1beef3a3715119b947a7af406
-ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
+ms.openlocfilehash: 8e45d5fdb6a78f3966c46542189aa30ddd80998e
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37121168"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288465"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Microsoft 365 İş güvenliği ve uyumluluk özellikleri
 
@@ -93,7 +90,7 @@ Microsoft 365 Business'taki gelişmiş özellikler, işletmenizi siber tehditler
 
 Microsoft 365 Business aboneliğiniz, uyumluluk ve düzenleme standartlarını korumanıza yardımcı olan özellikler içerir.
 
-- **[Veri kaybını önleme politikalarına genel bakış](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
+- **[Veri kaybıönleme ilkelerine](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP) genel bakış. 
     
     Kredi kartı numaraları, sosyal güvenlik numaraları, vb. gibi hassas bilgileri şirketiniz dışında yanlışlıkla paylaşmalarını önlemek için otomatik olarak algılamak için DLP'yi ayarlayabilirsiniz.
     

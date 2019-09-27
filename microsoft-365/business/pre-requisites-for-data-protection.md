@@ -8,21 +8,18 @@ ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: M365-subscription-management
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
-description: 'Kuruluşunuz Microsoft 365 iş ile ayarlamak için önkoşulları biliyor. '
-ms.openlocfilehash: 6de76eb681037ea74d2ac026879bb0d41094d0e2
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: 'Microsoft 365 Business ile kuruluşunuzu kurmak için ön koşulları bilin. '
+ms.openlocfilehash: e4ba83ff66aa5cd9ddd7096948b3c1d02bc89c6a
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074640"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288675"
 ---
 # <a name="pre-requisites-for-protecting-data-on-devices-with-microsoft-365-business"></a>Cihazlardaki verileri Microsoft 365 Business ile korumanın önkoşulları
 

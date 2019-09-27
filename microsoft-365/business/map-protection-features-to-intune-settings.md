@@ -12,22 +12,18 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: aad21b1a-c775-469a-b89c-c5d1d59d27db
-description: Nasıl Intune ayarlar Microsoft 365 iş koruma özelliklerini eşleştirmek öğrenin. Abonelik lisansı ile Intune ayarlarını değiştirmek için sağlar.
-ms.openlocfilehash: a6aaf6cc06c31b870eb85582f5aa47699919d75d
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Microsoft 365 İş Haritası ile Intune ayarlarında koruma özelliklerinin nasıl olduğunu öğrenin. Abonelik, Intune ayarlarını değiştirmeniz için size bir lisans sağlar.
+ms.openlocfilehash: 316dc8efbe69057f049bf8fadd3c3f41c358a33e
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074270"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287983"
 ---
 # <a name="how-do-protection-features-in-microsoft-365-business-map-to-intune-settings"></a>Microsoft 365 Business'ın koruma özellikleriyle Intune ayarları nasıl eşleşir?
 
@@ -37,7 +33,7 @@ Aşağıdaki tabloda, Android ve iOS uygulama ilkesi ayarlarının Intune ayarla
   
 Intune ayarını bulmak için Microsoft 365 İş yöneticisi kimlik bilgileriyle giriş yapmış durumdayken **Yönetici merkezleri**'ne ve ardından **Intune**'a gidin.
   
- **Önemli:** Microsoft 365 İş Abonelik ile Intune ayarlarını değiştirmek için bir lisans sağlar. Bkz: [Giriş başlamak için Intune.](https://docs.microsoft.com/intune/introduction-intune)
+ **Önemli:** Microsoft 365 Business aboneliği, tüm Intune ayarlarını değiştirmeniz için size lisans sağlar. [Başlamak için Intune'a Giriş'e bakın.](https://docs.microsoft.com/intune/introduction-intune)
   
 Seçmek istediğiniz İlke adına, örneğin Android için Uygulama ilkesine tıklayın ve ardından **İlke ayarları**'nı seçin.
   
@@ -68,7 +64,7 @@ Seçmek istediğiniz İlke adına, örneğin Android için Uygulama ilkesine tı
 
 Aşağıdaki tabloda, Windows 10 uygulama ilkesi ayarlarının Intune ayarlarıyla nasıl eşlendiği ayrıntılarıyla gösterilir.
   
-Microsoft 365 iş yönetici kimlik bilgileriyle oturum oturum sırasında ayarı Intune bulmak için [Azure portal](https://portal.azure.com)gidin ve sonra seçin **daha fazla bilgi hizmetleri**ve Intune içine **filtre**türü seçin **Intune App koruma** \> ** Uygulama İlkesi**.
+Microsoft 365 Business yönetici kimlik bilgilerinizle oturum açarken Intune ayarını bulmak için [Azure portalına](https://portal.azure.com)gidin , ardından **Daha Fazla hizmet**seçin ve **Filtre'ye**Intune yazın , **Intune Uygulama Koruması'nı** \> **seçin Uygulama Politikası**.
   
  **Önemli**: Microsoft 365 İş aboneliği size yalnızca Microsoft 365 İş'te sağlanan ayarlarla eşleşen Intune ayarlarını değiştirme lisansı getirir. 
   
@@ -88,7 +84,7 @@ Seçmek istediğiniz ilke adına tıklayın ve ardından sağlanan seçenekleri 
 
 Aşağıdaki tabloda, Windows 10 cihaz yapılandırma ayarlarının Intune ayarlarıyla nasıl eşlendiği ayrıntılarıyla gösterilir.
   
-Microsoft 365 iş yönetici kimlik bilgileriyle oturum oturum sırasında ayarı Intune bulmak için [Azure portal](https://portal.azure.com)gidin ve sonra seçin **daha fazla bilgi hizmetleri**ve Intune içine **filtre**türü seçin **Intune** \> **aygıtı Yapılandırma** \> **profilleri**. **Aygıt ilkesi Windows 10** seçip \> **Özellikler** \> **Ayarlar**.
+Microsoft 365 Business yönetici kimlik bilgilerinizle oturum açarken Intune ayarını bulmak için [Azure portalına](https://portal.azure.com)gidin , ardından **Daha Fazla hizmet**seçin ve **Filtre'ye**Intune yazın , **Intune** \> Device'ı seçin ** yapılandırma** \> **Profilleri**. Ardından **Windows 10** \> **Özellikleri** \> **Ayarları**için Aygıt ilkesini seçin.
   
 |**Windows 10 cihazı ilkesi ayarı**|**Intune ayarları**|
 |:-----|:-----|

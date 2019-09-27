@@ -11,23 +11,19 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
-description: 'Oluşturmak, düzenlemek, silmek veya kaldırmak AutoPilot profilleri hakkında bilgi edinin. '
-ms.openlocfilehash: 7987cafb3ea234d81be72c79aee8e584a3770875
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: 'Otomatik Pilot profilleri oluşturmayı, düzenlemeyi, silmeyi veya kaldırmayı öğrenin. '
+ms.openlocfilehash: 8fae8af5e7aa7b866745d0b34a4fe11862de6e9d
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34073500"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287785"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>AutoPilot profillerini oluşturma ve düzenleme
 
@@ -35,9 +31,9 @@ ms.locfileid: "34073500"
 
 Profiller bir cihaza veya cihaz grubuna uygulanır,
   
-1. Microsoft 365 iş Yönetim Merkezi'nde **cihaz** seçmenizi \> **AutoPilot**.
+1. Microsoft 365 Business Admin merkezinde, **Cihazlar** \> **Otomatik Pilot'u**seçin.
   
-2. **AutoPilot** sayfasında, **Profiller** sekmesini seçin \> **Profil Oluştur**.
+2. Otomatik **Pilot** sayfasında **Profiller** sekmesini \> seçin **profil oluştur.**
     
 3. **Profil oluştur** sayfasında, profili tanımanıza yardımcı olacak bir ad (örneğin, Pazarlama) girin, istediğiniz ayarı açın (daha fazla bilgi edinmek için bkz. [AutoPilot Profili ayarları hakkında](autopilot-profile-settings.md)) ve **Kaydet**'i seçin.
     

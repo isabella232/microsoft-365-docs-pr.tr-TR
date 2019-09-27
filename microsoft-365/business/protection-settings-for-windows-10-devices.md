@@ -14,22 +14,19 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
-description: Bir uygulama yönetimi ilkesi oluşturabilir ve iş dosyalarını Windows 10 aygıtlarda korumak öğrenin.
-ms.openlocfilehash: 670184a2e81721fb5cc063e854822e9b271164d9
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Windows 10 cihazlarında uygulama yönetimi ilkesi oluşturmayı ve çalışma dosyalarını nasıl koruyacağınızı öğrenin.
+ms.openlocfilehash: 92cd3facbd3eabbfef674300abe0257c370294ea
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074620"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288425"
 ---
 # <a name="set-application-protection-settings-for-windows-10-devices"></a>Windows 10 cihazlara yönelik uygulama koruma ayarlarını belirleme
 
@@ -37,15 +34,15 @@ ms.locfileid: "34074620"
 
 Kullanıcılarınızın işle ilgili görevleri gerçekleştirdikleri kişisel Windows 10 cihazları varsa, verilerinizi bu cihazlarda da koruma altına alabilirsiniz.
   
-1. Yönetim merkezinde mi <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
+1. 'deki <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>yönetici merkezine gidin. 
     
-2. **Aygıtlar** üzerinde sol nav, seçim \> **ilkeleri** \> **Ekle**.
+2. Sol daki gezinmede, **Aygıt** \> **İlkeleri** \> **Ekle'yi**seçin.
 
 3. **İlke ekle** bölmesinde bu ilke için benzersiz bir ad girin. 
     
 4. **İlke türü**'nün altında **Windows 10 için Uygulama Yönetimi**'ni seçin.
     
-5. **Aygıt türü**' nün altında **Kişisel** ya da **Şirket sahibi**seçin.
+5. **Cihaz türü altında,** **Kişisel** veya **Şirket Owned**seçin.
     
 6. **İş dosyalarını şifrele** seçeneği otomatik olarak açılır. 
     

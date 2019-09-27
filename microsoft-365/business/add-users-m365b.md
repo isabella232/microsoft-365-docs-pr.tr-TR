@@ -10,30 +10,26 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
-description: Yeni kullanıcı eklemek, aygıtlarını güvenli ve Microsoft 365 iş rolleri atamak öğrenin.
-ms.openlocfilehash: 844245f5740d1e90ca1a7c9f372a8ab5a8225dd7
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Microsoft 365 Business'ta yeni kullanıcılar eklemeyi, aygıtlarını nasıl güvene atamayı ve rolleri nasıl atayabilirsiniz öğrenin.
+ms.openlocfilehash: 9451be8a13c78230d0314e6d4ac74a6c9d7564ae
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072920"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287445"
 ---
 # <a name="add-additional-users-to-microsoft-365-business"></a>Microsoft 365 Business'a ek kullanıcı ekleme
 
 ## <a name="add-new-users"></a>Yeni kullanıcı ekleme
 
-1. Yönetim merkezinde mi <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
-2. Sol nav uygulamasında **kullanıcıların** seçim \> **Etkin kullanıcılar**.
-1. **Etkin kullanıcılar** sayfasında **Kullanıcı Ekle**' yi seçin.
+1. 'deki <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>yönetici merkezine gidin. 
+2. Sol navigasyon da **Kullanıcıları** \> **Etkin kullanıcıları**seçin.
+1. Etkin **kullanıcılar** **sayfasında, kullanıcı ekle'yi**seçin.
  4. **Yeni kullanıcı** panelinde gerekli bilgileri yazın. 
   
     Ayrıca **Kişi bilgileri**'nin altında ek bilgiler girebilir, **Parola** ayarının altında parolayı nasıl ayarlayacağınızı seçebilir ve **Roller**'in altında rol atamaları yapabilirsiniz.
@@ -44,5 +40,5 @@ ms.locfileid: "34072920"
       
     ![Set the license setting to On position](media/7404f7f7-93bc-44a3-9ffb-4208b5b17402.png)
   
-Ayrıca bkz: [tek tek veya topluca kullanıcıları ekleyin](https://docs.microsoft.com/office365/admin/add-users/add-users).
+Ayrıca bkz. [Kullanıcıları tek tek veya toplu olarak ekleyin.](https://docs.microsoft.com/office365/admin/add-users/add-users)
   
