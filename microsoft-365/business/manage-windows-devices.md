@@ -16,12 +16,12 @@ search.appverid:
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Microsoft 365'in yerel AD'yi korumak için Windows 10 aygıtlarını nasıl koruyacağınızı öğrenin.
-ms.openlocfilehash: d1dbfc6a35d54db653ae0f911fad05ac2ce0a993
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 452e884f952a4b2c2e87148bb7203ed48a48d944
+ms.sourcegitcommit: 3a632d8ec009abf1aac57363eaf78aeeda5db136
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288045"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37376105"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business"></a>Etki alanına katılmış Windows 10 cihazlarını Microsoft 365 İş tarafından yönetilecek şekilde etkinleştirme
 
@@ -37,9 +37,9 @@ Aşağıdaki video, aşağıdaki adımlarda da ayrıntılı olarak ayrıntılı 
 
 Kullanıcılarınızı ve bilgisayarlarınızı yerel Active Directory Etki Alanından eşitlemeden önce, [Office 365'e dizin eşitlemesi için hazırlayın'ı](https://docs.microsoft.com/office365/enterprise/prepare-for-directory-synchronization)gözden geçirin. Özellikle:
 
-   - Aşağıdaki öznitelikler için dizininizde yineleme bulunmadığından emin olun: **posta,** **proxyAdresler**ve **userPrincipalName**. Bu değerler benzersiz olmalı ve yinelenenler kaldırılmalıdır...
+   - Aşağıdaki öznitelikler için dizininizde yineleme bulunmadığından emin olun: **posta,** **proxyAdresler**ve **userPrincipalName**. Bu değerler benzersiz olmalı ve yinelenenler kaldırılmalıdır.
    
-   - Her yerel kullanıcı hesabı için **userPrincipalName** (UPN) özniteliğinin lisanslı Microsoft 365 kullanıcısına karşılık gelen birincil e-posta adresiyle eşleşecek şekilde yapılandırılmasını önerdik. Örneğin *mary.shelley@<span>contoso.<span> com* yerine *mary@contoso.local*
+   - Her yerel kullanıcı hesabı için **userPrincipalName** (UPN) özniteliğinin lisanslı Microsoft 365 kullanıcısına karşılık gelen birincil e-posta adresiyle eşleşecek şekilde yapılandırılmasını öneririz. Örneğin *mary@contoso.local* yerine *mary.shelley@contoso.com*
    
    - Active Directory etki alanı *.com* veya *.org*gibi bir internet routable sonek yerine *.local* veya *.lan*gibi bir routable olmayan sonek biterse, ilk olarak açıklandığı gibi yerel kullanıcı hesaplarının UPN soneki ayarlamanız gerekir [Dizin eşitleme için routable olmayan bir etki alanı hazırlayın.](https://docs.microsoft.com/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization) 
 
@@ -75,6 +75,6 @@ Karma Azure AD'nin katıldığı varolan etki alanı birleştirilmiş Windows 10
 
 ## <a name="6-set-up-windows-hello-for-business"></a>6. İşletmeler için Windows Hello'yu ayarlama
 
- Windows Hello for Business, yerel bir bilgisayarda oturum açmak için parolaları güçlü iki faktörlü kimlik doğrulama (2FA) ile değiştirir. Bir faktör asimetrik anahtar çifti, diğeri ise aygıtınız destekliyorsa parmak izi veya yüz tanıma gibi bir PIN veya diğer yerel harekettir. Parolaları mümkün olduğunca 2FA ve Windows Hello for Business ile değiştirmenizi tavsiye ettik.
+ Windows Hello for Business, yerel bir bilgisayarda oturum açmak için parolaları güçlü iki faktörlü kimlik doğrulama (2FA) ile değiştirir. Bir faktör asimetrik anahtar çifti, diğeri ise aygıtınız destekliyorsa parmak izi veya yüz tanıma gibi bir PIN veya diğer yerel harekettir. Parolaları mümkün olduğunca 2FA ve Windows Hello for Business ile değiştirmenizi öneririz.
 
 İşletmeler için Karma Windows Merhaba'yı yapılandırmak [için, İş Önkoşulları için Karma Anahtar güven Windows Hello'yu gözden geçirin.](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-trust-prereqs) Ardından, İş [için Karma Windows Merhaba'yı Yapılandır'daki](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-whfb-settings)yönergeleri izleyin anahtar güven ayarları. 
