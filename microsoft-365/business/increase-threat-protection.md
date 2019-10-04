@@ -15,12 +15,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Office 365 Gelişmiş Tehdit Koruması'nı ayarlayın ve hassas verileri koruyun.
-ms.openlocfilehash: 81197a8baf1c4d0cbfd898c41a305c1a99bab57c
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 5009379d6a5d8c3a692799aa7c0f137dae1482fd
+ms.sourcegitcommit: 492f03a2c83e36846602fced396c8f8d32315c85
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288125"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398919"
 ---
 # <a name="increase-threat-protection"></a>Tehdit korumayı artırın
 
@@ -146,8 +146,6 @@ Bir ATP kimlik avı önleme ilkesi oluşturmak için [bu kısa eğitim videosunu
 |Posta kutusu zekası  <br/> |Varsayılan olarak, yeni bir kimlik avı önleme ilkesi oluşturduğunuzda posta kutusu zekası seçilir. En iyi sonuçlar için bu ayarı **açık** bırakın.  <br/> |
 |Güvenilir gönderenler ve etki alanları ekleme  <br/> |Buraya kendi etki alanınızı veya diğer güvenilen etki alanlarını ekleyebilirsiniz.  <br/> |
 |Uygulanan  <br/> |**Alıcı etki alanı seçin.** **Bunların herhangi birinin**altında, **Seç'i**seçin. Seçin **+ Ekle**. Etki alanının adının yanındaki onay kutusunu seçin( örneğin, *contoso.<span> com <span>*, listede ve sonra **Ekle'yi**seçin. **Bitti'yi**seçin.  <br/> |
-   
-Daha fazla bilgi için [bkz.](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409)
   
 ## <a name="protect-against-malicious-attachments-and-files-with-atp-safe-attachments"></a>ATP Güvenli Ekleri ile kötü amaçlı eklere ve dosyalara karşı koruma
 
