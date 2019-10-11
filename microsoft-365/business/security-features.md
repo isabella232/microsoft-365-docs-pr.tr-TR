@@ -16,12 +16,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Microsoft 365 Business ile birlikte gelen güvenlik özellikleri hakkında bilgi edinin.
-ms.openlocfilehash: 8e45d5fdb6a78f3966c46542189aa30ddd80998e
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: c0c37b09fd0bb0218864b6bc97aa127feae1ff16
+ms.sourcegitcommit: 255e8194bb5767a9983d54d16e79d628732a1d97
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288465"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37453986"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Microsoft 365 İş güvenliği ve uyumluluk özellikleri
 
@@ -98,9 +98,9 @@ Microsoft 365 Business aboneliğiniz, uyumluluk ve düzenleme standartlarını k
     
     Exchange Online Arşivleme lisansı, iletilerin sürekli veri yedekleme ile kolayca arşivlemesini sağlar. Daha sonra keşif veya geri yükleme için ihtiyaç duyulması durumunda, silinen öğeler de dahil olmak üzere kullanıcının tüm e-postalarını saklar. Ayrıca, e-posta verilerini dava tutma, eDiscovery veya uyumluluk gereksinimlerini karşılamak için korumak için farklı saklama ilkeleri kullanabilirsiniz.
     
-- **[Azure Bilgi Koruması](https://go.microsoft.com/fwlink/p/?linkid=871406)**
-    
-    Bilgi koruması, e-posta ve belgelerdeki hassas bilgilere erişimi "İdem etmeyin" ve "Kopyalamayın" gibi denetimlerle kontrol etmemenize yardımcı olur. Ayrıca hassas bilgileri "Gizli" olarak sınıflandırabilir ve gizli bilgilerin işletmenin dışında ve içinde nasıl paylaşılabileceğini belirtebilirsiniz. Bilgilerinizi gizli tutmak için e-posta ve belgelere kurumsal sınıf şifreleme uygulamak kolaydır. Microsoft 365 Business, [Azure Bilgi Koruma Planı 1'in](https://go.microsoft.com/fwlink/p/?linkid=871407)tüm özelliklerini içerir. Office uygulamaları için Azure Bilgi Koruması istemci eklentisini de yükleyebilirsiniz. Daha fazla bilgi için [Azure Bilgi Koruması istemci yöneticisi kılavuzuna](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide)bakın.
+- **[Duyarlılık etiketleri](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)**
+
+   Microsoft 365 Business, [Azure Bilgi Koruma Planı 1'in](https://go.microsoft.com/fwlink/p/?linkid=871407)tüm özelliklerini içerir. Bu planla, e-postadaki hassas bilgilere erişimi denetlemenize olanak tanıyan ve "İdesin" ve "Kopyalama" gibi denetimlerle belgelerde **Duyarlılık etiketleri**oluşturabilirsiniz. Ayrıca hassas bilgileri "Gizli" olarak sınıflandırabilir ve gizli bilgilerin işletmenin dışında ve içinde nasıl paylaşılabileceğini belirtebilirsiniz. Bilgilerinizi gizli tutmak için e-posta ve belgelere kurumsal sınıf şifreleme uygulamak kolaydır. Office uygulamaları için Azure Bilgi Koruması istemci eklentisini de yükleyebilirsiniz. Daha fazla ayrıntı için Azure [Bilgi Koruması birleşik etiketleme istemcisi'ne](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history)bakın. Duyarlılık etiketleri için **AzInfoProtection_UL.exe'yi**yükleyin.
 
 Bu özellikleri Güvenlik &amp; Uyumluluğu merkezinde ve Intune yönetici merkezinde yönetebilirsiniz. Zamanla basitleştirilmiş denetimler Microsoft 365 Business yönetici merkezine eklenir.
   

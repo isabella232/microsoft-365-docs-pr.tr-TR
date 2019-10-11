@@ -14,13 +14,13 @@ ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
-description: Office 365 Gelişmiş Tehdit Koruması'nı ayarlayın ve hassas verileri koruyun.
-ms.openlocfilehash: 8144bcebe8a0cdf28a5e092f592362922ccbdd48
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+description: Veri kaybını önlemek ve hassas verileri etiketlemek için uyumluluk özelliklerini ayarlayın.
+ms.openlocfilehash: a0ba2fa6dbe7c786d577ad7098c1790f569f5acc
+ms.sourcegitcommit: 255e8194bb5767a9983d54d16e79d628732a1d97
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288755"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37453936"
 ---
 # <a name="set-up-compliance-features"></a>Uyumluluk özelliklerini ayarlama
 
@@ -50,48 +50,21 @@ Yönetici merkezinde, dava beklemeye bir posta kutusu yerleştirmek için:
     
 **Bekletme:** Örneğin, belirli bir süre için korumak veya bekletme döneminin sonunda içeriği kalıcı olarak silmek için özelleştirilmiş bekletme ilkelerini etkinleştirebilirsiniz. Daha fazla bilgi için [bkz.](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423)
 
-## <a name="set-up-azure-information-protection-features"></a>Azure Bilgi Koruması özelliklerini ayarlama
+## <a name="set-up-sensitivity-labels"></a>Duyarlılık etiketlerini ayarlama
 
-Azure Bilgi Koruması (AIP), etiketler uygulayarak belgelerinizi ve e-postalarınızı sınıflandırmanıza ve isteğe bağlı olarak korumanıza yardımcı olur. Etiketler, kuralları ve koşulları tanımlayan yöneticiler tarafından, kullanıcılar tarafından el ile veya kullanıcılara önerilerin verildiği bir kombinasyon kullanılarak otomatik olarak uygulanabilir.
+Duyarlılık etiketleri Azure Bilgi Koruması (AIP) Planı 1 ile birlikte gelir ve etiketler uygulayarak belgelerinizi ve e-postalarınızı sınıflandırmanıza ve isteğe bağlı olarak korumanıza yardımcı olur. Etiketler, kuralları ve koşulları tanımlayan yöneticiler tarafından, kullanıcılar tarafından el ile veya kullanıcılara önerilerin verildiği bir kombinasyon kullanılarak otomatik olarak uygulanabilir.
 
-Web'deki Outlook'ta e-postalarınıza aşağıdaki yerleşik etiketleri ve kısıtlamaları uygulayabilirsiniz:
-  
-- **İletme :** Alıcılar iletiyi okuyabilir, ancak içeriği iletemez, yazdıramaz veya kopyalayamaz
-    
-- **Şifrele**: İletinin tamamı şifrelenir. Alıcıların şifreli içeriğe erişmeden önce kimliklerini doğrulamaları ve şifrelemeyi kaldıramamaları gerekir.
-    
-- **Gizli**: Kuruluşunuzdaki çalışanlara e-posta içeriği ne kadar e-posta içeriğine ve ekleri için tam izin verir, ancak kuruluşunuz dışındaki kişilere tam izin verir. Veri sahipleri herhangi bir noktada içeriği izleyebilir ve iptal edebilir.
-    
-- **Son Derece Gizli**: Bu kısıtlama, çalışanların verileri görüntülemesine, görüntülemesine ve yanıtlamasına izin veren, ancak verileri iletmeme, yazdırmama veya kopyalamama olanağı tanıyan son derece gizli verilere uygulanabilir. Veri sahipleri herhangi bir noktada içeriği izleyebilir ve iptal edebilir.
+Duyarlılık etiketleri ayarlamak [için, duyarlılık etiketleri videosu oluşturma ve yönetme](https://support.office.com/en-us/article/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) yi görüntüleyin.
 
-### <a name="make-sure-azure-information-protection-is-activated"></a>Azure Bilgi Korumasının etkinleştirildiğinden emin olun
 
-AIP'nin etkinleştirildiğini doğrulamak için:
-
-1. Azure [portalında](https://portal.azure.com/)oturum açın.
-
-2. **Tüm hizmetleri** seçin ve **Arama Kutusu'nda**Azure *Bilgi Koruması* yazın.
-
-3. Sonuçlar görüntülendikten sonra, sık kullanılan ve daha sonra kolayca bulunmasını sağlamak için **Azure Bilgi Koruması'nın** yanındaki başlat'ı tıklatın.
-
-4. **Azure Bilgi Koruması** \> **Koruması etkinleştirmesini** seçin ve durumun etkinleştirilecek şekilde ayarlandıklarına emin olun. 
-
-### <a name="view-the-azure-information-protection-policy-and-default-labels"></a>Azure Bilgi Koruması ilkesini ve varsayılan etiketleri görüntüleyin 
-
-Varolan etiketleri görüntülemek ve değiştirmek için:
-
-1. Azure Bilgi Koruması panosunda Sınıflandırma \> **Etiketleri'ni**seçin. **** <br/>![Azure Bilgi Koruması için standart etiketler.](media/AIPLabels.png)
-
-2. Seçenekleri görüntülemek için herhangi bir etiket seçebilirsiniz, ekran adını, renkleri, vb değiştirebilirsiniz.
- 
-3. Bkz. Kendi etiketinizi oluşturmak istiyorsanız [Değiştir ve yeni etiketler oluşturun.](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step2) 
 
 ### <a name="install-the-azure-information-protection-client-manually"></a>Azure Bilgi Koruması istemcisini el ile yükleme
 
 AIP istemcisini el ile yüklemek için:
 
-1. [Microsoft indirme merkezinden](https://www.microsoft.com/download/details.aspx?id=53018) **AzInfoProtection.exe** indirin.
+1. [Microsoft indirme merkezinden](https://www.microsoft.com/download/details.aspx?id=53018) **AzinfoProtection_UL.exe** indirin.
  
-2. Yüklemenin bir Word belgesini görüntüleyerek ve **Koruma** seçeneğinin **Ana sayfa** sekmesinde kullanılabilir olduğundan emin olarak çalıştığını doğrulayabilirsiniz. <br/>![Word belgesinde koruma sekmesi açılır.](media/Word_Protect.png)
+2. Yüklemenin bir Word belgesini görüntüleyerek ve **Duyarlılık** seçeneğinin **Giriş** sekmesinde kullanılabilir olduğundan emin olarak çalıştığını doğrulayabilirsiniz.
+<br/>![Word belgesinde koruma sekmesi açılır.](media/word-sensitivity.png)
 
 Daha fazla bilgi için bkz: [Istemciyi yükleyin.](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3)
