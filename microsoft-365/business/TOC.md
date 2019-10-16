@@ -8,7 +8,7 @@
 ### [Microsoft 365 Business'ı ayarlama](set-up.md)
 ### [Windows Pro Creators Update'e yükseltme](upgrade-to-windows-pro-creators-update.md)
 ### [Office istemci dağıtımına hazırlanın](prepare-for-office-client-deployment.md)
-### [Office'i otomatik yükleme veya kaldırma](auto-install-or-uninstall-office.md)
+### [Kullanıcıların Office'i yüklemesine yardımcı olun](help-users-install-office.md)
 ### [Şirket içi kaynaklara erişim]()
 #### [Etki alanına birleştirilmiş Windows 10 aygıtların yönetilmesini etkinleştirme](manage-windows-devices.md)
 #### [Azure AD'ye bağlı bir aygıttan kaynaklara erişin](access-resources.md)
