@@ -19,45 +19,64 @@ search.appverid:
 - BCS160
 - MET150
 description: Microsoft 365 Business'ı nasıl satın alıp kaydolamayı öğrenin.
-ms.openlocfilehash: bc9f8f7bc29d63feaa4eb63962eff12c963a63b2
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 6f8a3c328cd688d331482070eb4d2722529a54f6
+ms.sourcegitcommit: 7ee256132358a86f8c6ad143816fcfdde011ca74
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575518"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37628334"
 ---
 # <a name="sign-up-for-microsoft-365-business"></a>Microsoft 365 Business için kaydolun
 
-İş ortağıysanız, [Microsoft İş Ortağı Merkezi'nden Microsoft 365 Business'ı alın'](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center)a bakın.
+Microsoft 365 Business'ın neler içerdiğini öğrenmek için kısa bir [video](https://support.office.com/article/901e2522-c2cf-4b8c-894e-f482cda3347a) izleyin ve [Genel Bakış'a](microsoft-365-business-overview.md)bakın. 
 
-Microsoft 365 Business'ı çevrimiçi olarak satın almak için [Microsoft 365 İş avantajını keşfedin](https://www.microsoft.com/microsoft-365/business#pmg-cmp-desktop) ve Microsoft 365 Business altında **Şimdi Satın Al'ı** seçin.
+Microsoft 365 Business'ı almanın üç yolu vardır:
+- **Microsoft 365 Business'ı satın alın ve kendi kurulumunuzu tamamlayın**: Microsoft 365 Business'ı çevrimiçi satın almak için [aşağıdaki adımları izleyin.](#sign-up-steps)
+- **Microsoft iş ortakları için**: İş ortağıysanız, [Microsoft İş Ortağı Merkezi'nden Microsoft 365 Business'ı alın'](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center)a bakın.
+- **Bir Microsoft mağazasından yardım alın**: [Microsoft Mağazası'na](https://www.microsoft.com/store/locations/find-a-store)gidin. Microsoft mağazaları planlarımızla ilgili sorularınız için size yardımcı olabilir, işletme gereksinimlerinize uygun bir plan satın almanıza ve kurulumunuzu tamamlamanıza yardımcı olabilir.
 
-Ayrıca, hem Microsoft 365 Business satın almak hem de kurulum yardımı almak için bir [Microsoft Mağazası'na](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) gidebilirsiniz.
-
-## <a name="complete-the-sign-up-steps"></a>Kayıt adımlarını tamamlayın
-
-Microsoft 365 Business'ı satın aldıktan sonra aşağıdaki adımları tamamlayın.
-
-1. Hoş **Geldiniz'de,** gerekli bilgileri sayfaya girdiğinizi tanıyalım. Unutmayın:
+**Farklı bir şeye mi ihtiyacınız var?** Şunları yapabilirsiniz:
+- [Office 365 planınızı Microsoft 365 Business'a yükseltin](migrate-to-microsoft-365-business.md)
+- Microsoft 365 Business'ı bir ay boyunca ücretsiz olarak deneme sürümünden [alın.](https://go.microsoft.com/fwlink/p/?linkid=2102309)
+- Daha az özelliklere sahip bir plana ihtiyacınız varsa [Office 365 Business Premium'a kaydolun.](https://go.microsoft.com/fwlink/p/?LinkID=510935) Her iş planının [products.office.com](https://products.office.com/compare-all-microsoft-office-products-4-column?&activetab=tab:primaryr1)neler içerdiğini öğrenin.
+- Bir iş için satın almıyorsanız [bir ev veya aile planı için kaydolun.](https://products.office.com/compare-all-microsoft-office-products-4-column?&activetab=tab:primaryr1) 
  
-    -  **Ülke veya bölgeler:** Bu, aldığınız hizmeti belirler ve daha sonra değiştirilemez.
-    - **İş e-posta adresi:** Geçerli e-posta adresinizi girin. Microsoft bu adresi, Microsoft 365 aboneliğiniz hakkında sizinle yazışmak için kullanır.
-    - **Şirket adı** Şirket adınızı yönetici merkezinde göstereceğiz; Microsoft 365 kullanıcılarını, lisanslarını ve benzeri uygulamaları burada yöneteceğiniz yerdir. Ayrıca, herhangi bir SharePoint sitesi URL'lerine de ekleriz.
 
-2. Kullanıcı **kimliğinizi oluştur** sayfasında:
+## <a name="sign-up-steps"></a>Kaydolun adımlar
 
-    - **Kullanıcı Adı**: Kendi iş e-postanız için kullanacağınız adı (takma ad olarak adlandırılır) girin. Örneğin, Robert Young RobY veya RobYoung'u iş takma adı olarak kullanabilir.
-    - **Şirketiniz**: Benzersiz işletme adınızı girin. Bu, işletmenizin web sitenizin kullandığı addır ve ayrıca bir iş e-postası aldığınızda @ işaretinden sonra eklemek istediğiniz addır. Bu ada etki alanı denir. Örneğin, işletmenizin adı Contoso Skis ise @ işaretinden sonra ContosoSkis'i girin.
-    - **Bir etki alanı seçin**: Etki alanı adınızı zaten sahipseniz, açılan menüden .onmicrosoft.com'yi seçin ve daha sonra ayarlamanızı isteyeyim. Aksi takdirde, işletmenizi temsil eden bir alan adı satın almak kolaydır. Bunu yapmak için, açılan menüden tercih ettiğiniz etki alanını seçin. Örneğin, tam e-posta adresiniz *Teresa@ContosoSkis.net*olabilir. Alan adı kullanılabilirse sizi hemen bildireceğiz. Bu ysa, etki alanınızın maliyetini Microsoft 365 Business aboneliğinizin maliyetine ekleriz. Yeni etki alanı da ayarlanır ve burada satın aldığınızda Microsoft 365 kullanıma hazır. Etki alanları hakkında daha fazla bilgi için, [bkz.](https://docs.microsoft.com/office365/admin/setup/domains-faq)
-    
-        ![Kullanıcı kimliği sayfanızı oluştur ekran görüntüsü.](media/signinuserid.png)
+İşletmeniz için Microsoft 365'e kaydolmak ve satın almak için aşağıdaki adımları tamamlayın:
 
-3. Alanların geri kalanını doldurun ve **hesabımı oluştur'u**seçin.
-4. **Kanıtla.Sen. Değil.A.Robot.** sayfa metin veya arama yoluyla bir kod almak için bir telefon numarası girin ve \> Beni **Sms** veya **Arama**seçin , sonra doğrulama kodu **Sonraki**girin .
-5. Bu sayfada **nerede kullanacaksınız** iş adresinizi girin. Bu bilgiler, hangi vergileri ödediğinizi ve hangi aboneliklerin kullanılabileni belirler. Vergiler hakkında daha fazla bilgi için [bkz.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide) 
-1. **İleri'yi**seçin, siparişinizi gözden geçirin ve **İleri'yi** yeniden seçin.
-1. Nasıl **ödeme yapmak istiyorsunuz** sayfasında, ödeme bilgilerinizi girin ve ardından **sipariş inizi yerleştirin.**
-    Daha sonra [kurulumunuzu](set-up.md)tamamlamak için [yönetici merkezine](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide) gidebilirsiniz.
-
+1. İşletme [sayfası için Microsoft 365'te,](https://www.microsoft.com/microsoft-365/business) **& fiyatlandırma planlarına bakın'ı**seçin. 
+2. Bir sonraki sayfada, aylık maliyeti öğrenin ve isteğe bağlı olarak Microsoft 365 Business'ta nelerin yer aldığı hakkında daha fazla bilgi edinmek için sayfayı aşağı kaydırın. Microsoft 365 Business altında, **şimdi Satın Al'ı**seçin.
+3. Microsoft **365 Business** sayfasını seçtiğiniz için teşekkür ederiz başlamak için bilgilerinizi girin
+4. **Adım 1'** de, zaten kullandığınız bir e-posta adresini girin. Bu, geçerli iş e-posta adresiniz veya Microsoft'un kurulum sırasında sizinle iletişim kurmak ve faturanız ve yenilemeleriniz hakkında bilgi göndermek için kullanmasını istediğiniz herhangi bir adres olabilir. Sonra seçin, **Hesabı ayarlayın.**
+5. **Adım 2'de**adınızı, iş telefon numaranızı, şirket adınızı ve konumunuzu girin. Ülkenizin veya Bölgenizin Microsoft'tan tam olarak alacağınız hizmetleri belirleyeceğini ve bu adımı tamamladıktan sonra değiştirilemediğini unutmayın. **İleri**'yi seçin.
     > [!NOTE]
-    > Kurulumun sonunda **yönetici merkezine git**bağlantısını seçerseniz, doğrudan [kurulum](set-up.md) deneyimine götürülür.
+    > Şirket adınızı yönetici merkezinde göstereceğiz; Microsoft 365 kullanıcılarını, lisanslarını ve benzeri uygulamaları burada yöneteceğiniz yerdir. Ayrıca herhangi bir dahili (SharePoint) site URL'lerine de ekleyeceğiz.
+6. **Adım 3:**
+
+    1. Robot olmadığını kanıtla! Bana **mesaj at** veya **beni ara** ve size ulaşabileceğimiz bir numara girin. **Doğrulama Kodu Gönder'i** seçin ve hemen bir metin veya arama alırsınız. Kodunuzu girin ve **Doğrula'yı**seçin.
+    2. Ardından, yeni bir etki alanı adı satın almaya mı yoksa geçici bir alan adı alıp almaya karar verin:
+
+        - **Bir etki alanı adım yok** 
+        
+            E-posta adresiniz işletmenizin adını içermiyorsa ve işletme adınızı kullanan bir web siteniz yoksa, artık kolayca bir etki alanı satın alabilirsiniz. Seçin, **yeni bir alan adı satın alın** ve işletmenizin adını girin. Örneğin, şirketinizin adı *ContosoSkis*ise, Contosokis.com, Contososkis.org veya Contososkis.biz girmeyi deneyin. Ardından, seçtiğiniz etki alanının kullanılabilir olup olmadığını görmek için **kullanılabilirliği** denetle'yi seçin. Bir karar vermeden önce birden çok seçenek deneyebilirsiniz. Alan adınız varsa, maliyeti size bildireceğiz ve yeni planınızla doğrudan faturalandırırız. 
+       
+            > [!TIP]
+            > Yeni etki alanınız için hangi etki alanı uzantısını seçeceğinizden emin değilseniz (örneğin, .com veya .org), [bkz.](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name)
+        
+        - **Emin değilim, ya da zaten bir etki alanı adı kendi** 
+        
+             **Şimdilik bir Microsoft etki alanı al'ı**seçin. Bu hiçbir şeye mal olmaz ve daha sonra işletmeniz için özel bir ad alabilir veya zaten sahip olduğunuz bir ada bağlanabilirsiniz - size nasıl yapılacağını gösteririz.
+
+    3. Kullanıcı kimliğinizi ve iş e-posta adresinizi oluşturmak için **Yanında'nı** seçin. Kullanmak istediğiniz adı (takma ad olarak da adlandırılır) girin. Örneğin, Robert Young RobY veya RobYoung'u iş takma adı olarak kullanabilir. Parola ekleyin ve **Kaydol'u**seçin. Parolanızı not alın. Size kullanıcı kimliğinizi hatırlatmak için adım 1'e girdiğiniz adrese bir e-posta göndeririz.
+7. **Adım 4:** 
+
+    1. İşletmenizde kaç kişinin Microsoft 365 lisansına ihtiyacı olduğuna karar verin veya şimdilik 1 olarak ayarlanan **kullanıcı sayısını** bırakın ve daha sonra daha fazla kişi ekleyin. 
+    2. Aylık veya yıllık faturalandırmayı seçin, toplam maliyeti kontrol edin ve **İleri'yi**seçin. 
+    3. Kredi kartı bilgilerinizi ekleyin. Şirket adresiniz kredi kartı adresinizle eşleşmiyorsa, şirket adresinize de ihtiyacımız olacak. Şirket adresiniz hangi vergileri ödeyeceğinizi ve hangi hizmetlerin kullanılabilir olduğunu belirler. Vergiler hakkında daha fazla bilgi için, [bkz.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+    4. **Sipariş i'ni**seçin. Microsoft'un yeni bir plan oluşturmayı bitirmesi kısa bir zaman alır.
+
+## <a name="whats-next"></a>Sırada ne var?
+İşletmenizi korumak için daha fazla güvenlik eklemek ve Word ve Excel gibi Office uygulamalarını indirmek gibi diğer adımları tamamlamak için **kuruluma git'i** seçin. Kurulumla ilgili yardım almak için [kuruluma](set-up.md)bakın.
+
