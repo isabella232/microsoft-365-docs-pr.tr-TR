@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Office 365 Gelişmiş Tehdit Koruması'nı ayarlayın ve hassas verileri koruyun.
-ms.openlocfilehash: 0b0c1ac1d23bc7b167a58ecf93019a77c51c4366
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: fb63ca7e3cf38ecf31aab98e425b02e8b9983bf8
+ms.sourcegitcommit: 4d5e4cb3fa3ab45ad15f103c720c77277b22fc23
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37576028"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37636762"
 ---
 # <a name="increase-threat-protection"></a>Tehdit korumayı artırın
 
@@ -134,7 +134,7 @@ Bir ATP kimlik avı önleme ilkesi oluşturmak için [bu kısa eğitim videosunu
     
 4. Kimlik **avı önleme** sayfasında + **Oluştur'u**seçin. Bir sihirbaz, kimlik avı önleme ilkenizi tanımlamada size gereken adımları başlatıyor.
     
-5. Aşağıdaki grafikte önerilen politikanızın adını, açıklamasını ve ayarlarını belirtin. Daha fazla ayrıntı için [ATP kimlik avı önleme ilkesi seçenekleri hakkında bilgi](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409) edinin. 
+5. Aşağıdaki grafikte önerilen politikanızın adını, açıklamasını ve ayarlarını belirtin. Daha fazla ayrıntı için [ATP kimlik avı önleme ilkesi seçenekleri hakkında bilgi](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies#learn-about-atp-anti-phishing-policy-options) edinin. 
     
 6. Ayarlarınızı inceledikten sonra, uygun şekilde **bu ilkeyi oluştur** veya **Kaydet'i**seçin.
     
