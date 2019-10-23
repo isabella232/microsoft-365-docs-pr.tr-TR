@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, SSS, sık sorulan sorular, yanıtlar, iş
 ms.date: 06/08/2018
-ms.openlocfilehash: 18198007bf61d448581335594016433668edb47d
-ms.sourcegitcommit: 23173f7d0ca5079662ef4060371d8ee11bac228e
+ms.openlocfilehash: 23cf7c4770387050c60ac21f537fbd7738a8aab4
+ms.sourcegitcommit: 1e3916bbe94d4fbb858566e7db5018e1e46bcd0d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611431"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37646395"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 İş Sık Sorulan Sorular
 
@@ -164,7 +164,7 @@ Microsoft iş ortağı olmayan BT hizmet sağlayıcıları, Microsoft Bulut Çö
 Şu anda Office 365 satan iş ortakları, Microsoft 365 Business'ı satmak için aynı danışmanlık satış yöntemlerini kullanabilir. Buna ek olarak, müşterilerin mevcut masaüstü ortamını, Active Directory güvenini, mobilitesini ve güvenlik gereksinimlerini anlamak için satış ekibiniz için Microsoft 365 Business'ın tam değerini etkin bir şekilde iletmek için daha fazla kaynak ve eğitim salıyoruz. müşteri ile ilgili bir şekilde. Bu kaynakları Office İş Ortağı [http://partners.office.com/microsoft365business](http://partners.office.com/microsoft365business)portalında 'da bulun. 
 
 ### <a name="how-can-microsoft-365-business-help-partners-increase-the-profitability"></a>Microsoft 365 Business iş ortaklarının karlılığı artırmasına nasıl yardımcı olabilir? 
-Microsoft 365 Business, iş ortaklarının daha fazla operasyonel verimlilik le maliyetleri azaltmalarına ve ek hizmetlerin satışı yoluyla gelirleri artırmalarına yardımcı olur. Forrester Research, Microsoft 365 Business Total Economic Impact (TEI)https://partners.office.com/TEIBusiness)Çalışması, Haziran 2017 ( , Microsoft 365 Business'ın iş ortağı karlılığı üzerinde olumlu bir etkisi olacağını göstermektedir. 
+Microsoft 365 Business, iş ortaklarının daha fazla operasyonel verimlilik le maliyetleri azaltmalarına ve ek hizmetlerin satışı yoluyla gelirleri artırmalarına yardımcı olur. Forrester Research, Microsoft 365 Business Total Economic Impact (TEI)https://www.microsoft.com/microsoft-365/partners/PartnerTEI)Çalışması, Haziran 2017 ( , Microsoft 365 Business'ın iş ortağı karlılığı üzerinde olumlu bir etkisi olacağını göstermektedir. 
 
 TEI çalışmada ortakları Microsoft 365 Business ile beklediklerini bildirdi: 
 
