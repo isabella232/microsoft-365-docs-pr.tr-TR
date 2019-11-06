@@ -1,5 +1,5 @@
 # Microsoft 365 İş
-## [Microsoft 365](index.md)
+## [Microsoft 365](index.yml)
 ## [Microsoft 365 İş nedir?](microsoft-365-business-overview.md)
 ## [Microsoft 365 Business'ı alın](sign-up.md)
 ## [Veri koruması için ön koşullar](pre-requisites-for-data-protection.md)
@@ -20,7 +20,7 @@
 ### [Tehdit korumayı artırın](increase-threat-protection.md)
 ### [Uyumluluk özelliklerini ayarlama](set-up-compliance.md)
 ## Kullanıcıları Yönet
-### [Add users](add-users-m365b.md)
+### [Kullanıcı ekleme](add-users-m365b.md)
 ### [Çalışan kaldırma](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ## Cihazları Yönetme
 ### [İlkeleri ve cihazları görüntüleme ve görüntüleme](view-policies-and-devices.md)
@@ -32,7 +32,10 @@
 ### [Windows 10 bilgisayarların aygıt koruma ayarları](protection-settings-for-windows-10-pcs.md)
 #### [Windows 10 bilgisayarlarındaki ayarları doğrulama](validate-settings-on-windows-10-pcs.md)
 ### [Windows 10 bilgisayarların uygulama koruma ayarları](protection-settings-for-windows-10-devices.md)
-## [Microsoft 365 İş'e geçiş](migrate-to-microsoft-365-business.md)
+## Microsoft 365 İş'e geçiş
+### [Office 365 Business Premium'dan geçiş](migrate-to-microsoft-365-business.md)
+### [Office 365 E3'ten geçir](migrate-from-e3.md)
+### [Geçiş ro Microsoft 365 Enterprise](migrate-from-microsoft-365-business-to-microsoft-365-enterprise.md)
 ## Faturalama
 ### [Faturanız](/Office365/Admin/subscriptions-and-billing/view-your-bill-or-invoice?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [Ödeme](/Office365/Admin/subscriptions-and-billing/pay-for-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
