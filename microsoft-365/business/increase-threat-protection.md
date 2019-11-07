@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Office 365 Gelişmiş Tehdit Koruması'nı ayarlayın ve hassas verileri koruyun.
-ms.openlocfilehash: fb63ca7e3cf38ecf31aab98e425b02e8b9983bf8
-ms.sourcegitcommit: 4d5e4cb3fa3ab45ad15f103c720c77277b22fc23
+ms.openlocfilehash: 1827b70f1e4d78a072753390c1a99d7cb4bd5cfd
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37636762"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38030774"
 ---
 # <a name="increase-threat-protection"></a>Tehdit korumayı artırın
 
@@ -31,7 +31,7 @@ Bu makale, kimlik avı, kötü amaçlı yazılım ve diğer tehditlere karşı k
 
 Başlamadan önce Office 365 Güvenli Puanınızı kontrol edin. Office 365 Secure Score, düzenli etkinliklerinize ve güvenlik ayarlarınıza göre Office 365 kuruluşunuzun güvenliğini analiz eder ve bir puan atar. Geçerli puanınızı dikkate alarak başlayın. Bu makalede önerilen eylemleri almak puanınızı artırır. Amaç maksimum skora ulaşmak değil, çevrenizi korumak için kullanıcılarınızın üretkenliğini olumsuz etkilemeyen fırsatların farkında olmaktır. 
 
-Daha fazla bilgi için [Microsoft Secure Score'a](https://docs.microsoft.com/en-us/office365/securitycompliance/microsoft-secure-score)bakın.
+Daha fazla bilgi için [Microsoft Secure Score'a](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)bakın.
 
 ## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>Postadaki kötü amaçlı yazılıma karşı koruma düzeyini yükseltin
 

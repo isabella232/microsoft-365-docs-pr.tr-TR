@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, SSS, sık sorulan sorular, yanıtlar, iş
 ms.date: 06/08/2018
-ms.openlocfilehash: 23cf7c4770387050c60ac21f537fbd7738a8aab4
-ms.sourcegitcommit: 1e3916bbe94d4fbb858566e7db5018e1e46bcd0d
+ms.openlocfilehash: 2067badcb78b48bac59770993de25c0ebbeaa829
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37646395"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38031375"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 İş Sık Sorulan Sorular
 
@@ -161,7 +161,7 @@ Hayır, Windows Defender Gelişmiş Tehdit Koruması gerektiren müşterilerin W
 Microsoft iş ortağı olmayan BT hizmet sağlayıcıları, Microsoft Bulut Çözüm [https://partners.office.com/microsoft365business](https://partners.office.com/microsoft365business)Sağlayıcısı programı hakkında daha fazla bilgi edinebilir.
 
 ### <a name="where-can-i-learn-how-to-sell-microsoft-365-business"></a>Microsoft 365 Business'ı nasıl satacağım nereden öğrenebilirim? 
-Şu anda Office 365 satan iş ortakları, Microsoft 365 Business'ı satmak için aynı danışmanlık satış yöntemlerini kullanabilir. Buna ek olarak, müşterilerin mevcut masaüstü ortamını, Active Directory güvenini, mobilitesini ve güvenlik gereksinimlerini anlamak için satış ekibiniz için Microsoft 365 Business'ın tam değerini etkin bir şekilde iletmek için daha fazla kaynak ve eğitim salıyoruz. müşteri ile ilgili bir şekilde. Bu kaynakları Office İş Ortağı [http://partners.office.com/microsoft365business](http://partners.office.com/microsoft365business)portalında 'da bulun. 
+Şu anda Office 365 satan iş ortakları, Microsoft 365 Business'ı satmak için aynı danışmanlık satış yöntemlerini kullanabilir. Buna ek olarak, müşterilerin mevcut masaüstü ortamını, Active Directory güvenini, mobilitesini ve güvenlik gereksinimlerini anlamak için satış ekibiniz için Microsoft 365 Business'ın tam değerini etkin bir şekilde iletmek için daha fazla kaynak ve eğitim salıyoruz. müşteri ile ilgili bir şekilde. Bu kaynakları Office İş Ortağı [https://partners.office.com/microsoft365business](https://partners.office.com/microsoft365business)portalında 'da bulun. 
 
 ### <a name="how-can-microsoft-365-business-help-partners-increase-the-profitability"></a>Microsoft 365 Business iş ortaklarının karlılığı artırmasına nasıl yardımcı olabilir? 
 Microsoft 365 Business, iş ortaklarının daha fazla operasyonel verimlilik le maliyetleri azaltmalarına ve ek hizmetlerin satışı yoluyla gelirleri artırmalarına yardımcı olur. Forrester Research, Microsoft 365 Business Total Economic Impact (TEI)https://www.microsoft.com/microsoft-365/partners/PartnerTEI)Çalışması, Haziran 2017 ( , Microsoft 365 Business'ın iş ortağı karlılığı üzerinde olumlu bir etkisi olacağını göstermektedir. 

@@ -18,18 +18,18 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Windows 10 aygıtına katılan bir Azure Active Directory'den Line Of Business uygulamaları, dosya paylaşımları ve yazıcılar gibi şirket içi kaynaklara nasıl erişebilirsiniz öğrenin.
-ms.openlocfilehash: 92e8ccb99dfece7687c25db84b81fc7bc7158d71
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 2af5d4b4f84f39f5b157313e5b38ef030da7263d
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37574688"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38030544"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Microsoft 365 Business'ta Azure AD ile birleştirilmiş bir cihazdan şirket içi kaynaklara erişin
 
-Azure Active Directory'nin birleştiği tüm Windows 10 aygıtları Office 365 uygulamalarınız gibi bulut tabanlı tüm kaynaklara erişebilir ve Microsoft 365 Business tarafından korunabilir. Ayrıca, Business Line (LOB) uygulamaları, dosya paylaşımları ve yazıcılar gibi şirket içi kaynaklara erişim eizin vermek için, [Azure AD Connect'i](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect)kullanarak şirket içi Active Directory'nizi Azure Etkin Dizini ile eşitlemeniz gerekir. 
+Azure Active Directory'nin birleştiği tüm Windows 10 aygıtları Office 365 uygulamalarınız gibi bulut tabanlı tüm kaynaklara erişebilir ve Microsoft 365 Business tarafından korunabilir. Ayrıca, Business Line (LOB) uygulamaları, dosya paylaşımları ve yazıcılar gibi şirket içi kaynaklara erişim eizin vermek için, [Azure AD Connect'i](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)kullanarak şirket içi Active Directory'nizi Azure Etkin Dizini ile eşitlemeniz gerekir. 
 
-Daha fazla bilgi edinmek [için Azure Active Directory'de aygıt yönetimine giriş](https://docs.microsoft.com/en-us/azure/active-directory/device-management-introduction) e-giriş e bakın.
+Daha fazla bilgi edinmek [için Azure Active Directory'de aygıt yönetimine giriş](https://docs.microsoft.com/azure/active-directory/device-management-introduction) e-giriş e bakın.
 Adımlar da aşağıdaki bölümlerde özetlenmiştir.
 
 ## <a name="run-azure-ad-connect"></a>Azure AD Connect çalıştırın

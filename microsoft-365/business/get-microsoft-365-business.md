@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
 description: Microsoft İş Ortağı Merkezi'nden Microsoft 365 Business'ı nasıl satın alabildiğini öğrenin.
-ms.openlocfilehash: cd13db200292f84ea736bbd27af69608e576e586
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 168c68c7394ff736e9d94cb40872230a3f3b8894
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37574918"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38030824"
 ---
 # <a name="get-microsoft-365-business"></a>Microsoft 365 İş'i edinme
 
@@ -36,7 +36,7 @@ ms.locfileid: "37574918"
 
 Ayrıntılı talimatlar için [Microsoft 365 Business'a kaydolun.](sign-up.md)
 
-Ayrıca, hem Microsoft 365 Business satın almak hem de kurulum yardımı almak için bir [Microsoft Mağazası'na](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) gidebilirsiniz.
+Ayrıca, hem Microsoft 365 Business satın almak hem de kurulum yardımı almak için bir [Microsoft Mağazası'na](https://www.microsoft.com/store/locations/find-a-store?icid=en-us_UF_FAS) gidebilirsiniz.
   
 ## <a name="get-microsoft-365-business-from-microsoft-partner-center"></a>Microsoft 365 Business'ı Microsoft İş Ortağı Merkezi'nden edinme
 

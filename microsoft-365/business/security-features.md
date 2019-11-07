@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Microsoft 365 Business ile birlikte gelen güvenlik özellikleri hakkında bilgi edinin.
-ms.openlocfilehash: 0d1c35192bf82ac61e59356cda4d9fb29cb3d995
-ms.sourcegitcommit: 4d5e4cb3fa3ab45ad15f103c720c77277b22fc23
+ms.openlocfilehash: 5e295480b1a578ca26646a89d6a0a4183a15428d
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37636782"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38031455"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Microsoft 365 İş güvenliği ve uyumluluk özellikleri
 
@@ -73,7 +73,7 @@ Microsoft 365 Business'taki gelişmiş özellikler, işletmenizi siber tehditler
 - **[Azure portalında Intune'un tüm özellikleri](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
     Azure portalındaki Intune yönetici merkezine erişmek, MacOS aygıtlarının yönetimi, iPhone ve Android aygıtlarının yanı sıra Microsoft tarafından kullanılamayan Windows için gelişmiş aygıt yönetimi gibi ek güvenlik özellikleri ayarlamanıza olanak tanır 365 İş yönetici merkezi.
-- **Azure AD P1 planıyla Aynı [Koşullu Erişim](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview)**
+- **Azure AD P1 planıyla Aynı [Koşullu Erişim](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)**
 
     Koşullu Erişim, kuruluşunuzun oturum açma riskine karşı korunmasına, beklenmeyen bir ağdan veya yerel olarak erişim girişimlerine, erişim girişimlerinin riskli aygıt türleri oluşturmasına ve benzeri nedenlerle korunmasına yardımcı olabilir. Koşullu Erişim ilkeleri ilk kimlik doğrulama tamamlandıktan sonra uygulanır ve girişimde bulunulması onaylanması, reddedilmesi veya f daha fazla kanıt (ikinci kimlik biçimi gibi) olup olmadığını belirlemek için ilk kimlik doğrulama olayından gelen sinyalleri kullanır Gerekli.
 

@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 - MOE150
 description: Microsoft 365 Kampanyaları için koşullu erişim ilkeleri nasıl ayarlayabilirsiniz öğrenin.
-ms.openlocfilehash: 31f3b7f3678671af3b5ca3947dec37041b226fac
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 3772aa0d505ef54a0587423e890ede519d571e0c
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575648"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38031405"
 ---
 # <a name="set-up-conditional-access-policies"></a>Koşullu erişim ilkeleri ayarlama
 
@@ -53,9 +53,9 @@ Bu ilkeler hakkında daha fazla bilgi için [temel ilkeler nelerdir?](https://do
     ![Koşullu erişim için temel ilkeleri listeleyen sayfa.](media/baslinepolicies.png)
 1. Her ilke için aşağıdaki özel yönergeye bakın:
 
-  - [Yöneticiler için MFA gerektirir](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-baseline-protect-administrators)
-- [Kullanıcılar için MFA gerektirir](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-baseline-protect-end-users)  
- - [Eski kimlik doğrulamasını engelleme](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth)
+  - [Yöneticiler için MFA gerektirir](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)
+- [Kullanıcılar için MFA gerektirir](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users)  
+ - [Eski kimlik doğrulamasını engelleme](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth)
   - [Hizmet yönetimi için MFA gerektirir](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-azure)
 
 Onaylı istemci uygulamaları gerektirmek gibi birçok ek ilke ayarlayabilirsiniz. Daha fazla bilgi için [Koşullu Erişim Belgelerine](https://docs.microsoft.com/azure/active-directory/conditional-access/) bakın.
