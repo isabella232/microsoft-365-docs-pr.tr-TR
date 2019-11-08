@@ -22,18 +22,18 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Microsoft 365 Business'ı ayarlamayı öğrenin.
-ms.openlocfilehash: afc39ce57e63ad039780ad33e60fa81d8e8eec7a
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: 86af927c05168fabe5a72f331c14c9f3e5cbc1dd
+ms.sourcegitcommit: 550ea6f093ec35182e7c65a2811e9bfb07ec7d01
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38031475"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38038959"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Microsoft 365 Business'a Genel Bakış
 
 ## <a name="what-is-microsoft-365-business"></a>Microsoft 365 İş nedir?
 
-Microsoft 365 İş, sürekli güncelleştirilen Outlook, Word, Excel ve diğer Office ürünlerini içeren bir grup kapsamlı iş üretkenliği ve işbirliği aracıdır. Tüm iOS, Android ve Windows 10 cihazlarınızdaki iş dosyalarınızı, yönetimi kolay kurumsal düzeyde bir güvenlikle koruyabilirsiniz.
+Microsoft 365 Business, Office 365 üretkenlik araçlarının yanı sıra işletmenizi siber tehditlere karşı korumaya, verilerinizi korumaya ve cihazları yönetmeye yardımcı olacak gelişmiş yetenekleri içeren bir abonelik hizmetidir.
   
 Microsoft 365 İş 300 lisansa kadar yöneliktir, daha fazla lisansa ihtiyacınız varsa daha fazla bilgi için [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) belgelerine göz atın.
 

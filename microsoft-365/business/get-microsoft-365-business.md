@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
 description: Microsoft İş Ortağı Merkezi'nden Microsoft 365 Business'ı nasıl satın alabildiğini öğrenin.
-ms.openlocfilehash: 168c68c7394ff736e9d94cb40872230a3f3b8894
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: 09d2f24fba1725278b663d5c3159163a56dcdc59
+ms.sourcegitcommit: 550ea6f093ec35182e7c65a2811e9bfb07ec7d01
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38030824"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38038929"
 ---
 # <a name="get-microsoft-365-business"></a>Microsoft 365 İş'i edinme
 
@@ -36,7 +36,7 @@ ms.locfileid: "38030824"
 
 Ayrıntılı talimatlar için [Microsoft 365 Business'a kaydolun.](sign-up.md)
 
-Ayrıca, hem Microsoft 365 Business satın almak hem de kurulum yardımı almak için bir [Microsoft Mağazası'na](https://www.microsoft.com/store/locations/find-a-store?icid=en-us_UF_FAS) gidebilirsiniz.
+Ayrıca, hem Microsoft 365 Business satın almak hem de kurulum yardımı almak için bir [Microsoft Mağazası'na](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) gidebilirsiniz.
   
 ## <a name="get-microsoft-365-business-from-microsoft-partner-center"></a>Microsoft 365 Business'ı Microsoft İş Ortağı Merkezi'nden edinme
 
@@ -46,7 +46,7 @@ Ayrıca, hem Microsoft 365 Business satın almak hem de kurulum yardımı almak 
     
     ![In the Microsoft Partner center, add a new customer.](media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
   
-3. **Abonelik** sayfasında Abonelik ekle'yi seçin, Katalog bölümündeki Küçük işletme seçeneğini belirleyin ve ardından **Microsoft 365 İş**'i seçin.
+3. Müşterinin **Abonelik** **sayfasında, Abonelik Ekle'yi**seçin, Katalog'un altındaki Küçük işletme seçeneğini seçin ve ardından **Microsoft 365 Business'ı**seçin.
     
     İhtiyacınız olan lisans sayısını (en fazla 300) seçin. 300'den fazla kullanıcınız varsa, bunun yerine bkz. [Microsoft 365 Kurumsal](https://go.microsoft.com/fwlink/p/?linkid=862316). 
     
