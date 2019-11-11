@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: İşletmenizi Office 365 Business Premium'dan Microsoft 365 Business'a yükselten adımlar.
-ms.openlocfilehash: 1e337b908f848da1d33cbd8e662652550d302b14
-ms.sourcegitcommit: 0fa897d06b664c0ed005817752da1426d4ee17cb
+ms.openlocfilehash: f3a25746cf123fa471c29084a62a6fcfc1542a02
+ms.sourcegitcommit: f0a4290793e296474ecd3c6eb0ca96eae7faa434
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "38002153"
+ms.lasthandoff: 11/11/2019
+ms.locfileid: "38231421"
 ---
 # <a name="upgrade-to-microsoft-365-business-from-office-365-business-premium"></a>Office 365 Business Premium'dan Microsoft 365 Business'a yükseltme
 
@@ -38,37 +38,6 @@ ms.locfileid: "38002153"
 ## <a name="whats-the-difference-between-office-365-business-premium-and-microsoft-365-business"></a>Office 365 Business Premium ile Microsoft 365 Business arasındaki fark nedir?
 Bu iki planın yan yana karşılaştırmasını [Microsoft 365 Business hizmet açıklamasına](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description)ekledik. 
 
-1. Yeni lisanslar satın aldıktan sonra ve bunu ilk kez yaptığınızda, Microsoft 365 Business'ın kurulum başlığı yönetici merkezinin üstünde görüntülenir.
-    
-    > [!NOTE]
-    > Kurulum başlığı yeni kullanıcılar, yeni bir etki alanı eklemek ve yeni kullanıcılar için e-posta geçirmek için bir fırsattır. Herhangi bir yapmayı planlamamanız durumunda, yine de sihirbazdan geçmeli ve yönetici ana sayfasından kaybolması için varsayılan seçenekleri seçmelisiniz. 
-  
-   ![Microsoft 365 Business'ta Başlat kurulumını seçin banner'ı kurmaya hazırdır.](media/8d3b0d97-7cca-497f-9364-4b00ad670209.png)
-  
-    **Kurulumu başlat**'ı seçin.
-    
-2. Oturum **açma ve e-posta sayfanızı Kişiselleştir'de, aboneliğinize** başka bir etki alanı eklemek için bu fırsatı kullanmak istiyorsanız **zaten sahip olduğunuz bir etki alanını bağlayın'ı** seçerek bir etki alanı ekleyebilirsiniz. 
-    
-    Zaten bir etki alanı ayarladıysanız, ikinci alan bunu gösterir ve **e-posta için**alan _adınızı_ \> **kullanmaya** \<devam edin ve oturum açma ' da bulunacaktır.   Aboneliğinizle bir etki alanı ayarlamadıysanız, **e-posta için** _şirket name.onmicrosoft.com_ \> **kullanmaya** \<devam edin ve oturum açma ' da bulunacaktır.  
-    
-    **İleri**'yi seçin.
-    
-    ![Oturum açma ve e-posta sayfanızı Kişiselleştir'de, bir etki alanı eklemeyi veya kullanmakta olduğunuz alanı kullanmayı seçin.](media/c3f5cfb2-1189-4d2f-803b-c9feb008a7a3.png)
-  
-3. Yeni **kullanıcı Ekle** sayfasında, Microsoft 365 İşletme lisanslarını atamak istediğiniz yeni çalışanlarınız varsa yeni kullanıcılar ekleyebilirsiniz. 
-    
-    Ekleyecek yeni çalışanlarınız yoksa ve varolan kullanıcılara lisans atamak **istiyorsanız, İleri'yi**seçin.
-    
-4. **Geçire e-posta iletileri** sayfasında, adım 3'te eklediğiniz yeni kullanıcılardan herhangi biri için e-posta yı geçirmeyi seçebilirsiniz. Bu adımı da atlayabilirsiniz. **İleri**'yi seçin.
-    
-5. Son sayfada, yönetici merkezine gidin ve kuruluma devam **edin.**
-    
-6. Yönetici merkezinde, **Kullanıcılar** \> **Etkin kullanıcılara**gidin.
-    
-7. **Microsoft 365 Business** lisansını atamak istediğiniz kullanıcıyı seçin ve ardından **Ürün Lisanslarının**yanında **Edit'i** seçin.
-    
-    ![Kullanıcı kartında Ürün lisanslarının yanında Edit'i seçin.](media/be0fe2d8-7ff8-447c-88f6-d212ed78451c.png)
-  
 ## <a name="before-you-get-started"></a>Başlamadan önce
 
 - **Yükseltmeyi ne zaman seçmeliyim?** Yükseltme, tek bir plana atanan **tüm kullanıcıları** yükseltmek istediğinizde doğru seçimdir. Yükseltmeyi seçtiğinizde, tüm plan kullanıcıları aynı anda başka bir plana geçer. Tek bir plana atanan herkesi yükseltmek istemiyorsanız, yeni plan için lisans satın alın (bu durumda Microsoft 365 Business) ve bu lisansları yükseltmek istediğiniz her kullanıcıya [ayrı ayrı atayın.](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) 
