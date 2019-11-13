@@ -1,108 +1,104 @@
 ---
-title: Microsoft 365 iş CSP abonelik geçiş 
-description: Önizleme bir Microsoft 365 iş CSP abonelik İST nasıl geçiş yapabileceğini öğrenmek Bul 
+title: Microsoft 365 Business CSP aboneliğine geçiş 
+description: Microsoft 365 Business CSP aboneliğini önizlemeden GA'ya nasıl geçirebileceğinizi öğrenin. 
 author: jasongroce
 ms.author: jasgro
 ms.topic: article 
 ms.prod: microsoft-365-business
 localization_priority: Normal
 audience: microsoft-business 
-keywords: Microsoft 365 iş, CSP abonelik Microsoft 365, SMB, geçiş
+keywords: Microsoft 365 Business, Microsoft 365, Kobİ, geçiş CSP aboneliği
 ms.date: 11/01/2017
-ms.openlocfilehash: 8109c0b00f06a15c12bbccf89e7f49dc3fa4b34a
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: b907c3a3bccc4179369890b7769dcb14ba2acbb7
+ms.sourcegitcommit: e4f2f06daa264b8b476813a2dfe80cffb59f968f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32286304"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "38311104"
 ---
-# <a name="transition-a-microsoft-365-business-csp-subscription"></a>Microsoft 365 iş CSP abonelik geçiş
+# <a name="transition-a-microsoft-365-business-csp-subscription"></a>Microsoft 365 Business CSP aboneliğine geçiş
 
-Bir Microsoft 365 iş Önizleme CSP aboneliğiniz varsa, varolan Microsoft 365 iş GA (genel kullanılabilirlik) önizleme aboneliğini nasıl geçiş yapabileceğini öğrenmek bulmak için bu kılavuzu izleyin.
+Microsoft 365 Business Preview CSP aboneliğiniz varsa, mevcut önizleme aboneliğinizi Microsoft 365 Business GA'ya (genel kullanılabilirlik) nasıl geçirebileceğinizi öğrenmek için bu kılavuzu izleyin.
 
-**GA Önizleme aboneliğine geçiş yapma**
+**Önizleme aboneliğini GA'ya aktarma**
 
-1. <a href="https://partnercenter.microsoft.com" target="_blank">Ortağı merkezi</a>oturum açın.
-2. Panosundan **Müşteriler**, seçin ve bulmak ve şirket adını seçin.
+1. <a href="https://partnercenter.microsoft.com" target="_blank">Ortak Merkezi'nde</a>oturum açın.
+2. Panondan **Müşteriler'i**seçin ve ardından şirket adını bulup seçin.
 
-    Bir şirket için abonelikleri listelenecektir.
+    Şirket abonelikleri listelenecektir.
 
-    ![Ortağı Merkezi'nde müşterinin abonelikleri](images/pc_customer_subscriptions_1.png)
+    ![İş Ortağı Merkezi'nde müşterinin abonelikleri](images/pc_customer_subscriptions_1.png)
     
-3. Şirketin **abonelikleri** sayfasında, **Abonelik Ekle**seçin.
-4. **Yeni Abonelik** sayfası, **küçük işletme** seçin ve sonra **Microsoft 365 iş** listeden seçin.
-5. Lisans sayısını ekleyin ve sonra seçin **Sonraki: gözden** abonelik gözden geçirin ve sonra **Gönder**' i seçin.
+3. Şirketin **Abonelikler** sayfasında **abonelik ekle'yi**seçin.
+4. Yeni **abonelik** sayfasında Küçük **Işletme'yi** seçin ve ardından listeden **Microsoft 365 Business'ı** seçin.
+5. Lisans sayısını ekleyin ve ardından **Sonraki'ni seçin:** Aboneliği gözden geçirmek için gözden geçirin ve ardından **Gönder'i**seçin.
 
-    ![Yeni Abonelik Microsoft 365 iş için gözden geçirin.](images/pc_customer_reviewnewsubscription.png)
+    ![Microsoft 365 Business'ın yeni aboneliğini gözden geçirin](images/pc_customer_reviewnewsubscription.png)
 
-    **Abonelik lisansı tabanlı** **Microsoft 365 iş Önizleme** ve **Microsoft 365 iş**gösterir. Önizleme abonelik sonraki askıya gerekecek.
+    **Lisans tabanlı abonelikler** **Microsoft 365 Business Preview** ve Microsoft **365 Business'ı**gösterir. Daha sonra Önizleme aboneliğini askıya alabilirsiniz.
 
-6. **Microsoft 365 iş Önizleme'yi**seçin.
-7. **Microsoft 365 iş Önizleme** sayfasında önizleme abonelik askıya almak için **Beklemede** seçeneğini seçin.
+6. **Microsoft 365 İş Önizleme'yi**seçin.
+7. Microsoft **365 İş Önizleme** sayfasında, Önizleme aboneliğini askıya almak için **Askıya Alın'ı** seçin.
 
-    ![Microsoft 365 iş Önizleme abonelik askıya alma](images/pc_customer_m365bpreview_suspend.png)
+    ![Microsoft 365 İş Önizleme aboneliğini askıya alma](images/pc_customer_m365bpreview_suspend.png)
 
-8. Onaylamak için **Gönder** ' i seçin.
+8. Onaylamak için **Gönder'i** seçin.
 
-    **Abonelikleri** sayfasında **Microsoft 365 iş Önizleme** durumu **Beklemede**gösterir onaylayın.
+    **Abonelikler** sayfasında, **Microsoft 365 İş Önizleme** durumunun Askıya **Alındığını**gösterdiğini doğrulayın.
 
-    ![Önizleme abonelik durumunu askıya Onayla](images/pc_customer_m365bpreview_suspend_confirm.png)
+    ![Önizleme abonelik durumunun askıya alındığını onaylayın](images/pc_customer_m365bpreview_suspend_confirm.png)
 
-9. İsteğe bağlı olarak, Lisans Sözleşmesi'ni de doğrulayabilirsiniz. Bunu yapmak için aşağıdaki adımları izleyin:
-    1. **Kullanıcılar ve lisansları** şirketin **Subscriptions** sayfasını seçin.
-    2. **Kullanıcılar ve lisansları** sayfasından bir kullanıcı seçin.
-    3. Kullanıcının sayfasında, **lisansları atama** bölümüne bakın ve **Microsoft 365 iş**gösterdiğini doğrulayın.
+9. İsteğe bağlı olarak, lisans sözleşmesini de doğrulayabilirsiniz. Bunu yapmak için aşağıdaki adımları izleyin:
+    1. Şirketin **Abonelikler** sayfasından **Kullanıcıları ve lisansları** seçin.
+    2. Kullanıcılar **ve lisanslar** sayfasında bir kullanıcı seçin.
+    3. Kullanıcının sayfasında, **Lisansları Atla** bölümünü kontrol edin ve **Microsoft 365 Business'ı**gösterdiğini onaylayın.
 
-        ![Microsoft 365 işletme lisansı kullanıcıya atanan Onayla](images/pc_customer_userslicenses_m365b_validate.png)
+        ![Microsoft 365 Business lisansının kullanıcıya atandığını onaylayın](images/pc_customer_userslicenses_m365b_validate.png)
 
-## <a name="impact-to-customers-and-users-during-and-after-transition"></a>Müşteriler ve kullanıcılara sırasında ve sonrasında geçiş etkisi
+## <a name="impact-to-customers-and-users-during-and-after-transition"></a>Geçiş sırasında ve sonrasında müşterilere ve kullanıcılara etki
 
-Geçiş ve posta geçişi sırasında müşteriler ve kullanıcılara etkisi yoktur.
+Geçiş ve geçiş sonrası sırasında müşteriler ve kullanıcılar üzerinde hiçbir etkisi yoktur.
 
-## <a name="impact-to-customers-who-dont-transition"></a>Geçiş yok müşterilere etkisi
+## <a name="impact-to-customers-who-dont-transition"></a>Geçiş yapmayan müşterilere etki
 
-Aşağıdaki tablo Microsoft 365 iş Önizleme abonelikten Microsoft 365 iş aboneliğine geçiş olmayan müşterilere etkisini özetlemektedir.
+Aşağıdaki tablo, Microsoft 365 İş Önizleme aboneliğinden Microsoft 365 İş aboneliğine geçmeyen müşterilerin etkisini özetleyilmiştir.
 
-|       | T-0 T + 30     | T + T + 60 30 | T + T + 120 60 | T + 120  |
+|       | T-0 - T+30     | T+30 ile T+60 arası | T+60 ile T+120 arasında | T+120'nin Ötesinde  |
 |-------|-----------------|--------------|---------------|---------------|
-| **Durum** | Yetkisiz kullanım süresi içinde | Süresi dolmuş      | Devre dışı      | Deprovisioned |
+| **Durum** | Yetkisiz kullanım süresi içinde | Süresi dolmuş      | Devre dışı      | Hükmün iptali |
 | **Hizmet etkileri**                                                        |
-| **Microsoft 365 iş Yönetim Portalı** | İşlev etkisi | İşlev etkisi | Kullanıcı Ekle/Sil, abonelik satın alın.</br> Ata/lisansları iptal edilemez. | Müşterinin aboneliğine ve tüm veriler silinir. Admin diğer Ücretli aboneliklerin yönetebilirsiniz. |
-| **Office uygulamaları**                         | Son kullanıcı etkisi | Son kullanıcı etkisi | Office, sınırlı işlevsellik moduna girer.</br> Kullanıcılar yalnızca dosyaları görüntüleyebilir. | Office, sınırlı işlevsellik moduna girer.</br> Kullanıcılar yalnızca dosyaları görüntüleyebilir. |
-| **Bulut Hizmetleri (SharePoint çevrimiçi Exchange Online, Skype, takımlar ve daha fazla)** | Son kullanıcı etkisi | Son kullanıcı etkisi | Son kullanıcılar ve Yöneticiler için veri buluta erişiminiz yok. | Müşterinin aboneliğine ve tüm veriler silinir. |
-| **EM + S bileşenleri** | Admin etkisi</br> Son kullanıcı etkisi | Admin etkisi</br> Son kullanıcı etkisi | Yeteneği yürütülebilmesi durduracak.</br> [Mobil aygıt üzerinde abonelik süresini etkiler](#mobile-device-impacts-upon-subscription-expiration) ve [Windows 10 PC etkileri abonelik sona erme üzerine](#windows-10-pc-impacts-upon-subscription-expiration) daha fazla bilgi için bkz. | Yeteneği yürütülebilmesi durduracak.</br> [Mobil aygıt üzerinde abonelik süresini etkiler](#mobile-device-impacts-upon-subscription-expiration) ve [Windows 10 PC etkileri abonelik sona erme üzerine](#windows-10-pc-impacts-upon-subscription-expiration) daha fazla bilgi için bkz. |
-| **Windows 10 iş** | Admin etkisi</br> Son kullanıcı etkisi | Admin etkisi</br> Son kullanıcı etkisi | Yeteneği yürütülebilmesi durduracak.</br> [Mobil aygıt üzerinde abonelik süresini etkiler](#mobile-device-impacts-upon-subscription-expiration) ve [Windows 10 PC etkileri abonelik sona erme üzerine](#windows-10-pc-impacts-upon-subscription-expiration) daha fazla bilgi için bkz. | Yeteneği yürütülebilmesi durduracak.</br> [Mobil aygıt üzerinde abonelik süresini etkiler](#mobile-device-impacts-upon-subscription-expiration) ve [Windows 10 PC etkileri abonelik sona erme üzerine](#windows-10-pc-impacts-upon-subscription-expiration) daha fazla bilgi için bkz. |
-| **Bir Windows 10 PC Azure AD oturum açma** | Admin etkisi</br> Son kullanıcı etkisi | Admin etkisi</br> Son kullanıcı etkisi | Admin etkisi</br> Son kullanıcı etkisi | Kiracı silinirse, kullanıcı yalnızca yerel kimlik bilgilerinizle oturum açabilirsiniz. Yerel kimlik bilgileri varsa, aygıtı yeniden görüntü. |
+| **Microsoft 365 İş yönetici portalı** | İşlevsellik üzerinde etkisi yoktur | İşlevsellik üzerinde etkisi yoktur | Kullanıcı ekleyebilir/silebilir, abonelik satın alabilir.</br> Lisans atama/iptal edemez. | Müşterinin aboneliği ve tüm veriler silinir. Yönetici diğer ücretli abonelikleri yönetebilir. |
+| **Office uygulamaları**                         | Son kullanıcı etkisi yok | Son kullanıcı etkisi yok | Office azaltılmış işlevsellik moduna girer.</br> Kullanıcılar yalnızca dosyaları görüntüleyebilir. | Office azaltılmış işlevsellik moduna girer.</br> Kullanıcılar yalnızca dosyaları görüntüleyebilir. |
+| **Bulut hizmetleri (SharePoint Online, Exchange Online, Skype, Takımlar ve daha fazlası)** | Son kullanıcı etkisi yok | Son kullanıcı etkisi yok | Son kullanıcılar ve yöneticiler buluttaki verilere erişemez. | Müşterinin aboneliği ve tüm veriler silinir. |
+| **EM+S bileşenleri** | Yönetici etkisi yok</br> Son kullanıcı etkisi yok | Yönetici etkisi yok</br> Son kullanıcı etkisi yok | Yetenek artık zorlanmadı.</br> Daha fazla bilgi için [abonelik sona ermesisırasında Mobil cihaz üzerindeki etkilerine](#mobile-device-impacts-upon-subscription-expiration) ve [Windows 10 PC'nin abonelik sona ermesinden](#windows-10-pc-impacts-upon-subscription-expiration) etkilenmeye yönelik etkilerine bakın. | Yetenek artık zorlanmadı.</br> Daha fazla bilgi için [abonelik sona ermesisırasında Mobil cihaz üzerindeki etkilerine](#mobile-device-impacts-upon-subscription-expiration) ve [Windows 10 PC'nin abonelik sona ermesinden](#windows-10-pc-impacts-upon-subscription-expiration) etkilenmeye yönelik etkilerine bakın. |
+| **Windows 10 İş** | Yönetici etkisi yok</br> Son kullanıcı etkisi yok | Yönetici etkisi yok</br> Son kullanıcı etkisi yok | Yetenek artık zorlanmadı.</br> Daha fazla bilgi için [abonelik sona ermesisırasında Mobil cihaz üzerindeki etkilerine](#mobile-device-impacts-upon-subscription-expiration) ve [Windows 10 PC'nin abonelik sona ermesinden](#windows-10-pc-impacts-upon-subscription-expiration) etkilenmeye yönelik etkilerine bakın. | Yetenek artık zorlanmadı.</br> Daha fazla bilgi için [abonelik sona ermesisırasında Mobil cihaz üzerindeki etkilerine](#mobile-device-impacts-upon-subscription-expiration) ve [Windows 10 PC'nin abonelik sona ermesinden](#windows-10-pc-impacts-upon-subscription-expiration) etkilenmeye yönelik etkilerine bakın. |
+| **Windows 10 bilgisayara Azure AD girişi** | Yönetici etkisi yok</br> Son kullanıcı etkisi yok | Yönetici etkisi yok</br> Son kullanıcı etkisi yok | Yönetici etkisi yok</br> Son kullanıcı etkisi yok | Kiracı silindikten sonra, kullanıcı yalnızca yerel kimlik bilgileriyle oturum açabilir. Yerel kimlik bilgileri yoksa aygıtı yeniden görüntüleyin. |
 
-## <a name="mobile-device-impacts-upon-subscription-expiration"></a>Mobil aygıt abonelik sona erme üzerine etkileri
+## <a name="mobile-device-impacts-upon-subscription-expiration"></a>Mobil cihaz abonelik süresi nin sona ermesinden sonra etkiler
 
-Mobil cihazlarda uygulama yönetimi ilkeleri etkisini followint tabloda özetlenmiştir.
+Aşağıdaki tablo, uygulama yönetimi politikalarının mobil cihazlar üzerindeki etkisini özetlemektedir.
 
-|                            | Tam lisanslı deneyimi                      | T + 60 gün sonrası süre sonu          |
+|                            | Tam lisanslı deneyim                      | T+60 gün sonrası sona erme          |
 |----------------------------|------------------------------------------------|------------------------------------|
-| **Çalışma dosyaları etkin olmayan bir aygıttan sil** | Çalışma dosyaları gün seçtikten sonra kaldırılır. | Kullanıcının kişisel aygıtlarında çalışma dosyaları kalır |
-| **Tüm kullanıcıları iş dosyalarını OneDrive İş üzerine kaydetmeye zorla** | Çalışma dosyaları yalnızca OneDrive iş için kaydedilebilir | Herhangi bir iş dosyaları kaydedilebilir |
-| **İş dosyalarını şifrele** | Çalışma dosyaları şifreli | Artık iş dosyalar şifrelenir.</br> Güvenlik ilkeleri kaldırılır ve Office apps verileri kaldırılır. |
-| **Office uygulamaları erişmek için parmak izi ya da PIN iste** | Sınırlı erişim için apps | Uygulama düzeyinde erişimi kısıtlama |
-| **Oturum açma başarısız olduğunda PIN'i Sıfırla** | Sınırlı erişim için apps | Uygulama düzeyinde erişimi kısıtlama |
-| **Kullanıcıların Office apps boşta sonra yeniden oturum açmanız gerekir** | Gerekli oturumaçma | Hiçbir oturum-apps erişmek için gerekli ' |
-| **İşletim sistemi kısıtlamaları kaldırılmış veya kök erişim izni verilmiş cihazlardan iş dosyalarına erişilmesini engelle** | Çalışma dosyaları jailbroken ve kök aygıtlarda erişilemiyor | Çalışma dosyaları jailbroken ve kök aygıtlarda erişilebilir |
-| **Kullanıcıların kişisel apps için Office uygulamaları içerik kopyalama** | Kopyala/yapıştır sınırlı uygulamaları için Microsoft 365 İş Abonelik bir parçası olarak | Kopyala/yapıştır tüm uygulamalar için kullanılabilir |
+| **Etkin olmayan bir aygıttan çalışma dosyalarını silme** | Çalışma dosyaları seçili günden sonra kaldırılır | Çalışma dosyaları kullanıcının kişisel cihazlarında kalır |
+| **Tüm kullanıcıları iş dosyalarını OneDrive İş üzerine kaydetmeye zorla** | Çalışma dosyaları yalnızca İş Için OneDrive'a kaydedilebilir | Çalışma dosyaları her yere kaydedilebilir |
+| **İş dosyalarını şifrele** | Çalışma dosyaları şifrelenir | Çalışma dosyaları artık şifrelenmez.</br> Güvenlik ilkeleri kaldırılır ve uygulamalardaki Office verileri kaldırılır. |
+| **Office uygulamalarına erişmek için PIN veya parmak izi gerektirme** | Uygulamalara kısıtlı erişim | Uygulama düzeyinde erişim kısıtlaması yok |
+| **Oturum açma başarısız olduğunda PIN'i sıfırlama** | Uygulamalara kısıtlı erişim | Uygulama düzeyinde erişim kısıtlaması yok |
+| **Office uygulamaları boşta kaldıktan sonra kullanıcıların yeniden oturum açmalarını zorunlu kılmasını zorunlu kılmasını** | Oturum açma gerekli | Oturum açma gerekli değildir |
+| **İşletim sistemi kısıtlamaları kaldırılmış veya kök erişim izni verilmiş cihazlardan iş dosyalarına erişilmesini engelle** | Çalışma dosyalarına jailbroken/rooted cihazlarda erişilenemiyor | Çalışma dosyalarına jailbroken/rooted cihazlarda erişilebilir |
+| **Kullanıcıların Office uygulamalarından Kişisel uygulamalara içerik kopyalamasına izin verme** | Microsoft 365 Business aboneliğinin bir parçası olarak kullanılabilen uygulamalarla sınırlı kopyalama/yapıştır | Tüm uygulamaların kullanabileceği kopyalama/yapıştır |
 
-## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>Windows 10 PC üzerinde abonelik süresini etkiler.
+## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>Windows 10 PC abonelik sona erme sırasında etkiler
 
-Aşağıdaki tabloda Windows 10 aygıt yapılandırma ilkeleri etkisini özetlemektedir.
+Aşağıdaki tablo, Windows 10 aygıt yapılandırma ilkelerine etkisini özetleyin.
 
-|                            | Tam lisanslı deneyimi                      | T + 60 gün sonrası süre sonu          |
+|                            | Tam lisanslı deneyim                      | T+60 gün sonrası sona erme          |
 |----------------------------|------------------------------------------------|------------------------------------|
-| **PC'ler, Windows Defender'ı kullanma tehditlerinden korunmasını sağlayın** | Kullanıcı denetimi dışında sıranız açık/kapalı | Kullanıcı Windows 10 PC'de Windows Defender açık/kapalı devre |
-| **Bilgisayarları Microsoft Edge'de web tabanlı tehditlere karşı korumaya yardımcı ol** | Microsoft Edge PC koruma | Kullanıcı Microsoft Edge PC koruma açık/kapalı devre |
-| **Boşta iken aygıt ekranı Kapat** | Ekran zaman aşımı aralığı İlkesi Admin tanımlar | Ekran zaman aşımı son kullanıcı tarafından yapılandırılması |
-| **Kullanıcıların Microsoft Store'ndan uygulama indirmesine izin ver** | Bir kullanıcı Microsoft Store apps yükleyebilirsiniz Admin tanımlar | Kullanıcı apps Microsoft Store istediğiniz zaman yükleyebilirsiniz |
-| **Kullanıcıların Cortana'ya erişmesine izin ver** | Yönetim İlkesi kullanıcı erişimini Cortana tanımlar. | Aç / Kapat Cortana için kullanıcı aygıtları |
-| **Kullanıcıların Microsoft'tan ipuçları ve reklam izin ver** | Admin kullanıcı ilkesi tanımlar Microsoft'tan ipuçları ve reklamlar | Kullanıcı, açık/kapalı ipuçları ve Microsoft'tan reklam kapatabilir |
-| **Kullanıcıların Office uygulamalarından kişisel uygulamalara içerik kopyalamasına izin ver** | Yönetim ilkesi Windows 10 aygıtları güncel tutmak için tanımlar. | Kullanıcılar Windows güncelleştirme zamanına karar verebilirsiniz |
-
-
-
-
+| **Windows Defender'ı kullanarak bilgisayarların tehditlere karşı korunmasına yardımcı olun** | Açma/kapatma kullanıcı denetiminin dışındadır | Kullanıcı Windows 10 pc'de Windows Defender'ı açabilir/kapatabilir |
+| **Bilgisayarları Microsoft Edge'de web tabanlı tehditlere karşı korumaya yardımcı ol** | Microsoft Edge'de PC koruması | Kullanıcı Microsoft Edge'de PC korumayı açabilir/kapatabilir |
+| **Boştayken cihaz ekranLarını kapatma** | Yönetici ekran zaman aralığı ilkesini tanımlar | Ekran zaman sonu son kullanıcıya göre yapılandırılabilir |
+| **Kullanıcıların Microsoft Store'ndan uygulama indirmesine izin ver** | Yönetici, bir kullanıcının Microsoft Mağazası'ndan uygulama indirip indiremeyebileceğini tanımlar | Kullanıcı uygulamaları Microsoft Mağazası'ndan her zaman indirebilir |
+| **Kullanıcıların Cortana'ya erişmesine izin ver** | Yönetici Cortana kullanıcı erişimi ilkesi tanımlar | Cortana'yı açmak/kapatmak için kullanıcı aygıtları |
+| **Kullanıcıların Microsoft'tan ipuçları ve reklamlar almasına izin verme** | Yönetici Microsoft'tan kullanıcı alma ipuçları ve reklamlar ilke tanımlar | Kullanıcı, Microsoft'un ipuçlarını ve reklamlarını açabilir/kapatabilir |
+| **Kullanıcıların Office uygulamalarından kişisel uygulamalara içerik kopyalamasına izin ver** | Yönetici, Windows 10 cihazlarını güncel tutmak için ilke tanımlar | Kullanıcılar Windows'u ne zaman güncelleştireceklerine karar verebilir |
