@@ -24,16 +24,16 @@ search.appverid:
 - MOE150
 ms.assetid: f338e660-6483-4eef-acb9-53dee5bd4408
 description: Business Cloud Suite kurulumu tamamlandıktan sonra ne beklemen gerektiğini öğrenin.
-ms.openlocfilehash: b11c247e8d857f8c7a4d41f633267038b3dd86c6
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: d19438d6e085ba27ec3fb0308005a9bf473383e1
+ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37574708"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38320198"
 ---
 # <a name="help-users-connect-to-microsoft-365-business"></a>Kullanıcıların Microsoft 365 Business'a bağlanmalarına yardımcı olma
 
-Kurulum tamamlandıktan sonra, varsayılan cihaz ilkeleriniz oluşturulmuş ve uygulanmaya hazır olur. Mobil cihazlarda, kullanıcılar Office uygulamalarını indirdikten sonra, okul veya iş hesaplarıyla oturum açtıklarında ilkeler uygulanır. İlkeler Windows PC'lerde uygulanmadan önce, yerinde yükseltme gibi yapılması gereken birkaç şey daha vardır. Kullanıcıların kurulumu tamamlayıp bağlanmasına yardımcı olmak için lütfen aşağıdaki konulara başvurun ve bu konuları paylaşın.
+Kurulumu tamamladıktan sonra, varsayılan aygıt ilkeleriniz yerinde ve uygulamaya hazırdır. Mobil cihazlarda, kullanıcılar Office uygulamalarını indirir. İlkeler daha sonra kullanıcı iş veya okul hesabıile birlikte kaydolduğunda uygulanır. İlkeler Windows PC'lerde uygulanmadan önce, yerinde yükseltme gibi yapılması gereken birkaç şey daha vardır. Kullanıcıların ayarlanıp bağlanmalarına yardımcı olmak için aşağıdaki konuları görün ve paylaşın:
   
 [Microsoft 365 İş kullanıcıları için Windows cihazları ayarlama](set-up-windows-devices.md)
   

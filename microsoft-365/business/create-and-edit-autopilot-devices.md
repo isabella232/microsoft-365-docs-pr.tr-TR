@@ -23,24 +23,24 @@ search.appverid:
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
 description: Microsoft 365 Business'ta Otomatik Pilot'u kullanarak cihazları nasıl yükleyin öğrenin. Bir aygıta veya aygıt grubuna profil atayabilirsiniz.
-ms.openlocfilehash: 4eadaa800aa174bcd9cac50375f68c8471e1684e
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 1dd6b1a574166379e29465bf3699e47e3b155e0b
+ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575418"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38320268"
 ---
 # <a name="create-and-edit-autopilot-devices"></a>AutoPilot cihazlarını oluşturma ve düzenleme
 
 ## <a name="upload-a-list-of-devices"></a>Cihaz listesini karşıya yükleme
 
-Cihazları karşıya yüklemek için [Adım adım kılavuzu](add-autopilot-devices-and-profile.md) kullanabileceğiniz gibi, **Cihazlar** sekmesinde de karşıya yükleyebilirsiniz. 
+Aygıtyüklemek için [adım adım kılavuzunu](add-autopilot-devices-and-profile.md) kullanabilirsiniz, ancak **Aygıtlar** sekmesine aygıt yükleyebilirsiniz. 
   
-Cihazların şu gereksinimleri karşılaması gerekir:
+Aygıtlar bu gereksinimleri karşılamalıdır:
   
-- Windows 10, sürüm 1703 veya üstü.
+- Windows 10, sürüm 1703 veya sonrası
     
-- Windows ilk çalıştırma deneyimi uygulanmamış olan yeni cihazlar.
+- Windows'dan kutudan çıkma deneyiminden geçmemiş yeni aygıtlar
 
 1. Microsoft 365 Business Admin merkezinde, **Cihazlar** \> **Otomatik Pilot'u**seçin.
   
@@ -48,13 +48,13 @@ Cihazların şu gereksinimleri karşılaması gerekir:
     
     ![In the Devices tab, choose Add devices.](media/6ba81e22-c873-40ad-8a72-ce64d15ea6ba.png)
   
-3. Aygıt **ekle** panelinde, \> **Kaydet** \> **Kapat'ı**kaydet'i hazırladığınız [Aygıt listesi CSV dosyasına](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e) göz atın.
+3. Aygıt **ekle** panelinde, **Kaydet** \> **Kapat'ı**kaydet'i \> hazırladığınız [Aygıt listesi CSV dosyasına](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e) göz atın.
     
-    Bu bilgileri donanım satıcınızdan alabilir veya csv dosyasını oluşturmak için [Get-WindowsAutoPilotInfo PowerShell betiğini](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) kullanabilirsiniz. 
+    Bu bilgileri donanım satıcınızdan alabilir veya Bir CSV dosyası oluşturmak için [Get-WindowsAutoPilotInfo PowerShell komut dosyasını](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) kullanabilirsiniz. 
     
 ## <a name="assign-a-profile-to-a-device-or-a-group-of-devices"></a>Cihaza veya cihaz grubuna profil atama
 
-1. **Windows'u Hazırla** sayfasında **Cihazlar** sekmesini seçin ve bir veya birden çok cihazın yanındaki onay kutusunu işaretleyin. 
+1. **Windows'u Hazırla** sayfasında **Aygıtlar** sekmesini seçin ve bir veya daha fazla aygıtın yanındaki onay kutusunu seçin. 
     
 2. **Cihaz** panelinde, **Atanan profil** açılan listesinden bir profil seçin. 
     

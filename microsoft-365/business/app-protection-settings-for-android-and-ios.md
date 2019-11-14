@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: Android veya iOS cihazlardaki çalışma dosyalarını nasıl oluşturup, düzenlemeyi veya silmeyi ve çalışma dosyalarını nasıl koruyacağınızı öğrenin.
-ms.openlocfilehash: 914e6848ac46eb334516aadff2827da2b83a38c4
-ms.sourcegitcommit: 0fa897d06b664c0ed005817752da1426d4ee17cb
+ms.openlocfilehash: 2eebe5b603837d7e4125ab7e88b61792ca3a1e5d
+ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "38002095"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38321855"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Android veya iOS cihazlara yönelik uygulama koruma ayarlarını belirleme
 
@@ -41,17 +41,17 @@ ms.locfileid: "38002095"
   
 3. **İlke ekle** bölmesinde bu ilke için benzersiz bir ad girin. 
     
-4. **İlke türü**'nün altında, oluşturmak istediğiniz ilke grubuna bağlı olarak **Android için Uygulama Yönetimi**'ni veya **iOS için Uygulama Yönetimi**'ni seçin. 
+4. **Politika türüne**göre, oluşturmak istediğiniz politika kümesine bağlı **olarak, iOS için**Android veya Uygulama Yönetimi için **Uygulama Yönetimi'ni** seçin. 
     
-5. Expand **Protect work files when devices are lost or stolen** and **Manage how users access Office files on mobile devices** \> configure the settings how you would like. The **Manage how users access Office files on mobile devices** is **Off** by default, but it is recommended that you turn it **On** and accept the default values. Daha fazla bilgi için [kullanılabilir ayarlara](#available-settings) bakın. 
+5. **Aygıtlar kaybolduğunda veya çalındığında iş dosyalarını koru'nun** genişletilmesi ve **kullanıcıların mobil cihazlardaki Office dosyalarına nasıl erişmelerini yönetin.** Ayarları istediğiniz gibi yapılandırın. **Kullanıcıların mobil cihazlardaki Office dosyalarına nasıl erişeceklerini yönetin** varsayılan olarak **Kapalıdır,** ancak **açmanızı** ve varsayılan değerleri kabul etmeyi öneririz. Daha fazla bilgi için [Kullanılabilir ayarlara](#available-settings)bakın. 
     
     Varsayılan ayarlara geri dönmek için istediğiniz zaman **Varsayılan ayarlara sıfırla** seçeneğini kullanabilirsiniz. 
     
     ![Screenshot of Create a policy with Application management for Android selected](media/eabbe06d-ac0a-4f3a-8630-68c808b1e662.png)
   
-6. Next decide **Who will get these settings?** If you don't want to use the default **All Users** security group, choose **Change**, choose the security groups who will get these settings \> **Select**.
+6. Next decide **Who will get these settings?** Varsayılan **Tüm Kullanıcılar** güvenlik grubunu kullanmak istemiyorsanız, **Değiştir'i**seçin, bu ayarları \> alan güvenlik gruplarını seçin **Seçin.**
     
-7. Son olarak **Bitti**'yi seçerek ilkeyi kaydedin ve cihazlarınıza atayın. 
+7. Son olarak, **Bitti**'yi seçerek ilkeyi kaydedin ve cihazlarınıza atayın. 
     
 ## <a name="edit-an-app-management-policy"></a>Uygulama yönetimi ilkesini düzenleme
 
@@ -59,15 +59,15 @@ ms.locfileid: "38002095"
     
 2. **İlkeyi düzenle** bölmesinde değiştirmek istediğiniz ilkeyi seçin. 
     
-3. İlkedeki değerleri değiştirmek için her ayarın yanında bulunan **Düzenle**'yi seçin. Değiştirdiğiniz değerler otomatik olarak ilkeye kaydedilir. 
+3. İlkedeki değerleri değiştirmek için her ayarın yanında bulunan **Düzenle**'yi seçin. Bir değeri değiştirdiğinizde, bu değer otomatik olarak ilke kaydedilir.
     
-4. İşiniz bittiğinde **İlkeyi düzenle** bölmesini kapatın. 
+4. İşiniz bittiğinde, **Edit ilkesi** bölmesini kapatın. 
     
 ## <a name="delete-an-app-management-policy"></a>Uygulama yönetimi ilkesini silme
 
 1. **İlkeler** sayfasında bir ilke seçin ve sonra **silin.**
     
-2. Silme **ilkesi** bölmesinde seçtiğiniz ilke veya ilkeleri silmek için **Onayla'yı** seçin. 
+2. Sil **ilkesi** bölmesinde, seçtiğiniz ilke veya ilkeleri silmek için **Onayla'yı** seçin. 
     
 ## <a name="available-settings"></a>Kullanılabilir ayarlar
 
@@ -82,9 +82,9 @@ Bir kullanıcının cihazı kaybolursa veya çalınırsa, iş dosyalarını koru
 |||
 |:-----|:-----|
 |Ayar  <br/> |Açıklama  <br/> |
-|İş dosyalarını şu kadar gün sonra etkin olmayan cihazdan sil  <br/> |Bir cihaz, burada belirttiğiniz gün sayısı boyunca kullanılmazsa, cihazda depolanan tüm iş dosyaları otomatik olarak silinir.  <br/> |
-|Tüm kullanıcıları iş dosyalarını OneDrive İş üzerine kaydetmeye zorla  <br/> |Bu ayar **Açık** olduğunda, iş dosyaları yalnızca OneDrive İş konumuna kaydedilebilir.  <br/> |
-|İş dosyalarını şifrele  <br/> |İş dosyalarınızın şifreleme ile korunması için bu ayarı **Açık** tutun. Cihaz kaybolsa veya çalınsa bile hiç kimse şirket verilerinizi okuyamaz.  <br/> |
+|İş dosyalarını şu kadar gün sonra etkin olmayan cihazdan sil  <br/> |Burada belirttiğiniz gün sayısı için bir aygıt kullanılmazsa, aygıtta depolanan çalışma dosyaları otomatik olarak silinir.  <br/> |
+|Tüm kullanıcıları iş dosyalarını OneDrive İş üzerine kaydetmeye zorla  <br/> |Bu ayar **Açık**ise, iş dosyaları için kullanılabilir tek kaydetme konumu İş için OneDrive'dır.  <br/> |
+|İş dosyalarını şifrele  <br/> |İş dosyalarınızın şifreleme ile korunması için bu ayarı **Açık** tutun. Cihaz kaybolsa veya çalınmış olsa bile, şirket verilerinizi kimse okuyamaz.  <br/> |
    
 ### <a name="settings-that-control-how-users-access-office-files-on-mobile-devices"></a>Kullanıcıların Office dosyalarına mobil cihazlardan erişimini denetleyen ayarlar
 
@@ -93,12 +93,8 @@ Kullanıcıların Office iş dosyalarına erişimini yönetmek için şu ayarlar
 |||
 |:-----|:-----|
 |Ayar  <br/> |Açıklama  <br/> |
-|Office uygulamalarına erişirken PIN veya parmak izi iste  <br/> |Bu ayarlar **Açık** ise kullanıcıların Office uygulamalarını mobil cihazlarında kullanabilmeleri için kullanıcı adı ve parolalarının yanı sıra başka bir doğrulama biçimi daha sağlaması gerekir.  <br/> |
+|Office uygulamalarına erişirken PIN veya parmak izi iste  <br/> |Bu ayar **** Açık'sa, kullanıcıların mobil cihazlarında Office uygulamalarını kullanabilmeleri için kullanıcı adlarına ve parolalarına ek olarak başka bir kimlik doğrulama biçimi sağlamaları gerekir.<br/> |
 |Belirli sayıda başarısız oturum açma girişimi yapıldığında PIN'i sıfırla  <br/> |Yetkisiz bir kullanıcının PIN'i rastgele tahmin etmesini engellemek için belirlediğiniz sayıda yanlış giriş yapılırsa PIN sıfırlanır.  <br/> |
-|Office uygulamaları belirli bir süre boyunca boşta kalırsa kullanıcıların yeniden oturum açmasını iste  <br/> |Bu ayar, bir kullanıcının ne kadar süre boşta kaldıktan sonra yeniden oturum açması isteneceğini belirler.  <br/> |
+|Office uygulamaları belirli bir süre boyunca boşta kalırsa kullanıcıların yeniden oturum açmasını iste  <br/> |Bu ayar, kullanıcıdan yeniden oturum açması istenmeden önce ne kadar süre yle boşta kalınabileceğini belirler.  <br/> |
 |Jailbreak uygulanmış veya kök erişim izni verilmiş cihazlardan iş dosyalarına erişilmesini engelle  <br/> |Akıllı kullanıcılar, bir cihaza jailbreak uygulamış veya kök erişim izni sağlamış olabilir. Bu, işletim sisteminin kullanıcı tarafından değiştirilebileceği ve dolayısıyla, cihazın kötü amaçlı yazılımlara karşı daha savunmasız hale gelebileceği anlamına gelir. Bu ayar **Açık** olduğunda böyle cihazlar engellenir.  <br/> |
 |Kullanıcıların Office uygulamalarından kişisel uygulamalara içerik kopyalamasına izin ver  <br/> |Bu duruma varsayılan olarak izin verilir, ancak bu ayar **Açık** olduğunda kullanıcı bir iş dosyasındaki bilgileri kişisel bir dosyaya aktarabilir. Ayar **Kapalı** durumdaysa, kullanıcı iş hesabındaki bilgileri kişisel bir uygulamaya veya kişisel hesaba kopyalayamaz.  <br/> |
-   
-
-  
-

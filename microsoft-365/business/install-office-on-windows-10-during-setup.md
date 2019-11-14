@@ -22,19 +22,17 @@ search.appverid:
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
 description: Kurulum sırasında Office'i Windows 10 aygıtlarına otomatik olarak dağıtmayı şimdi öğrenin.
-ms.openlocfilehash: 64585d0a34e409822959939d5ae40fac57ff943b
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: fbc11553452ae5068ad7013a409901dee5b3570d
+ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37576008"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38320058"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>Kurulum sırasında Windows 10'da Office'i yükleme
 
 ![Banner bu https://aka.ms/aboutM365previewişaret .](media/m365admincenterchanging.png)
 
-Bu ayar varsayılan olarak kapalıdır. Kullanıcıların tüm Windows 10 cihazlarında Office'in en son sürümüne sahip olduklarından emin olmak için bu ayarı açabilirsiniz ama önce tüm önkoşulların karşılandığından emin olmanız gerekir. Bu ayarın yazılımı cihaza iletmesi için kullanıcıların [Microsoft 365 İş tarafından Office istemci dağıtımı hazırlığı](prepare-for-office-client-deployment.md) alanında açıklanan diğer gereksinimlere ek olarak Microsoft 365 İş lisansına da sahip olması gerekir. 
+Bu ayar varsayılan olarak kapalıdır. Kullanıcıların tüm Windows 10 cihazlarında Office'in en son sürümüne sahip olduğundan emin olmak için açabilirsiniz, ancak önce tüm ön koşulların karşılandığını doğrulayın. Microsoft 365 Business tarafından Office istemci dağıtımıiçin hazırla'da açıklanan diğer gereksinimlere ek olarak, yazılımı aygıta itmek için bu ayar için kullanıcıların Microsoft [365 Business lisansına](prepare-for-office-client-deployment.md)ek olarak lisanslanması gerekir. 
   
-Kurulum sırasında varsayılan ayarı kabul etmenizi öneririz. Farklı kullanıcı grupları için farklı ayarlar belirlemek isterseniz, kurulumdan sonra Office dağıtımını gruplara göre yönetebilirsiniz. Yönetim merkezi giriş sayfasından **Cihazlar** \> **Office dağıtımını yönet**'e gidin. Adım adım yönergeler için bkz. [Windows 10 cihazlarında Office'i otomatik olarak yükleme veya kaldırma](auto-install-or-uninstall-office.md).
-  
-
+Kurulum sırasında varsayılan ayarı kabul edersiniz. Farklı kullanıcı grupları için farklı ayarlara sahip olmak istiyorsanız, kurulumdan sonra Office dağıtımını grup bazında yönetebilirsiniz. Yönetici merkezi merkezinden Office **dağıtımını** **Yönet'e** \> gidin. Adım adım yol tarifleri için Windows [10 aygıtlarında Office'i otomatik olarak yükleyin veya kaldırın.](auto-install-or-uninstall-office.md)
