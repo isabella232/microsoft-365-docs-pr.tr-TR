@@ -24,19 +24,19 @@ search.appverid:
 - MOE150
 ms.assetid: da60e08e-2547-491a-9c97-94ac6d715623
 description: Windows 10 için kuruluşunuzdaki tüm kullanıcılar için geçerli olan aygıt ilkeleri hakkında bilgi edinin.
-ms.openlocfilehash: 11c8f75f56a86895d7f81fc242490303c10ac24e
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: ad092d2b2760a55e16c44a66350626c90c9ac7c5
+ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575438"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38321374"
 ---
-# <a name="configure-windows-10-devices"></a><span data-ttu-id="4f8bc-103">Windows 10 cihazlarını yapılandırma</span><span class="sxs-lookup"><span data-stu-id="4f8bc-103">Configure Windows 10 devices</span></span>
+# <a name="configure-windows-10-devices"></a><span data-ttu-id="4eb20-103">Windows 10 cihazlarını yapılandırma</span><span class="sxs-lookup"><span data-stu-id="4eb20-103">Configure Windows 10 devices</span></span>
 
-<span data-ttu-id="4f8bc-p101">Kurulum sırasında, kuruluşunuzdaki tüm kullanıcılar için geçerli olan bir Windows 10 cihaz ilkesi oluştururuz. Bir kullanıcı kendi Windows 10 cihazındaki bir Office uygulamasında, kendi iş veya okul hesabıyla her oturum açtığında, kullanıcının güvenli bir şekilde bağlandığından emin olmak için sizin yapılandırdığınız ayarlar otomatik olarak uygulanır.</span><span class="sxs-lookup"><span data-stu-id="4f8bc-p101">During setup, we'll create a device policy for Windows 10 that applies to all users in your organization. When a user signs in to an Office app on their Windows 10 device with their work or school account, the settings that you configure are automatically applied to make sure that the user is connecting in a secure way.</span></span>
+<span data-ttu-id="4eb20-104">Kurulum sırasında, Windows 10 için kuruluşunuzdaki tüm kullanıcılar için geçerli olan bir aygıt ilkesi oluşturursunuz.</span><span class="sxs-lookup"><span data-stu-id="4eb20-104">During setup, you create a device policy for Windows 10 that applies to all users in your organization.</span></span> <span data-ttu-id="4eb20-105">Bir kullanıcı Windows 10 cihazındaki bir Office uygulamasına iş veya okul hesabıyla giriş yaptığında, kullanıcının güvenli bir şekilde bağlandığından emin olmak için yapılandırdığınız ayarlar otomatik olarak uygulanır.</span><span class="sxs-lookup"><span data-stu-id="4eb20-105">When a user signs in to an Office app on their Windows 10 device with their work or school account, the settings you configure are automatically applied to make sure that the user is connecting in a secure way.</span></span>
   
-<span data-ttu-id="4f8bc-p102">Kurulum sırasında varsayılan yapılandırmayı kabul etmenizi öneririz. Kurulumdan sonra başka ilkeler oluşturabilir ve bunları belirli kullanıcı gruplarına yönlendirebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="4f8bc-p102">We recommend that you accept the default configuration during setup. After setup, you can create additional policies and target them to specific groups of users.</span></span>
+<span data-ttu-id="4eb20-106">Kurulum sırasında varsayılan yapılandırmayı kabul etmenizi öneririz.</span><span class="sxs-lookup"><span data-stu-id="4eb20-106">We recommend that you accept the default configuration during setup.</span></span> <span data-ttu-id="4eb20-107">Kurulumdan sonra, daha fazla ilke oluşturabilir ve bunları belirli kullanıcı gruplarına hedefleyebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="4eb20-107">After setup, you can create more policies and target them to specific groups of users.</span></span>
   
-<span data-ttu-id="4f8bc-108">Windows 10 cihaz yapılandırmalarını yönetmek üzere bir ilke eklemek için bkz. [Windows 10 bilgisayarları için cihaz yapılandırmalarını ayarlama](protection-settings-for-windows-10-pcs.md).</span><span class="sxs-lookup"><span data-stu-id="4f8bc-108">To add a policy to manage Windows 10 device configurations, see [Set device configurations for Windows 10 PCs](protection-settings-for-windows-10-pcs.md).</span></span>
+<span data-ttu-id="4eb20-108">Windows 10 cihaz yapılandırmalarını yönetmek üzere bir ilke eklemek için bkz. [Windows 10 bilgisayarları için cihaz yapılandırmalarını ayarlama](protection-settings-for-windows-10-pcs.md).</span><span class="sxs-lookup"><span data-stu-id="4eb20-108">To add a policy to manage Windows 10 device configurations, see [Set device configurations for Windows 10 PCs](protection-settings-for-windows-10-pcs.md).</span></span>
   
 
