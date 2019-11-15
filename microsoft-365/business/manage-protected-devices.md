@@ -23,17 +23,19 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
-description: Koruma ilkeleri yönetilen bir aygıtı silme veya sıfırlama hakkında bilgi edinin.
-ms.openlocfilehash: 78eff4b4d29ee5de6f773841cc77239f6acf0634
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Koruma ilkeleri yle yönetilen bir aygıtı sıfırlamayı veya silmeyi öğrenin.
+ms.openlocfilehash: ef3b8ed0e3b3f8b9136d3929bce1b835309498c7
+ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074680"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38633339"
 ---
 # <a name="manage-protected-devices-with-microsoft-365-business"></a>Korunan cihazları Microsoft 365 Business ile yönetme
 
-Bir kullanıcı iş hesabıyla cihazında veya cihazındaki Office uygulamalarında oturum açarak cihazı kuruluşunuza bağladıktan sonra, sizin ayarladığınız ilkelerle cihazı koruyabiliriz ve cihaz, **Cihazlar** sayfasında listelenir. Kaybolan veya çalınan bir cihazı bu sayfadan yönetebilir ve böylece tüm şirket verilerini kaldırabilirsiniz. Ayrıca, Windows 10 cihazları fabrika ayarlarına sıfırlayarak tüm özel ayarları da temizleyebilirsiniz. Cihazları yönetmek üzere yapabileceğiniz görevler hakkında daha fazla bilgi için şu makalelere bakın: 
+Bir kullanıcı, iş hesabıyla aygıta veya aygıttaki Office uygulamalarına oturum açarak cihazı kuruluşunuza bağladıktan sonra, ayarladığınız ilkelerle aygıtı koruyabilirsiniz. Bağlı aygıtlar **Cihazlar** sayfasında listelenir. Kaybolan veya çalınan bir cihazı bu sayfadan yönetebilir ve böylece tüm şirket verilerini kaldırabilirsiniz. Ayrıca, Windows 10 cihazları fabrika ayarlarına sıfırlayarak tüm özel ayarları da temizleyebilirsiniz. 
+
+Aygıtları yönetmek için kullanabileceğiniz görevler hakkında daha fazla bilgi için aşağıdaki makalelere bakın: 
   
 [Cihazlardan şirket verilerini kaldırma](remove-company-data.md)
   

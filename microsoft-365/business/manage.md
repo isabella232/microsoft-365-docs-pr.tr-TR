@@ -18,13 +18,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
-description: Microsoft 365 İş ile ilgili yönetici görevlerini, mobil cihazları, Windows 10PC'leri ve bu tür birçok görevi yönetmeyi öğrenin.
-ms.openlocfilehash: 1e39adad50688686ef1d03ef7ed51534e067e6b3
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+description: Microsoft 365 İş ile ilgili yönetici görevlerini, mobil cihazları, Windows 10 bilgisayarlarınve bu tür birçok görevi yönetmeyi öğrenin.
+ms.openlocfilehash: ee1c856c6c0005842df8b3581a602dd539490bea
+ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575968"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38633319"
 ---
 # <a name="manage-microsoft-365-business"></a>Microsoft 365 İş yönetimi
 
@@ -32,7 +32,7 @@ ms.locfileid: "37575968"
 
 İşletmeler için Office 365'in [yönetici içeriğinin](/Office365/Admin/admin-home.md) çoğu Microsoft 365 Business için de geçerlidir.
 
-- [Microsoft 365 İş'e başka kullanıcılar ekleme](add-users-m365b.md)
+- [Microsoft 365 Business'a daha fazla kullanıcı ekleme](add-users-m365b.md)
     
 - [İlkeleri ve cihazları görüntüleme](view-policies-and-devices.md)
     
@@ -40,7 +40,7 @@ ms.locfileid: "37575968"
     
 - [Microsoft 365 İş'in koruma özellikleriyle Intune ayarları nasıl eşleşir?](map-protection-features-to-intune-settings.md)
     
-Microsoft 365 İş kullanarak kuruluşunuzun PC'lerde ve mobil cihazlarda depoladığı verileri nasıl koruyabileceğinizi öğrenmek için aşağıdaki bölümlere bakın.
+Kuruluşunuzun bilgisayarve mobil cihazlardaki verilerini korumak için Microsoft 365 Business'ı nasıl kullanacağınıza ilişkin aşağıdaki bölümlere bakın.
   
 ## <a name="manage-mobile-devices"></a>Mobil cihazları yönetme
 
@@ -48,7 +48,7 @@ Microsoft 365 İş kullanarak kuruluşunuzun PC'lerde ve mobil cihazlarda depola
     
 - [Android veya iOS cihazlara yönelik uygulama koruma ayarlarını belirleme](app-protection-settings-for-android-and-ios.md)
     
-    Bunun çalıştığından emin olmak için [android veya iOS aygıtındaki uygulama koruma ayarlarını doğrula'ya](validate-settings-on-android-or-ios.md) bakın. 
+    Bunun çalıştığından emin olmak için android [veya iOS aygıtındaki uygulama koruma ayarlarını doğrula'ya](validate-settings-on-android-or-ios.md)bakın. 
     
 - [Cihazlardan şirket verilerini kaldırma](remove-company-data.md)
     
@@ -62,11 +62,11 @@ Microsoft 365 İş kullanarak kuruluşunuzun PC'lerde ve mobil cihazlarda depola
     
 - [Windows 10 cihazlara yönelik cihaz koruma ayarlarını belirleme](protection-settings-for-windows-10-pcs.md)
     
-    İşe yaradığından emin olmak için [Windows 10 cihazlarda cihaz koruma ayarlarını doğrulama](validate-settings-on-windows-10-pcs.md) bölümüne bakın. 
+    Bunun çalıştığından emin olmak için [Windows 10 aygıtlarında aygıt koruma ayarlarını doğrula'ya](validate-settings-on-windows-10-pcs.md)bakın. 
     
 - [Windows 10 cihazlarına yönelik uygulama koruma ayarlarını belirleme](protection-settings-for-windows-10-devices.md)
     
-    İşe yaradığından emin olmak için [Windows 10 PC'lerde uygulama koruma ayarlarını doğrulama](validate-protection-settings-on-windows-10-pcs.md) bölümüne bakın. 
+    Bunun çalıştığından emin olmak için [Windows 10 bilgisayarlarındaki uygulama koruma ayarlarını doğrula'ya](validate-protection-settings-on-windows-10-pcs.md)bakın. 
     
 - [Cihazlardan şirket verilerini kaldırma](remove-company-data.md)
     
@@ -88,9 +88,9 @@ Aşağıdaki konularda, Microsoft 365 İş'te AutoPilot'u kullanarak Windows 10 
     
 - [AutoPilot Profili ayarları hakkında](autopilot-profile-settings.md)
     
-## <a name="set-up-and-pre-requisite-information"></a>Kurulum ve önkoşul bilgileri
+## <a name="set-up-and-prerequisite-information"></a>Kurulum ve önkoşul bilgileri
 
-- [Cihazlardaki verileri Microsoft 365 İş ile korumanın önkoşulları](pre-requisites-for-data-protection.md)
+- [Microsoft 365 Business ile cihazlardaki verileri korumak için ön koşullar](pre-requisites-for-data-protection.md)
     
 - [Microsoft 365 İş'i kurulum sihirbazını kullanarak ayarlama](set-up.md)
     
@@ -98,8 +98,4 @@ Aşağıdaki konularda, Microsoft 365 İş'te AutoPilot'u kullanarak Windows 10 
     
 - [Etki alanına katılmış Windows 10 cihazlarını Microsoft 365 İş tarafından yönetilecek şekilde etkinleştirme](manage-windows-devices.md)
     
-[Ek güvenlik özellikleri](security-features.md#additional-security-features)
-    
-
-  
-
+- [Ek güvenlik özellikleri](security-features.md#additional-security-features)
