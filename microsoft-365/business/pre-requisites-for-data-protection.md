@@ -1,5 +1,5 @@
 ---
-title: Cihazlardaki verileri Microsoft 365 Business ile korumanın önkoşulları
+title: Microsoft 365 Business ile cihazlardaki verileri korumak için ön koşullar
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -17,33 +17,30 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
-description: 'Microsoft 365 Business ile kuruluşunuzu kurmak için ön koşulları bilin. '
-ms.openlocfilehash: 157abf0a3396ab374297441bf90d6defc4093390
-ms.sourcegitcommit: e2ed110c4c3a8434f9fcc9d610069bc77bc39220
+description: Microsoft 365 Business ile kuruluşunuzu kurmak için ön koşulları bilin.
+ms.openlocfilehash: 874a85859e315ef17e10fdd8094860e1e6bf2560
+ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38290540"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38640551"
 ---
-# <a name="pre-requisites-for-protecting-data-on-devices-with-microsoft-365-business"></a>Cihazlardaki verileri Microsoft 365 Business ile korumanın önkoşulları
+# <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-business"></a>Microsoft 365 Business ile cihazlardaki verileri korumak için ön koşullar
 
-Kuruluşunuzu Microsoft 365 İş ile ayarlama işlemine başlarken, öncelikle önkoşulları karşıladığınızdan emin olun.
+Microsoft 365 Business ile kuruluşunuzu kurmanın ilk adımı, ön koşulları karşılayabildiğinizden emin olmaktır.
   
-## <a name="pre-requisites"></a>Önkoşullar
+## <a name="prerequisites"></a>Önkoşullar
 
 - Windows cihazlarının Windows 7 Professional, Windows 8 Pro veya Windows 8.1 Pro sistemlerinden birini çalıştırıyor olması gerekir.
     
     [Windows cihazları Windows Pro Creators Update sürümüne yükseltme](upgrade-to-windows-pro-creators-update.md)
     
-    Windows 10 Home çalıştırıyorsanız, Windows 10 Pro **satın** almanız gerekir. Talimatlar için [Windows 10 Home'dan Windows 10 Pro'ya yükseltme](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) konusuna bakın. 
+    Windows 10 Home çalıştırıyorsanız, Windows 10 Pro **satın** almalısınız. Talimatlar için [Windows 10 Home'dan Windows 10 Pro'ya yükseltme](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) konusuna bakın. 
     
-- Cihazları, mobil yönetim çözümlerinden (Mobile Iron, AirWatch, vb.) kaldırın. Kuruluşunuzdaki tüm kişileri Microsoft 365 İş mobil yönetimine kaydedeceksiniz.
+- Cihazları mobil yönetim çözümlerinden (Mobil Demir, AirWatch vb.) kaldırın. Kuruluşunuzdaki tüm kişileri Microsoft 365 Business mobil yönetimine kaydedeceksiniz.
     
 - Apple iOS 8.0 ve üzeri
     
-    Google Android 4.0 ve üzeri (Samsung KNOX Standard 4.0 ve üzeri dahil). Daha fazla bilgi için bkz. [Intune desteklenen cihazlar](https://go.microsoft.com/fwlink/p/?linkid=852307).
+    Google Android 4.0 ve sonrası (Samsung KNOX Standart 4.0 ve üzeri dahil). Daha fazla bilgi için [Intune destekli aygıtlar'a](https://go.microsoft.com/fwlink/p/?linkid=852307)bakın.
     
-- Kullanıcı bilgisayarlarında mevcut Office uygulamaları varsa, Microsoft 365 İş'ı Office 2016'yı kullanıcı bilgisayarlarına yüklemek üzere ayarlamadan önceden izlemeniz gerekebilecek adımları anlamak için [Office istemcisi yüklemesi için hazırlanma](prepare-for-office-client-deployment.md) bölümünü okuyun. 
-    
-
-
+- Kullanıcı bilgisayarlarında varolan Office uygulamalarınız varsa, Microsoft 365 Business'ı kullanıcı bilgisayarlarına Yüklenmesi için ayarlamadan önce uygulamanız gerekebilecek adımları anlamak [için Office istemci yüklemesine hazırla'yı](prepare-for-office-client-deployment.md) okuyun. 

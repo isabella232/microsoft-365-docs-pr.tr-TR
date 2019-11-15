@@ -18,21 +18,21 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: ed34fff3-2881-4ed4-9906-1ba6bb8dd804
-description: 32 bit Office uygulamalarını Windows 10 bilgisayarlara otomatik olarak nasıl yükleyip güncel tutacağınızı öğrenin.
-ms.openlocfilehash: 5b28c1e62d813c52b41ce8e7619c865cdf7690e2
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+description: Windows 10 bilgisayarlara 32 bit Office uygulamalarını otomatik olarak nasıl yükleyip güncel tutacağınızı öğrenin.
+ms.openlocfilehash: 09857ddeb28e953da07979045a65f6b91925aeaf
+ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575828"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38640779"
 ---
 # <a name="prepare-for-office-client-deployment-by-microsoft-365-business"></a>Microsoft 365 İş tarafından Office istemci dağıtımı hazırlığı
 
 ## <a name="prepare-to-automatically-install-office-apps-to-client-computers"></a>İstemci bilgisayarlara Office uygulamalarını otomatik olarak yükleme hazırlığı
 
-Microsoft 365 İş kullanarak Windows 10 bilgisayarlarına 32 bit Office uygulamalarını otomatik olarak yükleyebilir ve güncelleştirmelerle bunların güncelliğini koruyabilirsiniz.
+Microsoft 365 Business'ı kullanarak Windows 10 bilgisayarlara 32 bit Office uygulamalarını otomatik olarak yükleyebilir ve güncelleştirmelerle güncel tutabilirsiniz.
   
-Bundan en iyi sonucu elde etmek için kullanıcının bilgisayarı Windows 10 Business çalıştırılıyor olmalı ve şu koşulları sağlamalıdır:
+Son kullanıcının bilgisayarı Windows 10 Business'taysa otomatik yükleme en iyi şekilde çalışır ve:
   
 - Mevcut Office masaüstü uygulamaları (Word, Excel, PowerPoint, Outlook, OneNote, Publisher, Access ve OneDrive) bulunmamalıdır.
     
@@ -40,34 +40,32 @@ Bundan en iyi sonucu elde etmek için kullanıcının bilgisayarı Windows 10 Bu
     
 - Office'in Tıkla-Çalıştır sürümü yüklü olmalıdır.
     
-Office'in Tıkla-Çalıştır sürümüne sahip olup olmadığınızı belirlemek için, herhangi bir Office uygulamasında **Dosya** \> **Hesap**'a (Outlook'ta **Office Hesabı**) gidin. Aşağıdaki şekilde gösterildiği gibi Office Güncelleştirmeleri görüyorsanız, yükleme Tıkla-Çalıştır kullanılarak yapılmıştır. 
+Office'in Tıkla-Çalıştır sürümüne sahip olup olmadığınızı belirlemek için, herhangi bir Office uygulamasında **Dosya** \> **Hesap**'a (Outlook'ta **Office Hesabı**) gidin. **Office Güncelleştirmeleri'ni** aşağıdaki şekilde gösterildiği gibi görürseniz, yükleme Tıkla-Çalıştır kullanılarak yapılmıştır. 
   
 ![Screenshot of Office updates in Office app Account](media/e3439380-fa43-4ed6-ae5d-64851c297df5.png)
   
- **Bu özelliğe sahip olmak kimlerin işine yarar**
+ **Bu özelliğe sahip olmaktan kimler yararlanır?**
   
 Bilgisayarı aşağıdaki özelliklere sahip olan son kullanıcılar:
   
 - Windows 10 Business kullanıcı lisansı, etkin bir Microsoft 365 İş lisansı, Windows 10 Creators Update **bulunur** ve Azure Active Directory'ye katılmıştır. 
     
-- 64 bit Office paketi **yoktur** (örneğin: Word, Excel, Powerpoint). 64 bit Office uygulamaları gerekiyorsa, bu özellik uygun değildir. Microsoft 365 İş yönetim konsolundan Office'in 64 bit 2016 Tıkla-Çalıştır sürümünü tetikleme desteği sağlanmaz. 
+- 64 bit Office uygulamaları **yok** (örnek: Word, Excel, PowerPoint). 64 bit Office uygulamaları gerekiyorsa, Microsoft 365 Business yönetici konsolundan Office'in 64 bit 2016 Tıkla çalıştır sürümünü tetiklemek için destek olmadığından bu özellik uygun değildir. 
     
-- Herhangi bir 2016 Windows Installer (MSI) tek başına uygulaması (örneğin, Visio veya Project) **yoktur**. Microsoft 365 İş, Office'i Office 2016 Tıkla-Çalıştır sürümüne yükseltir ve bu da Office 2016 MSI tek başına uygulamalarıyla çalışmaz. 
+- Herhangi bir 2016 Windows Installer (MSI) tek başına uygulaması (örneğin, Visio veya Project) **yoktur**. Microsoft 365 Business, Office 2016'nın Tıkla Çalıştır sürümüne Office'i yükseltir ve bu office 2016 MSI bağımsız uygulamalarıyla çalışmaz. 
     
-Aşağıdaki tabloda, son kullanıcıların/yöneticilerin, işleme başladıkları noktaya bağlı olarak Microsoft 365 İş yönetim merkezinden Office'in 32 bit Tıkla-Çalıştır sürümünün dağıtımını başarıyla tamamlaması için gerçekleştirmesi gereken işlemlerin ayrıntılarını bulabilirsiniz.
+Aşağıdaki tablo, Microsoft 365 Business yönetici konsolundan Office dağıtımının 32 bit'lik başarılı bir Tıklamayla Çalıştır sürümüne sahip olmak için, başlangıç durumlarına bağlı olarak son kullanıcıların/yöneticilerin hangi eylemi üstlenmeleri gerekebileceğini gösterir.
   
 |**Başlangıçtaki Office yükleme durumu**|**Microsoft 365 İş Office yüklemesinden önce yapılması gereken işlem**|**Son durum**|
 |:-----|:-----|:-----|
-|Hiçbir Office paketi yüklü değil  <br/> |Hiçbiri  <br/> |Tıkla-çalıştır kullanılarak Office 2016 32 bit yüklenir  <br/> |
+|Hiçbir Office paketi yüklü değil  <br/> |Hiçbiri  <br/> |Office 2016 32 bit Tıkla çalıştır kullanılarak yüklenir  <br/> |
 |Office'in Tıkla-Çalıştır 32 bit sürümü (2016 veya önceki) var ve tek başına uygulama yok  <br/> |Hiçbiri  <br/> |Gerektiği gibi Office 2016'nın en son 32 bit Tıkla-Çalıştır sürümüne yükseltilir **\*** <br/> |
-|Office'in Tıkla-Çalıştır 32 bit sürümü ve Tıkla-Çalıştır 32 veya 64 bit tek başına Office uygulamaları (örneğin, Visio ve Project) var  <br/> |Hiçbiri  <br/> |Tek başına uygulamalar etkilenmez. Paket, Office 2016'nın Tıkla-Çalıştır 32 bit sürümüne yükseltilir  <br/> |
-|Office'in Tıkla-Çalıştır 32 bit sürümü ve 32 bit veya 64 bit (2016 dışında) MSI tek başına Office uygulamaları var  <br/> |Hiçbiri  <br/> |Tek başına uygulamalar etkilenmez. Paket, Office 2016'nın Tıkla-Çalıştır 32 bit sürümüne yükseltilir  <br/> ||||
-|Office'in Tıkla-Çalıştır 64 bit sürümü var  <br/> |64 bit Office uygulamalarını 32 bit Office uygulamalarıyla değiştirmek sorun yaratmayacaksa, 64 bit uygulamalarını kaldırın  <br/> |Office 64 bit uygulamaları kaldırılmışsa, Office 2016'nın Tıkla-Çalıştır 32 bit sürümü yüklenir  <br/> |
+|Office'in 32 bit'lik mevcut Click-to-Run sürümü ve Tıkla-Çalıştır 32 bit veya 64 bit bağımsız Office uygulamaları (örneğin, Visio, Project)  <br/> |Hiçbiri  <br/> |Bağımsız uygulamalar etkilenmez. Paket, Office 2016'nın Tıkla-Çalıştır 32 bit sürümüne yükseltilir  <br/> |
+|Office'in Tıkla-Çalıştır 32 bit sürümü ve 32 bit veya 64 bit (2016 dışında) MSI tek başına Office uygulamaları var  <br/> |Hiçbiri  <br/> |Bağımsız uygulamalar etkilenmez. Paket, Office 2016'nın Tıkla-Çalıştır 32 bit sürümüne yükseltilir  <br/> ||||
+|Office'in Tıkla-Çalıştır 64 bit sürümü var  <br/> |64 bit Office uygulamalarını 32 bit Office uygulamalarıyla değiştirmenin sakıncası yoksa, kaldırın  <br/> |Office 64 bit uygulamaları kaldırılmışsa, Office 2016'nın Tıkla-Çalıştır 32 bit sürümü yüklenir  <br/> |
 |Tek başına uygulamalarla veya bu uygulamalar olmadan Office 2016'nın MSI yüklemesi var  <br/> |MSI Office 2016'yı kaldırın.  <br/> |Office 2016'nın Tıkla-Çalıştır 32 bit sürümü yüklenir. Tek başına uygulamalarda hiçbir değişiklik olmaz  <br/> |
 |Office 2013'ün (veya önceki sürümlerin) ve/veya tek başına Office uygulamalarının MSI yüklemesi var  <br/> |Yok  <br/> |Office 2016'nın Tıkla-Çalıştır 32 bit sürümü, önceden var olan MSI Office yüklemesiyle (ve tek başına uygulamalarla) birlikte kullanılır  <br/> |
 ||||
    
- **(\*) Not:** Bilinen bir hata nedeniyle Office 2016'nın Tıkla-Çalıştır 32 bit sürümüne yükseltilmez. Düzeltme için çalışmalar devam etmektedir. 
+ **(\*) Not:** Bilinen bir hata nedeniyle Office 2016'nın Tıkla-Çalıştır 32 bit sürümüne yükseltilmez. Bir düzeltme devam ediyor. 
   
-
-

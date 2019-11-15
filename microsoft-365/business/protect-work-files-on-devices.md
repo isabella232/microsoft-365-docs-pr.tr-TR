@@ -25,23 +25,21 @@ search.appverid:
 - MOE150
 ms.assetid: 52089919-9a5e-475f-a49a-f65369487861
 description: 'Kullanıcıların kişisel mobil cihazlarındaki şirket verilerini korumak için varsayılan yapılandırma ve uygulama yönetimi ilkeleri ekleme hakkında bilgi edinin. '
-ms.openlocfilehash: 348f3d0dad9f3a7957f12eea7c7e7be2d1706aa6
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 6c4534f70ea7d8b8c93283e92278f1aa08ab94bf
+ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575808"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38640759"
 ---
 # <a name="protect-work-files-on-devices"></a>Cihazlardaki iş dosyalarını koruma
 
-Günümüz dünyasında kullanıcılar cihazlarına bağlıdır ve kişisel yaşamla iş yaşamının bir araya gelmesi sonucunda, şirket verileriniz çalışanın kişisel cihazında bulunabilir. Burada yapılandırdığınız ayarlar, denetimi yeniden elinize alarak kullanıcının kişisel ayarlarını veya verilerini etkilemeden iş dosyalarını korumanıza yardımcı olabilir.
+Günümüzün dünyasında, kullanıcılar cihazlarına bağlıdır ve kişisel ve iş hayatı çarpıştıkça, şirket verileriniz bir çalışanın kişisel cihazına bağlanabilir. Burada yapılandırdığınız ayarlar, denetimi yeniden elinize alarak kullanıcının kişisel ayarlarını veya verilerini etkilemeden iş dosyalarını korumanıza yardımcı olabilir.
   
 ## <a name="configuring-policies-during-setup"></a>Kurulum sırasında ilkeleri yapılandırma
 
-Kurulum sırasında Android, iOS ve Windows 10 için olmak üzere üç uygulama yönetimi ilkesi eklenir. Her ilke aynı ayarlara sahiptir ve bu ayarlar tüm kullanıcılara uygulanır. Kullanıcı, iş hesabını cep telefonuna bağladığında ilkeler etkinleştirilir.
+Kurulum sırasında Android, iOS ve Windows 10 için olmak üzere üç uygulama yönetimi ilkesi eklenir. Her ilke aynı ayarlara sahiptir ve tüm kullanıcılar için geçerlidir. Kullanıcı, iş hesabını cep telefonuna bağladığında ilkeler etkinleştirilir.
   
 Kurulum sırasında varsayılan yapılandırmayı kabul etmenizi öneririz. Kurulum tamamlandıktan sonra, yapılandırmayı ayrıntılı olarak ayarlamanıza ve belirli kullanıcı grupları için farklı düzeylerde denetim uygulamanıza olanak sağlayan başka ilkeler ekleyebilirsiniz.
   
 Kurulumdan sonra ilke eklemek için bkz. [Yönetim merkezinde ilkeleri ve cihazları yönetme](manage.md).
-  
-
