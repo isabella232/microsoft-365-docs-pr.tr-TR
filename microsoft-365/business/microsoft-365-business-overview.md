@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Microsoft 365 Business hakkında daha fazla bilgi edinin.
-ms.openlocfilehash: 03e16c336a2d6d3d8ffd5875ed7419bba3c7e378
-ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
+ms.openlocfilehash: abd1e8374ef7530a879de71ab7ad0125f1ca4616
+ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38633409"
+ms.lasthandoff: 11/16/2019
+ms.locfileid: "38676097"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Microsoft 365 Business'a Genel Bakış
 
@@ -98,4 +98,7 @@ Güvenlik özelliklerinin tam listesini görmek için [Microsoft 365 İş güven
 
 - Bir iş ortağınız yoksa ve Microsoft 365 Business'ı almak istiyorsanız, [buradan satın alabilir](https://www.microsoft.com/microsoft-365/business) ve [kaydolma](sign-up.md) yönergelerini takip edebilirsiniz.
 
-- Ayrıca, hem Microsoft 365 Business satın almak hem de kurulum yardımı almak için bir [Microsoft Mağazası'na](https://www.microsoft.com/store/locations/find-a-store?icid=en-us_UF_FAS) gidebilirsiniz.
+- Ayrıca, hem Microsoft 365 Business satın almak hem de kurulum yardımı almak için bir [Microsoft Mağazası'na](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer) gidebilirsiniz.
+
+    > [!NOTE]
+    > Bu bağlantı sadece ABD'deki mağazalar içindir

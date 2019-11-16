@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Office 365 Gelişmiş Tehdit Koruması'nı ayarlayın ve hassas verileri koruyun.
-ms.openlocfilehash: 00a40ceb6d51add2ebe8cc7ca4c299fe07a10b89
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+ms.openlocfilehash: bca5400a04ca2986496c4a704289474887eb834b
+ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320118"
+ms.lasthandoff: 11/16/2019
+ms.locfileid: "38676018"
 ---
 # <a name="increase-threat-protection"></a>Tehdit korumayı artırın
 
@@ -86,7 +86,7 @@ Posta aktarım kuralı oluşturmak için:
    
 Daha fazla bilgi için bkz.
   
-- [Nasıl ransomware ile başa çıkmak için](https://go.microsoft.com/fwlink/?linkid=2016501&amp;clcid=0x409)
+- [Nasıl ransomware ile başa çıkmak için](https://go.microsoft.com/fwlink/?linkid=2016501)
     
 - [OneDrive'ınızı Geri Yükleme](https://support.office.com/article/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
 
@@ -178,7 +178,7 @@ BIR ATP güvenli eki ilkesi oluşturmak [için, bu kısa videoyu](https://suppor
 |Algılama da eki yönlendirme  <br/> |Yeniden yönlendirmeyi etkinleştirin (bu kutuyu seçin) Karantina için yönetici hesabını veya posta kutusu kurulumünü girin.          Ekler için kötü amaçlı yazılım taraması zaman ları doluyorsa veya hata oluşuyorsa yukarıdaki seçimi uygulayın (bu kutuyu seçin).  <br/> |
 |Uygulanan  <br/> |Alıcı etki alanı. . . etki alanınızı seçin.  <br/> |
    
-Daha fazla bilgi için [bkz.](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409)
+Daha fazla bilgi için [bkz.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies)
   
 
 

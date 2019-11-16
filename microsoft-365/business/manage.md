@@ -19,18 +19,18 @@ search.appverid:
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
 description: Microsoft 365 İş ile ilgili yönetici görevlerini, mobil cihazları, Windows 10 bilgisayarlarınve bu tür birçok görevi yönetmeyi öğrenin.
-ms.openlocfilehash: ee1c856c6c0005842df8b3581a602dd539490bea
-ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
+ms.openlocfilehash: 77b8757d9e6ab644b16e97ff20f50c0ce3123088
+ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38633319"
+ms.lasthandoff: 11/16/2019
+ms.locfileid: "38675978"
 ---
 # <a name="manage-microsoft-365-business"></a>Microsoft 365 İş yönetimi
 
 ## <a name="general-microsoft-365-business-admin-tasks"></a>Genel Microsoft 365 İş yönetici görevleri
 
-İşletmeler için Office 365'in [yönetici içeriğinin](/Office365/Admin/admin-home.md) çoğu Microsoft 365 Business için de geçerlidir.
+İşletmeler için Office 365'in [yönetici içeriğinin](https://docs.microsoft.com/office365/admin/admin-home) çoğu Microsoft 365 Business için de geçerlidir.
 
 - [Microsoft 365 Business'a daha fazla kullanıcı ekleme](add-users-m365b.md)
     
@@ -55,9 +55,7 @@ Kuruluşunuzun bilgisayarve mobil cihazlardaki verilerini korumak için Microsof
 ## <a name="manage-windows-10-pcs"></a>Windows 10 PC'leri yönetme
 
 - [Microsoft 365 İş kullanıcıları için Windows cihazları ayarlama](set-up-windows-devices.md)
-    
-- [Windows 10 cihazlarında Office'i otomatik olarak yükleme veya kaldırma](auto-install-or-uninstall-office.md)
-    
+
     Office'i otomatik olarak yüklemeden önce [Office istemcisinin Microsoft 365 İş tarafından dağıtımı için hazırlanma](prepare-for-office-client-deployment.md) konusunu okuyun. 
     
 - [Windows 10 cihazlara yönelik cihaz koruma ayarlarını belirleme](protection-settings-for-windows-10-pcs.md)
