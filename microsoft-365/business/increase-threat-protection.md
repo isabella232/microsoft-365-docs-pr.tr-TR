@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Office 365 Gelişmiş Tehdit Koruması'nı ayarlayın ve hassas verileri koruyun.
-ms.openlocfilehash: bca5400a04ca2986496c4a704289474887eb834b
-ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
+ms.openlocfilehash: 87a5c79636a2eefe394b4a30e72971eb851e3ecb
+ms.sourcegitcommit: 38934a2115d5cdeb44c7484d57be07686c6f7720
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/16/2019
-ms.locfileid: "38676018"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704085"
 ---
 # <a name="increase-threat-protection"></a>Tehdit korumayı artırın
 
@@ -233,4 +233,4 @@ Daha fazla bilgi için Bkz. [Office 365 ATP güvenli bağlantıları.](https://g
 
 3. Sonuçlar göründükten sonra, microsoft **intune'un** yanındaki başlatı seçerek sık kullanılan ve daha sonra bulması kolay hale getirin.
 
-Yönetici merkezine ek olarak, kuruluşunuzun aygıtlarını kaydetmek ve yönetmek için Intune'u kullanabilirsiniz. Daha fazla bilgi için Windows [aygıtları için kayıt yöntemine göre Yetenekler](https://docs.microsoft.com/intune/enrollment-method-capabs) ve [Intune tarafından yönetilen aygıtlar için Kayıt seçeneklerine](https://docs.microsoft.com/intune/enrollment-options)bakın.
+Yönetici merkezine ek olarak, kuruluşunuzun aygıtlarını kaydetmek ve yönetmek için Intune'u kullanabilirsiniz. Daha fazla bilgi için Windows [aygıtları için kayıt yöntemine göre Yetenekler](https://docs.microsoft.com/intune/enrollment/enrollment-method-capab) ve [Intune tarafından yönetilen aygıtlar için Kayıt seçeneklerine](https://docs.microsoft.com/intune/enrollment-options)bakın.

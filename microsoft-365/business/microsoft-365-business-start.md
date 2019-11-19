@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Microsoft 365 Business'ı ayarlamayı öğrenin.
-ms.openlocfilehash: 5986e3fb7786ebb3fa7bcf42b34345be98af44a2
-ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
+ms.openlocfilehash: f269e970cc1ee5ba7455ea799b238db577116f09
+ms.sourcegitcommit: 38934a2115d5cdeb44c7484d57be07686c6f7720
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38633439"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704125"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>Microsoft 365 İş ile çalışmaya başlama
 
@@ -80,7 +80,6 @@ Kuruluşunuz Windows Server Active Directory'yi şirket içinde kullanıyorsa, W
   
 Bazı şirket içi kaynakları (dosya paylaşımları ve yazıcılar gibi) içeren yerel bir Etkin Dizin'i korursanız, **Azure AD'ye katılan aygıtlarınıza** buradaki adımları izleyerek bu kaynaklara erişim sağlayabilirsiniz: [Microsoft 365 Business'taki Azure AD'ye bağlı bir aygıttan şirket içi kaynaklara erişin.](access-resources.md)
   
-Windows 10 bilgisayarlarına yükledikten sonra Office'i aygıtlara [otomatik olarak yükleyebilirsiniz.](auto-install-or-uninstall-office.md) 
   
 ## <a name="contact-support"></a>Desteğe başvurun
 
