@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Microsoft 365 Business ile birlikte gelen güvenlik özellikleri hakkında bilgi edinin.
-ms.openlocfilehash: 5e295480b1a578ca26646a89d6a0a4183a15428d
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: f24836ef93c529eddc05c767d6e4fa8af6aef314
+ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38031455"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38715152"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Microsoft 365 İş güvenliği ve uyumluluk özellikleri
 
@@ -33,18 +33,17 @@ Microsoft 365 Business, bilgisayar, telefon ve tabletlerdeki verilerinizin korun
     
 ## <a name="microsoft-365-business-admin-center-security-features"></a>Microsoft 365 İş yönetici merkezi güvenlik özellikleri
 
-[![Yönetici merkezinin değiştiğini bildirmek için etiket ve aka.ms/aboutM365preview daha fazla ayrıntı bulabilirsiniz.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Yönetim merkezinin değiştiğini size bildirmeye yarayan etiket ve daha fazla ayrıntıyı aka.ms/aboutM365preview sayfasında bulabilirsiniz.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 Bu özellikleri açmak veya kapatmak için basitleştirilmiş bir yol sağlayan microsoft 365 İş güvenliği özelliklerinin çoğunu yönetici merkezinde yönetebilirsiniz. Yönetici merkezinde aşağıdakileri yapabilirsiniz:
   
-  
 - [Android veya iOS aygıtları için uygulama yönetimi ayarlarını ayarlayın.](app-protection-settings-for-android-and-ios.md) 
     
-    Bu ayarlar arasında, belirli bir süre sonra etkin olmayan bir aygıttan dosyaları silme, iş dosyalarını şifreleme, kullanıcıların PIN ayarlamalarını gerektirmevb.
+    Bu ayarlar, belirli bir süre sonra etkin olmayan bir aygıttan dosyaları silmeyi, iş dosyalarını şifrelemeyi, kullanıcıların PIN ayarlamalarını gerektirmeyi içerir.
     
 - [Windows 10 aygıtları için uygulama koruma ayarlarını ayarlayın.](protection-settings-for-windows-10-devices.md) 
     
-    Bu ayarlar, hem şirkete ait hem de kişisel olarak sahip olunan aygıtlarda şirket verilerine uygulanabilir.
+    Bu ayarlar, şirkete ait veya kişisel olarak sahip olunan aygıtlarda şirket verilerine uygulanabilir.
     
 - [Windows 10 aygıtları için aygıt koruma ayarlarını ayarlayın.](protection-settings-for-windows-10-pcs.md) 
     
@@ -75,7 +74,7 @@ Microsoft 365 Business'taki gelişmiş özellikler, işletmenizi siber tehditler
     Azure portalındaki Intune yönetici merkezine erişmek, MacOS aygıtlarının yönetimi, iPhone ve Android aygıtlarının yanı sıra Microsoft tarafından kullanılamayan Windows için gelişmiş aygıt yönetimi gibi ek güvenlik özellikleri ayarlamanıza olanak tanır 365 İş yönetici merkezi.
 - **Azure AD P1 planıyla Aynı [Koşullu Erişim](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)**
 
-    Koşullu Erişim, kuruluşunuzun oturum açma riskine karşı korunmasına, beklenmeyen bir ağdan veya yerel olarak erişim girişimlerine, erişim girişimlerinin riskli aygıt türleri oluşturmasına ve benzeri nedenlerle korunmasına yardımcı olabilir. Koşullu Erişim ilkeleri ilk kimlik doğrulama tamamlandıktan sonra uygulanır ve girişimde bulunulması onaylanması, reddedilmesi veya f daha fazla kanıt (ikinci kimlik biçimi gibi) olup olmadığını belirlemek için ilk kimlik doğrulama olayından gelen sinyalleri kullanır Gerekli.
+    Koşullu Erişim, kuruluşunuzun oturum açma riskine karşı korunmasına, beklenmeyen bir ağdan veya yerel alandan erişim girişimlerine, riskli aygıt türlerinden erişim girişimlerine ve benzeri nedenlerden korunmaya yardımcı olabilir. Koşullu Erişim ilkeleri ilk kimlik doğrulama tamamlandıktan sonra uygulanır ve girişimdeki erişimin onaylanması, reddedilmesi veya daha fazla kanıt olup olmadığını belirlemek için ilk kimlik doğrulama olayından gelen sinyalleri kullanır (örneğin, tanımlaması) gereklidir.
 
     Koşullu erişim özellikleri şunlardır:
 
@@ -85,7 +84,7 @@ Microsoft 365 Business'taki gelişmiş özellikler, işletmenizi siber tehditler
     - Erişim için MFA gerektirir
     - [Eski kimlik doğrulaması](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication) kullanan uygulamalara erişimi engelleme
     - Uygulamalar tp kullanımı [Intune uygulama koruması](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access) gerektirir
-    - Örneğin DUO, üçüncü taraf sağlayıcılarla MFA gibi özel kimlik doğrulaması.
+    - Örneğin DUO gibi üçüncü taraf sağlayıcılarla MFA gibi özel kimlik doğrulaması.
    
     Diğer özellikler:
     - Karma Azure AD için [self servis parola sıfırlama](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-customization)
@@ -96,15 +95,15 @@ Microsoft 365 Business aboneliğiniz, uyumluluk ve düzenleme standartlarını k
 
 - **[Veri kaybıönleme ilkelerine](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP) genel bakış. 
     
-    Kredi kartı numaraları, sosyal güvenlik numaraları, vb. gibi hassas bilgileri şirketiniz dışında yanlışlıkla paylaşmalarını önlemek için otomatik olarak algılamak için DLP'yi ayarlayabilirsiniz.
+    Kredi kartı numaraları, sosyal güvenlik numaraları ve benzeri hassas bilgileri şirketiniz dışında yanlışlıkla paylaşmalarını önlemek için otomatik olarak algılamak için DLP'yi ayarlayabilirsiniz.
     
 - **[Exchange Online Arşivleme](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)**
     
-    Exchange Online Arşivleme lisansı, iletilerin sürekli veri yedekleme ile kolayca arşivlemesini sağlar. Daha sonra keşif veya geri yükleme için ihtiyaç duyulması durumunda, silinen öğeler de dahil olmak üzere kullanıcının tüm e-postalarını saklar. Ayrıca, e-posta verilerini dava tutma, eDiscovery veya uyumluluk gereksinimlerini karşılamak için korumak için farklı saklama ilkeleri kullanabilirsiniz.
+    Exchange Online Arşivleme lisansı, iletilerin sürekli veri yedekleme ile kolayca arşivlemesini sağlar. Daha sonra keşif veya geri yükleme için ihtiyaç duyulması durumunda, silinen öğeler de dahil olmak üzere bir kullanıcının tüm e-postalarını saklar. Ayrıca, e-posta verilerini dava tutma, eDiscovery veya uyumluluk gereksinimlerini karşılamak için korumak için farklı saklama ilkeleri kullanabilirsiniz.
     
 - **[Duyarlılık etiketleri](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)**
 
-   Microsoft 365 Business, [Azure Bilgi Koruma Planı 1'in](https://go.microsoft.com/fwlink/p/?linkid=871407)tüm özelliklerini içerir. Bu planla, e-postadaki hassas bilgilere erişimi denetlemenize olanak tanıyan ve "İdesin" ve "Kopyalama" gibi denetimlerle belgelerde **Duyarlılık etiketleri**oluşturabilirsiniz. Ayrıca hassas bilgileri "Gizli" olarak sınıflandırabilir ve gizli bilgilerin işletmenin dışında ve içinde nasıl paylaşılabileceğini belirtebilirsiniz. Bilgilerinizi gizli tutmak için e-posta ve belgelere kurumsal sınıf şifreleme uygulamak kolaydır. Office uygulamaları için Azure Bilgi Koruması istemci eklentisini de yükleyebilirsiniz. Daha fazla ayrıntı için Azure [Bilgi Koruması birleşik etiketleme istemcisi'ne](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history)bakın. Duyarlılık etiketleri için **AzInfoProtection_UL.exe'yi**yükleyin.
+   Microsoft 365 Business, [Azure Bilgi Koruma Planı 1'in](https://go.microsoft.com/fwlink/p/?linkid=871407)tüm özelliklerini içerir. Bu planla, "İlerletme" ve "Kopyalamayın" gibi denetimlerle e-posta ve belgelerdeki hassas bilgilere erişimi denetlemenize olanak tanıyan **Duyarlılık etiketleri** oluşturabilirsiniz. Ayrıca hassas bilgileri "Gizli" olarak sınıflandırabilir ve gizli bilgilerin işletmenin dışında ve içinde nasıl paylaşılabileceğini belirtebilirsiniz. Bilgilerinizi gizli tutmak için e-posta ve belgelere kurumsal sınıf şifreleme uygulamak kolaydır. Office uygulamaları için Azure Bilgi Koruması istemci eklentisini de yükleyebilirsiniz. Daha fazla bilgi için Azure [Bilgi Koruması birleşik etiketleme istemcisi'ne](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history)bakın. Duyarlılık etiketleri için **AzInfoProtection_UL.exe'yi**yükleyin.
 
 Bu özellikleri Güvenlik &amp; Uyumluluğu merkezinde ve Intune yönetici merkezinde yönetebilirsiniz. Zamanla basitleştirilmiş denetimler Microsoft 365 Business yönetici merkezine eklenir.
   

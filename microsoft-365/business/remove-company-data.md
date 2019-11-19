@@ -20,16 +20,16 @@ search.appverid:
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
 description: "Şirket verilerini kullanıcı aygıtlarından veya Windows bilgisayarlarından kaldırmak için Microsoft 365 Business'ı nasıl kullanacağınızı öğrenin. "
-ms.openlocfilehash: 169bc7d849bb934de2788daebb90308b1a086111
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 59e94a08e149a5cb119aabbbe816ccd2f4a9f9fb
+ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575748"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38715242"
 ---
 # <a name="remove-company-data-from-devices"></a>Şirket verilerini cihazlardan kaldırma
 
-[![Yönetici merkezinin değiştiğini bildirmek için etiket ve aka.ms/aboutM365preview daha fazla ayrıntı bulabilirsiniz.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Yönetim merkezinin değiştiğini size bildirmeye yarayan etiket ve daha fazla ayrıntıyı aka.ms/aboutM365preview sayfasında bulabilirsiniz.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 ## <a name="remove-company-data"></a>Şirket verilerini kaldırma
 
@@ -41,9 +41,9 @@ Microsoft 365 İş'i kullanarak kullanıcılarınıza ait olan ve Microsoft 365 
   
 3. **Yönet** sayfasında, kaldırmak istediğiniz verileri seçen veya arayan bir kullanıcı yı seçin ve adı seçin. 
     
-4. Bir sonraki bölmede, **Aygıtlar** listesinden aygıtı veya cihazları seçin ve açılan aygıt bölmesinden aygıtı fabrika ayarlarına sıfırlamayı veya aygıt türüne bağlı olarak şirket verilerini kaldırmayı seçebilirsiniz. 
+4. Bir sonraki bölmede Aygıtlar **listesinden** aygıtı veya cihazları seçin. Açılan aygıt bölmesinde, aygıtı fabrika ayarlarına sıfırlamayı veya aygıt türüne bağlı olarak şirket verilerini kaldırmayı seçebilirsiniz. 
     
-    ![On the remove comapany data pane, select the device from which you want to remove the data.](media/resetorremove.png)
+    ![Şirket veri bölmesini kaldır'da, verileri kaldırmak istediğiniz aygıtı seçin.](media/resetorremove.png)
   
 5. Onay bölmesine, \> **Kapat'ı** **Onayla'yı** seçin.
     
