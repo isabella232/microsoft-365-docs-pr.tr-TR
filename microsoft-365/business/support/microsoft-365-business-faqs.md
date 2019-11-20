@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, SSS, sık sorulan sorular, yanıtlar, iş
 ms.date: 06/08/2018
-ms.openlocfilehash: e4db583fa52807e27bb088083aae028e2e1c05ce
-ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
+ms.openlocfilehash: 09a155c87bf90309f8a4cdd2eb5c0b71d2337d58
+ms.sourcegitcommit: b535fe233234fd25146cfe15478e20d954f71e03
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38311074"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38748381"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 Business sık sorulan sorular
 
@@ -36,7 +36,7 @@ Microsoft 365, sınıfının en iyisi üretkenlik araçlarını, güvenliği ve 
 -   Intune App Protection ile Office ve diğer mobil uygulamalar için uygulama koruması. 
 -  Intune aygıt yönetimine sahip Windows 10 bilgisayarların, MacOS'ların ve mobil cihazlar için aygıt yönetimi. 
 -  Çok faktörlü kimlik doğrulama, self servis parola sıfırlama ve koşullu erişim ile kimlik koruması.
--  Aygıtlar&mdash;arasında şirket verilerinin aygıtlar arasında korunması arasında tutarlı güvenlik yapılandırması; Windows Defender, her zaman açık ve günceldir. 
+-  Aygıtlar&mdash;arasında şirket verilerinin aygıtlar arasında korunması arasında tutarlı güvenlik yapılandırması; Windows Defender, her zaman açık ve güncel. 
  
  
 **Basitleştirilmiş aygıt dağıtımı ve kullanıcı kurulumu** 
@@ -52,7 +52,7 @@ Microsoft 365, sınıfının en iyisi üretkenlik araçlarını, güvenliği ve 
 Microsoft 365 Business, şunları yapmanızı sağlayan kapsamlı, bulut tabanlı bir güvenlik çözümüdür:  
 - Gelişmiş kimlik avı ve fidye yazılımı koruması yla işinizi gelişmiş siber tehditlere karşı savunun. 
 - Verilerin yanlışlıkla görme yetkisi olmayan biriyle paylaşılmasını engellemek için şifreleme kullanarak hassas bilgilere erişimi kontrol edin. 
-- İşletmenize bağlanan aygıtları güvence altına alayın ve verilerinizi iOS, Android, Windows ve Mac aygıtlarında güvende ve Windows cihazlarınızı güncel tutmaya yardımcı olun.
+- İşletmenize bağlanan aygıtları güvence altına alayın ve verilerinizi iOS, Android, Windows ve Mac aygıtları ve Windows aygıtlarınız için güvenli tutmaya yardımcı olun.
 
 Microsoft 365 Business, yönetim, faturalandırma ve 24x7 desteği için tanıdık bir konum sağlamak için Office 365 ile tam olarak entegre edilmiştir. 300'den az çalışanı olan işletmeler için oluşturulmuş kurumsal sınıf teknolojiden oluşur. 
 
@@ -63,7 +63,7 @@ Microsoft 365 Business, bir <a href="https://www.microsoft.com/solution-provider
 Microsoft 365 Business, doğrudan Microsoft'tan satın alınmışsa, _yıllık sözleşmeye_ dayalı olarak kullanıcı/ay USD 20,00 USD olarak sunulur. Bir Microsoft İş Ortağı aracılığıyla satın alındığında, fiyatlandırma iş ortağının sağladığı hizmetlere ve Microsoft 365 Business için fiyatlandırma modeline bağlı olarak değişebilir. 
 
 ### <a name="is-there-a-cap-to-how-many-microsoft-365-business-seats-a-customer-can-have"></a>Bir müşterinin kaç Microsoft 365 Business koltuğu olabileceğine dair bir kapak var mı? 
-Microsoft 365 Business, düşük ve orta BT karmaşıklığı gereksinimlerine sahip küçük ve orta ölçekli işletmeler için tasarlanmıştır. Müşteriler, kuruluşları için en fazla 300 Microsoft 365 İşletme lisansı satın alabilir. Müşteriler bulut aboneliklerini karıştırabilir ve eşleşebilir; sonuç olarak, BT gereksinimlerine bağlı olarak, müşteriler microsoft 365 Enterprise lisanslarını aynı hesaba ekleyebilir. 
+Microsoft 365 Business, düşük ve orta BT karmaşıklığı gereksinimlerine sahip küçük ve orta ölçekli işletmeler için tasarlanmıştır. Müşteriler, kuruluşları için en fazla 300 Microsoft 365 İşletme lisansı satın alabilir. Müşteriler bulut aboneliklerini karıştırıp eşleştirebilir. Sonuç olarak, BT gereksinimlerine bağlı olarak, müşteriler microsoft 365 Enterprise lisanslarını aynı hesaba ekleyebilir. 
  
 Müşteriler birden çok abonelik türünden oluşan bir ortam düşündüklerinde, Microsoft 365 Business ve Microsoft 365 Enterprise kullanımı olarak çeşitli abonelikleri en iyi nasıl yöneteceklerini ve güvenli hale getirmek için güvenilir BT danışmanlarıyla birlikte çalışmalıdırlar uygulamaları ve verileri güvence altına almak ve yönetmek için farklı yetenekler.
 
@@ -81,7 +81,7 @@ Bugün çalıştırdığınız donanım Windows 7 Pro veya daha yeni çalışıy
 Varolan masaüstü (Win32) uygulama uyumluluğu Windows 10'da güçlüdür ve varolan uygulamaların çoğu herhangi bir değişiklik olmadan çalışır. Müşteriler ve güvenilir BT danışmanları <a href="https://docs.microsoft.com/windows/deployment/planning/windows-10-compatibility#recommended-application-testing-process" target="_blank">Windows 10 uyumluluğu</a> için önerilen uygulama sınama işlemini okumalı ve Microsoft 365 Business'a sorunsuz bir geçiş sağlamak için <a href="https://products.office.com/office-system-requirements#subscription-plans-section" target="_blank">Office sistem gereksinimlerini</a> gözden geçirmelidir. 
 
 ### <a name="what-is-windows-10-business"></a>Windows 10 İş nedir? 
-Windows 10 Business, Windows 10 Pro'yu tamamlayan ve Microsoft 365 Business'ın merkezi yönetim ve güvenlik denetimlerini sağlayan bir bulut hizmetleri ve aygıt yönetimi özellikleri kümesidir.
+Windows 10 Business, Windows 10 Pro'yu tamamlayan ve Microsoft 365 Business'ın merkezi yönetim ve güvenlik denetimlerini etkinleştiren bir bulut hizmetleri ve aygıt yönetimi yetenekleri kümesidir.
 
 Windows 10 Business, web tabanlı iş parçacıkları için Kontrollü Klasör Erişimi ve Ağ Koruması gibi belirli premium Microsoft Defender özellikleriyle birlikte gelir. Ayrıca, yeni Windows 10 bilgisayarların dağıtımını kolaylaştıran bir hizmet olan Windows AutoPilot'u da içerir.
 
@@ -95,7 +95,7 @@ Birçok çalışan, her amaç için birden fazla cihaz taşımak yerine kişisel
 Microsoft 365 Business, müşterilere çalışanların kişisel cihazlarını iş için kullanmalarını sağlarken, işletmeye bu aygıtların iş bilgilerine erişmesini, elde tutmasını ve/veya paylaşmasını engelleme olanağı sağlarken basit ama güçlü bir yol sunar. Daha spesifik olarak: 
 * **Office mobil uygulamaları için Uygulama Koruması,** iOS ve Android mobil cihazlardaki e-posta, takvim, kişiler ve belgeler de dahil olmak üzere Office verilerinin korunmasına yardımcı olarak, hizmete bağlanmama süresinden sonra iş verilerini otomatik olarak silmek, bilgilerin yalnızca OneDrive for Business'ta depolanmasını gerektiren, Office uygulamalarına erişmek için PIN/parmak izi doğrulaması gerektiren ve şirket verilerinin bir Uygulamadan kişisel uygulamalara kopyalanmasını önlemek gibi ilkeleri uygulayarak yardımcı olur. Intune aracılığıyla diğer mobil uygulamalar için mobil uygulama yönetimi, Microsoft 365 Business aboneleri için de kullanılabilir. 
   
-* **Windows 10 bilgisayarları için Aygıt Yönetimi,** işletmelerin kötü amaçlı yazılımlar için Windows Defender koruması, otomatik güncelleştirmeler ve öngörülen süreden sonra ekranları kapatma gibi özellikleri ayarlamayı ve zorlamayı seçmelerine olanak tanır. Buna ek olarak, kaybolan veya çalınan Windows 10 aygıtları, Yönetici merkezi aracılığıyla iş uygulamaları ve verileri tamamen silinebilir. 
+* **Windows 10 bilgisayarları için Aygıt Yönetimi,** işletmelerin kötü amaçlı yazılımlar için Windows Defender koruması, otomatik güncelleştirmeler ve öngörülen süreden sonra ekranları kapatma gibi özellikleri ayarlamayı ve zorlamayı seçmelerine olanak tanır. Buna ek olarak, kaybolan veya çalınan Windows 10 aygıtları, yönetici merkezi aracılığıyla iş uygulamaları ve verileri tamamen silinebilir. 
 
 * **iOS, Android & MacOS** özellikleri için aygıt yönetimi, işletmelerin iOS, Android, Windows ve MacOS aygıtlarını içeren çeşitli cihaz ekosistemini güvenli bir şekilde yönetmesine yardımcı olur. 
 
@@ -107,7 +107,7 @@ Windows 10 Business, yeni bir saldırı önleme özellikleri kümesi olan Window
 ### <a name="whats-the-difference-between-office-365-business-premium-microsoft-365-business-and-microsoft-365-enterprise"></a>Office 365 Business Premium, Microsoft 365 Business ve Microsoft 365 Enterprise arasındaki fark nedir? 
 Microsoft, küçük ve orta ölçekli müşterilerin masaüstü ve aygıt altyapılarını yükseltirken düşünebileceği ve her biri giderek daha güçlü özellikler ve işlevler getiren çeşitli üretkenlik ve güvenlik yönetimi tekliflerine sahiptir. 
 
-**Office 365 Business Premium,** Office 365 uygulamaları ve hizmetleriyle sınıfının en iyisi üretkenliği sunar, ancak Microsoft 365 Business'ın uygulama koruma ve cihaz yönetimi özelliklerini içermez.
+**Office 365 Business Premium,** Office 365 uygulamaları ve hizmetleriyle sınıfının en iyisi üretkenliği sunar, ancak Microsoft 365 Business'ın uygulama koruma ve aygıt yönetimi özelliklerini içermez.
 
 **Microsoft 365 Business,** işinizi gelişmiş siber tehditlere karşı korumaya, verilerinizi korumaya ve cihazlarınızı yönetmeye yardımcı olmak için Office 365 uygulama ve hizmetlerini gelişmiş güvenlik özellikleriyle birleştirir. Aygıt ve veri ilkelerinin uygulanabileceği basitleştirilmiş bir yönetim konsolu içerir. Birçok küçük ve orta ölçekli işletme, Microsoft 365 Business ile en iyi şekilde sunulabilir. 
  
@@ -135,7 +135,7 @@ Evet, Microsoft 365 Business aboneleri iOS, Android, MacOS ve diğer çapraz pla
   
 
 ### <a name="does-azure-active-directory-premium-p1-come-with-microsoft-365-business"></a>Azure Active Directory Premium P1 Microsoft 365 Business ile birlikte geliyor mu? 
-Microsoft 365 Business, AD geri yazma, Azure MFA ve koşullu erişimle self servis parola sıfırlama gibi belirli Azure AD Premium P1 (AADP P1) özelliklerini içerir. AADP P1'in tamamını içermez. Daha fazla bilgi için [Microsoft 365 İş Hizmeti Açıklaması'na](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148) bakın. 
+Microsoft 365 Business, AD geri yazma, Azure MFA ve koşullu erişimle self servis parola sıfırlama gibi belirli Azure AD Premium P1 (AADP P1) özelliklerini içerir. AADP P1'in tamamını içermez. Daha fazla bilgi için [Microsoft 365 İş Hizmeti Açıklaması'na](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148)bakın.
  
  
 ### <a name="does-microsoft-365-business-allow-customers-to-manage-macs"></a>Microsoft 365 Business müşterilerin Mac'leri yönetmesine izin veriyor mu? 
@@ -183,7 +183,7 @@ Microsoft 365 Business'ta yer alan yeni Windows AutoPilot özelliği yle, dağı
 ### <a name="should-partners-sell-microsoft-365-business-over-other-plans-from-microsoft"></a>İş ortakları Microsoft'un diğer planları üzerinden Microsoft 365 Business'ı satmalı mı? 
 Bir Microsoft Bulut Çözüm Sağlayıcısı, müşteri iş gereksinimlerine ve bütçesine en uygun planı her zaman satmalıdır. Örneğin, bir müşterinin gizlilik ve güvenlik yönetmeliklerine uyması gerekiyorsa, bir CSP Microsoft 365 Business'ı ve müşterinin gereksinimlerini karşılamasına yardımcı olan eklentileri satabilir veya Microsoft 365 Business tarafından sağlanan gelişmiş güvenlik ve yönetimi önerebilir Kurumsal SKUs. 
  
-### <a name="some-of-my-customers-have-devices-that-are-not-genuine-will-microsoft-365-business-make-these-devices-genuine"></a>Bazı müşterilerimin orijinal olmayan cihazları vardır; Microsoft 365 Business bu aygıtları orijinal hale getirecek mi? 
+### <a name="some-of-my-customers-have-devices-that-arent-genuine-will-microsoft-365-business-make-these-devices-genuine"></a>Bazı müşterilerimin orijinal olmayan cihazları vardır; Microsoft 365 Business bu aygıtları orijinal hale getirecek mi? 
 Microsoft 365 Business, Windows'un orijinal olmayan bir sürümünü orijinal yapmaz. Microsoft 365 Business, orijinal Windows 7, 8 veya 8.1 Pro çalıştıran müşterilerin Windows 10 Pro'nun en son orijinal sürümüne yükseltmelerine olanak tanıyan bir yükseltme avantajı sağlar. 
 
 ### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-help-customers-with-their-compliance-obligations"></a>GDPR nedir ve Microsoft 365 Business müşterilerin uyumluluk yükümlülüklerinde nasıl yardımcı olur?
