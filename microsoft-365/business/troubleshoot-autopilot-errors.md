@@ -23,26 +23,25 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 1f468690-530c-47ea-918f-fede24607c53
-description: AutoPilot aygıt dosyası hatalarında sorun giderme yöntemlerini öğrenin.
-ms.openlocfilehash: 88b59ec20ddda401c1dac45ff729ac38497a767e
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Otomatik Pilot aygıt dosyası hatalarını nasıl gidereceklerini öğrenin.
+ms.openlocfilehash: 1b5358bd6686c2548e82ec5297ac0ad675835718
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074370"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38718709"
 ---
 # <a name="troubleshoot-autopilot-device-errors"></a>AutoPilot cihazı sorunlarını giderme
 
 ## <a name="device-file-error-messages"></a>Aygıt dosyası hata iletileri
 
-Bazı hatalar buraya ait bilgileri Microsoft 365 iş AutoPilot aygıt dosyalarıyla çalışırken görebilirsiniz. 
+Microsoft 365 Business'ta AutoPilot aygıt dosyalarıyla çalışırken görebileceğiniz bazı hatalar hakkında bilgiler aşağıda verilmiştir. 
   
 |**Hata kodu**|**Denemek için düzeltme**|
 |:-----|:-----|
-|Geçersiz istek gövdesi  <br/> |Bu hatayı görüyorsanız, bu hata nadiren, yapılması gerekenleri işlemi yeniden deneyin.  <br/> |
-|Bir aygıt için donanım karma değeri doğru değil.  <br/> |Bu hatayı görüyorsanız, CSV dosyanızdaki bir aygıtın donanım karma değeri için sağlanan değerin doğru olmadığını gösterir. İlk olarak, değeri doğru yazdığınızdan emin olun. Değerin doğru olduğunu, ancak bu hatayı hala olmuyor düşünüyorsanız, donanım satıcınıza Yardım isteyin.  <br/> |
-|Başka bir kiracı için atanmış olan aygıt  <br/> |Bu hatayı görüyorsanız, CSV dosyanızda seri numarasını veya ürün anahtarı bir veya daha fazla aygıt için sağlanan değerin doğru olmadığını gösterir. İlk olarak, değeri doğru yazdığınızdan emin olun. Değerin doğru olduğunu, ancak bu hatayı hala olmuyor düşünüyorsanız, donanım satıcınıza Yardım isteyin.  <br/> |
-|CSV dosyasını bir seri numarası geçersiz veya ürün anahtarı içerir.  <br/> |Bu hatayı görürseniz oluştu kaydetmek için olan aygıt zaten başka bir kuruluş tarafından kayıtlı anlamına gelir. Bu sorunu gidermek için donanım satıcınıza Yardım isteyin.  <br/> |
-|Bu aygıt için bir kurulum AutoPilot kullanarak desteklenmiyor  <br/> | Bu hata, aygıt AutoPilot dağıtım gereksinimlerini karşılamıyor anlamına gelir. Cihazların şu gereksinimleri karşılaması gerekir:  <br/>  Windows 10, sürüm 1703 veya üstü.  <br/>  Windows ilk çalıştırma deneyimi uygulanmamış olan yeni cihazlar.  <br/> |
-|Aygıt bulunamadı  <br/> |Bu hata, bir veya daha fazla aygıt, CSV dosyanızdaki kayıtlı değil, kuruluşunuz için anlamına gelir. Bu sorunu gidermek için donanım satıcınıza Yardım isteyin.  <br/> |
-   
+|Geçersiz istek gövdesi  <br/> |Bu hatayı nadiren olur, bu hatayı görürseniz işlemi yeniden deneyin.  <br/> |
+|Aygıt için donanım karma değeri doğru değildir.  <br/> |Bu hatayı görürseniz, bir aygıtın donanım karma için CSV dosyanızda sağladığınız değerdoğru olmadığı anlamına gelir. İlk olarak, değerin doğru yazıldığını doğrulayın. Değerin doğru olduğunu düşünüyorsanız, ancak bu hata hala oluyorsa, donanım satıcınızdan yardım isteyin.  <br/> |
+|Başka bir kiracıya atanan aygıt  <br/> |Bu hatayı görürseniz, csv dosyanızda bir veya daha fazla aygıtın seri numarası veya ürün anahtarı için sağladığınız değerin doğru olmadığı anlamına gelir. İlk olarak, değerin doğru yazıldığını doğrulayın. Değerin doğru olduğunu düşünüyorsanız, ancak bu hata hala oluyorsa, donanım satıcınızdan yardım isteyin.  <br/> |
+|CSV dosyası geçersiz bir seri numarası veya ürün anahtarı içerir  <br/> |Bu hatayı görürseniz, kaydetmeye çalıştığınız aygıtın başka bir kuruluş tarafından zaten kaydedilmiş olduğu anlamına gelir. Bu hatayı gidermek için donanım satıcınızdan yardım isteyin.  <br/> |
+|Bu cihaz Otomatik Pilot kullanılarak kurulum için desteklenmez  <br/> | Bu hata, aygıtın Otomatik Pilot dağıtım gereksinimlerini karşılamadığı anlamına gelir. Cihazların şu gereksinimleri karşılaması gerekir:  <br/>  Windows 10, sürüm 1703 veya üstü.  <br/>  Windows'un kutudan çıkma deneyiminden geçmemiş yeni aygıtlar.  <br/> |
+|Aygıt bulunamadı  <br/> |Bu hata, CSV dosyanızdaki bir veya daha fazla aygıtın kuruluşunuza kayıtlı olmadığı anlamına gelir. Bunu düzeltmek için donanım satıcınızdan yardım isteyin.  <br/> |

@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: 'Microsoft 365 Business kullanıcıları için Windows 10 Pro çalıştıran Windows aygıtlarını nasıl ayarlayabilirsiniz öğrenin. '
-ms.openlocfilehash: 7b6fa2ce3243500c3ddcff7883fa9d8da27dcf86
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: f929c64b00e4ebf24e9f82fcfea433119abf2f1c
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575578"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38718889"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>Microsoft 365 Business kullanıcıları için Windows cihazlarını ayarlama
 
@@ -41,7 +41,7 @@ Bkz. Yükseltmeye sahip olduğunuzu doğrulamak veya yükseltmenin çalıştığ
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Kuruluşunuzun Azure AD'sine Windows 10 cihazlarını ekleme
 
-Kuruluşunuzdaki tüm Windows cihazları Windows 10 Pro Creators Update sürümüne yükseltildiyse ya da tüm Windows cihazları zaten Windows 10 Pro Creators Update sürümünü çalıştırıyorsa, bu cihazları kuruluşunuzun Azure Active Directory'sine ekleyebilirsiniz. Eklenen cihazlar, Microsoft 365 Business aboneliğine dahil olan Windows 10 Business'a otomatik olarak yükseltilir.
+Kuruluşunuzdaki tüm Windows aygıtları Windows 10 Pro Creators Update'e yükseltilmiş sa veya Windows 10 Pro Creators Update'i zaten çalıştırıyorsa, bu aygıtları kuruluşunuzun Azure Etkin Dizini'ne katılabilirsiniz. Aygıtlar birleştikten sonra, Microsoft 365 Business aboneliğinizin bir parçası olan Windows 10 Business'a otomatik olarak yükseltilir.
   
 ### <a name="for-a-brand-new-or-newly-upgraded-windows-10-pro-device"></a>Yeni yükseltilmiş veya yeni bir Windows 10 Pro cihaz için
 
@@ -89,7 +89,7 @@ Windows 10 Pro Creators Update çalıştıran yeni bir cihaz için ya da Windows
   
    ![On the Make sure this is your organization screen, click Join](media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
   
-OneDrive İş'e dosya yüklediyseniz, bunları tekrar eşitleyin. Profil ve dosyaları geçirmek için üçüncü taraf bir aracı kullandıysanız, bunları da yeni profile eşitleyin.
+OneDrive İş'e dosya yüklediyseniz, bunları tekrar eşitleyin. Profili ve dosyaları geçirmek için bir üçüncü taraf aracı kullandıysanız, bunları yeni profille de eşitleyin.
   
 ## <a name="verify-the-device-is-connected-to-azure-ad"></a>Cihazın Azure AD'ye bağlı olduğunu doğrulama
 
@@ -97,7 +97,7 @@ Eşitleme durumunuzu doğrulamak için, **Ayarlar**'daki **İş yeri veya okula 
   
 En son mobil cihaz yönetimi ilkelerini bilgisayara aktarmak için, Eşitleme durumu sayfasında Eşitle'ye tıklayın.
   
-Microsoft 365 İş hesabınızı kullanmaya başlamak için Windows **Başlat** düğmesine gidip geçerli hesap resminize sağ tıklayın ve **Hesap değiştir**'i seçin. Kurumsal e-postanız ve parolanızla oturum açın.
+Microsoft 365 Business hesabını kullanmaya başlamak için Windows **Başlat** düğmesine gidin, geçerli hesap resminize sağ tıklayın ve ardından **hesabı değiştirin.** Kurumsal e-postanız ve parolanızla oturum açın.
   
 ![Click Info button to view synchronization status](media/818f7043-adbf-402a-844a-59d50034911d.png)
   

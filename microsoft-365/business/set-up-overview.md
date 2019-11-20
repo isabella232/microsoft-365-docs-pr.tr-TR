@@ -22,24 +22,23 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: Microsoft 365 Business için kurulum adımlarının genel görünümü.
-ms.openlocfilehash: 3e1cf240db673a7b961ec8aa574f3e09efee476b
-ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
+description: Microsoft 365 Business için kurulum adımlarını gözden geçirin.
+ms.openlocfilehash: 3447f06d031462a7bebc6f129238de9f0c5dee41
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/16/2019
-ms.locfileid: "38676038"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38721569"
 ---
 # <a name="overview-of-setup"></a>Kuruluma genel bakış
 
 Kurulum adımlarının çoğu kurulum sihirbazında yapılabilir, ancak diğer seçenekler de listelenir.
 
-
 ## <a name="step-1-add-your-domain-and-users"></a>Adım 1: Etki alanınızı ve kullanıcılarınızı ekleyin
 
    - **[Etki alanınızı ekleyin](set-up.md#add-your-domain-to-personalize-sign-in)** [(kaydolma](sign-up.md)sırasında etki alanınızı satın aldıysanız, bu adım zaten tamamlanır.)
 
-    - **Kullanıcı ekle.** Bunu üç şekilde yapabilirsiniz:
+    - **Kullanıcı ekle.** Kullanıcıları üç şekilde ekleyebilirsiniz:
         - [Büyücüde.](set-up.md#add-users-in-the-wizard)
         - Şirket içinde Etkin dizininiz varsa [Azure AD Connect'i kullanarak kullanıcıları eklemek](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) için dizin eşitlemesi kullanın.
         - Daha sonra yönetici merkezine [de kullanıcı ekleyebilirsiniz.](add-users-m365b.md)
@@ -68,14 +67,14 @@ Kurulum adımlarının çoğu kurulum sihirbazında yapılabilir, ancak diğer s
    - Windows 10 Pro, Microsoft 365 Business için bir [ön koşuldur,](pre-requisites-for-data-protection.md) ancak Windows 7 Pro, Windows 8 Pro veya Windows 8.1 Pro'nuz varsa, aboneliğiniz size [Windows 10 Pro'ya yükseltme](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update)hakkı verir.
     - Windows 10 aygıtları için ilkeleri yapılandırmak için [Kurulum sihirbazını](set-up.md#protect-data-and-devices) kullanın.
 
-## <a name="stes-4-install-office-365-business"></a>Stes 4: Office 365 İş install
+## <a name="step-4-install-office-365-business"></a>Adım 4: Office 365 İşi Yükleyin
 - [Kurulum sihirbazını](set-up.md#deploy-office-365-client-apps)kullanarak Office'i Windows aygıtlarına otomatik olarak yükleyebilirsiniz.
 - Kullanıcıların Windows ve aygıtlar için [Office uygulamalarını yüklemesine](https://docs.microsoft.com/office365/admin/setup/install-applications) izin verin.
      
 ## <a name="advanced"></a>Gelişmiş
 - **Yeni aygıtlar kurmak için Otomatik Pilot'u kullanma**
             
-     Bir kullanıcı için **yeni** Windows 10 aygıtlarını otomatik olarak önceden yapılandırmak için [Windows Otomatik Pilot'u](add-autopilot-devices-and-profile.md) kullanabilirsiniz, ancak bunu sizin için yapabilecek bir [iş ortağı](https://www.microsoft.com/solution-providers/search) bulmak daha kolay olabilir. Ayrıca [Microsoft Mağazası'na](https://go.microsoft.com/fwlink/?linkid=874598) gidip bir bulut teknolojisi uzmanından sizin için satın aldığınız yeni aygıtlar ayarlamasını isteyebilirsiniz.
+     Bir kullanıcı için **yeni** Windows 10 aygıtlarını otomatik olarak önceden yapılandırmak için [Windows Otomatik Pilot'u](add-autopilot-devices-and-profile.md) kullanabilirsiniz, ancak bunu sizin için yapabilecek bir [iş ortağı](https://www.microsoft.com/solution-providers/search) bulmak daha kolay olabilir. Microsoft [Mağazası'na](https://go.microsoft.com/fwlink/?linkid=874598)da gidebilir ve bir bulut teknolojisi uzmanından satın aldığınız yeni aygıtlar ayarlamasını isteyebilirsiniz.
 
 - **Şirket içi kaynaklara erişim**
 

@@ -19,12 +19,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Microsoft 365 Business'ı nasıl satın alıp kaydolamayı öğrenin.
-ms.openlocfilehash: ef34a3e2bc848ce98efb2218f7bdd9b2a186b6b2
-ms.sourcegitcommit: 9206e7f2d61b5ba7f788fe5e7f75a2218c12c716
+ms.openlocfilehash: 16953f7c752c3105af795e721332e2e6d6bdebe5
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37968793"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38718729"
 ---
 # <a name="sign-up-for-microsoft-365-business"></a>Microsoft 365 Business için kaydolun
 
@@ -46,10 +46,10 @@ Microsoft 365 Business'ı almanın üç yolu vardır:
 İşletmeniz için Microsoft 365'e kaydolmak ve satın almak için aşağıdaki adımları tamamlayın:
 
 1. İşletme [sayfası için Microsoft 365'te,](https://go.microsoft.com/fwlink/?linkid=2109654) **& fiyatlandırma planlarına bakın'ı**seçin. 
-2. Bir sonraki sayfada, aylık maliyeti öğrenin ve Microsoft 365 Business'ta nelerin yer aldığı hakkında daha fazla bilgi edinmek için sayfayı aşağı kaydırın. Microsoft 365 Business altında, **şimdi Satın Al'ı**seçin.
+2. Bir sonraki sayfada, aylık maliyeti öğrenin ve ardından Microsoft 365 Business'ta nelerin yer aldığı hakkında daha fazla bilgi edinmek için sayfayı aşağı kaydırın. Microsoft 365 Business altında, **şimdi Satın Al'ı**seçin.
 3. Microsoft **365 Business** sayfasını seçtiğiniz için teşekkür ederiz, başlamak için bilgilerinizi girin.
 4. **Adım 1'** de, zaten kullandığınız bir e-posta adresini girin. Bu, geçerli iş e-posta adresiniz veya Microsoft'un kurulum sırasında sizinle iletişim kurmak için kullanmasını istediğiniz herhangi bir adres olabilir. Ayrıca, faturanız ve yenilemeleriniz hakkında size bilgi göndereceğimiz adrestir. Sonra seçin, **Hesabı ayarlayın.**
-5. **Adım 2'de**adınızı, iş telefon numaranızı, şirket adınızı ve konumunuzu girin. Ülkenizin veya Bölgenizin Microsoft'tan tam olarak aldığınız hizmetleri belirlediğini ve bu adımı tamamladıktan sonra değiştirilemediğinizi unutmayın. **İleri**'yi seçin.
+5. **Adım 2'de**adınızı, iş telefon numaranızı, şirket adınızı ve konumunuzu girin. Ülkeniz veya Bölgeniz Microsoft'tan tam olarak aldığınız hizmetleri belirler ve bu adımı tamamladıktan sonra değiştirilemez. **İleri**'yi seçin.
     > [!NOTE]
     > Şirket adınızı yönetici merkezinde gösteririz; Microsoft 365 kullanıcılarını, lisanslarını ve benzeri uygulamaları burada yönetebilirsiniz. Ayrıca herhangi bir dahili (SharePoint) site URL'lerine de dahil ediyoruz.
 6. **Adım 3:**
@@ -66,7 +66,7 @@ Microsoft 365 Business'ı almanın üç yolu vardır:
         
         - **Emin değilim, ya da zaten bir etki alanı adı kendi** 
         
-             **Şimdilik bir Microsoft etki alanı al'ı**seçin. Bu hiçbir şeye mal olmaz ve daha sonra işletmeniz için özel bir ad&mdash;alabilir veya zaten sahip olduğunuz bir ada bağlanabilir ve size nasıl yapılacağını göstereceğiz.
+             **Şimdilik bir Microsoft etki alanı al'ı**seçin. Bu hiçbir şeye mal olmaz ve daha sonra işletmeniz için özel bir ad alabilir veya zaten sahip olduğunuz bir ada bağlanabilirsiniz. Sana nasıl yapılacağını göstereceğiz.
 
     3. Kullanıcı kimliğinizi ve iş e-posta adresinizi oluşturmak için **Yanında'nı** seçin. Kullanmak istediğiniz adı (takma ad olarak da adlandırılır) girin. Örneğin, Robert Young RobY veya RobYoung'u iş takma adı olarak kullanabilir. Parola ekleyin ve **Kaydol'u**seçin. Parolanızı not alın. Size kullanıcı kimliğinizi hatırlatmak için adım 1'e girdiğiniz adrese bir e-posta göndeririz.
 7. **Adım 4:** 

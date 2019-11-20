@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: Office'i bir iPhone'a veya Android telefona yükleyin ve Office uygulamalarındaki iş dosyalarınız Microsoft 365 Business tarafından korunacaktır.
-ms.openlocfilehash: 6dd18569f0d4b3c71f00004706c2430eb7c5ae43
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: e09db43705d601df0c0b30a46ee36cf0295ecae3
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575618"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38718949"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-business-users"></a>Microsoft 365 İş kullanıcıları için mobil cihazları ayarlama
 
@@ -58,11 +58,11 @@ Enter your work email address on the **Add Email Account** screen \> **Add Accou
   
 ![Sign in to your work account](media/3cef1fb5-7bec-4d3d-8542-872b731ce19f.png)
   
-Kuruluşunuz uygulamalardaki dosyaları koruyorsa, şimdi kuruluşunuzun uygulamadaki verileri koruduğunu ve uygulamayı kullanmaya devam etmek için yeniden başlatmanız gerektiğini bildiren bir iletişim kutusu görürsünüz. **Tamam**'a dokunun ve Outlook'u kapatın. 
+Kuruluşunuz uygulamalardaki dosyaları koruyorsa, kuruluşunuzun artık uygulamadaki verileri koruduğunu ve kullanmaya devam etmek için uygulamayı yeniden başlatmanız gerektiğini belirten bir iletişim kutusu görürsünüz. **Tamam**'a dokunun ve Outlook'u kapatın. 
   
-![Screenshot that showa your organization is now protecting your Outlook app](media/fb4c1c84-b1e9-42e1-8070-c13dcf79fb09.png)
+![Kuruluşunuzun artık Outlook uygulamanızı koruduğunun ekran görüntüsü](media/fb4c1c84-b1e9-42e1-8070-c13dcf79fb09.png)
   
-iPhone'da Outlook'u bulun ve yeniden başlatın. İstendiğinde bir PIN girin ve doğrulayın. iPhone'unuzdaki Outlook artık kullanıma hazırdır.
+iPhone'da Outlook'u bulun ve yeniden başlatın. İstendiğinde, bir PIN girin ve doğrulayın. iPhone'unuzdaki Outlook artık kullanıma hazırdır.
   
 ![Set a PIN to access your organization's data](media/64f2630b-3164-47a4-9dd6-ca0c29ed5fb3.png)
   
@@ -72,11 +72,11 @@ Android telefonunuzda kuruluma başlamak için Play Store'a gidin.
   
 ![On the Android home screen, tap Play Store](media/93df88e7-c778-40e1-b35e-868ca6e97f6c.png)
   
-Google Play arama kutusuna Microsoft Outlook girin ve **Yükle**'ye dokunun.Outlook'un yüklenmesi tamamlandığında **Aç**'a dokunun.
+Google Play arama kutusuna Microsoft Outlook'u girin ve **Yükle'ye**dokunun. Outlook yüklemeyi bitirdikten sonra **Aç'a**dokunun.
   
 ![Tap Open to open Outlook app](media/8b4c5937-8875-4b5a-a5b6-b8c6c9cd6240.png)
   
-Outlook uygulamasında **Başlarken**'e dokunun, sonra Microsoft 365 İş e-posta hesabınızı ekleyin \> **Devam**'a dokunun ve kuruluşunuzun kimlik bilgileriyle oturum açın.
+Outlook **uygulamasında, Başlat'a**dokunun, ardından Microsoft 365 \> Business e-posta **hesabınızı**ekleyin ve kuruluş kimlik bilgilerinizle oturum açın.
   
 ![Sign in to your organizational account in Outlook](media/18f67c66-4bab-4b99-94bd-080839312e29.png)
   
@@ -84,7 +84,7 @@ Intune Şirket Portalı uygulamasını yüklemeniz gerektiğini belirten iletiş
   
 ![Tap on Go to store to get Intune Company Portal app](media/a702d712-5622-45dd-a511-b1adaee63071.png)
   
-Play Store'da Intune Şirket Portalı'nı yükleyin.
+Play Store'da Intune Company Portal'ı yükleyin.
   
 ![Screenshot that shows the install button for Intune Company Portal in Google Play Store](media/5e0408f2-3f37-44dd-80ed-13ca2ac6df0c.png)
   

@@ -20,32 +20,31 @@ search.appverid:
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
 description: Genel yönetici kimlik bilgileriyle Microsoft 365 işletmesine oturum açtırarak aygıt ilkelerini ve eylemlerini görüntüleyin.
-ms.openlocfilehash: c961630f0698ed864bfb94b4672f92825089ea4c
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 982c1f410802f9589d40073a11768b7dd68567c0
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575458"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38718929"
 ---
 # <a name="view-and-manage-policies-and-devices"></a>İlkeleri ve cihazları görüntüleme ve yönetme
 
-[![Yönetici merkezinin değiştiğini bildirmek için etiket ve aka.ms/aboutM365preview daha fazla ayrıntı bulabilirsiniz.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Yönetim merkezinin değiştiğini size bildirmeye yarayan etiket ve daha fazla ayrıntıyı aka.ms/aboutM365preview sayfasında bulabilirsiniz.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 ## <a name="view-and-edit-device-policies"></a>Aygıt ilkelerini görüntüleme ve görüntüleme
 
 1.  'deki <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>yönetici merkezine gidin.
 2. Sol daki gezinmede **Aygıt** \> **İlkeleri'ni**seçin.
 
-    Bu sayfada ilkeleri oluşturabilir, düzenleyebilir, silebilir veya ilkelerin hedef grubunu değiştirebilirsiniz.
+    Bu sayfada, hedef grup oluşturabilir, düzenleyebilir, değiştirebilir veya bir ilke silebilirsiniz.
 
     ![Screenshot of the Policies page](media/devicepolicies.png)
   
 ## <a name="view-and-manage-devices"></a>Cihazları görüntüleme ve yönetme
 
-
 1. Sol daki gezinmede, **Aygıtları** \> **Yönet'i**seçin. 
     
-    Bu sayfada bir veya daha cihaz seçerek şirket verilerini silebilirsiniz. Cihaz koruma ayarlarını yaptığınız Windows 10 cihazlarında, cihazı fabrika ayarlarına sıfırlamayı da seçebilirsiniz.
+    Bu sayfada, bir veya daha fazla aygıt seçebilir ve şirket verilerini kaldırabilirsiniz. Cihaz koruma ayarlarını yaptığınız Windows 10 cihazlarında, cihazı fabrika ayarlarına sıfırlamayı da seçebilirsiniz.
   
    ![Aygıtlar sayfasını yönetme](media/devicesmanage.png)
 

@@ -18,19 +18,19 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: Windows 10 aygıtları'nda bulunan Microsoft 365 iş app koruma ayarlarını doğrulamak öğrenin.
-ms.openlocfilehash: 7710accf9a3cd1db788dd5215ab6d7bbb97e48a6
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Windows 10 cihazlarında Microsoft 365 İş uygulaması koruma ayarlarını nasıl doğrulayayarılamayı öğrenin.
+ms.openlocfilehash: c54b053c1f6efbca8fd02431c416793a044c6821
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074390"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38721870"
 ---
 # <a name="validate-app-protection-settings-on-windows-10-pcs"></a>Windows 10 bilgisayarlarda uygulama koruma ayarlarını doğrulama
 
 ## <a name="verify-that-users-cannot-copy-company-data-to-personal-files-on-corporate-devices"></a>Kullanıcıların şirket cihazlarındaki kişisel dosyalarına şirket verilerini kopyalayamadıklarını doğrulama
 
-[Uygulama koruma ilkelerini ayarladıktan](protection-settings-for-windows-10-devices.md) sonra, ilkenin kullanıcı cihazlarında geçerlilik kazanması birkaç saat sürebilir. Şirkete ait cihazlar için **Kullanıcıların şirket verilerini kişisel dosyalara kopyalamalarını engelle ve iş dosyalarını OneDrive İş'e kaydetmelerini zorla** ayarını **Açık** duruma getirdiyseniz, kullanıcılar Azure AD'ye bağlanıp oturum açtıktan sonra bunu kullanıcının cihazında denetleyebilirsiniz. 
+[Uygulama koruma ilkelerini ayarladıktan](protection-settings-for-windows-10-devices.md) sonra, ilkenin kullanıcı cihazlarında geçerlilik kazanması birkaç saat sürebilir. Kullanıcıların şirket verilerini kişisel dosyalara kopyalamasını Engelley'i **açtıysanız** ve iş dosyalarını şirkete ait cihazlar için İş için **OneDrive'a kaydetmeye zorladıysanız,** azure AD'ye bağlanıp oturum açtıktan sonra bunu kullanıcının aygıtında denetleyebilirsiniz. 
   
  **Bağlantı ayarlarını doğrulama**
   
@@ -38,11 +38,11 @@ ms.locfileid: "34074390"
     
     ![Click or tap Info on the Connected to Azure AD dialog.](media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
   
-2. **Yöneten** \<kiracı adı\> sayfasında, aşağıdaki şekilde gösterilene benzer bir **Yönetim Sunucusu Adresi** içeren **Bağlantı bilgileri** kutusunu görebilirsiniz. 
+2. \<Kiracı\> adı tarafından **yönetilen** sayfada, aşağıdaki şekilde gösterildiği gibi bir Yönetim **Sunucusu Adresi** içeren Bağlantı **bilgilerini** görebilirsiniz. 
     
     ![Managed by page shows connection info of the device manager URL.](media/47515a8e-2d0c-4bea-99f0-6b2545b88a11.png)
   
- **Şirket verilerini yönetilmeyen bir uygulamaya yapıştıramadığınızı doğrulama**
+ **Yönetilmeyen bir uygulamaya şirket verilerini yapıştıramayacağınızı doğrulayın**
   
 1. Microsoft 365 İş tarafından yüklenmiş olan Outlook 2016'yı açın.
     
@@ -50,7 +50,7 @@ ms.locfileid: "34074390"
     
     Not Defteri'ni açın ve içeriği oraya yapıştırmayı deneyin.
     
-    Uygulama içeriğe erişemiyor hatasını alırsınız.
+    Uygulamanın içeriğe erişemediğini belirten bir hata alırsınız.
     
     ![A dialog that states app can't access content when you paste into an unmanaged app.](media/5e82b154-cf2f-43c8-ae80-b45d8ad80e56.png)
   
@@ -60,7 +60,7 @@ ms.locfileid: "34074390"
 
  **Bağlantı ayarlarını doğrulama**
   
-1. Yerel kullanıcı olarak oturum açtığınız Windows 10 kişisel cihazınızda **Windows Ayarları**'na gidin ve **Hesaplar** \> **İş yeri veya okula eriş**'e tıklayın veya dokunun.
+1. Yerel bir kullanıcı olarak oturum açtığınız Windows 10 kişisel cihazınızda **Windows Ayarları'na**gidin ve **HesaplarA** \> **Erişim çalışmasına veya okuluna**tıklayın veya dokunun.
     
 2. **İş yeri veya okula eriş** alanının altında **Bağlan**'ı seçin.
     
@@ -68,13 +68,13 @@ ms.locfileid: "34074390"
     
 4. **İş yeri veya okula eriş** sayfasında, **İş veya okul hesabı**'nı ve sonra da **Bilgi**'yi seçin.
     
-    ![Click or tap Info on the Work or school account dalog.](media/63bd8b32-cb32-4afa-8ce0-6070ac403abc.png)
+    ![İş veya okul hesabı iletişim kutusundaKi Bilgiler'i tıklatın veya dokunun.](media/63bd8b32-cb32-4afa-8ce0-6070ac403abc.png)
   
-5. **İş yeri veya okula eriş** sayfasında, aşağıdaki şekilde gösterilene benzeyen ve içinde  **wip**  ile  **mam**  sözcükleri bulunan bir *Yönetim Sunucusu Adresi*'nin yer aldığı *Bağlantı bilgileri* kutusunu görebilirsiniz. 
+5. Access **çalışmasında veya okul** sayfasında, aşağıdaki şekilde gösterildiği gibi bir **Yönetim Sunucusu Adresi** içeren ve içindeki *silme* ve *mam* sözcülerini içeren **Bağlantı bilgilerini** görebilirsiniz. 
     
     ![Managed by page shows connection info URL that includes the words mam and wpi.](media/abd4eaf4-44fa-4538-a3e8-1e0d331dfe1e.png)
   
- **Şirket verilerini yönetilmeyen bir uygulamaya yapıştıramadığınızı doğrulama**
+ **Yönetilmeyen bir uygulamaya şirket verilerini yapıştıramayacağınızı doğrulayın**
   
 1. Outlook 2016'yı açın, gerekirse Microsoft 365 İş hesabınızı ekleyin ve Microsoft 365 İş kimlik bilgilerinizle oturum açın.
     
@@ -82,7 +82,7 @@ ms.locfileid: "34074390"
     
     Not Defteri'ni açın ve içeriği oraya yapıştırmayı deneyin.
     
-    Uygulama içeriğe erişemiyor hatasını alırsınız.
+    App'in içeriğe erişemediğini belirten bir hata alırsınız.
     
     ![A dialog that states app can't access content when you paste into an unmanaged app.](media/5e82b154-cf2f-43c8-ae80-b45d8ad80e56.png)
   

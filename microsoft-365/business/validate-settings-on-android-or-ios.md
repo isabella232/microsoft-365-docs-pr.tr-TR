@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: f3433b6b-02f7-447f-9d62-306bf03638b0
 description: Learn how to validate the Microsoft 365 Business app protection settings in your Android or iOS devices.
-ms.openlocfilehash: 309dbf5bdba81bbf8ad0a9707c136a03c4a28586
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 3879084b42e8c00cc4abcd86c1a3d6761c0697a6
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575538"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38718909"
 ---
 # <a name="validate-app-protection-settings-on-android-or-ios-devices"></a>Android veya iOS cihazlarda uygulama koruma ayarlarını doğrulama
 
@@ -33,15 +33,15 @@ Android veya iOS cihazlardaki uygulama koruma ayarlarını doğrulamak için aş
   
 ## <a name="android"></a>Android
   
-### <a name="check-that-the-app-protection-settings-are-working-on-user-devices"></a>Uygulama koruma ayarlarının kullanıcı cihazlarında çalışıp çalışmadığını denetleme
+### <a name="check-that-the-app-protection-settings-are-working-on-user-devices"></a>Uygulama koruma ayarlarının kullanıcı aygıtlarında çalışıp çalışmadığını kontrol edin
 
 Uygulamaları korumak amacıyla [Android cihazları için uygulama yapılandırmalarını ayarlayın](app-protection-settings-for-android-and-ios.md) ve seçtiğiniz ayarların çalıştığını doğrulamak için aşağıdaki adımları izleyin. 
   
-Öncelikle, ilkenin doğrulama yapacağınız uygulama için geçerli olduğundan emin olun.
+İlk olarak, politikanın doğruladığınız uygulama için geçerli olduğundan emin olun.
   
-1. Microsoft 365 Business [yönetim merkezinde](https://portal.office.com) **İlkeler** \> **İlkeyi Düzenle**'ye gidin.
+1. Microsoft 365 Business [yönetim merkezinde](https://portal.office.com) **İlkeler** \> **İlkeyi düzenle**'ye gidin.
     
-2. Kurulum sırasında oluşturduğunuz ayarlarda **Android için uygulama ilkesi**'ni veya oluşturduğunuz başka bir ilkeyi seçin ve bunun uygulandığını (örneğin, Outlook'ta) doğrulayın. 
+2. Kurulumda oluşturduğunuz ayarlar veya oluşturduğunuz başka bir ilke **için Android için Uygulama ilkesini** seçin ve örneğin Outlook için uygulandığını doğrulayın. 
     
     ![Shows all the apps for which this policy protects files.](media/b3be3ddd-f683-4073-8d7a-9c639a636a2c.png)
   
@@ -49,25 +49,25 @@ Uygulamaları korumak amacıyla [Android cihazları için uygulama yapılandırm
 
 **İlkeyi düzenle** bölmesinde **Office belgelerine erişim denetimi**'nin yanındaki **Düzenle**'yi seçin, **Kullanıcıların mobil cihazlardan Office dosyalarına erişimini yönet**'i genişletin ve **Office uygulamalarına erişim için PIN veya parmak izi iste** seçeneğinin **Açık** olduğundan emin olun.
   
-![Make sure that the Require a PIN or fingerprint to acces Office apps is set to On.](media/f37eb5b2-7e26-49fb-9bd6-d955d196bacf.png)
+![Office uygulamalarına erişmek için PIN veya parmak izi gerektirin, Üzerinde ayarlandıklarına emin olun.](media/f37eb5b2-7e26-49fb-9bd6-d955d196bacf.png)
   
 1. Kullanıcının Android cihazında Outlook'u açın ve kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın.
     
-2. Sizden de PIN girmeniz veya parmak izini kullanmanız istenir.
+2. Ayrıca pin girmeniz veya parmak izi kullanmanız istenir.
     
     ![Enter a PIN on your Android device to access Office apps.](media/9e8ecfee-8122-4a3a-8918-eece80344310.png)
   
 ### <a name="validate-reset-pin-after-number-of-failed-attempts"></a>Birkaç başarısız girişimden sonra PIN sıfırlama doğrulaması
 
-**İlkeyi düzenle** bölmesinde **Office belgelerine erişim denetimi**'nin yanındaki **Düzenle**'yi seçin, **Kullanıcıların mobil cihazlardan Office dosyalarına erişimini yönet**'i genişletin ve **Birkaç başarısız girişimden sonra PIN'i sıfırla** seçeneğinin herhangi bir sayıya (varsayılan olarak 5'tir) ayarlandığından emin olun. 
+**Edit ilkesi** bölmesinde, **Office belgelerinin yanındaki Edit'i seçin,** kullanıcıların mobil **cihazlardaki Office dosyalarına nasıl erişeceğini yönet'i**genişletin ve başarısız deneme sayısı belirlendikten **sonra PIN'i sıfırlamanın** bir sayıya ayarlandıklarından emin olun. **** Bu varsayılan olarak 5'tir. 
   
 1. Kullanıcının Android cihazında Outlook'u açın ve kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın.
     
-2. İlke tarafından belirtilen sayıda yanlış PIN girin. **PIN Girişimi Sınırına Ulaşıldı** uyarısını veren bir istem görürsünüz ve sonrasında PIN'i sıfırlayabilirsiniz. 
+2. İlke tarafından belirtilen sayıda yanlış PIN girin. PIN'i sıfırlamak için **PIN Girişimi Sınırı'na Ulaşılan** durumları belirten bir istem görürsünüz. 
     
     ![After too many incorrect PIN attempts, you need to reset your PIN.](media/fca6fcb4-bb5c-477f-af5e-5dc937e8b835.png)
   
-3. **PIN'i Sıfırla**'ya basın. Kullanıcının Microsoft 365 İş kimlik bilgileri ile oturum açmanız ve sonrasında yeni bir PIN ayarlamanız istenir.
+3. **PIN'i Sıfırla**'ya basın. Kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açmanız istenir ve ardından yeni bir PIN ayarlamanız gerekir.
     
 ### <a name="validate-force-users-to-save-all-work-files-to-onedrive-for-business"></a>Kullanıcıları, tüm çalışma dosyalarını OneDrive İş'e kaydetmeye zorlama doğrulaması
 
@@ -81,7 +81,7 @@ Uygulamaları korumak amacıyla [Android cihazları için uygulama yapılandırm
     
     ![Tap the down arrow next to an attachment to try to save it.](media/b22573bb-91ce-455f-84fa-8feb2846b117.png)
   
-    Ekranın en altında **Cihaza kaydedilemiyor** ifadesini görürsünüz. 
+    Ekranın alt kısmında **cihaza kaydedemezsiniz** göreceksiniz. 
     
     ![Warning text that indicates cannot save a file locally to an Android.](media/52ca3f3d-7ed0-4a52-9621-4872da6ea9c5.png)
   
@@ -90,15 +90,15 @@ Uygulamaları korumak amacıyla [Android cihazları için uygulama yapılandırm
   
 ### <a name="validate-require-user-to-sign-in-again-if-office-apps-have-been-idle-for-a-specified-time"></a>Office uygulamaları şu kadar süre boşta kalırsa kullanıcıların yeniden oturum açmasını isteme doğrulaması
 
-**İlkeyi düzenle** bölmesinde **Office belgelerine erişim denetimi**'nin yanındaki **Düzenle**'yi seçin, **Kullanıcıların mobil cihazlardan Office dosyalarına erişimini yönet**'i genişletin ve **Office uygulamaları şu kadar süre boşta kalırsa kullanıcıların yeniden oturum açmasını iste** seçeneğinin herhangi bir dakika sayısına (varsayılan olarak 30 dakikadır) ayarlandığından emin olun. 
+**Edit ilkesi** bölmesinde, **Office belgelerinin yanındaki Edit'i seçin,** kullanıcıların mobil **cihazlardaki Office dosyalarına nasıl erişeceğini yönetin**ve Office uygulamaları boşta kaldıktan **sonra kullanıcıların oturum açmalarını zorunlu** kıldığından emin olun. **** Bu varsayılan olarak 30 dakikadır. 
   
 1. Kullanıcının Android cihazında Outlook'u açıp kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın ve istenirse PIN girin.
     
 2. Şimdi Outlook gelen kutusunu görüyor olmalısınız. Android cihazına en az 30 dakika (veya ilkede belirttiğinizden daha uzun bir süre) boyunca dokunmayın ve boşta beklemesini sağlayın. Cihaz büyük olasılıkla kararacaktır.
     
-3. Android cihazından Outlook'a yeniden erişin.
+3. Outlook'a Android cihazda yeniden erişin.
     
-4. Outlook'a yeniden erişebilmeniz için önce PIN kodunuzu girmeniz istenir.
+4. Outlook'a yeniden erişemeden önce PIN'inizi girmeniz istenir.
     
 ### <a name="validate-protect-work-files-with-encryption"></a>Şifreli çalışma dosyalarını koruma doğrulaması
 
@@ -106,7 +106,7 @@ Uygulamaları korumak amacıyla [Android cihazları için uygulama yapılandırm
   
 1. Kullanıcının Android cihazında Outlook'u açıp kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın ve istenirse PIN girin.
     
-2. Birkaç resim dosyası eki olan bir e-postayı açın.
+2. Birkaç resim dosyası ekleri içeren bir e-posta açın.
     
 3. Kaydetmek için ekin bilgilerinin yanındaki aşağı ok simgesine dokunun.
     
@@ -126,11 +126,11 @@ Uygulamaları korumak amacıyla [Android cihazları için uygulama yapılandırm
 
 Uygulamaları korumak amacıyla [iOS cihazları için uygulama yapılandırmalarını ayarlayın](app-protection-settings-for-android-and-ios.md) ve seçtiğiniz ayarların çalıştığını doğrulamak için aşağıdaki adımları izleyin. 
   
-Öncelikle, ilkenin doğrulama yapacağınız uygulama için geçerli olduğundan emin olun.
+İlk olarak, politikanın doğruladığınız uygulama için geçerli olduğundan emin olun.
   
 1. Microsoft 365 Business [yönetim merkezinde](https://portal.office.com) **İlkeler** \> **İlkeyi düzenle**'ye gidin.
     
-2. Kurulum sırasında oluşturduğunuz ayarlarda **iOS için uygulama ilkesi**'ni veya oluşturduğunuz başka bir ilkeyi seçin ve bunun uygulandığını (örneğin, Outlook'ta) doğrulayın. 
+2. Kurulumda oluşturduğunuz ayarlar veya oluşturduğunuz başka bir ilke için iOS için **Uygulama ilkesini** seçin ve örneğin Outlook için uygulandığını doğrulayın. 
     
     ![Shows all the apps for which this policy protects files.](media/842441b8-e7b1-4b86-9edd-d94d1f77b6f4.png)
   
@@ -138,27 +138,27 @@ Uygulamaları korumak amacıyla [iOS cihazları için uygulama yapılandırmalar
 
 **İlkeyi düzenle** bölmesinde **Office belgelerine erişim denetimi**'nin yanındaki **Düzenle**'yi seçin, **Kullanıcıların mobil cihazlardan Office dosyalarına erişimini yönet**'i genişletin ve **Office uygulamalarına erişim için PIN veya parmak izi iste** seçeneğinin **Açık** olduğundan emin olun.
   
-![Make sure that the Require a PIN or fingerprint to acces Office apps is set to On.](media/f37eb5b2-7e26-49fb-9bd6-d955d196bacf.png)
+![Office uygulamalarına erişmek için PIN veya parmak izi gerektirin, Üzerinde ayarlandıklarına emin olun.](media/f37eb5b2-7e26-49fb-9bd6-d955d196bacf.png)
   
 1. Kullanıcının iOS cihazında Outlook'u açın ve kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın.
     
-2. Sizden de bir PIN girmeniz veya parmak izi kullanmanız istenir.
+2. Ayrıca pin girmeniz veya parmak izi kullanmanız istenir.
     
     ![Enter a PIN on your IOS device to access Office apps.](media/06fc5cf3-9f19-4090-b23c-14bb59805b7a.png)
   
 ### <a name="validate-reset-pin-after-number-of-failed-attempts"></a>Birkaç başarısız girişimden sonra PIN sıfırlama doğrulaması
 
-**İlkeyi düzenle** bölmesinde **Office belgelerine erişim denetimi**'nin yanındaki **Düzenle**'yi seçip **Kullanıcıların mobil cihazlarda Office dosyalarına nasıl erişeceğini yönet** bölümünü genişletin ve **Birkaç başarısız girişimden sonra PIN'i sıfırla** seçeneğinin herhangi bir sayı (varsayılan olarak 5'tir) olarak ayarlandığından emin olun. 
+**Edit ilkesi** bölmesinde, **Office belgelerinin yanındaki Edit'i seçin,** kullanıcıların mobil **cihazlardaki Office dosyalarına nasıl erişeceğini yönet'i**genişletin ve başarısız deneme sayısı belirlendikten **sonra PIN'i sıfırlamanın** bir sayıya ayarlandıklarından emin olun. **** Bu varsayılan olarak 5'tir. 
   
 1. Kullanıcının iOS cihazında Outlook'u açın ve kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın.
     
-2. İlke tarafından belirtilen sayıda yanlış PIN girin. **PIN Deneme Sınırına Ulaşıldı** uyarısını bildiren bir istem görürsünüz ve bundan sonra PIN'i sıfırlayabilirsiniz. 
+2. İlke tarafından belirtilen sayıda yanlış PIN girin. PIN'i sıfırlamak için **PIN Girişimi Sınırı'na Ulaşılan** durumları belirten bir istem görürsünüz. 
     
     ![After too many incorrect PIN attempts, you need to reset your PIN.](media/fab5c089-a4a5-4e8d-8c95-b8eed1dfa262.png)
   
-3. **Tamam**'a basın. Kullanıcının Microsoft 365 İş kimlik bilgileri ile oturum açmanız ve ardından yeni bir PIN belirlemeniz istenir.
+3. **Tamam**'a basın. Kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açmanız istenir ve ardından yeni bir PIN ayarlamanız gerekir.
     
-### <a name="validate-force-users-to-save-all-work-files-to-onedrive-for-business"></a>Kullanıcıları, tüm iş dosyalarını OneDrive İş'e kaydetmeye zorlamayı doğrulama
+### <a name="validate-force-users-to-save-all-work-files-to-onedrive-for-business"></a>Kullanıcıları, tüm çalışma dosyalarını OneDrive İş'e kaydetmeye zorlama doğrulaması
 
 **İlkeyi düzenle** bölmesinde **Kaybolmuş veya çalınmış cihaz koruması**'nın yanındaki **Düzenle**'yi seçin, **Cihaz kaybolursa veya çalınırsa çalışma dosyalarını koru**'yu genişletin ve **Kullanıcıları, tüm çalışma dosyalarını OneDrive İş'e kaydetmeye zorla** seçeneğinin **Açık** olduğundan emin olun.
   
@@ -170,21 +170,21 @@ Uygulamaları korumak amacıyla [iOS cihazları için uygulama yapılandırmalar
     
     ![Tap the Save option after you open an attachment to try to save it.](media/b419b070-1530-4f14-86a8-8d89933a2b25.png)
   
-3. OneDrive İş için yalnızca bir seçenek görüyor olmanız gerekir. Görmüyorsanız **Hesap Ekle**'ye dokunup **Depolama Hesabı Ekle** ekranından **OneDrive İş**'i seçin. İstendiği zaman son kullanıcının Microsoft 365 İş bilgilerini sağlayarak oturum açın. 
+3. OneDrive İş için yalnızca bir seçenek görüyor olmanız gerekir. Değilse, **Hesap Ekle'ye** dokunun ve **Depolama Hesabı Ekle** ekranından İşletmeler için **OneDrive'ı** seçin. İstendiği zaman son kullanıcının Microsoft 365 İş bilgilerini sağlayarak oturum açın. 
     
     **Kaydet**'e tıklayıp **OneDrive İş**'i seçin.
     
 ### <a name="validate-require-user-to-sign-in-again-if-office-apps-have-been-idle-for-a-specified-time"></a>Office uygulamaları belirli bir süre boyunca boşta kalırsa kullanıcının tekrardan oturum açmasını istemeyi doğrulama
 
-**İlkeyi düzenle** bölmesinde **Office belgelerine erişim denetimi**'nin yanındaki **Düzenle**'yi seçip **Kullanıcıların mobil cihazlarda Office dosyalarına nasıl erişeceğini yönet** bölümünü genişletin ve **Office uygulamaları şu kadar süre boyunca boşta kalırsa kullanıcıların tekrardan oturum açmasını iste:** seçeneği için dakika cinsinden bir süre (varsayılan olarak 30 dakikadır) belirlendiğinden emin olun. 
+**Edit ilkesi** bölmesinde, **Office belgelerinin yanındaki Edit'i seçin,** kullanıcıların mobil **cihazlardaki Office dosyalarına nasıl erişeceğini yönetin**ve Office uygulamaları boşta kaldıktan **sonra kullanıcıların oturum açmalarını zorunlu** kıldığından emin olun. **** Bu varsayılan olarak 30 dakikadır. 
   
 1. Kullanıcının iOS cihazında Outlook'u açıp kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın ve istenirse PIN girin.
     
 2. Şimdi Outlook gelen kutusunu görüyor olmanız gerekir. iOS cihazına en az 30 dakika (veya ilkede belirttiğinizden daha uzun bir süre) boyunca dokunmayın. Cihaz büyük olasılıkla kararır.
     
-3. iOS cihazından Outlook'a tekrar erişin.
+3. iOS aygıtında Outlook'a yeniden erişin.
     
-4. Outlook'a yeniden erişebilmeniz için PIN kodunuzu girmeniz istenir.
+4. Outlook'a yeniden erişemeden önce PIN'inizi girmeniz istenir.
     
 ### <a name="validate-protect-work-files-with-encryption"></a>Şifreli çalışma dosyalarını koruma doğrulaması
 
@@ -192,7 +192,7 @@ Uygulamaları korumak amacıyla [iOS cihazları için uygulama yapılandırmalar
   
 1. Kullanıcının iOS cihazında Outlook'u açıp kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın ve istenirse PIN girin.
     
-2. Birkaç resim dosyası eki içeren bir e-postayı açın.
+2. Birkaç resim dosyası ekleri içeren bir e-posta açın.
     
 3. Eke dokunun ve sonrasında altındaki **Kaydet** seçeneğine dokunun. 
     
