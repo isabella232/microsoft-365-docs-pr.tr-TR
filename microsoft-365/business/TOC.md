@@ -35,7 +35,7 @@
 ## Microsoft 365 İş'e geçiş
 ### [Office 365 Business Premium'dan geçiş](migrate-to-microsoft-365-business.md)
 ### [Office 365 E3'ten geçir](migrate-from-e3.md)
-### [Geçiş ro Microsoft 365 Enterprise](migrate-from-microsoft-365-business-to-microsoft-365-enterprise.md)
+### [Microsoft 365 Enterprise'a geçiş](migrate-from-microsoft-365-business-to-microsoft-365-enterprise.md)
 ## Faturalama
 ### [Faturanız](/Office365/Admin/subscriptions-and-billing/view-your-bill-or-invoice?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [Ödeme](/Office365/Admin/subscriptions-and-billing/pay-for-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
