@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Microsoft 365 Business ile birlikte gelen güvenlik özellikleri hakkında bilgi edinin.
-ms.openlocfilehash: f24836ef93c529eddc05c767d6e4fa8af6aef314
-ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
+ms.openlocfilehash: 98eb0c2015ed6088b2d5e8621c8e72a5b63f2a17
+ms.sourcegitcommit: 58a7bd70a4bcf52530baf5f82507fd5dc4455fd9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715152"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39668858"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Microsoft 365 İş güvenliği ve uyumluluk özellikleri
 
@@ -74,7 +74,8 @@ Microsoft 365 Business'taki gelişmiş özellikler, işletmenizi siber tehditler
     Azure portalındaki Intune yönetici merkezine erişmek, MacOS aygıtlarının yönetimi, iPhone ve Android aygıtlarının yanı sıra Microsoft tarafından kullanılamayan Windows için gelişmiş aygıt yönetimi gibi ek güvenlik özellikleri ayarlamanıza olanak tanır 365 İş yönetici merkezi.
 - **Azure AD P1 planıyla Aynı [Koşullu Erişim](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)**
 
-    Koşullu Erişim, kuruluşunuzun oturum açma riskine karşı korunmasına, beklenmeyen bir ağdan veya yerel alandan erişim girişimlerine, riskli aygıt türlerinden erişim girişimlerine ve benzeri nedenlerden korunmaya yardımcı olabilir. Koşullu Erişim ilkeleri ilk kimlik doğrulama tamamlandıktan sonra uygulanır ve girişimdeki erişimin onaylanması, reddedilmesi veya daha fazla kanıt olup olmadığını belirlemek için ilk kimlik doğrulama olayından gelen sinyalleri kullanır (örneğin, tanımlaması) gereklidir.
+
+    Koşullu Erişim, kuruluşunuzun oturum açma riskine karşı korunmasına, beklenmeyen bir ağdan veya yerel alandan erişim girişimlerine, riskli aygıt türlerinden erişim girişimlerine ve benzeri nedenlerden korunmaya yardımcı olabilir. Koşullu Erişim ilkeleri ilk kimlik doğrulama tamamlandıktan sonra uygulanır ve girişimdeki erişimin onaylanması, reddedilmesi veya daha fazla kanıt olup olmadığını (ikinci bir kimlik biçimi gibi) belirlemek için ilk kimlik doğrulama olayından gelen sinyalleri kullanır gereklidir.
 
     Koşullu erişim özellikleri şunlardır:
 

@@ -18,12 +18,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Windows 10 aygıtına katılan bir Azure Active Directory'den iş uygulamaları, dosya paylaşımları ve yazıcılar gibi şirket içi kaynaklara nasıl erişebilirsiniz öğrenin.
-ms.openlocfilehash: fdc1eca6913ba6af4f6b65691fdee2165e7c827e
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+ms.openlocfilehash: 4a2ff28107c6e2ec4473859c75bf720df7662747
+ms.sourcegitcommit: 58a7bd70a4bcf52530baf5f82507fd5dc4455fd9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38323405"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39668799"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Microsoft 365 Business'ta Azure AD ile birleştirilmiş bir cihazdan şirket içi kaynaklara erişin
 
@@ -32,6 +32,9 @@ Azure Active Directory'nin birleştiği tüm Windows 10 aygıtları, Office 365 
 Daha fazla bilgi için Azure [Active Directory'de aygıt yönetimine giriş](https://docs.microsoft.com/azure/active-directory/device-management-introduction)'e bakın.
 Adımlar da aşağıdaki bölümlerde özetlenmiştir.
 
+> [!IMPORTANT]
+> Bu yordam yalnızca OAuth ve NTLM için geçerlidir. Kerberos desteklenmiyor.
+ 
 ## <a name="run-azure-ad-connect"></a>Azure AD Connect çalıştırın
 
 Kuruluşunuzun Azure AD'sinin birleştirilmiş aygıtlarının şirket içi kaynaklara erişmesini sağlamak için aşağıdaki adımları tamamlayın.
@@ -43,6 +46,8 @@ Kuruluşunuzun Azure AD'sinin birleştirilmiş aygıtlarının şirket içi kayn
 3. Windows 10 aygıtları Azure AD'ye katıldıktan sonra, her kullanıcının aygıtlarını yeniden başlatması ve Microsoft 365 İş kimlik bilgileriyle oturum açması gerekir. Artık tüm aygıtlar şirket içi kaynaklara da erişebilir.
     
 Azure AD'ye katılan aygıtlar için şirket içi kaynaklara erişmek için ek adım gerekmez. Bu işlev Windows 10'da yerleşiktir. 
+
+WhFB kimlik bilgisi girişi ile PIN/Bio-metric gibi şifre yöntemi dışında AADJ cihazına giriş yapmayı planlıyorsanız ve şirket içi kaynaklara (paylaşımlar, yazıcılar) erişin. vb), lütfen izleyinhttps://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
   
 Kuruluşunuz yukarıda açıklanan Azure AD birleştirilmiş aygıt yapılandırmasında kullanıma hazır değilse, [Karma Azure AD Joined aygıt yapılandırmasını](manage-windows-devices.md)ayarlamayı düşünün.
   
