@@ -15,30 +15,31 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- TRN_M365B
+- OKR_SMB_Videos
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: Office'i bir iPhone'a veya Android telefona yükleyin ve Office uygulamalarındaki iş dosyalarınız Microsoft 365 Business tarafından korunacaktır.
-ms.openlocfilehash: e09db43705d601df0c0b30a46ee36cf0295ecae3
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: d87ea714f578130d05be57d1f66270b306f37c7c
+ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38718949"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "39831393"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-business-users"></a>Microsoft 365 İş kullanıcıları için mobil cihazları ayarlama
 
 iPhone'a veya Android telefona Office'i yüklemek için sekmelerdeki yönergeleri izleyin. Bu adımları izledikten sonra, Office uygulamalarında oluşturulan çalışma dosyalarınız Microsoft 365 Business tarafından korunur.
 
-  
 Bu örnek Outlook üzerinden hazırlanmıştır, ancak bahsedilen işlemler yüklemek istediğiniz diğer tüm Office uygulamaları için geçerlidir.
   
 ## <a name="set-up-mobile-devices"></a>Mobil cihazları ayarlama
 
 ## <a name="iphonetabiphone"></a>[Iphone](#tab/iPhone)
   
-Microsoft 365 Business ile iOS aygıtlarında Office uygulamalarını nasıl ayarlayabilirsiniz hakkında bir video izleyin:
+Microsoft 365 Business ile iOS aygıtlarında Office uygulamalarını nasıl ayarlayabilirsiniz hakkında bir video izleyin.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/e0ee7052-e0f4-4c42-a4f1-5e91b9776ce9?autoplay=false] 
 
@@ -68,6 +69,12 @@ iPhone'da Outlook'u bulun ve yeniden başlatın. İstendiğinde, bir PIN girin v
   
 ## <a name="androidtabandroid"></a>[Android](#tab/Android)
   
+Outlook ve Office'i Android cihazlara yükleme hakkında bir video izleyin.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/ecc2e9c0-bc7e-4f26-8b14-91d84dbcfef0] 
+
+Bu videoyu yararlı bulduysanız, [küçük işletmeler ve Microsoft 365'e yeni katılanlar için tam eğitim serisine](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)göz atın.
+
 Android telefonunuzda kuruluma başlamak için Play Store'a gidin.
   
 ![On the Android home screen, tap Play Store](media/93df88e7-c778-40e1-b35e-868ca6e97f6c.png)
@@ -91,7 +98,9 @@ Play Store'da Intune Company Portal'ı yükleyin.
 Outlook'u yeniden açın, PIN'i girin ve onaylayın. Outlook uygulamanız artık kullanıma hazırdır.
   
 ![Set  PIN for Outlook app in Android](media/edb91afb-f1ed-451a-bc6b-8ccba664e055.png)
-  
+
+## <a name="see-also"></a>See also
+
+[Microsoft 365 İş eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+
 ---
-
-
