@@ -10,6 +10,7 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
+- TRN_SMB
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -21,18 +22,22 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Microsoft 365 Business'ı ayarlamayı öğrenin.
-ms.openlocfilehash: f269e970cc1ee5ba7455ea799b238db577116f09
-ms.sourcegitcommit: 38934a2115d5cdeb44c7484d57be07686c6f7720
+ms.openlocfilehash: 2e6e1e6153fe4033aa7dd47280c737957d0e4bd5
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704125"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39813068"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>Microsoft 365 İş ile çalışmaya başlama
 
 ## <a name="what-is-microsoft-365-business"></a>Microsoft 365 İş nedir?
 
 Microsoft 365 Business, Outlook, Word, Excel ve diğer Office ürünleri gibi her zaman güncel olan kapsamlı bir iş üretkenliği ve işbirliği araçları kümesidir. İş dosyalarınızı tüm iOS, Android ve Windows 10 aygıtlarınızda, yönetilmesi kolay kurumsal sınıf güvenlikle koruyabilirsiniz.
+
+Microsoft 365 Business'a hızlı bir genel bakış için bu videoyu izleyin.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
 Microsoft 365 Business, 300'e kadar lisans içindir. Daha fazla lisansa ihtiyacınız varsa, daha fazla bilgi için [Microsoft 365 Kurumsal](https://go.microsoft.com/fwlink/p/?linkid=860986) belgelerine bakın. 
   
@@ -49,6 +54,13 @@ Microsoft 365 Business, 300'e kadar lisans içindir. Daha fazla lisansa ihtiyac�
 Aşağıdaki diyagramda, yöneticilerin Microsoft 365 Business'ı nasıl kurdukları açıklanmaktadır. Ayrıca Windows bilgisayarları Microsoft 365 İş için hazırlama adımları da açıklanır. Ayrıca [Windows AutoPilot](add-autopilot-devices-and-profile.md)ile Microsoft 365 İş admin merkezine yeni cihazlar ekleyebilirsiniz. Yeni aygıtları, kullanıcı Microsoft 365 Business kimlik bilgilerini girer almaz verimli kullanıma hazır olacak şekilde ayarlamak ve önceden yapılandırmak için Otomatik Pilot'u kullanabilirsiniz.
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
+
+Microsoft 365 İş kurulumuna genel bir bakış için bu videoyu izleyin.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
+
+Bu videoyu yararlı bulduysanız, [küçük işletmeler ve Microsoft 365'e yeni katılanlar için tam eğitim serisine](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)göz atın.
+
   
 ### <a name="1-set-up-microsoft-365-business-admin"></a>1: Microsoft 365 Business (Yönetici) ayarlama
 
@@ -89,9 +101,10 @@ Bazı şirket içi kaynakları (dosya paylaşımları ve yazıcılar gibi) içer
     
 - Microsoft 365 Business yöneticisi olarak, müşteri destek ekibimize erişebilirsiniz: ** [İş ürünleri için destekle iletişim e-cevap - Yönetici Yardımı](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)**
     
-## <a name="related-topics"></a>İlgili konular
+## <a name="see-also"></a>See also
+
 [Microsoft 365 İş belgeleri ve kaynakları](https://go.microsoft.com/fwlink/p/?linkid=853701)
   
 [Microsoft 365 İş yönetimi](manage.md)[Microsoft 365 İş'e geçiş](migrate-to-microsoft-365-business.md)
-  
 
+[Microsoft 365 İş eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) 

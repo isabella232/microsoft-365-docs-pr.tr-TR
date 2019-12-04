@@ -11,6 +11,7 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
+- TRN_SMB
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -22,19 +23,25 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Microsoft 365 Business hakkında daha fazla bilgi edinin.
-ms.openlocfilehash: abd1e8374ef7530a879de71ab7ad0125f1ca4616
-ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
+ms.openlocfilehash: 419754b5ea06baabac8c170a860e076dc7fa8f81
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/16/2019
-ms.locfileid: "38676097"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39812868"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Microsoft 365 Business'a Genel Bakış
 
 ## <a name="what-is-microsoft-365-business"></a>Microsoft 365 İş nedir?
 
 Microsoft 365 Business, Office 365 üretkenlik araçlarının yanı sıra işletmenizi siber tehditlere karşı korumaya, verilerinizi korumaya ve cihazları yönetmeye yardımcı olacak gelişmiş yetenekleri içeren bir abonelik hizmetidir.
+
+Microsoft 365 Business'a hızlı bir genel bakış için bu videoyu izleyin.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
+Bu videoyu yararlı bulduysanız, [küçük işletmeler ve Microsoft 365'e yeni katılanlar için tam eğitim serisine](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)göz atın. 
+
 Microsoft 365 Business, 300'e kadar lisans içindir. Daha fazla lisansa ihtiyacınız varsa, daha fazla bilgi için [Microsoft 365 Kurumsal](https://go.microsoft.com/fwlink/p/?linkid=860986) belgelerine bakın.
 
 Tüm özellikler listesi için [Microsoft 365 İş hizmeti açıklamasına](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) bakın.
@@ -102,3 +109,7 @@ Güvenlik özelliklerinin tam listesini görmek için [Microsoft 365 İş güven
 
     > [!NOTE]
     > Bu bağlantı sadece ABD'deki mağazalar içindir
+
+## <a name="see-also"></a>See also
+
+[Microsoft 365 İş eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

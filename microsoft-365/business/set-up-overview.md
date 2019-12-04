@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Microsoft 365 Business için kurulum adımlarını gözden geçirin.
-ms.openlocfilehash: 3447f06d031462a7bebc6f129238de9f0c5dee41
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: 425c465262c266ca764ae8c7a52130903fa635a5
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38721569"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39812788"
 ---
 # <a name="overview-of-setup"></a>Kuruluma genel bakış
 
@@ -44,16 +44,15 @@ Kurulum adımlarının çoğu kurulum sihirbazında yapılabilir, ancak diğer s
         - Daha sonra yönetici merkezine [de kullanıcı ekleyebilirsiniz.](add-users-m365b.md)
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>Adım 2: Güvenlik ilkeleri ayarlama ve aygıtları yapılandırma 
 
-  - Aygıt ve güvenlik ilkelerini yapılandırmak için [Kurulum sihirbazını](set-up.md#protect-data-and-devices) kullanın. 
+  - Aygıt ilkelerini yapılandırmak için [Kurulum sihirbazını](set-up.md#protect-your-organization) kullanın. 
   - Ayrıca daha fazla ekleyebilir veya daha sonra [yönetici merkezinde](view-policies-and-devices.md) ve [Intune portalında](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)bunları edebilirsiniz.
-  - Kurulum sihirbazındaki güvenlik ayarlarına ek olarak, aşağıdaki ayarları ekleyerek güvenliğinizi artırabilirsiniz:
+  - Kurulum sihirbazı ayrıca temel tehdit koruması ve veri kaybıönleme ayarlarını da ayarlar.
+  
+  Kurulum sihirbazındaki güvenlik ayarlarına ek olarak, aşağıdaki ayarları ekleyerek güvenliğinizi artırabilirsiniz:
 
       - **Kötü amaçlı yazılımkoruması e-postayla gönder**
-      - **Gelişmiş Tehdit Koruması (ATP) Güvenli bağlantılar**
-      - **ATP Güvenli Ekler**
       - **ATP kimlik avı önleme**
       - **Exchange Online Arşivleme**
-      - **Veri Kaybı Önleme (DLP)**
       - **Azure Bilgi Koruması (Plan1**)
 
           Görmeye başlamak için [gelişmiş güvenlik ilkeleri ayarlayın.](set-up-advanced-security.md)
@@ -62,10 +61,12 @@ Kurulum adımlarının çoğu kurulum sihirbazında yapılabilir, ancak diğer s
 
 ## <a name="step-3-set-up-and-manage-windows-10-devices"></a>Adım 3: Windows 10 aygıtlarını ayarlama ve yönetme
 
-   Bir Windows 10 aygıtına Azure AD'ye katıldığınızda, [Adım 2'de](#step-2-set-up-security-policies-and-configure-devices) ayarladığınız ilkeler uygulanır.
+Kurulum sihirbazını çalıştırdıktan sonra, kuruluşunuzdaki tüm Windwos 10 bilgisayarlarını çalıştırmak isteyeceksiniz.
+  
+- Windows 10 Pro, Microsoft 365 Business için bir [ön koşuldur,](pre-requisites-for-data-protection.md) ancak Windows 7 Pro, Windows 8 Pro veya Windows 8.1 Pro'nuz varsa, aboneliğiniz size [Windows 10 Pro'ya yükseltme](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update)hakkı verir.
+- Windows 10 aygıtları için ilkeler ayarlamak için [güvenli Windows 10 bilgisayarlarındaki](secure-win-10-pcs.md) adımları izleyin.
 
-   - Windows 10 Pro, Microsoft 365 Business için bir [ön koşuldur,](pre-requisites-for-data-protection.md) ancak Windows 7 Pro, Windows 8 Pro veya Windows 8.1 Pro'nuz varsa, aboneliğiniz size [Windows 10 Pro'ya yükseltme](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update)hakkı verir.
-    - Windows 10 aygıtları için ilkeleri yapılandırmak için [Kurulum sihirbazını](set-up.md#protect-data-and-devices) kullanın.
+Bir Windows 10 aygıtına Azure AD'ye katıldığınızda, Windows 10 bilgisayarlar için belirlediğiniz ilkeler uygulanır. Daha fazla bilgi için [bkz.](set-up-windows-devices.md)
 
 ## <a name="step-4-install-office-365-business"></a>Adım 4: Office 365 İşi Yükleyin
 - [Kurulum sihirbazını](set-up.md#deploy-office-365-client-apps)kullanarak Office'i Windows aygıtlarına otomatik olarak yükleyebilirsiniz.
@@ -82,4 +83,6 @@ Kurulum adımlarının çoğu kurulum sihirbazında yapılabilir, ancak diğer s
 
     - İşletmenizde bazı şirket içi kaynaklar (dosya paylaşımları ve yazıcılar gibi) içeren yerel bir Etkin Dizin varsa, Azure AD'ye katılan aygıtlarınıza buradaki adımları izleyerek bu kaynaklara erişim sağlayabilirsiniz: [Microsoft 365 Business'taki Azure AD'ye bağlı bir aygıttan şirket içi kaynaklara erişin.](access-resources.md)
 
-  
+## <a name="see-also"></a>See also
+
+[Microsoft 365 İş eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

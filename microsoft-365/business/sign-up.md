@@ -10,6 +10,7 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
+- TRN_SMB
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -19,12 +20,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Microsoft 365 Business'ı nasıl satın alıp kaydolamayı öğrenin.
-ms.openlocfilehash: 16953f7c752c3105af795e721332e2e6d6bdebe5
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: 3470d07f98a1c5806a27d8f21f152a818e4a0371
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38718729"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39812808"
 ---
 # <a name="sign-up-for-microsoft-365-business"></a>Microsoft 365 Business için kaydolun
 
@@ -42,6 +43,12 @@ Microsoft 365 Business'ı almanın üç yolu vardır:
 - Bir iş için satın almıyorsanız [bir ev veya aile planı için kaydolun.](https://go.microsoft.com/fwlink/?linkid=2109398) 
 
 ## <a name="sign-up-steps"></a>Kaydolun adımlar
+
+Kayıt işlemine hızlı bir genel bakış için bu videoyu izleyin.
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3znhX] 
+
+Bu videoyu yararlı bulduysanız, [küçük işletmeler ve Microsoft 365'e yeni katılanlar için tam eğitim serisine](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)göz atın.
 
 İşletmeniz için Microsoft 365'e kaydolmak ve satın almak için aşağıdaki adımları tamamlayın:
 
@@ -82,3 +89,6 @@ Microsoft 365 Business'ı almanın üç yolu vardır:
 
 Kurulumla ilgili yardım almak için [kuruluma](set-up.md)bakın.
 
+## <a name="see-also"></a>See also
+
+[Microsoft 365 İş eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
