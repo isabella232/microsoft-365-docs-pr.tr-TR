@@ -18,12 +18,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Windows 10 aygıtına katılan bir Azure Active Directory'den iş uygulamaları, dosya paylaşımları ve yazıcılar gibi şirket içi kaynaklara nasıl erişebilirsiniz öğrenin.
-ms.openlocfilehash: 4a2ff28107c6e2ec4473859c75bf720df7662747
-ms.sourcegitcommit: 58a7bd70a4bcf52530baf5f82507fd5dc4455fd9
+ms.openlocfilehash: 89ac38f3da9cbdd3ff1a5eb33dc129d2e83521c7
+ms.sourcegitcommit: 8c244b38c43dd00c4ef0102f8bed02ab36639a6b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39668799"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39967173"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Microsoft 365 Business'ta Azure AD ile birleştirilmiş bir cihazdan şirket içi kaynaklara erişin
 
@@ -47,7 +47,7 @@ Kuruluşunuzun Azure AD'sinin birleştirilmiş aygıtlarının şirket içi kayn
     
 Azure AD'ye katılan aygıtlar için şirket içi kaynaklara erişmek için ek adım gerekmez. Bu işlev Windows 10'da yerleşiktir. 
 
-WhFB kimlik bilgisi girişi ile PIN/Bio-metric gibi şifre yöntemi dışında AADJ cihazına giriş yapmayı planlıyorsanız ve şirket içi kaynaklara (paylaşımlar, yazıcılar) erişin. vb), lütfen izleyinhttps://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
+WhFB kimlik bilgisi girişi ile PIN/Bio-metric gibi şifre yöntemi dışında AADJ cihazına giriş yapmayı planlıyorsanız ve şirket içi kaynaklara (paylaşımlar, yazıcılar) erişin. vb), lütfen izleyinhttps://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
   
 Kuruluşunuz yukarıda açıklanan Azure AD birleştirilmiş aygıt yapılandırmasında kullanıma hazır değilse, [Karma Azure AD Joined aygıt yapılandırmasını](manage-windows-devices.md)ayarlamayı düşünün.
   
