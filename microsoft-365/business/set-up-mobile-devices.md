@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: Office'i bir iPhone'a veya Android telefona yükleyin ve Office uygulamalarındaki iş dosyalarınız Microsoft 365 Business tarafından korunacaktır.
-ms.openlocfilehash: d87ea714f578130d05be57d1f66270b306f37c7c
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+ms.openlocfilehash: 6dc116f9c0822d33e8d742d065c8485a0cf82c37
+ms.sourcegitcommit: 178ecb21cacdeaf440f3df2fe6e539e9127fcf15
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831393"
+ms.lasthandoff: 12/23/2019
+ms.locfileid: "40850834"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-business-users"></a>Microsoft 365 İş kullanıcıları için mobil cihazları ayarlama
 
@@ -39,9 +39,11 @@ Bu örnek Outlook üzerinden hazırlanmıştır, ancak bahsedilen işlemler yük
 
 ## <a name="iphonetabiphone"></a>[Iphone](#tab/iPhone)
   
-Microsoft 365 Business ile iOS aygıtlarında Office uygulamalarını nasıl ayarlayabilirsiniz hakkında bir video izleyin.<br><br>
+Microsoft 365 Business ile iOS aygıtlarında Office uygulamalarını nasıl ayarlayabilirsiniz hakkında kısa bir video izleyin.<br><br>
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/e0ee7052-e0f4-4c42-a4f1-5e91b9776ce9?autoplay=false] 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RWee2n] 
+
+Bu videoyu yararlı bulduysanız, [küçük işletmeler ve Microsoft 365'e yeni katılanlar için tam eğitim serisine](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)göz atın.
 
 **App Store**'a gidin ve arama alanına Microsoft Outlook yazın.
   
