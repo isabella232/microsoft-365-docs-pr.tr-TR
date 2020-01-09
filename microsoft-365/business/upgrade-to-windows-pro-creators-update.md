@@ -1,5 +1,5 @@
 ---
-title: Windows cihazları Windows Pro Creators Update sürümüne yükseltme
+title: Windows cihazlarını Windows 10 Pro'ya yükseltme
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -21,25 +21,25 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
-description: "Windows aygıtlarını Windows 10 Pro Creators Update'e nasıl yükselteceklerini öğrenin. "
-ms.openlocfilehash: e8399ad94ef58ad8fa5386d4ab0ed7fa4b8627a0
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+description: "Windows aygıtlarını Windows 10 Pro'ya nasıl yükselteceklerini öğrenin. "
+ms.openlocfilehash: acad4a393e0870299df768fd4c821d9c1e83ecac
+ms.sourcegitcommit: cf7b0fd80ecfb7a216111a801269c5322794795e
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831203"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "40995280"
 ---
-# <a name="upgrade-windows-devices-to-windows-pro-creators-update"></a>Windows cihazları Windows Pro Creators Update sürümüne yükseltme
+# <a name="upgrade-windows-devices-to-windows-10-pro"></a>Windows cihazlarını Windows 10 Pro'ya yükseltme
 
 Windows aygıtlarını Windows 10 Pro'ya yükseltme hakkında kısa bir video izleyin.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
 
-Bu videoyu yararlı bulduysanız, [küçük işletmeler ve Microsoft 365'e yeni katılanlar için tam eğitim serisine](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)göz atın.
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  
 
-## <a name="upgrade-to-windows-10-pro-creators-update"></a>Windows 10 Pro Creators güncellemesine yükseltme
+## <a name="upgrade-to-windows-10-pro"></a>Windows 10 Pro'ya yükseltme
   
-Windows 10 Pro Creators Update'e yükseltmek için birkaç seçeneğiniz vardır. Şunları yapabilirsiniz:
+Windows 10 Pro'ya yükseltmek için birkaç seçeneğiniz vardır. Şunları yapabilirsiniz:
     
 - [Microsoft Yazılım İndirme sitesinden](https://go.microsoft.com/fwlink/?LinkID=836951 ) &ndash; yükseltmeyi yükleyin Oturum açtığınız aygıt güncelleştirmek istediğiniz aygıtla aynı aygıttaysa bu seçeneği belirleyin. 
 
@@ -50,12 +50,12 @@ Windows 10 Pro Creators Update'e yükseltmek için birkaç seçeneğiniz vardır
     - Aracı nasıl kullanacağınız ve yükleme ortamınızı oluşturma nızla ilgili talimatları okuyun. 
 
 > [!NOTE]
-> Windows 7 Pro, Windows 8 Pro veya Windows 8.1 Pro çalıştıran Windows aygıtlarınız varsa, Microsoft 365 Business aboneliğiniz size Windows 10 yükseltmesi hakkı verir; Ürün Anahtarına ihtiyacınız yok.
+> Windows 7 Pro, Windows 8 Pro veya Windows 8.1 Pro çalıştıran Windows aygıtlarınız varsa, Microsoft 365 Business aboneliğiniz size Windows Pro 10 yükseltmesi hakkı verir; Ürün Anahtarına ihtiyacınız yok.
     
 Bkz. Windows 10 aygıtlarını ayarlamayı tamamlamak [için Microsoft 365 Business kullanıcıları için Windows aygıtları](set-up-windows-devices.md) ayarlama. 
   
 Bkz. Android ve iOS aygıtlarını ayarlamayı tamamlamak [için Microsoft 365 Business kullanıcıları için mobil cihazlar ayarlama.](set-up-mobile-devices.md) 
   
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>Ayrıca bkz.
 
 [Microsoft 365 İş eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
