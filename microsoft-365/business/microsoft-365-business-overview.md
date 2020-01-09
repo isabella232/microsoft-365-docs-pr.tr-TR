@@ -25,12 +25,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Microsoft 365 Business hakkında daha fazla bilgi edinin.
-ms.openlocfilehash: 1d4eb62a31cc44ab8dc75964c038f0a3deef4005
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+ms.openlocfilehash: eafd03be90c128051c8c91bc339af69a0a613136
+ms.sourcegitcommit: d48b7852383262083a6a109530d84f0858cb3801
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831443"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "40999564"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Microsoft 365 Business'a Genel Bakış
 
@@ -42,7 +42,7 @@ Microsoft 365 Business'a hızlı bir genel bakış için bu videoyu izleyin.<br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Bu videoyu yararlı bulduysanız, [küçük işletmeler ve Microsoft 365'e yeni katılanlar için tam eğitim serisine](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)göz atın. 
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).   
 
 Microsoft 365 Business, 300'e kadar lisans içindir. Daha fazla lisansa ihtiyacınız varsa, daha fazla bilgi için [Microsoft 365 Kurumsal](https://go.microsoft.com/fwlink/p/?linkid=860986) belgelerine bakın.
 
@@ -99,7 +99,7 @@ Cihazlarınız aşağıdaki ler tarafından **güvenli hale alınmıştır:**
 
 - Şirketinizdeki tüm Windows 10 bilgisayarlarının ilkelerini yönetmek için basitleştirilmiş denetimleri kullanarak BitLocker şifrelemesini uygulayın ve kritik Windows güncelleştirmelerini otomatik olarak yükleyin (Windows güncelleştirme ilkelerini uygulayın).
 
-Güvenlik özelliklerinin tam listesini görmek için [Microsoft 365 İş güvenlik özelliklerine](security-features.md)bakın. Microsoft [365 Business'ı ayarladıktan](set-up.md)sonra [bkz.](set-up-advanced-security.md) Ayrıca, siber suçlulara ve bilgisayar korsanlarına karşı korumalar nasıl ayarlanıncaya ilişkin iyi bir genel bakış için [Office 365 ve Microsoft 365 İş planlarını güvence altına almanın en iyi 10 yolunu](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) da okuyun.
+Güvenlik özelliklerinin tam listesini görmek için [Microsoft 365 İş güvenlik özelliklerine](security-features.md)bakın. Microsoft [365 Business'ı ayarladıktan](set-up.md)sonra, [tehdit korumayı artırın](increase-threat-protection.md) ve kılavuzlu kurulumun bir parçası olarak dahil olmayan güvenlik özellikleriyle başlamak için [uyumluluk özelliklerini ayarlayın.](set-up-compliance.md) Ayrıca, siber suçlulara ve bilgisayar korsanlarına karşı korumalar nasıl ayarlanıncaya ilişkin iyi bir genel bakış için [Office 365 ve Microsoft 365 İş planlarını güvence altına almanın en iyi 10 yolunu](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) da okuyun.
 
 ## <a name="get-microsoft-365-business"></a>Microsoft 365 İş'i edinme
 
@@ -112,6 +112,6 @@ Güvenlik özelliklerinin tam listesini görmek için [Microsoft 365 İş güven
     > [!NOTE]
     > Bu bağlantı sadece ABD'deki mağazalar içindir
 
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>Ayrıca bkz.
 
 [Microsoft 365 İş eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
