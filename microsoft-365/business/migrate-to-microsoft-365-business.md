@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: İşletmenizi Office 365 Business Premium'dan Microsoft 365 Business'a yükselten adımlar.
-ms.openlocfilehash: 95c4504d7e6e33bdededee0cfca7add0cb5f7204
-ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
+ms.openlocfilehash: 61da9148ccb87654aa2391ff90c4f086a4cbbe24
+ms.sourcegitcommit: 3c296126ba69a32af07e339f2f1eacdd8e5b878e
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38640571"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41120151"
 ---
 # <a name="upgrade-to-microsoft-365-business-from-office-365-business-premium"></a>Office 365 Business Premium'dan Microsoft 365 Business'a yükseltme
 
@@ -68,7 +68,7 @@ Microsoft'un yeni hizmet planlarınızı ayarlaması birkaç dakika sürer. İle
 1. Planınız hazır olduğunda, yönetici merkezinde bazı ek kurulum adımlarını tamamlamanız gerekebilir. Gezinti bölmesinde, ek kurulum adımlarını tamamlamak için **Ana Sayfa'yı** seçin.
 
 > [!NOTE]
-> Artık ihtiyacınız olmayan Ofifce 365 lisansları için eşit olarak geri ödeme alırsınız. Yeni planı ayarladıktan yaklaşık iki gün sonra banka hesabınız veya kredi kartınızdan ücret tahsil edilecektir.
+> Artık ihtiyacınız olmayan Office 365 lisansları için eşit olarak geri ödeme alırsınız. Yeni planı ayarladıktan yaklaşık iki gün sonra banka hesabınız veya kredi kartınızdan ücret tahsil edilecektir.
   
 ## <a name="protect-user-devices-and-files"></a>Kullanıcı cihazlarını ve dosyalarını koruma
 
