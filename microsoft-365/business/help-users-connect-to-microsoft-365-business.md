@@ -1,5 +1,7 @@
 ---
 title: Kullanıcıların Microsoft 365 Business'a bağlanmalarına yardımcı olma
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
@@ -24,12 +26,12 @@ search.appverid:
 - MOE150
 ms.assetid: f338e660-6483-4eef-acb9-53dee5bd4408
 description: Business Cloud Suite kurulumu tamamlandıktan sonra ne beklemen gerektiğini öğrenin.
-ms.openlocfilehash: d19438d6e085ba27ec3fb0308005a9bf473383e1
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+ms.openlocfilehash: 41055b02f0ca62aad27c2fd1838abac5f58832f4
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320198"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593941"
 ---
 # <a name="help-users-connect-to-microsoft-365-business"></a>Kullanıcıların Microsoft 365 Business'a bağlanmalarına yardımcı olma
 

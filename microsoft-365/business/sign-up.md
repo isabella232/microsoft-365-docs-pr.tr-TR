@@ -1,5 +1,7 @@
 ---
 title: Microsoft 365 Business için kaydolun
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -22,12 +24,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Microsoft 365 Business'ı nasıl satın alıp kaydolamayı öğrenin.
-ms.openlocfilehash: d755931b6383a15376d3a875a9cf1ed93e9f4a63
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+ms.openlocfilehash: 63bff3d34df017d1c7cc437ef050d53623e76aa9
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831253"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594258"
 ---
 # <a name="sign-up-for-microsoft-365-business"></a>Microsoft 365 Business için kaydolun
 
@@ -50,7 +52,7 @@ Kayıt işlemine hızlı bir genel bakış için bu videoyu izleyin.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3znhX] 
 
-Bu videoyu yararlı bulduysanız, [küçük işletmeler ve Microsoft 365'e yeni katılanlar için tam eğitim serisine](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)göz atın.
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  
 
 İşletmeniz için Microsoft 365'e kaydolmak ve satın almak için aşağıdaki adımları tamamlayın:
 
@@ -91,6 +93,6 @@ Bu videoyu yararlı bulduysanız, [küçük işletmeler ve Microsoft 365'e yeni 
 
 Kurulumla ilgili yardım almak için [kuruluma](set-up.md)bakın.
 
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>Ayrıca bkz.
 
 [Microsoft 365 İş eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

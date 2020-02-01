@@ -1,5 +1,7 @@
 ---
 title: Microsoft 365 İş ile çalışmaya başlama
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -24,12 +26,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Microsoft 365 Business'ı ayarlamayı öğrenin.
-ms.openlocfilehash: 32bb30208083c4f62dd449290a7c9f5d8c725631
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+ms.openlocfilehash: a353e39b824bae702fa015b0c7d3dd7e6416454c
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831423"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593731"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>Microsoft 365 İş ile çalışmaya başlama
 
@@ -61,7 +63,7 @@ Microsoft 365 İş kurulumuna genel bir bakış için bu videoyu izleyin.<br><br
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
-Bu videoyu yararlı bulduysanız, [küçük işletmeler ve Microsoft 365'e yeni katılanlar için tam eğitim serisine](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)göz atın.
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  
 
   
 ### <a name="1-set-up-microsoft-365-business-admin"></a>1: Microsoft 365 Business (Yönetici) ayarlama
@@ -103,7 +105,7 @@ Bazı şirket içi kaynakları (dosya paylaşımları ve yazıcılar gibi) içer
     
 - Microsoft 365 Business yöneticisi olarak, müşteri destek ekibimize erişebilirsiniz: ** [İş ürünleri için destekle iletişim e-cevap - Yönetici Yardımı](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)**
     
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>Ayrıca bkz.
 
 [Microsoft 365 İş belgeleri ve kaynakları](https://go.microsoft.com/fwlink/p/?linkid=853701)
   

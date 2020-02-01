@@ -1,5 +1,7 @@
 ---
 title: Microsoft 365 Business için tehdit korumayı artırın
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -18,12 +20,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Veri kaybını önlemek ve hassas verileri etiketlemek için uyumluluk özelliklerini ayarlayın.
-ms.openlocfilehash: 6fae95e8c5e6d133e3163dbdfd3c09cfede11382
-ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
+ms.openlocfilehash: 09619de03aafde37106fb3942890b457c488ad43
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715132"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593415"
 ---
 # <a name="set-up-compliance-features"></a>Uyumluluk özelliklerini ayarlama
 

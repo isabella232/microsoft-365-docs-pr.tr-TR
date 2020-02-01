@@ -1,5 +1,7 @@
 ---
 title: AutoPilot cihazı sorunlarını giderme
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -24,12 +26,12 @@ search.appverid:
 - MOE150
 ms.assetid: 1f468690-530c-47ea-918f-fede24607c53
 description: Otomatik Pilot aygıt dosyası hatalarını nasıl gidereceklerini öğrenin.
-ms.openlocfilehash: 1b5358bd6686c2548e82ec5297ac0ad675835718
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: 8390f695a3e11386ae2617da4061bed1d8214375
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38718709"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594218"
 ---
 # <a name="troubleshoot-autopilot-device-errors"></a>AutoPilot cihazı sorunlarını giderme
 

@@ -1,5 +1,7 @@
 ---
 title: Windows 10 cihazlarını yapılandırma
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
@@ -24,12 +26,12 @@ search.appverid:
 - MOE150
 ms.assetid: da60e08e-2547-491a-9c97-94ac6d715623
 description: Windows 10 için kuruluşunuzdaki tüm kullanıcılar için geçerli olan aygıt ilkeleri hakkında bilgi edinin.
-ms.openlocfilehash: ad092d2b2760a55e16c44a66350626c90c9ac7c5
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+ms.openlocfilehash: ef4d4cc64438c6cf3f1a2fec6e22ac679b4ffe10
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38321374"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593364"
 ---
 # <a name="configure-windows-10-devices"></a>Windows 10 cihazlarını yapılandırma
 

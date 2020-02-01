@@ -2,6 +2,8 @@
 title: Microsoft 365 Business sık sorulan sorular 
 description: Küçük ve orta ölçekli işletmeler (SMB) için tasarlanmış yeni bir çözüm olan Microsoft 365 Business hakkında en sık sorulan soruların yanıtlarını bulun. 
 author: Sirkkuw
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 ms.topic: article 
 ms.prod: microsoft-365-business
@@ -10,12 +12,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, SSS, sık sorulan sorular, yanıtlar, iş
 ms.date: 06/08/2018
-ms.openlocfilehash: 09a155c87bf90309f8a4cdd2eb5c0b71d2337d58
-ms.sourcegitcommit: b535fe233234fd25146cfe15478e20d954f71e03
+ms.openlocfilehash: 706646eae722b0040db2a5bd7bcf187f5e1295bf
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38748381"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594238"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 Business sık sorulan sorular
 

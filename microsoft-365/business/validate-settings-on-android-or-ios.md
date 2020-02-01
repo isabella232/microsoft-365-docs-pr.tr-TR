@@ -1,5 +1,7 @@
 ---
 title: Android veya iOS cihazlarda uygulama koruma ayarlarını doğrulama
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -20,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: f3433b6b-02f7-447f-9d62-306bf03638b0
 description: Learn how to validate the Microsoft 365 Business app protection settings in your Android or iOS devices.
-ms.openlocfilehash: 3879084b42e8c00cc4abcd86c1a3d6761c0697a6
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: 47ce137f785c595992886c756ad85b80957272fe
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38718909"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594985"
 ---
 # <a name="validate-app-protection-settings-on-android-or-ios-devices"></a>Android veya iOS cihazlarda uygulama koruma ayarlarını doğrulama
 
@@ -63,7 +65,7 @@ Uygulamaları korumak amacıyla [Android cihazları için uygulama yapılandırm
   
 1. Kullanıcının Android cihazında Outlook'u açın ve kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın.
     
-2. İlke tarafından belirtilen sayıda yanlış PIN girin. PIN'i sıfırlamak için **PIN Girişimi Sınırı'na Ulaşılan** durumları belirten bir istem görürsünüz. 
+2. İlke tarafından belirtilen sayıda yanlış PIN girin. PIN'i sıfırlamak için **PIN Girişimi Sınırı'na Ulaşılan** bir istem görürsünüz. 
     
     ![After too many incorrect PIN attempts, you need to reset your PIN.](media/fca6fcb4-bb5c-477f-af5e-5dc937e8b835.png)
   
@@ -152,7 +154,7 @@ Uygulamaları korumak amacıyla [iOS cihazları için uygulama yapılandırmalar
   
 1. Kullanıcının iOS cihazında Outlook'u açın ve kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın.
     
-2. İlke tarafından belirtilen sayıda yanlış PIN girin. PIN'i sıfırlamak için **PIN Girişimi Sınırı'na Ulaşılan** durumları belirten bir istem görürsünüz. 
+2. İlke tarafından belirtilen sayıda yanlış PIN girin. PIN'i sıfırlamak için **PIN Girişimi Sınırı'na Ulaşılan** bir istem görürsünüz. 
     
     ![After too many incorrect PIN attempts, you need to reset your PIN.](media/fab5c089-a4a5-4e8d-8c95-b8eed1dfa262.png)
   

@@ -1,5 +1,7 @@
 ---
 title: Dosyaları OneDrive İş'e taşıma
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -20,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
 description: Dosyalarınızı OneDrive'a taşımayı öğrenin.
-ms.openlocfilehash: 597192a352009abf93b507a82f800d56f20c84e8
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+ms.openlocfilehash: 0417325f93582ac5445cb739f9ca877a34f1d1c4
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831333"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593669"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>Dosyaları OneDrive İş'e taşıma
 
@@ -33,7 +35,7 @@ Dosyaları OneDrive for Business'a taşıma hakkında kısa bir video izleyin.<b
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/d74b083c-1f44-43ea-8a14-2e1fc600b341] 
 
-Bu videoyu yararlı bulduysanız, [küçük işletmeler ve Microsoft 365'e yeni katılanlar için tam eğitim serisine](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)göz atın.
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  
 
 
 ## <a name="move-files-to-onedrive-for-business"></a>Dosyaları OneDrive İş'e taşıma
@@ -48,6 +50,6 @@ Kullanıcının çok fazla kişisel dosya içeren bir bilgisayarı varsa, önce 
     
 Kullanıcı profilini ve önemli dosyaları aktarmak için ForensiT gibi üçüncü taraf araçlarından birini de kullanabilirsiniz. Sonuçta elde edilen dosyaları da OneDrive İş'e yüklemelisiniz.
   
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>Ayrıca bkz.
 
 [Microsoft 365 İş eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

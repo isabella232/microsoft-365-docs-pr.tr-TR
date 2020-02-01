@@ -1,5 +1,7 @@
 ---
 title: Microsoft 365 Business'a daha fazla kullanıcı ekleme
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -23,12 +25,12 @@ search.appverid:
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
 description: Microsoft 365 Business'ta yeni kullanıcılar eklemeyi, aygıtlarını nasıl güvene atamayı ve rolleri nasıl atayabilirsiniz öğrenin.
-ms.openlocfilehash: f0498134d9f258f831cdbab10b7ee9c77b5d133d
-ms.sourcegitcommit: 178ecb21cacdeaf440f3df2fe6e539e9127fcf15
+ms.openlocfilehash: 932b969d089dd223426e35c5bea4efde4409ad48
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/23/2019
-ms.locfileid: "40850934"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593303"
 ---
 # <a name="add-more-users-to-microsoft-365-business"></a>Microsoft 365 Business'a daha fazla kullanıcı ekleme
 
@@ -38,7 +40,7 @@ Kullanıcı ekleme yle ilgili kısa bir video izleyin. <br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FOfN] 
 
-Bu videoyu yararlı bulduysanız, [küçük işletmeler ve Microsoft 365'e yeni katılanlar için tam eğitim serisine](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)göz atın.
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  
 
 Kullanıcı eklemek için:
 

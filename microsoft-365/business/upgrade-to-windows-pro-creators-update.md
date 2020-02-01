@@ -1,5 +1,7 @@
 ---
 title: Windows cihazlarını Windows 10 Pro'ya yükseltme
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -22,12 +24,12 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: "Windows aygıtlarını Windows 10 Pro'ya nasıl yükselteceklerini öğrenin. "
-ms.openlocfilehash: 3457b35c5f9e313e176664ca088e64ce5dd4f881
-ms.sourcegitcommit: 1db269c0349a252eaf3f315ee72ff679fff829f1
+ms.openlocfilehash: 60ffb507e2a572d0ca52d7adf2db70ea6cb446f2
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/22/2020
-ms.locfileid: "41265868"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594198"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Windows cihazlarını Windows 10 Pro'ya yükseltme
 

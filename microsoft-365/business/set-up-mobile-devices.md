@@ -1,5 +1,7 @@
 ---
 title: Microsoft 365 İş kullanıcıları için mobil cihazları ayarlama
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -22,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: Office'i bir iPhone'a veya Android telefona yükleyin ve Office uygulamalarındaki iş dosyalarınız Microsoft 365 Business tarafından korunacaktır.
-ms.openlocfilehash: 6dc116f9c0822d33e8d742d065c8485a0cf82c37
-ms.sourcegitcommit: 178ecb21cacdeaf440f3df2fe6e539e9127fcf15
+ms.openlocfilehash: 097330c99fac2eb03eec0b9b1cba87b3e5b20350
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/23/2019
-ms.locfileid: "40850834"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594319"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-business-users"></a>Microsoft 365 İş kullanıcıları için mobil cihazları ayarlama
 
@@ -43,7 +45,7 @@ Microsoft 365 Business ile iOS aygıtlarında Office uygulamalarını nasıl aya
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWee2n] 
 
-Bu videoyu yararlı bulduysanız, [küçük işletmeler ve Microsoft 365'e yeni katılanlar için tam eğitim serisine](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)göz atın.
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  
 
 **App Store**'a gidin ve arama alanına Microsoft Outlook yazın.
   
@@ -75,7 +77,7 @@ Outlook ve Office'i Android cihazlara yükleme hakkında bir video izleyin.<br><
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/ecc2e9c0-bc7e-4f26-8b14-91d84dbcfef0] 
 
-Bu videoyu yararlı bulduysanız, [küçük işletmeler ve Microsoft 365'e yeni katılanlar için tam eğitim serisine](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)göz atın.
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  
 
 Android telefonunuzda kuruluma başlamak için Play Store'a gidin.
   
@@ -101,7 +103,7 @@ Outlook'u yeniden açın, PIN'i girin ve onaylayın. Outlook uygulamanız artık
   
 ![Set  PIN for Outlook app in Android](media/edb91afb-f1ed-451a-bc6b-8ccba664e055.png)
 
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>Ayrıca bkz.
 
 [Microsoft 365 İş eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
 

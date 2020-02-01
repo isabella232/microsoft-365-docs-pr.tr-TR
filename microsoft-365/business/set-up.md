@@ -1,5 +1,7 @@
 ---
 title: Microsoft 365 Business'ı ayarlama
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -26,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Microsoft 365 Business'ı nasıl ayarlayın öğrenin.
-ms.openlocfilehash: 0001c2b9962f6cce0be1f77cbf427c68f9ee3249
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+ms.openlocfilehash: c370a5b3fd735e704eea56ac1079bb2e5dad4c4b
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831313"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594279"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Kurulum sihirbazında Microsoft 365 Business'ı ayarlama
 
@@ -39,7 +41,7 @@ Microsoft 365 İş kurulumuna genel bir bakış için bu videoyu izleyin.<br><br
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
-Bu videoyu yararlı bulduysanız, [küçük işletmeler ve Microsoft 365'e yeni katılanlar için tam eğitim serisine](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)göz atın.
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>Etki alanınızı, kullanıcılarınızı ekleyin ve ilkeler ayarlayın
 
@@ -79,7 +81,7 @@ Sihirbaza kullanıcı ekleyebilirsiniz, ancak daha sonra yönetici merkezine [de
 
 #### <a name="add-users-in-the-wizard"></a>Sihirbaza kullanıcı ekleme
 
-Sihirbaza eklediğiniz tüm kullanıcılara otomatik olarak microsoft 365 Business lisansı atanabilir.
+Sihirbaza eklediğiniz tüm kullanıcılara otomatik olarak Microsoft 365 Business lisansı atanabilir.
 
 ![Sihirbazda yeni kullanıcı ekle sayfasının ekran görüntüsü](media/addnewuserspage.png)
 
@@ -131,6 +133,6 @@ Office'i mobil iOS veya Android cihazlara yüklemek [için](set-up-mobile-device
 
 Office'i tek tek yükleyebilirsiniz. Talimatlar için [Office'i pc'ye veya Mac'e yükleyin'](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658) e bakın.
 
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>Ayrıca bkz.
 
 [Microsoft 365 İş eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

@@ -1,5 +1,7 @@
 ---
 title: AutoPilot Profili ayarları hakkında
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -27,12 +29,12 @@ search.appverid:
 - MOE150
 ms.assetid: 99bfbf81-e719-4630-9b0f-c187edfa1f8a
 description: Otomatik Pilot profilleri, Windows'un kullanıcı aygıtlarına nasıl yükleniyi denetlemenize yardımcı olur. Profiller Cortana yüklemesini atla gibi varsayılan ve isteğe bağlı ayarlar içerir.
-ms.openlocfilehash: 912a24e3d458986a4bcf7dcf903f80211996aca2
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+ms.openlocfilehash: 1cc8a3171bbc4a1e5cb531b9364c7791586fc339
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38321795"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593343"
 ---
 # <a name="about-autopilot-profile-settings"></a>AutoPilot Profili ayarları hakkında
 
