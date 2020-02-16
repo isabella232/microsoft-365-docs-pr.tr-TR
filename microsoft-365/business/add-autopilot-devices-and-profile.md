@@ -23,12 +23,12 @@ search.appverid:
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: İşletmeniz için yeni Windows 10 aygıtları ayarlamak için Windows AutoPilot'u nasıl kullanacağınızı öğrenin.
-ms.openlocfilehash: 1fd0abb76d16b79dd11ef27b6b27a87894d89ef9
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: e5774b1e2079a5249e0f6e9e7142de19268253b5
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593283"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42068567"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>AutoPilot cihaz ve profilleri eklemek için adım adım kılavuzu kullanın.
 
@@ -44,7 +44,7 @@ Aygıtlar bu gereksinimleri karşılamalıdır:
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>Cihaz ve profil oluşturmak için kurulum kılavuzunu kullanma
 
-[![Yönetim merkezinin değiştiğini size bildirmeye yarayan etiket ve daha fazla ayrıntıyı aka.ms/aboutM365preview sayfasında bulabilirsiniz.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Yönetim merkezinin değiştiğini size bildirmeye yarayan etiket ve daha fazla ayrıntıyı aka.ms/aboutM365preview sayfasında bulabilirsiniz.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 Henüz aygıt grupları veya profiller oluşturmadıysanız, başlamanın en iyi yolu adım adım kılavuzu kullanmaktır. Ayrıca, kılavuzu kullanmadan [aygıtlar ekleyebilir](create-and-edit-autopilot-devices.md) ve [onlara profil atayabilirsiniz.](create-and-edit-autopilot-profiles.md) 
   
@@ -52,11 +52,11 @@ Henüz aygıt grupları veya profiller oluşturmadıysanız, başlamanın en iyi
 
 2. Soldaki gezinti bölmesine **Aygıtlar** \> **Otomatik Pilot'u**seçin.
 
-    ![Yönetici merkezinde, aygıtları ve ardından Otomatik Pilot'u seçin.](media/AutoPilot.png)
+    ![Yönetici merkezinde, aygıtları ve ardından Otomatik Pilot'u seçin.](../media/AutoPilot.png)
   
 2. Otomatik **Pilot** sayfasında **Başlat kılavuzuna**tıklayın veya dokunun.
     
-    ![Click Start guide for step-by-step instructions for Autopilot.](media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
+    ![Click Start guide for step-by-step instructions for Autopilot.](../media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   
 3. Cihazların **listesi sayfasının bulunduğu Upload .csv dosyasında,** hazır bulunduğunuz konuma göz atın. CSV dosyası, ardından \> **Sonraki'ni Aç.** **** Dosyanın üç üstbilgi olmalıdır:
     

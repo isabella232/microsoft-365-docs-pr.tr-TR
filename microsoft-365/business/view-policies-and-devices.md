@@ -22,16 +22,16 @@ search.appverid:
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
 description: Genel yönetici kimlik bilgileriyle Microsoft 365 işletmesine oturum açtırarak aygıt ilkelerini ve eylemlerini görüntüleyin.
-ms.openlocfilehash: 9664a72d85cf6eed9993937299d38a84b9a8f0d2
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: ac8ea8a5b484fe6401e72fd0eaab4d79515f3aac
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41595597"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42056618"
 ---
 # <a name="view-and-manage-policies-and-devices"></a>İlkeleri ve cihazları görüntüleme ve yönetme
 
-[![Yönetim merkezinin değiştiğini size bildirmeye yarayan etiket ve daha fazla ayrıntıyı aka.ms/aboutM365preview sayfasında bulabilirsiniz.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Yönetim merkezinin değiştiğini size bildirmeye yarayan etiket ve daha fazla ayrıntıyı aka.ms/aboutM365preview sayfasında bulabilirsiniz.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 ## <a name="view-and-edit-device-policies"></a>Aygıt ilkelerini görüntüleme ve görüntüleme
 
@@ -40,7 +40,7 @@ ms.locfileid: "41595597"
 
     Bu sayfada, hedef grup oluşturabilir, düzenleyebilir, değiştirebilir veya bir ilke silebilirsiniz.
 
-    ![Screenshot of the Policies page](media/devicepolicies.png)
+    ![Screenshot of the Policies page](../media/devicepolicies.png)
   
 ## <a name="view-and-manage-devices"></a>Cihazları görüntüleme ve yönetme
 
@@ -48,5 +48,5 @@ ms.locfileid: "41595597"
     
     Bu sayfada, bir veya daha fazla aygıt seçebilir ve şirket verilerini kaldırabilirsiniz. Cihaz koruma ayarlarını yaptığınız Windows 10 cihazlarında, cihazı fabrika ayarlarına sıfırlamayı da seçebilirsiniz.
   
-   ![Aygıtlar sayfasını yönetme](media/devicesmanage.png)
+   ![Aygıtlar sayfasını yönetme](../media/devicesmanage.png)
 

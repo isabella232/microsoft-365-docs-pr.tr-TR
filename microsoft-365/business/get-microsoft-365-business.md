@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
 description: Microsoft İş Ortağı Merkezi'nden Microsoft 365 Business'ı nasıl satın alabildiğini öğrenin.
-ms.openlocfilehash: 18af5b0aee378784199e91c8254b50fd1104172b
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: ba6aa806e3e628e8c3478abb57c4529e4f5692bf
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593961"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065846"
 ---
 # <a name="get-microsoft-365-business"></a>Microsoft 365 İş'i edinme
 
@@ -46,13 +46,13 @@ Microsoft 365 Business'ı satın almak ve kurulum yardımı almak için bir [Mic
     
 2. İş Ortağı Panosu'nda **Müşteriler'i**seçin, ardından müşterinizi seçin veya Microsoft 365 Business'ı almadan önce yeni bir müşteri ekleyin.
     
-    ![Microsoft İş Ortağı merkezinde bir müşteri ekleyin.](media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
+    ![Microsoft İş Ortağı merkezinde bir müşteri ekleyin.](../media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
   
 3. Müşterinin **Abonelik** **sayfasında, Abonelik Ekle'yi**seçin, Katalog'un altındaki Küçük işletme seçeneğini seçin ve ardından **Microsoft 365 Business'ı**seçin.
     
     İhtiyacınız olan lisans sayısını (en fazla 300) seçin. 300'den fazla kullanıcınız varsa, bunun yerine [Microsoft 365 Enterprise'a](https://go.microsoft.com/fwlink/p/?linkid=862316) bakın. 
     
-    ![Yeni abonelik sayfasında küçük işletmeleri seçin.](media/52d99e89-2175-4974-84bb-dd626048541b.png)
+    ![Yeni abonelik sayfasında küçük işletmeleri seçin.](../media/52d99e89-2175-4974-84bb-dd626048541b.png)
   
     İşletme adı da dahil olmak üzere yeni bir müşteri eklemek için adımların geri kalanını tamamlayın.
     

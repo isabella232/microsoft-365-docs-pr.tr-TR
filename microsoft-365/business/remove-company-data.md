@@ -22,16 +22,16 @@ search.appverid:
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
 description: "Şirket verilerini kullanıcı aygıtlarından veya Windows bilgisayarlarından kaldırmak için Microsoft 365 Business'ı nasıl kullanacağınızı öğrenin. "
-ms.openlocfilehash: ff0ad9d7f22f9bb1b21ee15fe383c6994896a9a8
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 338ce030cb37a6cbd4a1f63c33dc6866bef93c24
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593506"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42064924"
 ---
 # <a name="remove-company-data-from-devices"></a>Şirket verilerini cihazlardan kaldırma
 
-[![Yönetim merkezinin değiştiğini size bildirmeye yarayan etiket ve daha fazla ayrıntıyı aka.ms/aboutM365preview sayfasında bulabilirsiniz.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Yönetim merkezinin değiştiğini size bildirmeye yarayan etiket ve daha fazla ayrıntıyı aka.ms/aboutM365preview sayfasında bulabilirsiniz.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 ## <a name="remove-company-data"></a>Şirket verilerini kaldırma
 
@@ -45,7 +45,7 @@ Microsoft 365 İş'i kullanarak kullanıcılarınıza ait olan ve Microsoft 365 
     
 4. Bir sonraki bölmede Aygıtlar **listesinden** aygıtı veya cihazları seçin. Açılan aygıt bölmesinde, aygıtı fabrika ayarlarına sıfırlamayı veya aygıt türüne bağlı olarak şirket verilerini kaldırmayı seçebilirsiniz. 
     
-    ![Şirket veri bölmesini kaldır'da, verileri kaldırmak istediğiniz aygıtı seçin.](media/resetorremove.png)
+    ![Şirket veri bölmesini kaldır'da, verileri kaldırmak istediğiniz aygıtı seçin.](../media/resetorremove.png)
   
 5. Onay bölmesine, \> **Kapat'ı** **Onayla'yı** seçin.
     

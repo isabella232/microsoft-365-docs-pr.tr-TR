@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 - MOE150
 description: Microsoft 365 Kampanyaları için koşullu erişim ilkeleri nasıl ayarlayabilirsiniz öğrenin.
-ms.openlocfilehash: 335fbd7e771b1595e1846529daed76e5ddd3a8f5
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 1ef90bd77da43ded624d85cef9c7a33beec74345
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593395"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42064630"
 ---
 # <a name="set-up-conditional-access-policies"></a>Koşullu erişim ilkeleri ayarlama
 
@@ -52,7 +52,7 @@ Bu ilkeler hakkında daha fazla bilgi için [temel ilkeler nelerdir?](https://do
 1. Azure [portalına](https://portal.azure.com)gidin ve ardından **Azure Etkin Dizin** \> **Koşullu Erişim'e**gidin.
     
     Temel ilkeler sayfada listelenir. <br/> <br/>
-    ![Koşullu erişim için temel ilkeleri listeleyen sayfa.](media/baslinepolicies.png)
+    ![Koşullu erişim için temel ilkeleri listeleyen sayfa.](../media/baslinepolicies.png)
 1. Her ilke için aşağıdaki özel yönergeye bakın:
 
   - [Yöneticiler için MFA gerektirir](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)

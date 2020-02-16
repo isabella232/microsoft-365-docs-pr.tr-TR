@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
 description: Windows 10 cihazlarında Microsoft 365 İş uygulaması koruma ayarlarını nasıl doğrulayayarılamayı öğrenin.
-ms.openlocfilehash: 6573519ee2fe2d1eb82545755fa98b8c018e08ff
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 577921f7f33eafbbe652dcf825a145d89f1ff556
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41595005"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42057376"
 ---
 # <a name="validate-app-protection-settings-on-windows-10-pcs"></a>Windows 10 bilgisayarlarda uygulama koruma ayarlarını doğrulama
 
@@ -38,11 +38,11 @@ ms.locfileid: "41595005"
   
 1. [Microsoft 365 İş kullanıcıları için Windows cihazlarını ayarlama](set-up-windows-devices.md) konusunda açıklandığı gibi Microsoft 365 İş kimlik bilgileriyle oturum açtıktan ve Azure AD'ye bağlandıktan sonra, **Windows Ayarları** \> **Hesaplar** \> **İş yeri veya okula eriş** seçeneğine gidin. **Bağlanılan \<kiracı adı\> Azure AD**'yi seçin ve sonra da **Bilgi**'yi seçin.
     
-    ![Click or tap Info on the Connected to Azure AD dialog.](media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
+    ![Click or tap Info on the Connected to Azure AD dialog.](../media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
   
 2. \<Kiracı\> adı tarafından **yönetilen** sayfada, aşağıdaki şekilde gösterildiği gibi bir Yönetim **Sunucusu Adresi** içeren Bağlantı **bilgilerini** görebilirsiniz. 
     
-    ![Managed by page shows connection info of the device manager URL.](media/47515a8e-2d0c-4bea-99f0-6b2545b88a11.png)
+    ![Managed by page shows connection info of the device manager URL.](../media/47515a8e-2d0c-4bea-99f0-6b2545b88a11.png)
   
  **Yönetilmeyen bir uygulamaya şirket verilerini yapıştıramayacağınızı doğrulayın**
   
@@ -54,7 +54,7 @@ ms.locfileid: "41595005"
     
     Uygulamanın içeriğe erişemediğini belirten bir hata alırsınız.
     
-    ![A dialog that states app can't access content when you paste into an unmanaged app.](media/5e82b154-cf2f-43c8-ae80-b45d8ad80e56.png)
+    ![A dialog that states app can't access content when you paste into an unmanaged app.](../media/5e82b154-cf2f-43c8-ae80-b45d8ad80e56.png)
   
     Öte yandan, içeriği Word 2016'yı yapıştırabilirsiniz.
     
@@ -70,11 +70,11 @@ ms.locfileid: "41595005"
     
 4. **İş yeri veya okula eriş** sayfasında, **İş veya okul hesabı**'nı ve sonra da **Bilgi**'yi seçin.
     
-    ![İş veya okul hesabı iletişim kutusundaKi Bilgiler'i tıklatın veya dokunun.](media/63bd8b32-cb32-4afa-8ce0-6070ac403abc.png)
+    ![İş veya okul hesabı iletişim kutusundaKi Bilgiler'i tıklatın veya dokunun.](../media/63bd8b32-cb32-4afa-8ce0-6070ac403abc.png)
   
 5. Access **çalışmasında veya okul** sayfasında, aşağıdaki şekilde gösterildiği gibi bir **Yönetim Sunucusu Adresi** içeren ve içindeki *silme* ve *mam* sözcülerini içeren **Bağlantı bilgilerini** görebilirsiniz. 
     
-    ![Managed by page shows connection info URL that includes the words mam and wpi.](media/abd4eaf4-44fa-4538-a3e8-1e0d331dfe1e.png)
+    ![Managed by page shows connection info URL that includes the words mam and wpi.](../media/abd4eaf4-44fa-4538-a3e8-1e0d331dfe1e.png)
   
  **Yönetilmeyen bir uygulamaya şirket verilerini yapıştıramayacağınızı doğrulayın**
   
@@ -86,7 +86,7 @@ ms.locfileid: "41595005"
     
     App'in içeriğe erişemediğini belirten bir hata alırsınız.
     
-    ![A dialog that states app can't access content when you paste into an unmanaged app.](media/5e82b154-cf2f-43c8-ae80-b45d8ad80e56.png)
+    ![A dialog that states app can't access content when you paste into an unmanaged app.](../media/5e82b154-cf2f-43c8-ae80-b45d8ad80e56.png)
   
     Öte yandan, içeriği Word 2016'yı yapıştırabilirsiniz.
     

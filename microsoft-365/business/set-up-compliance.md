@@ -20,12 +20,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Veri kaybını önlemek ve hassas verileri etiketlemek için uyumluluk özelliklerini ayarlayın.
-ms.openlocfilehash: 09619de03aafde37106fb3942890b457c488ad43
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: d569ff8d84faf82881035f0ed54e5d175605776f
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593415"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42064725"
 ---
 # <a name="set-up-compliance-features"></a>Uyumluluk özelliklerini ayarlama
 
@@ -70,6 +70,6 @@ AIP istemcisini el ile yüklemek için:
 1. [Microsoft indirme merkezinden](https://www.microsoft.com/download/details.aspx?id=53018) **AzinfoProtection_UL.exe** indirin.
  
 2. Yüklemenin bir Word belgesini görüntüleyerek ve **Duyarlılık** seçeneğinin **Giriş** sekmesinde kullanılabilir olduğundan emin olarak çalıştığını doğrulayabilirsiniz.
-<br/>![Word belgesinde koruma sekmesi açılır.](media/word-sensitivity.png)
+<br/>![Word belgesinde koruma sekmesi açılır.](../media/word-sensitivity.png)
 
 Daha fazla bilgi için [bkz.](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3)

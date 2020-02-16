@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
 description: Windows 10 cihazlarında Microsoft 365 İş uygulaması koruma ayarlarını nasıl doğrulayayarılamayı öğrenin.
-ms.openlocfilehash: e3cd0a1927e0b81c9a97d26196603086b9ea2293
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 1762382aec00a80e006cf38b66c28d02c0c25989
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41594965"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42056717"
 ---
 # <a name="validate-device-protection-settings-on-windows-10-pcs"></a>Windows 10 bilgisayarlarında aygıt koruma ayarlarını doğrulama
 
@@ -39,23 +39,23 @@ ms.locfileid: "41594965"
   
 1. **Ayarlar** \> **Güvenlik &amp; Güncelleştirme** \> **Windows Update** \> **Yeniden Başlatma seçeneklerine** gidin ve tüm ayarların gri renkte olduğunu onaylayın. 
     
-    ![Tüm Yeniden Başlatma seçenekleri gri renkte.](media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
+    ![Tüm Yeniden Başlatma seçenekleri gri renkte.](../media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
   
 2. **Ayarlar** \> **Güvenlik &amp; Güncelleştirme** \> **Windows Update** \> **Gelişmiş seçeneklerine** gidin ve tüm ayarların gri renkte olduğunu onaylayın. 
     
-    ![Windows Advanced güncelleştirmeleri seçeneklerinin tümü gri renktedir.](media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
+    ![Windows Advanced güncelleştirmeleri seçeneklerinin tümü gri renktedir.](../media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
   
 3. **Ayarlar** \> Güncelleştirme \> **güvenliğiwindows** \> **update &amp; ** **Gelişmiş seçeneklerine** \> gidin **Güncelleştirmelerin nasıl teslim edilebildiğini seçin.**
     
     Bazı ayarların kuruluşunuz tarafından gizlendiğini veya yönetildiğini ve tüm seçeneklerin gri renkte olduğunu iletisini (kırmızı renkte) görebileceğinizi doğrulayın.
     
-    ![Ayarların kuruluşunuz tarafından gizlenip yönetildiğini belirten sayfanın nasıl teslim edileceğini seçin.](media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
+    ![Ayarların kuruluşunuz tarafından gizlenip yönetildiğini belirten sayfanın nasıl teslim edileceğini seçin.](../media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
   
 4. Windows Defender Güvenlik Merkezi'ni açmak için **Ayarlar** \> **Güncelleştirme &amp; güvenlik** \> **Windows Defender'a** \> gidin Windows Defender Güvenlik Merkezi \> **Virüs &amp; iş parçacığı koruması** \> virüs ** &amp; tehdit koruma ayarlarını** **açın'** ı tıklatın. 
     
 5. Tüm seçeneklerin gri renkte olduğunu doğrulayın. 
     
-    ![Virüs ve tehdit koruma ayarları gri.](media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
+    ![Virüs ve tehdit koruma ayarları gri.](../media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
   
 ## <a name="related-topics"></a>İlgili Konular
 

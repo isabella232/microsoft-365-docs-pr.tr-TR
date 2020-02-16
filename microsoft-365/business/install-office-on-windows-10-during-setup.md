@@ -24,16 +24,16 @@ search.appverid:
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
 description: Kurulum sırasında Office'i Windows 10 aygıtlarına otomatik olarak dağıtmayı şimdi öğrenin.
-ms.openlocfilehash: 8a631d3976ae3bce82d59d84e38a14405010ab02
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 8ba69f73b455cb78e7141d57b2f690f49bb36f2e
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593871"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065705"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>Kurulum sırasında Windows 10'da Office'i yükleme
 
-![Banner bu https://aka.ms/aboutM365previewişaret .](media/m365admincenterchanging.png)
+![Banner bu https://aka.ms/aboutM365previewişaret .](../media/m365admincenterchanging.png)
 
 Bu ayar varsayılan olarak kapalıdır. Kullanıcıların tüm Windows 10 cihazlarında Office'in en son sürümüne sahip olduğundan emin olmak için açabilirsiniz, ancak önce tüm ön koşulların karşılandığını doğrulayın. Microsoft 365 Business tarafından Office istemci dağıtımıiçin hazırla'da açıklanan diğer gereksinimlere ek olarak, yazılımı aygıta itmek için bu ayar için kullanıcıların Microsoft [365 Business lisansına](prepare-for-office-client-deployment.md)ek olarak lisanslanması gerekir.
   

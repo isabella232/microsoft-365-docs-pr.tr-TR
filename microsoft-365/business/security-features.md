@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Microsoft 365 Business ile birlikte gelen güvenlik özellikleri hakkında bilgi edinin.
-ms.openlocfilehash: 0e1823374ec1843b6caa3f080393ca013302bf72
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: e5f67d70c5a8f22e95b60a229d68ae12574d0036
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593435"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42064822"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Microsoft 365 İş güvenliği ve uyumluluk özellikleri
 
@@ -35,7 +35,7 @@ Microsoft 365 Business, bilgisayar, telefon ve tabletlerdeki verilerinizin korun
     
 ## <a name="microsoft-365-business-admin-center-security-features"></a>Microsoft 365 İş yönetici merkezi güvenlik özellikleri
 
-[![Yönetim merkezinin değiştiğini size bildirmeye yarayan etiket ve daha fazla ayrıntıyı aka.ms/aboutM365preview sayfasında bulabilirsiniz.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Yönetim merkezinin değiştiğini size bildirmeye yarayan etiket ve daha fazla ayrıntıyı aka.ms/aboutM365preview sayfasında bulabilirsiniz.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 Bu özellikleri açmak veya kapatmak için basitleştirilmiş bir yol sağlayan microsoft 365 İş güvenliği özelliklerinin çoğunu yönetici merkezinde yönetebilirsiniz. Yönetici merkezinde aşağıdakileri yapabilirsiniz:
   
@@ -123,6 +123,6 @@ Evet, bu özellikler Microsoft 365 Business'ın satıldığı tüm pazarlarda ku
     
 2. Sol navigasyonda, **Yönetici merkezlerini** bulun ve genişletin. 
     
-    ![Microsoft 365 yönetici merkezindeki sol gezinmede Yönetici merkezlerini seçin.](media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
+    ![Microsoft 365 yönetici merkezindeki sol gezinmede Yönetici merkezlerini seçin.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
 3. Güvenlik uyumluluk merkezine gitmek &amp; için **Güvenlik &amp; Uyumluluğu'ni** seçin.

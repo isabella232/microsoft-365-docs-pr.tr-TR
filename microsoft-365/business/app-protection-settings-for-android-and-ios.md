@@ -24,16 +24,16 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: Android veya iOS cihazlardaki çalışma dosyalarını nasıl oluşturup, düzenlemeyi veya silmeyi ve çalışma dosyalarını nasıl koruyacağınızı öğrenin.
-ms.openlocfilehash: c0c8883fb120db90d81e57fbb80206d6ce4eccbf
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: f4366230805c50fe82183431e3bd2bdfa9fddd68
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593323"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42068667"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Android veya iOS cihazlara yönelik uygulama koruma ayarlarını belirleme
 
-![Banner bu https://aka.ms/aboutM365previewişaret .](media/m365admincenterchanging.png)
+![Banner bu https://aka.ms/aboutM365previewişaret .](../media/m365admincenterchanging.png)
 
 ## <a name="create-an-app-management-policy"></a>Uygulama yönetimi ilkesi oluşturma
 
@@ -49,7 +49,7 @@ ms.locfileid: "41593323"
     
     Varsayılan ayarlara geri dönmek için istediğiniz zaman **Varsayılan ayarlara sıfırla** seçeneğini kullanabilirsiniz. 
     
-    ![Screenshot of Create a policy with Application management for Android selected](media/eabbe06d-ac0a-4f3a-8630-68c808b1e662.png)
+    ![Screenshot of Create a policy with Application management for Android selected](../media/eabbe06d-ac0a-4f3a-8630-68c808b1e662.png)
   
 6. Next decide **Who will get these settings?** Varsayılan **Tüm Kullanıcılar** güvenlik grubunu kullanmak istemiyorsanız, **Değiştir'i**seçin, bu ayarları \> alan güvenlik gruplarını seçin **Seçin.**
     

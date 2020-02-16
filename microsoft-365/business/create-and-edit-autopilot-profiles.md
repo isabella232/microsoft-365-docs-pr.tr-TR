@@ -25,12 +25,12 @@ search.appverid:
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: Otomatik Pilot profilleri oluşturmayı, düzenlemeyi, silmeyi veya kaldırmayı öğrenin.
-ms.openlocfilehash: 35967cb1f6e2cdeea9d7c42a529526410fa8b586
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 28f5b679d58711d11d9af26dffb7022024b72c79
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41594001"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065925"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>AutoPilot profillerini oluşturma ve düzenleme
 
@@ -44,7 +44,7 @@ Profiller bir cihaza veya cihaz grubuna uygulanır,
     
 3. Profil **Oluştur** sayfasında, profilin kimliğini belirlemenize yardımcı olacak bir ad girin, örneğin Pazarlama. İstediğiniz ayarı açın ve sonra **Kaydet'i**seçin. Otomatik Pilot profil ayarları hakkında daha fazla bilgi [için, Otomatik Pilot Profil ayarları hakkında](autopilot-profile-settings.md)bakın.
     
-    ![Enter name and turn on settings in the Create profile panel.](media/63b5a00d-6a5d-48d0-9557-e7531e80702a.png)
+    ![Enter name and turn on settings in the Create profile panel.](../media/63b5a00d-6a5d-48d0-9557-e7531e80702a.png)
   
 ### <a name="apply-profile-to-a-device"></a>Cihaza profil uygulama
 
@@ -54,7 +54,7 @@ Bir profil oluşturduktan sonra, profili bir aygıta veya aygıt grubuna uygulay
     
 2. Aygıt adının yanındaki onay kutusunu seçin ve **Aygıt** panelinde, **Atanan profil** açılır listesinden \> bir profil seçin **Kaydet**.
     
-    ![In the Device panel, select an Assigned profile to apply it.](media/ed0ce33f-9241-4403-a5de-2dddffdc6fb9.png)
+    ![In the Device panel, select an Assigned profile to apply it.](../media/ed0ce33f-9241-4403-a5de-2dddffdc6fb9.png)
   
 ## <a name="edit-delete-or-remove-a-profile"></a>Profili düzenleme, silme veya kaldırma
 

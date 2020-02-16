@@ -26,12 +26,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Microsoft 365 Business'ı ayarlamayı öğrenin.
-ms.openlocfilehash: a353e39b824bae702fa015b0c7d3dd7e6416454c
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 5491486c2bf8da1ee38fcd986d5ecd682d57c82e
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593731"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065631"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>Microsoft 365 İş ile çalışmaya başlama
 
@@ -57,7 +57,7 @@ Microsoft 365 Business, 300'e kadar lisans içindir. Daha fazla lisansa ihtiyac�
   
 Aşağıdaki diyagramda, yöneticilerin Microsoft 365 Business'ı nasıl kurdukları açıklanmaktadır. Ayrıca Windows bilgisayarları Microsoft 365 İş için hazırlama adımları da açıklanır. Ayrıca [Windows AutoPilot](add-autopilot-devices-and-profile.md)ile Microsoft 365 İş admin merkezine yeni cihazlar ekleyebilirsiniz. Yeni aygıtları, kullanıcı Microsoft 365 Business kimlik bilgilerini girer almaz verimli kullanıma hazır olacak şekilde ayarlamak ve önceden yapılandırmak için Otomatik Pilot'u kullanabilirsiniz.
   
-![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
+![A diagram that shows the setup and management flow for admins, and also for a user](../media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
 
 Microsoft 365 İş kurulumuna genel bir bakış için bu videoyu izleyin.<br><br>
 

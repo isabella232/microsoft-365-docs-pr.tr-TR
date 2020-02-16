@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: İşletmenizi Office 365 Business Premium'dan Microsoft 365 Business'a yükselten adımlar.
-ms.openlocfilehash: 0732f76e5bd8540e5954bd7ea7b88061326901b5
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: e17ac2658c7276ba4a77de371847343866815c42
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593689"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065309"
 ---
 # <a name="upgrade-to-microsoft-365-business-from-office-365-business-premium"></a>Office 365 Business Premium'dan Microsoft 365 Business'a yükseltme
 
@@ -51,11 +51,11 @@ Bu iki planın yan yana karşılaştırmasını [Microsoft 365 İş Hizmeti Aç�
 1. 'de <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>yönetici merkezine giriş
 2. Gezinti bölmesine gidin ve **Faturalama** \> Ürünleri **& Hizmetleri'ni**seçin. Office 365 aboneliğinizi bulun ve ayrıntıları görüntülemek için bu aboneliği seçin. 
 
-    ![Ekran görüntüsü, yönetici merkezinde aboneliğinizi nasıl bulabileceğinizi ve seçileceksiniz.](media/FindYourSubscription.png)
+    ![Ekran görüntüsü, yönetici merkezinde aboneliğinizi nasıl bulabileceğinizi ve seçileceksiniz.](../media/FindYourSubscription.png)
 
 3. Sonraki sayfada **Yükseltme'yi**seçin. 
 
-      ![Ekran görüntüsü, yönetici merkezinde Yükseltme'nin nerede seçilen olduğunu gösterir.](media/SelectUpgrade.png)
+      ![Ekran görüntüsü, yönetici merkezinde Yükseltme'nin nerede seçilen olduğunu gösterir.](../media/SelectUpgrade.png)
 
   > [!NOTE]
   > **Aboneliğinizi Yükseltmenin Azure Active Directory'de grup tabanlı lisanslamayla desteklenmediğini**belirten bir ileti görürseniz, çok büyük bir kuruluşunuz yoksa bunu güvenle göz ardı edebilirsiniz. Bu seçeneği seçen kuruluşlar, grup tabanlı lisanslama kullandıklarının farkında olurlar.
