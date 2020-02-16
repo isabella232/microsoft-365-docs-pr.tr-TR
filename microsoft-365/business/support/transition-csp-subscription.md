@@ -11,12 +11,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, Kobİ, geçiş CSP aboneliği
 ms.date: 11/01/2017
-ms.openlocfilehash: 4aadfa24bec8728c7e011ac6da48a8e30516e145
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 7d8e04a0136f86d3c4bb51208081fd1dcbecf59d
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41595055"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42057375"
 ---
 # <a name="transition-a-microsoft-365-business-csp-subscription"></a>Microsoft 365 Business CSP aboneliğine geçiş
 
@@ -29,33 +29,33 @@ Microsoft 365 Business Preview CSP aboneliğiniz varsa, mevcut önizleme aboneli
 
     Şirket abonelikleri listelenecektir.
 
-    ![İş Ortağı Merkezi'nde müşterinin abonelikleri](images/pc_customer_subscriptions_1.png)
+    ![İş Ortağı Merkezi'nde müşterinin abonelikleri](../../media/pc_customer_subscriptions_1.png)
     
 3. Şirketin **Abonelikler** sayfasında **abonelik ekle'yi**seçin.
 4. Yeni **abonelik** sayfasında Küçük **Işletme'yi** seçin ve ardından listeden **Microsoft 365 Business'ı** seçin.
 5. Lisans sayısını ekleyin ve ardından **Sonraki'ni seçin:** Aboneliği gözden geçirmek için gözden geçirin ve ardından **Gönder'i**seçin.
 
-    ![Microsoft 365 Business'ın yeni aboneliğini gözden geçirin](images/pc_customer_reviewnewsubscription.png)
+    ![Microsoft 365 Business'ın yeni aboneliğini gözden geçirin](../../media/pc_customer_reviewnewsubscription.png)
 
     **Lisans tabanlı abonelikler** **Microsoft 365 Business Preview** ve Microsoft **365 Business'ı**gösterir. Daha sonra Önizleme aboneliğini askıya alabilirsiniz.
 
 6. **Microsoft 365 İş Önizleme'yi**seçin.
 7. Microsoft **365 İş Önizleme** sayfasında, Önizleme aboneliğini askıya almak için **Askıya Alın'ı** seçin.
 
-    ![Microsoft 365 İş Önizleme aboneliğini askıya alma](images/pc_customer_m365bpreview_suspend.png)
+    ![Microsoft 365 İş Önizleme aboneliğini askıya alma](../../media/pc_customer_m365bpreview_suspend.png)
 
 8. Onaylamak için **Gönder'i** seçin.
 
     **Abonelikler** sayfasında, **Microsoft 365 İş Önizleme** durumunun Askıya **Alındığını**gösterdiğini doğrulayın.
 
-    ![Önizleme abonelik durumunun askıya alındığını onaylayın](images/pc_customer_m365bpreview_suspend_confirm.png)
+    ![Önizleme abonelik durumunun askıya alındığını onaylayın](../../media/pc_customer_m365bpreview_suspend_confirm.png)
 
 9. İsteğe bağlı olarak, lisans sözleşmesini de doğrulayabilirsiniz. Bunu yapmak için aşağıdaki adımları izleyin:
     1. Şirketin **Abonelikler** sayfasından **Kullanıcıları ve lisansları** seçin.
     2. Kullanıcılar **ve lisanslar** sayfasında bir kullanıcı seçin.
     3. Kullanıcının sayfasında, **Lisansları Atla** bölümünü kontrol edin ve **Microsoft 365 Business'ı**gösterdiğini onaylayın.
 
-        ![Microsoft 365 Business lisansının kullanıcıya atandığını onaylayın](images/pc_customer_userslicenses_m365b_validate.png)
+        ![Microsoft 365 Business lisansının kullanıcıya atandığını onaylayın](../../media/pc_customer_userslicenses_m365b_validate.png)
 
 ## <a name="impact-to-customers-and-users-during-and-after-transition"></a>Geçiş sırasında ve sonrasında müşterilere ve kullanıcılara etki
 
