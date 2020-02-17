@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Microsoft 365 Business'ı nasıl ayarlayın öğrenin.
-ms.openlocfilehash: c370a5b3fd735e704eea56ac1079bb2e5dad4c4b
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: a41d03c4f9e250cf3b16d11bf23897e31adaf866
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41594279"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42090956"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Kurulum sihirbazında Microsoft 365 Business'ı ayarlama
 
@@ -45,7 +45,7 @@ Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i il
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>Etki alanınızı, kullanıcılarınızı ekleyin ve ilkeler ayarlayın
 
-[![Yönetim merkezinin değiştiğini size bildirmeye yarayan etiket ve daha fazla ayrıntıyı aka.ms/aboutM365preview sayfasında bulabilirsiniz.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Yönetim merkezinin değiştiğini size bildirmeye yarayan etiket ve daha fazla ayrıntıyı aka.ms/aboutM365preview sayfasında bulabilirsiniz.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 Microsoft 365 Business'ı satın aldığınızda, sahip olduğunuz bir etki alanını kullanma veya [kayıt](sign-up.md)sırasında bir etki alanı satın alma seçeneğiniz vardır.
 
@@ -57,7 +57,7 @@ Microsoft 365 Business'ı satın aldığınızda, sahip olduğunuz bir etki alan
 
 2. Sihirbazı başlatmak **için kuruluma git'i** seçin.
 
-    ![Kuruluma Git'i seçin.](media/gotosetupinadmincenter.png)
+    ![Kuruluma Git'i seçin.](../media/gotosetupinadmincenter.png)
 
 3. Office **uygulamalarınızı yükle** sayfasında, uygulamaları isteğe bağlı olarak kendi bilgisayarınıza yükleyebilirsiniz.
     
@@ -66,14 +66,14 @@ Microsoft 365 Business'ı satın aldığınızda, sahip olduğunuz bir etki alan
     > [!IMPORTANT]
     > Kayıt sırasında bir etki alanı satın aldıysanız, burada **bir etki alanı** adımı ekle'yi görmezsiniz. Bunun yerine [Kullanıcı Ekle'ye](#add-users-and-assign-licenses) gidin.
 
-    ![Oturum açma sayfanızı Kişiselleştir'in ekran görüntüsü.](media/adddomain.png)
+    ![Oturum açma sayfanızı Kişiselleştir'in ekran görüntüsü.](../media/adddomain.png)
 
     
 4. Etki alanına sahip olduğunuzu doğrulayan [Office 365 için herhangi bir DNS barındırma sağlayıcısında DNS kayıtları oluşturmak için](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) sihirbazdaki adımları izleyin. Etki alanı ana bilgisayarınızı tanıyorsanız, [ana bilgisayara özel yönergeler](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)de bakın.
 
     Barındırma sağlayıcınız GoDaddy veya etki [alanı bağlantısı](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)yla etkin leştirilmiş başka bir ana bilgisayarsa, işlem kolaydır ve otomatik olarak oturum açmanız ve Microsoft'un sizin adınıza kimliğini belirlemesine izin vermeniz istenir.
 
-    ![GoDaddy Access'i Onayla sayfasında Yetkilendirme'yi seçin.](media/godaddyauth.png)
+    ![GoDaddy Access'i Onayla sayfasında Yetkilendirme'yi seçin.](../media/godaddyauth.png)
 
 ### <a name="add-users-and-assign-licenses"></a>Kullanıcı ekleme ve lisans atama
 
@@ -83,7 +83,7 @@ Sihirbaza kullanıcı ekleyebilirsiniz, ancak daha sonra yönetici merkezine [de
 
 Sihirbaza eklediğiniz tüm kullanıcılara otomatik olarak Microsoft 365 Business lisansı atanabilir.
 
-![Sihirbazda yeni kullanıcı ekle sayfasının ekran görüntüsü](media/addnewuserspage.png)
+![Sihirbazda yeni kullanıcı ekle sayfasının ekran görüntüsü](../media/addnewuserspage.png)
 
 1. Microsoft 365 Business aboneliğinizde mevcut kullanıcılar varsa (örneğin, Azure AD Connect'i kullandıysanız), şimdi onlara lisans atama seçeneğine sahip siniz. Bu kullanıcılara da lisans ekleyerek işleme devam edin.
 
@@ -101,7 +101,7 @@ Hizmetleri ayarlamak için DNS ana bilgisayarınızda veya etki alanı kayıt ş
     - Varolan DNS kayıtlarınız varsa, örneğin varolan bir web sitesi, ancak [etki alanı bağlantısı](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)için DNS ana bilgisayarınız etkinse, benim için kayıt **ekle'yi**seçin. Çevrimiçi **hizmetleri seç** sayfasında, tüm varsayılanları kabul edin ve **Sonraki'ni**seçin ve DNS ana bilgisayarınızın sayfasında **Yetkilendirme'yi** seçin.
     - Diğer DNS ana bilgisayarlarıyla varolan DNS kayıtlarınız varsa (etki alanı bağlantısı için etkinleştirildi), varolan hizmetlerin bağlı kalmasını sağlamak için kendi DNS kayıtlarınızı yönetmek istersiniz. Daha fazla bilgi için [etki alanı temellerine](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics) bakın.
 
-        ![Kayıtlar sayfasını etkinleştirin.](media/activaterecords.png)
+        ![Kayıtlar sayfasını etkinleştirin.](../media/activaterecords.png)
 
 2. Sihirbazve e-posta ve diğer hizmetler adımları izleyin sizin için ayarlanır.
 
@@ -111,14 +111,14 @@ Sihirbazda ayarladığınız *ilkeler, Tüm Kullanıcılar*adlı bir [Güvenlik 
 
 1. Gelişmiş **siber tehditlere karşı korumayı**artırın'da, Office [365 Önceden Tehdit Koruması'nın](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) Office uygulamalarındaki dosyaları ve bağlantıları taramasına izin verme varsayılanlarını kabul etmeniz önerilir.
 
-    ![Korumayı Artır sayfasının ekran görüntüsü.](media/increasetreatprotection.png)
+    ![Korumayı Artır sayfasının ekran görüntüsü.](../media/increasetreatprotection.png)
 
 
 2. Hassas **veri sayfasının sızıntılarını önlemede,** Office uygulamalarındaki hassas verileri izlemek ve bunların kuruluşunuz dışında yanlışlıkla paylaşılmasını önlemek için Office 365 Veri Kaybı Önleme'yi (DLP) açma varsayılanlarını kabul edin.
 
 3. Mobil sayfa **için Office'teki verileri koru'da** mobil uygulama yönetimini bırakın, ayarları genişletin ve gözden geçirin ve ardından **mobil uygulama yönetimi ilkesi oluştur'u**seçin.
 
-    ![Mobil sayfa için Office'teki verileri koruyun ekran görüntüsü.](media/protectdatainmobile.png)
+    ![Mobil sayfa için Office'teki verileri koruyun ekran görüntüsü.](../media/protectdatainmobile.png)
 
 
 ## <a name="secure-windows-10-pcs"></a>Güvenli Windows 10 cd'leri
