@@ -24,13 +24,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 21e5551f-fa35-4f13-9418-f80d668b6a2b
-description: 'Windows 10 aygıtlarını güvenli hale getirmek için varsayılan ve diğer ayarlar hakkında bilgi edinin. '
-ms.openlocfilehash: 9560bb4e299dba8f92d435a64670261b0e7e0290
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Herhangi bir Windows 10 cihazının iş veya okul hesabına oturum açmadan alacağı varsayılan aygıt ilkesinin ayarlarını yapılandırma hakkında bilgi edinin.
+ms.openlocfilehash: fa780aa24dadab39b97dcbb298eee709f81ca42f
+ms.sourcegitcommit: ab916c216053999c9c4ef4838217e82cd861f23f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593455"
+ms.lasthandoff: 03/04/2020
+ms.locfileid: "42415645"
 ---
 # <a name="secure-windows-10-devices"></a>Windows 10 cihazlarının güvenliğini sağlama
 

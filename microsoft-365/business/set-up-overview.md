@@ -24,13 +24,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: Microsoft 365 Business için kurulum adımlarını gözden geçirin.
-ms.openlocfilehash: 07cbd4fd187f78474783db848ac9b69068d2b44a
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Microsoft 365 Business'ın kurulum adımlarını, abone olmaktan, etki alanı ve kullanıcılar eklemeye, güvenlik ilkeleri ayarlamaya ve daha fazlasını öğrenin.
+ms.openlocfilehash: 4c9c3ee4c45625cebe5d19eb03fcb6d90eb9243e
+ms.sourcegitcommit: ab916c216053999c9c4ef4838217e82cd861f23f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41595075"
+ms.lasthandoff: 03/04/2020
+ms.locfileid: "42415575"
 ---
 # <a name="overview-of-setup"></a>Kuruluma genel bakış
 
