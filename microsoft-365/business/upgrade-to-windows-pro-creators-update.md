@@ -19,17 +19,18 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
+- MARVEL_SEO_MAR
 search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
-description: "Windows aygıtlarını Windows 10 Pro'ya nasıl yükselteceklerini öğrenin. "
-ms.openlocfilehash: 60ffb507e2a572d0ca52d7adf2db70ea6cb446f2
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Daha gelişmiş güvenlik ve iş ağı özelliklerinin keyfini çıkarmak için Windows cihazlarınızı Windows 10 Pro'ya yükseltmenin çeşitli yollarını keşfedin.
+ms.openlocfilehash: 0668945d107be7abc0698035fa458e1c805c7201
+ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41594198"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42547501"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Windows cihazlarını Windows 10 Pro'ya yükseltme
 
