@@ -16,16 +16,17 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
-description: Office 365 Gelişmiş Tehdit Koruması'nı ayarlayın ve hassas verileri koruyun.
-ms.openlocfilehash: 191e1ad301e12ae45fe3a5d6d990d2357c5d0bab
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Office 365 Gelişmiş Tehdit Koruması'nı ayarlayın ve hassas verileri kimlik avı, kötü amaçlı yazılım ve diğer tehditlere karşı koruyun.
+ms.openlocfilehash: 9d7bae60091c87fa0246a697f2a49e1cbc6e2f06
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593891"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550367"
 ---
 # <a name="increase-threat-protection"></a>Tehdit korumayı artırın
 
@@ -76,7 +77,7 @@ Posta aktarım kuralı oluşturmak için:
     
 5. Kural için aşağıdaki tablodaki ayarları uygulayın. Değiştirmek istemediğiniz sürece, ayarların geri kalanı için varsayılan değerleri kullanın.
     
-6. **Kaydet** 'i seçin.
+6. **Kaydet**'i seçin.
     
 |**Ayar**|**Office dosyalarının eklerini açmadan önce kullanıcıları uyarma**||
 |:-----|:-----|:-----|
@@ -108,7 +109,7 @@ Posta aktarım kuralı oluşturmak için [bu kısa videoyu](https://support.offi
     
 5. Aşağıdaki tablodaki ayarları uygulayın. Değiştirmek istemediğiniz sürece, ayarların geri kalanı için varsayılan değerleri kullanın.
     
-6. **Kaydet** 'i seçin.
+6. **Kaydet**'i seçin.
     
 |**Ayar**|**Office dosyalarının eklerini açmadan önce kullanıcıları uyarma**|
 |:-----|:-----|
@@ -208,7 +209,7 @@ Varsayılan ilkeyi değiştirmek için:
     
 2. **E-posta dışındaki içeriğe uygulanan Ayarlar**altında, **iOS ve Android için Office, Office 365 ProPlus'ı**seçin.
     
-3. **Kaydet** 'i seçin. 
+3. **Kaydet**'i seçin. 
     
 Etki alanınızdaki tüm alıcılara yönelik yeni bir ilke oluşturmak için:
   
@@ -216,7 +217,7 @@ Etki alanınızdaki tüm alıcılara yönelik yeni bir ilke oluşturmak için:
     
 2. Aşağıdaki tabloda listelenen ayarları uygulayın.
     
-3. **Kaydet** 'i seçin. 
+3. **Kaydet**'i seçin. 
 
 |**Ayar veya seçenek**|**Önerilen ayar** <br/>|
 |:-----|:-----|

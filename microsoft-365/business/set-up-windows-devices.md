@@ -19,21 +19,22 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
-description: 'Microsoft 365 Business kullanıcıları için Windows 10 Pro çalıştıran Windows aygıtlarını nasıl ayarlayabilirsiniz öğrenin. '
-ms.openlocfilehash: 427e1c25b5c6ad52ab280502133a0e2808bb48b1
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Merkezi yönetim ve güvenlik denetimlerini etkinleştiren Microsoft 365 Business kullanıcıları için Windows 10 Pro çalıştıran Windows aygıtlarını nasıl ayarlayabilirsiniz öğrenin.
+ms.openlocfilehash: 62d909b1e5658131f9381d1a800a70fad6e16cab
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42090794"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550027"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>Microsoft 365 Business kullanıcıları için Windows cihazlarını ayarlama
 
-## <a name="prerequisites"></a>Önkoşullar
+## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-users"></a>Microsoft 365 İş kullanıcıları için Windows aygıtları kurmak için ön koşullar
 
 Microsoft 365 Business kullanıcıları için Windows cihazları ayarlamadan önce, tüm Windows cihazların Windows 10 Pro sürüm 1703 (Creators Update) çalıştırdığından emin olun. Windows 10 Pro'yu tamamlayıcı nitelikte bir bulut hizmetleri ve cihaz yönetimi kümesi olan ve Microsoft 365 Business'ın güvenlik denetimlerine ve merkezi olarak yönetilmesine olanak sağlayan Windows 10 Business'in dağıtımı için gerekli önkoşullardan biri Windows 10 Pro'dur.
   
@@ -125,6 +126,6 @@ Azure AD'ye eklenmiş Windows 10 cihazlarınızın, Microsoft 365 Business abone
 
 Mobil cihazlarınızı ayarlamak için [Microsoft 365 Business kullanıcıları için mobil cihazları ayarlama](set-up-mobile-devices.md) bölümüne, cihaz koruma veya uygulama koruma ilkelerini ayarlamak içinse [Microsoft 365 Business yönetimi](manage.md) bölümüne bakın.
   
-## <a name="see-also"></a>Ayrıca bkz.
+## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a>Microsoft 365 Business'ı kurma ve kullanma hakkında daha fazla şey için
 
 [Microsoft 365 İş eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

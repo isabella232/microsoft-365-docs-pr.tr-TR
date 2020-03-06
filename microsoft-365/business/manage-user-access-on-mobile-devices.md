@@ -19,18 +19,19 @@ ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
 - MSB365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: aa31319c-9196-48c9-a90b-4057e0494c7a
-description: Mobil cihazlardan Office uygulamalarına güvenli erişime yardımcı olabilecek koruma ilkeleri hakkında bilgi edinin.
-ms.openlocfilehash: 39d28a3a78fb06d0020c484b1782b544f6a8c656
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Kullanıcıların Office uygulamalarına ve mobil cihazlardan dosyaları nasıl çalıştırdığını yönetmenize olanak tanıyan koruma ilkeleri hakkında bilgi edinin.
+ms.openlocfilehash: 21e83114664d06aaeb27b08d9f4e2153eea02030
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593831"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550327"
 ---
 # <a name="manage-how-users-access-office-documents-on-mobile-devices"></a>Kullanıcıların mobil cihazlarda Office belgelerine nasıl erişeceğini yönetme
 

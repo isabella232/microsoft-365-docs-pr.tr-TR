@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
 description: Kişisel iş dosyalarınızı ve hassas şirket dosyalarınızı birkaç kolay adımda OneDrive for Business'a nasıl taşıyabileceğinizi öğrenin.
-ms.openlocfilehash: 2f4e21096570e1b830a7a8ceee87d652abb9448f
-ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
+ms.openlocfilehash: 837ec8bb01ed78e7a13ee802afaf845c80544f5d
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42547761"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550277"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>Dosyaları OneDrive İş'e taşıma
 
@@ -51,6 +51,6 @@ Kullanıcının çok fazla kişisel dosya içeren bir bilgisayarı varsa, önce 
     
 Kullanıcı profilini ve önemli dosyaları aktarmak için ForensiT gibi üçüncü taraf araçlarından birini de kullanabilirsiniz. Sonuçta elde edilen dosyaları da OneDrive İş'e yüklemelisiniz.
   
-## <a name="see-also"></a>Ayrıca bkz.
+## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a>Microsoft 365 Business'ı kurma ve kullanma hakkında daha fazla şey için
 
 [Microsoft 365 İş eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
