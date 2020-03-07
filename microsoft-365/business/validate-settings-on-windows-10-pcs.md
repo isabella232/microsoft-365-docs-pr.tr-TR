@@ -19,53 +19,53 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
-- MARVEL_SEO_MAR
+- seo-marvel-mar
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
 description: Microsoft 365 Business uygulaması koruma ayarlarının kullanıcılarınızın Windows 10 aygıtlarında etkin olduğunu nasıl doğrulayabilirsiniz öğrenin.
-ms.openlocfilehash: 1b661b41a8042e81f653463cbd32fc6bf6428b53
-ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
+ms.openlocfilehash: 47977f8d79eb6dbb2f4d087af8f8ad7da4313c61
+ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549967"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42560690"
 ---
-# <a name="validate-device-protection-settings-on-windows-10-pcs"></a><span data-ttu-id="54aa4-103">Windows 10 bilgisayarlarında aygıt koruma ayarlarını doğrulama</span><span class="sxs-lookup"><span data-stu-id="54aa4-103">Validate device protection settings on Windows 10 PCs</span></span>
+# <a name="validate-device-protection-settings-on-windows-10-pcs"></a><span data-ttu-id="ab192-103">Windows 10 bilgisayarlarında aygıt koruma ayarlarını doğrulama</span><span class="sxs-lookup"><span data-stu-id="ab192-103">Validate device protection settings on Windows 10 PCs</span></span>
 
-## <a name="verify-that-windows-10-device-policies-are-set"></a><span data-ttu-id="54aa4-104">Windows 10 aygıt ilkelerinin ayarlı olduğunu doğrulama</span><span class="sxs-lookup"><span data-stu-id="54aa4-104">Verify that Windows 10 device policies are set</span></span>
+## <a name="verify-that-windows-10-device-policies-are-set"></a><span data-ttu-id="ab192-104">Windows 10 aygıt ilkelerinin ayarlı olduğunu doğrulama</span><span class="sxs-lookup"><span data-stu-id="ab192-104">Verify that Windows 10 device policies are set</span></span>
 
-<span data-ttu-id="54aa4-105">[Aygıtlar ilkelerini ayarladıktan](protection-settings-for-windows-10-pcs.md)sonra, ilkenin kullanıcıların aygıtları üzerinde etkili olması birkaç saat kadar sürebilir.</span><span class="sxs-lookup"><span data-stu-id="54aa4-105">After you [set up devices policies](protection-settings-for-windows-10-pcs.md), it may take up to a few hours for the policy to take effect on users' devices.</span></span> <span data-ttu-id="54aa4-106">Kullanıcıların cihazlarındaki çeşitli Windows Ayarları ekranlarına bakarak ilkelerin etkili olduğunu doğrulayabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="54aa4-106">You can confirm that the policies took effect by looking at various Windows Settings screens on the users' devices.</span></span> <span data-ttu-id="54aa4-107">Kullanıcılar Windows 10 cihazlarında Windows Update ve Windows Defender Antivirus ayarlarını değiştiremeyeceğinden, birçok seçenek gri renkte olacaktır.</span><span class="sxs-lookup"><span data-stu-id="54aa4-107">Because the users won't be able to modify the Windows Update and Windows Defender Antivirus settings on their Windows 10 devices, many options will be grayed out.</span></span>
+<span data-ttu-id="ab192-105">[Aygıtlar ilkelerini ayarladıktan](protection-settings-for-windows-10-pcs.md)sonra, ilkenin kullanıcıların aygıtları üzerinde etkili olması birkaç saat kadar sürebilir.</span><span class="sxs-lookup"><span data-stu-id="ab192-105">After you [set up devices policies](protection-settings-for-windows-10-pcs.md), it may take up to a few hours for the policy to take effect on users' devices.</span></span> <span data-ttu-id="ab192-106">Kullanıcıların cihazlarındaki çeşitli Windows Ayarları ekranlarına bakarak ilkelerin etkili olduğunu doğrulayabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="ab192-106">You can confirm that the policies took effect by looking at various Windows Settings screens on the users' devices.</span></span> <span data-ttu-id="ab192-107">Kullanıcılar Windows 10 cihazlarında Windows Update ve Windows Defender Antivirus ayarlarını değiştiremeyeceğinden, birçok seçenek gri renkte olacaktır.</span><span class="sxs-lookup"><span data-stu-id="ab192-107">Because the users won't be able to modify the Windows Update and Windows Defender Antivirus settings on their Windows 10 devices, many options will be grayed out.</span></span>
   
-1. <span data-ttu-id="54aa4-108">**Ayarlar** \> **Güvenlik &amp; Güncelleştirme** \> **Windows Update** \> **Yeniden Başlatma seçeneklerine** gidin ve tüm ayarların gri renkte olduğunu onaylayın.</span><span class="sxs-lookup"><span data-stu-id="54aa4-108">Go to **Settings** \> **Update &amp; security** \> **Windows Update** \> **Restart options** and confirm that all settings are grayed out.</span></span> 
+1. <span data-ttu-id="ab192-108">**Ayarlar** \> **Güvenlik &amp; Güncelleştirme** \> **Windows Update** \> **Yeniden Başlatma seçeneklerine** gidin ve tüm ayarların gri renkte olduğunu onaylayın.</span><span class="sxs-lookup"><span data-stu-id="ab192-108">Go to **Settings** \> **Update &amp; security** \> **Windows Update** \> **Restart options** and confirm that all settings are grayed out.</span></span> 
     
     ![Tüm Yeniden Başlatma seçenekleri gri renkte.](../media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
   
-2. <span data-ttu-id="54aa4-110">**Ayarlar** \> **Güvenlik &amp; Güncelleştirme** \> **Windows Update** \> **Gelişmiş seçeneklerine** gidin ve tüm ayarların gri renkte olduğunu onaylayın.</span><span class="sxs-lookup"><span data-stu-id="54aa4-110">Go to **Settings** \> **Update &amp; security** \> **Windows Update** \> **Advanced options** and confirm that all settings are grayed out.</span></span> 
+2. <span data-ttu-id="ab192-110">**Ayarlar** \> **Güvenlik &amp; Güncelleştirme** \> **Windows Update** \> **Gelişmiş seçeneklerine** gidin ve tüm ayarların gri renkte olduğunu onaylayın.</span><span class="sxs-lookup"><span data-stu-id="ab192-110">Go to **Settings** \> **Update &amp; security** \> **Windows Update** \> **Advanced options** and confirm that all settings are grayed out.</span></span> 
     
     ![Windows Advanced güncelleştirmeleri seçeneklerinin tümü gri renktedir.](../media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
   
-3. <span data-ttu-id="54aa4-112">**Ayarlar** \> Güncelleştirme \> **güvenliğiwindows** \> \*\*update &amp; \*\* **Gelişmiş seçeneklerine** \> gidin **Güncelleştirmelerin nasıl teslim edilebildiğini seçin.**</span><span class="sxs-lookup"><span data-stu-id="54aa4-112">Go to **Settings** \> **Update &amp; security** \> **Windows Update** \> **Advanced options** \> **Choose how updates are delivered**.</span></span>
+3. <span data-ttu-id="ab192-112">**Ayarlar** \> Güncelleştirme \> **güvenliğiwindows** \> \*\*update &amp; \*\* **Gelişmiş seçeneklerine** \> gidin **Güncelleştirmelerin nasıl teslim edilebildiğini seçin.**</span><span class="sxs-lookup"><span data-stu-id="ab192-112">Go to **Settings** \> **Update &amp; security** \> **Windows Update** \> **Advanced options** \> **Choose how updates are delivered**.</span></span>
     
-    <span data-ttu-id="54aa4-113">Bazı ayarların kuruluşunuz tarafından gizlendiğini veya yönetildiğini ve tüm seçeneklerin gri renkte olduğunu iletisini (kırmızı renkte) görebileceğinizi doğrulayın.</span><span class="sxs-lookup"><span data-stu-id="54aa4-113">Confirm that you can see the message (in red) that some settings are hidden or managed by your organization, and all the options are grayed out.</span></span>
+    <span data-ttu-id="ab192-113">Bazı ayarların kuruluşunuz tarafından gizlendiğini veya yönetildiğini ve tüm seçeneklerin gri renkte olduğunu iletisini (kırmızı renkte) görebileceğinizi doğrulayın.</span><span class="sxs-lookup"><span data-stu-id="ab192-113">Confirm that you can see the message (in red) that some settings are hidden or managed by your organization, and all the options are grayed out.</span></span>
     
     ![Ayarların kuruluşunuz tarafından gizlenip yönetildiğini belirten sayfanın nasıl teslim edileceğini seçin.](../media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
   
-4. <span data-ttu-id="54aa4-115">Windows Defender Güvenlik Merkezi'ni açmak için **Ayarlar** \> **Güncelleştirme &amp; güvenlik** \> **Windows Defender'a** \> gidin Windows Defender Güvenlik Merkezi \> **Virüs &amp; iş parçacığı koruması** \> virüs \*\* &amp; tehdit koruma ayarlarını\*\* **açın'** ı tıklatın.</span><span class="sxs-lookup"><span data-stu-id="54aa4-115">To open the Windows Defender Security Center, go to **Settings** \> **Update &amp; security** \> **Windows Defender** \> click **Open Windows Defender Security Center** \> **Virus &amp; thread protection** \> **Virus &amp; threat protection settings**.</span></span> 
+4. <span data-ttu-id="ab192-115">Windows Defender Güvenlik Merkezi'ni açmak için **Ayarlar** \> **Güncelleştirme &amp; güvenlik** \> **Windows Defender'a** \> gidin Windows Defender Güvenlik Merkezi \> **Virüs &amp; iş parçacığı koruması** \> virüs \*\* &amp; tehdit koruma ayarlarını\*\* **açın'** ı tıklatın.</span><span class="sxs-lookup"><span data-stu-id="ab192-115">To open the Windows Defender Security Center, go to **Settings** \> **Update &amp; security** \> **Windows Defender** \> click **Open Windows Defender Security Center** \> **Virus &amp; thread protection** \> **Virus &amp; threat protection settings**.</span></span> 
     
-5. <span data-ttu-id="54aa4-116">Tüm seçeneklerin gri renkte olduğunu doğrulayın.</span><span class="sxs-lookup"><span data-stu-id="54aa4-116">Verify that all options are grayed out.</span></span> 
+5. <span data-ttu-id="ab192-116">Tüm seçeneklerin gri renkte olduğunu doğrulayın.</span><span class="sxs-lookup"><span data-stu-id="ab192-116">Verify that all options are grayed out.</span></span> 
     
     ![Virüs ve tehdit koruma ayarları gri.](../media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
   
-## <a name="related-topics"></a><span data-ttu-id="54aa4-118">İlgili Konular</span><span class="sxs-lookup"><span data-stu-id="54aa4-118">Related Topics</span></span>
+## <a name="related-topics"></a><span data-ttu-id="ab192-118">İlgili Konular</span><span class="sxs-lookup"><span data-stu-id="ab192-118">Related Topics</span></span>
 
-[<span data-ttu-id="54aa4-119">Microsoft 365 İş belgeleri ve kaynakları</span><span class="sxs-lookup"><span data-stu-id="54aa4-119">Microsoft 365 Business documentation and resources</span></span>](https://go.microsoft.com/fwlink/p/?linkid=853701)
+[<span data-ttu-id="ab192-119">Microsoft 365 İş belgeleri ve kaynakları</span><span class="sxs-lookup"><span data-stu-id="ab192-119">Microsoft 365 Business documentation and resources</span></span>](https://go.microsoft.com/fwlink/p/?linkid=853701)
   
-[<span data-ttu-id="54aa4-120">Microsoft 365 İş ile çalışmaya başlama</span><span class="sxs-lookup"><span data-stu-id="54aa4-120">Get started with Microsoft 365 Business</span></span>](microsoft-365-business-overview.md)
+[<span data-ttu-id="ab192-120">Microsoft 365 İş ile çalışmaya başlama</span><span class="sxs-lookup"><span data-stu-id="ab192-120">Get started with Microsoft 365 Business</span></span>](microsoft-365-business-overview.md)
   
-[<span data-ttu-id="54aa4-121">Microsoft 365 İş yönetimi</span><span class="sxs-lookup"><span data-stu-id="54aa4-121">Manage Microsoft 365 Business</span></span>](manage.md)
+[<span data-ttu-id="ab192-121">Microsoft 365 İş yönetimi</span><span class="sxs-lookup"><span data-stu-id="ab192-121">Manage Microsoft 365 Business</span></span>](manage.md)
   
-[<span data-ttu-id="54aa4-122">Windows 10 bilgisayarlarında cihaz yapılandırmalarını ayarlama</span><span class="sxs-lookup"><span data-stu-id="54aa4-122">Set device configurations for Windows 10 PCs</span></span>](protection-settings-for-windows-10-pcs.md)
+[<span data-ttu-id="ab192-122">Windows 10 bilgisayarlarında cihaz yapılandırmalarını ayarlama</span><span class="sxs-lookup"><span data-stu-id="ab192-122">Set device configurations for Windows 10 PCs</span></span>](protection-settings-for-windows-10-pcs.md)
   
 
