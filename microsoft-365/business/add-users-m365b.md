@@ -20,18 +20,18 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
-- MARVEL_SEO_MAR
+- seo-marvel-mar
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
 description: Microsoft 365 Business'ta yeni kullanıcılar ekleme, aygıtlarını güvenli hale alma ve roller atama adımlarını öğrenin.
-ms.openlocfilehash: 574adbc6ae936d611c185681e99a3e9a516962aa
-ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
+ms.openlocfilehash: 8181254aa56345e99e648c59474f4d7f8fa94990
+ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42547781"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42561570"
 ---
 # <a name="add-more-users-to-microsoft-365-business"></a>Microsoft 365 Business'a daha fazla kullanıcı ekleme
 
