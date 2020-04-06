@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Bilgisayar, telefon ve tabletlerdeki verilerinizin korunmasına yardımcı olmak için Microsoft 365 Business ile birlikte gelen güvenlik özellikleri hakkında bilgi edinin.
-ms.openlocfilehash: 85f9b50225c3dbdb0c1b76c33d516aaa03bec773
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: 3f638a3287c06ded7bf4c29c647e62cbf3fca969
+ms.sourcegitcommit: e525bcf073a61e1350484719a0c3ceb6ff0d8db1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561270"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "43153808"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Microsoft 365 İş güvenliği ve uyumluluk özellikleri
 
@@ -74,13 +74,13 @@ Microsoft 365 Business'taki gelişmiş özellikler, işletmenizi siber tehditler
 
 - **[Azure portalında Intune'un tüm özellikleri](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
-    Azure portalındaki Intune yönetici merkezine erişmek, MacOS aygıtlarının yönetimi, iPhone ve Android aygıtlarının yanı sıra Microsoft tarafından kullanılamayan Windows için gelişmiş aygıt yönetimi gibi ek güvenlik özellikleri ayarlamanıza olanak tanır 365 İş yönetici merkezi.
-- **Azure AD P1 planıyla Aynı [Koşullu Erişim](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)**
+    Azure portalındaki Intune yönetici merkezine erişmek, MacOS aygıtlarının yönetimi, iPhone ve Android cihazlarının yanı sıra Microsoft 365 İş yöneticisi merkezi aracılığıyla kullanılamayan Windows için gelişmiş aygıt yönetimi gibi ek güvenlik özellikleri ayarlamanıza olanak tanır.
+- **Azure AD Premium P1 planıyla Aynı [Koşullu Erişim](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)**
 
 
-    Koşullu Erişim, kuruluşunuzun oturum açma riskine karşı korunmasına, beklenmeyen bir ağdan veya yerel alandan erişim girişimlerine, riskli aygıt türlerinden erişim girişimlerine ve benzeri nedenlerden korunmaya yardımcı olabilir. Koşullu Erişim ilkeleri ilk kimlik doğrulama tamamlandıktan sonra uygulanır ve girişimdeki erişimin onaylanması, reddedilmesi veya daha fazla kanıt olup olmadığını (ikinci bir kimlik biçimi gibi) belirlemek için ilk kimlik doğrulama olayından gelen sinyalleri kullanır gereklidir.
+    Koşullu Erişim, kuruluşunuzun oturum açma riskine karşı korunmasına, beklenmeyen bir ağdan veya yerel alandan erişim girişimlerine, riskli aygıt türlerinden erişim girişimlerine ve benzeri nedenlerden korunmaya yardımcı olabilir. Koşullu Erişim ilkeleri ilk kimlik doğrulama tamamlandıktan sonra uygulanır ve girişimde bulunulması, reddedilmesi veya daha fazla kanıt (ikinci bir kimlik biçimi gibi) gerekip gerekip gerekmemesi gerektiğini belirlemek için ilk kimlik doğrulama olayından gelen sinyalleri kullanır.
 
-    Koşullu erişim özellikleri şunlardır:
+    Koşullu Erişim özellikleri şunlardır:
 
     - Kullanıcı adına, gruba ve role göre erişim
     - [Bir uygulamaya dayalı](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) erişim 

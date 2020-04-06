@@ -12,12 +12,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, SSS, sık sorulan sorular, yanıtlar, iş
 ms.date: 06/08/2018
-ms.openlocfilehash: 706646eae722b0040db2a5bd7bcf187f5e1295bf
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: edb6476b7711bd17a1dd926d93bdf27d734ea9a9
+ms.sourcegitcommit: e525bcf073a61e1350484719a0c3ceb6ff0d8db1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41594238"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "43153628"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 Business sık sorulan sorular
 
@@ -37,7 +37,7 @@ Microsoft 365, sınıfının en iyisi üretkenlik araçlarını, güvenliği ve 
 -  Exchange Online Arşivleme ile verilerinizin korunmasına, korunmasına ve yedeklemeye yardımcı olur.  
 -   Intune App Protection ile Office ve diğer mobil uygulamalar için uygulama koruması. 
 -  Intune aygıt yönetimine sahip Windows 10 bilgisayarların, MacOS'ların ve mobil cihazlar için aygıt yönetimi. 
--  Çok faktörlü kimlik doğrulama, self servis parola sıfırlama ve koşullu erişim ile kimlik koruması.
+-  Çok faktörlü kimlik doğrulama (MFA), self servis parola sıfırlama ve Koşullu Erişim ile kimlik koruması.
 -  Aygıtlar&mdash;arasında şirket verilerinin aygıtlar arasında korunması arasında tutarlı güvenlik yapılandırması; Windows Defender, her zaman açık ve güncel. 
  
  
@@ -67,7 +67,7 @@ Microsoft 365 Business, doğrudan Microsoft'tan satın alınmışsa, _yıllık s
 ### <a name="is-there-a-cap-to-how-many-microsoft-365-business-seats-a-customer-can-have"></a>Bir müşterinin kaç Microsoft 365 Business koltuğu olabileceğine dair bir kapak var mı? 
 Microsoft 365 Business, düşük ve orta BT karmaşıklığı gereksinimlerine sahip küçük ve orta ölçekli işletmeler için tasarlanmıştır. Müşteriler, kuruluşları için en fazla 300 Microsoft 365 İşletme lisansı satın alabilir. Müşteriler bulut aboneliklerini karıştırıp eşleştirebilir. Sonuç olarak, BT gereksinimlerine bağlı olarak, müşteriler microsoft 365 Enterprise lisanslarını aynı hesaba ekleyebilir. 
  
-Müşteriler birden çok abonelik türünden oluşan bir ortam düşündüklerinde, Microsoft 365 Business ve Microsoft 365 Enterprise kullanımı olarak çeşitli abonelikleri en iyi nasıl yöneteceklerini ve güvenli hale getirmek için güvenilir BT danışmanlarıyla birlikte çalışmalıdırlar uygulamaları ve verileri güvence altına almak ve yönetmek için farklı yetenekler.
+Müşteriler birden çok abonelik türünden oluşan bir ortam düşündüklerinde, Microsoft 365 Business ve Microsoft 365 Enterprise uygulamaları ve verileri güvenli hale getirmek ve yönetmek için farklı özellikleri kullanırken çeşitli abonelikleri en iyi nasıl yöneteceklerini ve güvenli hale getirmek için güvenilir BT danışmanlarıyla birlikte çalışmalıdır.
 
 ### <a name="can-i-combine-microsoft-365-business-with-other-microsoft-subscription-offerings"></a>Microsoft 365 Business ile diğer Microsoft abonelik tekliflerini birleştirebilir miyim? 
 Evet, müşteriler Microsoft 365 Business aboneliklerini Azure, Dynamics 365, Enterprise Mobility + Security ve Office 365'in planları ve eklentileriyle birleştirebilir.
@@ -136,8 +136,8 @@ Başarılı bir Microsoft 365 İş dağıtımına giden en doğrudan yol, bir Mi
 Evet, Microsoft 365 Business aboneleri iOS, Android, MacOS ve diğer çapraz platform aygıt yönetimi için tam Intune özelliklerini kullanma lisansına sahipdir. Microsoft 365 Business'ta basitleştirilmiş yönetim konsolunda bulunmayan özellikler, üçüncü taraf uygulama yönetimi ve WiFi profillerinin yapılandırması, VPN sertifikaları gibi tam Intune konsolunda yönetilebilir. 
   
 
-### <a name="does-azure-active-directory-premium-p1-come-with-microsoft-365-business"></a>Azure Active Directory Premium P1 Microsoft 365 Business ile birlikte geliyor mu? 
-Microsoft 365 Business, AD geri yazma, Azure MFA ve koşullu erişimle self servis parola sıfırlama gibi belirli Azure AD Premium P1 (AADP P1) özelliklerini içerir. AADP P1'in tamamını içermez. Daha fazla bilgi için [Microsoft 365 İş Hizmeti Açıklaması'na](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148)bakın.
+### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business"></a>Azure Active Directory (Azure AD) Premium P1 Microsoft 365 Business ile birlikte geliyor mu? 
+Microsoft 365 Business, Azure AD yazma geri alma, Azure Çok Faktörlü Kimlik Doğrulama ve Koşullu Erişim ile self servis parola sıfırlama gibi belirli Azure AD Premium P1 özelliklerini içerir. Azure AD Premium P1'in tamamını içermez. Daha fazla bilgi için [Microsoft 365 İş Hizmeti Açıklaması'na](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148)bakın.
  
  
 ### <a name="does-microsoft-365-business-allow-customers-to-manage-macs"></a>Microsoft 365 Business müşterilerin Mac'leri yönetmesine izin veriyor mu? 
@@ -163,7 +163,7 @@ Hayır, Windows Defender Gelişmiş Tehdit Koruması gerektiren müşterilerin W
 Microsoft iş ortağı olmayan BT hizmet sağlayıcıları, Microsoft Bulut Çözüm [https://partners.office.com/microsoft365business](https://partners.office.com/microsoft365business)Sağlayıcısı programı hakkında daha fazla bilgi edinebilir.
 
 ### <a name="where-can-i-learn-how-to-sell-microsoft-365-business"></a>Microsoft 365 Business'ı nasıl satacağım nereden öğrenebilirim? 
-Şu anda Office 365 satan iş ortakları, Microsoft 365 Business'ı satmak için aynı danışmanlık satış yöntemlerini kullanabilir. Buna ek olarak, müşterilerin mevcut masaüstü ortamını, Active Directory güvenini, mobilitesini ve güvenliğin Microsoft 365'in tam değerini etkin bir şekilde iletmek için ihtiyaç duyduğu nu anlamak için satış ekibiniz için daha fazla kaynak ve eğitim salıyoruz. Müşteri ile ilgili bir şekilde iş. Bu kaynakları Office İş Ortağı [https://partners.office.com/microsoft365business](https://partners.office.com/microsoft365business)portalında 'da bulun. 
+Şu anda Office 365 satan iş ortakları, Microsoft 365 Business'ı satmak için aynı danışmanlık satış yöntemlerini kullanabilir. Buna ek olarak, müşterilerin mevcut masaüstü ortamını, Active Directory güvenini, mobilitesini ve güvenliğinin microsoft 365 Business'ın tam değerini müşteriyle alakalı bir şekilde etkili bir şekilde iletmesi için daha fazla kaynak ve eğitim sunuyoruz. Bu kaynakları Office İş Ortağı [https://partners.office.com/microsoft365business](https://partners.office.com/microsoft365business)portalında 'da bulun. 
 
 ### <a name="how-can-microsoft-365-business-help-partners-increase-the-profitability"></a>Microsoft 365 Business iş ortaklarının karlılığı artırmasına nasıl yardımcı olabilir? 
 Microsoft 365 Business, iş ortaklarının daha fazla operasyonel verimlilik le maliyetleri azaltmalarına ve ek hizmetlerin satışı yoluyla gelirleri artırmalarına yardımcı olur. Forrester Research, Microsoft 365 Business Total Economic Impact (TEI)https://www.microsoft.com/microsoft-365/partners/PartnerTEI)Çalışması, Haziran 2017 ( , Microsoft 365 Business'ın iş ortağı karlılığı üzerinde olumlu bir etkisi olacağını göstermektedir. 
@@ -183,13 +183,13 @@ Microsoft 365 Business, iş ortaklarının ek hizmetler satabilmek ve mevcut ür
 Microsoft 365 Business'ta yer alan yeni Windows AutoPilot özelliği yle, dağıtım lojistiği ve maliyetleri nedeniyle yeni Windows cihazları satmakta isteksiz olan iş ortakları bu fırsatı çok daha cazip bulacak. Şirket içi ve mobil cihazlarının güvenliğinden emin olan müşterilerin, Dynamics 365 gibi daha fazla hizmete yatırım yapma olasılığı da daha yüksektir. 
  
 ### <a name="should-partners-sell-microsoft-365-business-over-other-plans-from-microsoft"></a>İş ortakları Microsoft'un diğer planları üzerinden Microsoft 365 Business'ı satmalı mı? 
-Bir Microsoft Bulut Çözüm Sağlayıcısı, müşteri iş gereksinimlerine ve bütçesine en uygun planı her zaman satmalıdır. Örneğin, bir müşterinin gizlilik ve güvenlik yönetmeliklerine uyması gerekiyorsa, bir CSP Microsoft 365 Business'ı ve müşterinin gereksinimlerini karşılamasına yardımcı olan eklentileri satabilir veya Microsoft 365 Business tarafından sağlanan gelişmiş güvenlik ve yönetimi önerebilir Kurumsal SKUs. 
+Bir Microsoft Bulut Çözüm Sağlayıcısı, müşteri iş gereksinimlerine ve bütçesine en uygun planı her zaman satmalıdır. Örneğin, bir müşterinin gizlilik ve güvenlik yönetmeliklerine uyması gerekiyorsa, bir CSP Microsoft 365 Business'ı ve müşterinin gereksinimlerini karşılamasına yardımcı olan eklentileri satabilir veya Microsoft 365 Business Enterprise SKUs'lar tarafından sağlanan gelişmiş güvenlik ve yönetimi önerebilir. 
  
 ### <a name="some-of-my-customers-have-devices-that-arent-genuine-will-microsoft-365-business-make-these-devices-genuine"></a>Bazı müşterilerimin orijinal olmayan cihazları vardır; Microsoft 365 Business bu aygıtları orijinal hale getirecek mi? 
 Microsoft 365 Business, Windows'un orijinal olmayan bir sürümünü orijinal yapmaz. Microsoft 365 Business, orijinal Windows 7, 8 veya 8.1 Pro çalıştıran müşterilerin Windows 10 Pro'nun en son orijinal sürümüne yükseltmelerine olanak tanıyan bir yükseltme avantajı sağlar. 
 
 ### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-help-customers-with-their-compliance-obligations"></a>GDPR nedir ve Microsoft 365 Business müşterilerin uyumluluk yükümlülüklerinde nasıl yardımcı olur?
-Genel Veri Koruma Yönetmeliği (GDPR), Avrupa Birliği (AB) sakinlerine "kişisel verileri" üzerinde daha fazla kontrol sağlayan ve kuruluşların bu kişisel verilerin bütünlüğünü korumasını gerektiren kapsamlı yeni bir gizlilik yasasıdır. GDPR, AB sakinlerine bağlı kişisel verileri kontrol eden veya işleyen kuruluşların yalnızca kişisel veri işleme için GDPR gereksinimlerini karşılayan üçüncü taraf veri işlemcilerini kullanmasını gerektirir. Mart 2017'de Microsoft, bu güvenceleri sağlayan sözleşme garantilerini kullanıma sunsun. Microsoft'un ek GDPR yükümlülüklerini yerine getirmelerine nasıl yardımcı olabileceği yle ilgili soruları olan müşteriler, Microsoft 365 Business'ta bulunan gelişmiş uyumluluk ve güvenlik özellikleri hakkında bilgi edinmelidir (örneğin, Azure Bilgi Koruması, veriler kayıp önleme, Gelişmiş Tehdit Koruması vb. ve diğer süitlerde (örneğin, Microsoft 365 Enterprise E5). Daha fazla bilgi için [www.microsoft.com/gdpr.](https://www.microsoft.com/gdpr)
+Genel Veri Koruma Yönetmeliği (GDPR), Avrupa Birliği (AB) sakinlerine "kişisel verileri" üzerinde daha fazla kontrol sağlayan ve kuruluşların bu kişisel verilerin bütünlüğünü korumasını gerektiren kapsamlı yeni bir gizlilik yasasıdır. GDPR, AB sakinlerine bağlı kişisel verileri kontrol eden veya işleyen kuruluşların yalnızca kişisel veri işleme için GDPR gereksinimlerini karşılayan üçüncü taraf veri işlemcilerini kullanmasını gerektirir. Mart 2017'de Microsoft, bu güvenceleri sağlayan sözleşme garantilerini kullanıma sunsun. Microsoft'un ek GDPR yükümlülüklerini yerine getirmelerine nasıl yardımcı olabileceği yle ilgili soruları olan müşterilerin, Microsoft 365 Business'ta (örneğin, Azure Bilgi Koruması, veri kaybıönleme, Gelişmiş Tehdit Koruması vb.) ve diğer paketlerde (örneğin, Microsoft 365 Enterprise E5) bulunan gelişmiş uyumluluk ve güvenlik özellikleri hakkında bilgi edinmelidir. Daha fazla bilgi için [www.microsoft.com/gdpr.](https://www.microsoft.com/gdpr)
 
 
 ## <a name="footnotes"></a>Dipnot

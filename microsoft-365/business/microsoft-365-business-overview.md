@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Office 365'in yanı sıra işletmeniz için siber tehditlere karşı gelişmiş koruma içeren bir abonelik hizmeti olan Microsoft 365 Business hakkında bilgi edinin.
-ms.openlocfilehash: 7b939a9037edbe074a5ef9aa24451fe462016ccb
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: fccd0403131d8afe41608c4a195b53db959e7e91
+ms.sourcegitcommit: e525bcf073a61e1350484719a0c3ceb6ff0d8db1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561490"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "43153828"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Microsoft 365 Business'a Genel Bakış
 
@@ -76,7 +76,7 @@ Microsoft 365 Business, şu nedenlerle **tehditlere karşı savunmaya** yardımc
 
 - Gelişmiş saldırılara (ATP kimlik avı önleme zekası) karşı koruma sağlamak için makine öğrenimi modellerini ve kimliğe bürünme algılamayı kullanan kimlik avı önleme ilkelerini etkinleştirme. 
 
-- Güvenilmeyen konumlardan erişimi devre dışı eden veya ofis ağınız gibi güvenilir yerlerden çok faktörlü kimlik doğrulamasını atlayan gelişmiş ilkeler ayarlama (güvenilir IP'ler dahil Azure MFA ve Koşullu Erişim). 
+- Güvenilmeyen konumlardan erişimi devre dışı eden veya ofis ağınız gibi güvenilir yerlerden çok faktörlü kimlik doğrulamasını atlayan gelişmiş ilkeler ayarlama (güvenilir IP'ler dahil Azure Çok Faktörlü Kimlik Doğrulaması ve Koşullu Erişim). 
 
 - Kuruluşunuzun tüm Windows 10 cihazlarında kötü amaçlı yazılım koruması nın uygulanması ve anahtar sistem klasörlerinde bulunan dosyaların ransomware (Windows Defender) tarafından yapılan değişikliklere karşı korunması
 
