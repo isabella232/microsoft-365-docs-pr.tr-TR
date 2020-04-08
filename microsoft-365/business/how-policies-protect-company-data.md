@@ -27,10 +27,10 @@ search.appverid:
 ms.assetid: 665485be-2389-4f1d-9ef8-dbef19c6acdf
 description: Kullanıcıların kişisel cihazlarındaki şirket verilerini korumak için, belirli aygıtları ve güvenlik gruplarını hedefleyen ilkeler kullanın.
 ms.openlocfilehash: c33d228fef5e138f94810faf1174ea3243277f4d
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
+ms.lasthandoff: 04/07/2020
 ms.locfileid: "41593911"
 ---
 # <a name="how-policies-in-microsoft-365-business-protect-company-data"></a>Microsoft 365 Business'da ilkelerle şirket verilerinin korunması
