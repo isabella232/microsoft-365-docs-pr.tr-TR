@@ -25,12 +25,12 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: Daha gelişmiş güvenlik ve iş ağı özelliklerinden yararlanmak için Windows cihazlarınızı Windows 10 Pro'ya yükseltmenin yollarını keşfedin.
-ms.openlocfilehash: 3901754d9ef269ae74dbf1893cb62b1ba810919d
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: f0cedda49dbff2a8c2884bb52e240fabfbeb4537
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560670"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43632061"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Windows cihazlarını Windows 10 Pro'ya yükseltme
 
@@ -53,12 +53,12 @@ Windows 10 Pro'ya yükseltmek için birkaç seçeneğiniz vardır. Şunları yap
     - Aracı nasıl kullanacağınız ve yükleme ortamınızı oluşturma nızla ilgili talimatları okuyun. 
 
 > [!NOTE]
-> Windows 7 Pro, Windows 8 Pro veya Windows 8.1 Pro çalıştıran Windows aygıtlarınız varsa, Microsoft 365 Business aboneliğiniz size Windows Pro 10 yükseltmesi hakkı verir.
+> Windows 7 Pro, Windows 8 Pro veya Windows 8.1 Pro çalıştıran Windows aygıtlarınız varsa, iş aboneliği için Microsoft 365'iniz size Windows Pro 10 yükseltmesi hakkı verir.
     
-Bkz. Windows 10 aygıtlarını ayarlamayı tamamlamak [için Microsoft 365 Business kullanıcıları için Windows aygıtları](set-up-windows-devices.md) ayarlama. 
+Bkz. İş kullanıcılarının Windows 10 aygıtlarını ayarlamayı tamamlamaları [için Microsoft 365 için Windows aygıtları](set-up-windows-devices.md) ayarlama. 
   
-Bkz. Android ve iOS aygıtlarını ayarlamayı tamamlamak [için Microsoft 365 Business kullanıcıları için mobil cihazlar ayarlama.](set-up-mobile-devices.md) 
+Bkz. İş kullanıcılarının Android ve iOS aygıtlarını ayarlamayı tamamlamaları [için Microsoft 365 için mobil cihazlar ayarlama.](set-up-mobile-devices.md) 
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a>Microsoft 365 Business'ı kurma ve kullanma hakkında daha fazla şey için
+## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>İşletmeler için Microsoft 365'i kurma ve kullanma hakkında daha fazla şey için
 
-[Microsoft 365 İş eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[İş eğitimi videoları için Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

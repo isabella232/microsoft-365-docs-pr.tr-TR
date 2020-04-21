@@ -26,12 +26,12 @@ search.appverid:
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: Bir Otomatik Pilot profili oluşturmayı ve bir aygıta uygulamayı, profili düzenlemeyi veya silmeyi veya bir profili aygıttan kaldırmayı öğrenin.
-ms.openlocfilehash: 58c16b68c66dce7541a02ecd0d2466babe8cc338
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: a6e02ab56faeb08718a9831657b55cff0356a4ec
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560730"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627384"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>AutoPilot profillerini oluşturma ve düzenleme
 
@@ -39,7 +39,7 @@ ms.locfileid: "42560730"
 
 Profiller bir cihaza veya cihaz grubuna uygulanır,
   
-1. Microsoft 365 Business Admin merkezinde, **Cihazlar** \> **Otomatik Pilot'u**seçin.
+1. Microsoft 365 yönetici merkezinde, **Cihazlar** \> **Otomatik Pilot**seçin.
   
 2. Otomatik **Pilot** sayfasında **Profiller** sekmesini \> seçin **profil oluştur.**
     
@@ -81,5 +81,5 @@ Bir profili bir cihaza atadıktan sonra, cihazı daha önce bir kullanıcıya ve
 
 1. **Windows'u Hazırla** sayfasında **Cihazlar** sekmesini seçin. 
     
-2. Aygıt adının yanındaki onay kutusunu seçin ve **Aygıt** panelinde **Atanan profil** açılır listesinden \> **Kaydet'i**yok'u seçin. ****
+2. Aygıt adının yanındaki onay kutusunu seçin ve **Aygıt** panelinde **Atanan profil** açılır listesinden \> **Kaydet'i**yok'u seçin. **None**
     

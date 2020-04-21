@@ -20,16 +20,16 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Windows 10 aygıtına katılan bir Azure Active Directory'den iş uygulamaları, dosya paylaşımları ve yazıcılar gibi şirket içi kaynaklara nasıl erişebilirsiniz öğrenin.
-ms.openlocfilehash: 653b53d29e84bbdc91273cb78b9b8407c0f6a209
-ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
+ms.openlocfilehash: c1e04e5ca0d36c32a55a9819140356db5093e3a1
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "41593243"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627464"
 ---
-# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Microsoft 365 Business'ta Azure AD ile birleştirilmiş bir cihazdan şirket içi kaynaklara erişin
+# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Microsoft 365 Business Premium'daki Azure AD'ye bağlı bir cihazdan şirket içi kaynaklara erişin
 
-Azure Active Directory'nin birleştiği tüm Windows 10 aygıtları, Office 365 uygulamalarınız gibi bulut tabanlı tüm kaynaklara erişebilir ve Microsoft 365 Business tarafından korunabilir. Ayrıca, iş satırı (LOB) uygulamaları, dosya paylaşımları ve yazıcılar gibi şirket içi kaynaklara erişime de izin verebilirsiniz. Erişime izin vermek için, şirket içi Active Directory'nizi Azure Etkin Dizini ile senkronize etmek için [Azure AD Connect'i](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) kullanın. 
+Azure Active Directory'nin birleştiği tüm Windows 10 aygıtları Microsoft 365 uygulamalarınız gibi tüm bulut tabanlı kaynaklara erişebilir ve Microsoft 365 Business Premium tarafından korunabilir. Ayrıca, iş satırı (LOB) uygulamaları, dosya paylaşımları ve yazıcılar gibi şirket içi kaynaklara erişime de izin verebilirsiniz. Erişime izin vermek için, şirket içi Active Directory'nizi Azure Etkin Dizini ile senkronize etmek için [Azure AD Connect'i](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) kullanın. 
 
 Daha fazla bilgi için Azure [Active Directory'de aygıt yönetimine giriş](https://docs.microsoft.com/azure/active-directory/device-management-introduction)'e bakın.
 Adımlar da aşağıdaki bölümlerde özetlenmiştir.
@@ -43,9 +43,9 @@ Kuruluşunuzun Azure AD'sinin birleştirilmiş aygıtlarının şirket içi kayn
   
 1. Kullanıcılarınızı, gruplarınızı ve kişilerinizi yerel Active Directory'den Azure Etkin Dizini'ne senkronize etmek [için, Office 365 için dizin eşitlemesi ayarlayın'da](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846)açıklandığı gibi Dizin eşitleme sihirbazını ve Azure AD Connect'i çalıştırın.
     
-2. Dizin eşitlemesi tamamlandıktan sonra, kuruluşunuzun Windows 10 aygıtlarının Azure AD'ye katıldığından emin olun. Bu adım her Windows 10 aygıtında ayrı ayrı yapılır. Ayrıntılar [için Microsoft 365 Business kullanıcıları için Windows aygıtları ayarlama'ya](set-up-windows-devices.md) bakın. 
+2. Dizin eşitlemesi tamamlandıktan sonra, kuruluşunuzun Windows 10 aygıtlarının Azure AD'ye katıldığından emin olun. Bu adım her Windows 10 aygıtında ayrı ayrı yapılır. Ayrıntılar [için Microsoft 365 Business Premium kullanıcıları için Windows aygıtları ayarlama'ya](set-up-windows-devices.md) bakın. 
     
-3. Windows 10 aygıtları Azure AD'ye katıldıktan sonra, her kullanıcının aygıtlarını yeniden başlatması ve Microsoft 365 İş kimlik bilgileriyle oturum açması gerekir. Artık tüm aygıtlar şirket içi kaynaklara da erişebilir.
+3. Windows 10 aygıtları Azure AD'ye katıldıktan sonra, her kullanıcının cihazlarını yeniden başlatması ve Microsoft 365 Business Premium kimlik bilgileriyle oturum açması gerekir. Artık tüm aygıtlar şirket içi kaynaklara da erişebilir.
     
 Azure AD'ye katılan aygıtlar için şirket içi kaynaklara erişmek için ek adım gerekmez. Bu işlev Windows 10'da yerleşiktir. 
 

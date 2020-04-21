@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Business'a daha fazla kullanıcı ekleme
+title: Daha fazla kullanıcı ekleme
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -25,15 +25,15 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
-description: Microsoft 365 Business'ta yeni kullanıcılar ekleme, aygıtlarını güvenli hale alma ve roller atama adımlarını öğrenin.
-ms.openlocfilehash: 8181254aa56345e99e648c59474f4d7f8fa94990
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Microsoft 365 Business Premium'da yeni kullanıcılar ekleme, aygıtlarını güvenli hale alma ve roller atama adımlarını öğrenin.
+ms.openlocfilehash: d57f7470d53a6c80e04872726c634f67f091fb0d
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561570"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627484"
 ---
-# <a name="add-more-users-to-microsoft-365-business"></a>Microsoft 365 Business'a daha fazla kullanıcı ekleme
+# <a name="add-more-users"></a>Daha fazla kullanıcı ekleme
 
 ## <a name="add-new-users"></a>Yeni kullanıcı ekleme
 
@@ -54,7 +54,7 @@ Kullanıcı eklemek için:
       
     ![Enter user information in the New user card](../media/f04d39ca-48be-4868-8330-8552a4754c8b.png)
       
-    Ürün lisansları bölümünde, **Microsoft 365 İş** ürün lisans ayarını **A.B.D.** olarak ayarlayın.
+    Ürün lisansları bölümünde, **Microsoft 365 Business Premium** ürün lisans ayarını **Ayarı'na**ayarlayın.
       
     ![Set the license setting to On position](../media/7404f7f7-93bc-44a3-9ffb-4208b5b17402.png)
   

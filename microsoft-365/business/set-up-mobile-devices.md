@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 İş kullanıcıları için mobil cihazları ayarlama
+title: Microsoft 365 için iş kullanıcıları için mobil aygıtlar ayarlama
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -23,25 +23,25 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
-description: Office'i bir iPhone'a veya Android telefona yükleyin ve Office uygulamalarındaki iş dosyalarınız Microsoft 365 Business tarafından korunacaktır.
-ms.openlocfilehash: 36cc3cb9b35cb5746a4147509f17e4f4d7909617
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Office'i bir iPhone'a veya Android telefona yükleyin ve Office uygulamalarındaki iş dosyalarınız iş için Microsoft 365 tarafından korunacaktır.
+ms.openlocfilehash: 1263a922ba41083511fec8030634ed6cfaf70f00
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42089489"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43632577"
 ---
-# <a name="set-up-mobile-devices-for-microsoft-365-business-users"></a>Microsoft 365 İş kullanıcıları için mobil cihazları ayarlama
+# <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>Microsoft 365 için iş kullanıcıları için mobil aygıtlar ayarlama
 
-iPhone'a veya Android telefona Office'i yüklemek için sekmelerdeki yönergeleri izleyin. Bu adımları izledikten sonra, Office uygulamalarında oluşturulan çalışma dosyalarınız Microsoft 365 Business tarafından korunur.
+iPhone'a veya Android telefona Office'i yüklemek için sekmelerdeki yönergeleri izleyin. Bu adımları izledikten sonra, Office uygulamalarında oluşturulan iş dosyalarınız iş için Microsoft 365 tarafından korunur.
 
 Bu örnek Outlook üzerinden hazırlanmıştır, ancak bahsedilen işlemler yüklemek istediğiniz diğer tüm Office uygulamaları için geçerlidir.
   
 ## <a name="set-up-mobile-devices"></a>Mobil cihazları ayarlama
 
-## <a name="iphonetabiphone"></a>[Iphone](#tab/iPhone)
+## <a name="iphone"></a>[Iphone](#tab/iPhone)
   
-Microsoft 365 Business ile iOS aygıtlarında Office uygulamalarını nasıl ayarlayabilirsiniz hakkında kısa bir video izleyin.<br><br>
+İş için Microsoft 365 ile iOS aygıtlarında Office uygulamalarını nasıl ayarlayıp kurabilirsiniz hakkında kısa bir video izleyin.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWee2n] 
 
@@ -59,7 +59,7 @@ Yükleme tamamlandığında, **Aç** düğmesine dokunarak Outlook'u açın ve a
   
 ![Screenshot of Outlook with Get Started button](../media/005bedec-ae50-4d75-b3bb-e7cef9e2561c.png)
   
-Enter your work email address on the **Add Email Account** screen \> **Add Account**, and then enter your Microsoft 365 Business credentials \> **Sign in**.
+İş e-posta adresinizi **E-posta Hesabı** \> **Ekle**ekranına girin ve ardından \> iş kimlik bilgileri için Microsoft 365'inizi girin **Oturum açın.**
   
 ![Sign in to your work account](../media/3cef1fb5-7bec-4d3d-8542-872b731ce19f.png)
   
@@ -71,7 +71,7 @@ iPhone'da Outlook'u bulun ve yeniden başlatın. İstendiğinde, bir PIN girin v
   
 ![Set a PIN to access your organization's data](../media/64f2630b-3164-47a4-9dd6-ca0c29ed5fb3.png)
   
-## <a name="androidtabandroid"></a>[Android](#tab/Android)
+## <a name="android"></a>[Android](#tab/Android)
   
 Outlook ve Office'i Android cihazlara yükleme hakkında bir video izleyin.<br><br>
 
@@ -87,7 +87,7 @@ Google Play arama kutusuna Microsoft Outlook'u girin ve **Yükle'ye**dokunun. Ou
   
 ![Tap Open to open Outlook app](../media/8b4c5937-8875-4b5a-a5b6-b8c6c9cd6240.png)
   
-Outlook **uygulamasında, Başlat'a**dokunun, ardından Microsoft 365 \> Business e-posta **hesabınızı**ekleyin ve kuruluş kimlik bilgilerinizle oturum açın.
+Outlook uygulamasında, **Başlat'a**dokunun, ardından iş e-posta \> hesabı için Microsoft 365'inizi ekleyin **ve**kuruluş kimlik bilgilerinizle oturum açın.
   
 ![Sign in to your organizational account in Outlook](../media/18f67c66-4bab-4b99-94bd-080839312e29.png)
   
@@ -105,6 +105,6 @@ Outlook'u yeniden açın, PIN'i girin ve onaylayın. Outlook uygulamanız artık
 
 ## <a name="see-also"></a>Ayrıca bkz.
 
-[Microsoft 365 İş eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[İş eğitimi videoları için Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
 
 ---

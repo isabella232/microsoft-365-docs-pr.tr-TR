@@ -24,13 +24,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: Microsoft 365 Business'taki Yönetici evindeki Aygıt eylemleri listesindeki çeşitli aygıt durumları hakkında bilgi edinin.
-ms.openlocfilehash: bed1610814ca0d60adb4b4b3d0018e3e7e6d763f
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: İşletmeler için Microsoft 365'teki Yönetici evindeki Aygıt eylemleri listesindeki çeşitli aygıt durumları hakkında bilgi edinin.
+ms.openlocfilehash: 1a66e76dd3a74428923292427b01551db2449e48
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560830"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627256"
 ---
 # <a name="device-states"></a>Cihaz durumları
 
@@ -40,9 +40,9 @@ ms.locfileid: "42560830"
   
 |**Durum**|**Açıklama**|
 |:-----|:-----|
-|Intune tarafından yönetilen  <br/> |Microsoft 365 İş tarafından yönetilir.  <br/> |
-|Devre dışı bırakma bekliyor  <br/> |Microsoft 365 İş, cihazdan şirket verilerini kaldırmaya hazırlanıyor.  <br/> |
-|Devre dışı bırakma sürüyor  <br/> |Microsoft 365 İş şu anda cihazdan şirket verilerini kaldırıyor.  <br/> |
+|Intune tarafından yönetilen  <br/> |Microsoft 365 Business Premium tarafından yönetildi.  <br/> |
+|Devre dışı bırakma bekliyor  <br/> |Microsoft 365 Business Premium, şirket verilerini aygıttan kaldırmaya hazırlanıyor.  <br/> |
+|Devre dışı bırakma sürüyor  <br/> |Microsoft 365 Business Premium şu anda şirket verilerini aygıttan kaldırıyor.  <br/> |
 |Devre dışı bırakma başarısız  <br/> | Şirket verilerini kaldırma işlemi başarısız oldu.  <br/> |
 |Emekli iptal edildi  <br/> |Emekli eylemi iptal edildi.  <br/> |
 |Temizleme işlemi beklemede  <br/> |Fabrika sıfırlamasının başlatılması bekleniyor.  <br/> |
@@ -51,5 +51,5 @@ ms.locfileid: "42560830"
 |Silme iptal edildi  <br/> |Fabrika silme iptal edildi.  <br/> |
 |Uygun olmayan durumda  <br/> |Bir eylem beklemede (veya devam ediyor), ancak aygıt 30+ gündür iade edilmedi.  <br/> |
 |Silme bekliyor  <br/> |Silme eylemi bekliyor.  <br/> |
-|Bulundu  <br/> |Microsoft 365 İş cihazı algılamıştır.  <br/> |
+|Bulundu  <br/> |Microsoft 365 Business Premium cihazı algılamıştır.  <br/> |
    

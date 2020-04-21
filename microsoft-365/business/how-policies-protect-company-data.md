@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Business'da ilkelerle şirket verilerinin korunması
+title: İşletmeler için Microsoft 365'teki ilkeler şirket verilerini nasıl korur?
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -26,14 +26,14 @@ search.appverid:
 - MOE150
 ms.assetid: 665485be-2389-4f1d-9ef8-dbef19c6acdf
 description: Kullanıcıların kişisel cihazlarındaki şirket verilerini korumak için, belirli aygıtları ve güvenlik gruplarını hedefleyen ilkeler kullanın.
-ms.openlocfilehash: c33d228fef5e138f94810faf1174ea3243277f4d
-ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
+ms.openlocfilehash: aa7447ae4547ba3180d5d5ebbe18e2840947a1d5
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "41593911"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627156"
 ---
-# <a name="how-policies-in-microsoft-365-business-protect-company-data"></a>Microsoft 365 Business'da ilkelerle şirket verilerinin korunması
+# <a name="how-policies-in-microsoft-365-for-business-protect-company-data"></a>İşletmeler için Microsoft 365'teki ilkeler şirket verilerini nasıl korur?
 
 Oluşturduğunuz ilkeler cihaz türüne özeldir ve belirli kullanıcı gruplarına uygulanabilir. Bu, yöneticileriniz için ayrı bir ilke oluşturup diğer herkes için ise farklı ilkeler oluşturabileceğiniz anlamına gelir.
   

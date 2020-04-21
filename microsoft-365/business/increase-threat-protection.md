@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Business için tehdit korumayı artırın
+title: İşletmeler için Microsoft 365 için tehdit korumayı artırın
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -21,18 +21,18 @@ search.appverid:
 - BCS160
 - MET150
 description: Office 365 Gelişmiş Tehdit Koruması'nı ayarlayın ve hassas verileri kimlik avı, kötü amaçlı yazılım ve diğer tehditlere karşı koruyun.
-ms.openlocfilehash: 17425de3f6e0022945899a559cf88575b6315a56
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: 2dd75b20bf203b9b8f0cdefb2459c45d1d0ccec1
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561620"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627136"
 ---
 # <a name="increase-threat-protection"></a>Tehdit korumayı artırın
 
 Bu makale, kimlik avı, kötü amaçlı yazılım ve diğer tehditlere karşı koruma sağlamak için Microsoft 365 aboneliğinizdeki korumayı artırmanıza yardımcı olur. Bu öneriler, hukuk büroları ve sağlık klinikleri gibi güvenlik ihtiyacı artan kuruluşlar için uygundur.
 
-Başlamadan önce Office 365 Güvenli Puanınızı kontrol edin. Office 365 Secure Score, düzenli etkinliklerinize ve güvenlik ayarlarınıza göre Office 365 kuruluşunuzun güvenliğini analiz eder ve bir puan atar. Geçerli puanınızı dikkate alarak başlayın. Puanınızı artırmak için bu makalede önerilen eylemleri tamamlayın. Amaç maksimum puanı elde etmek değil, çevrenizi korumak için kullanıcılarınızın üretkenliğini olumsuz etkilemeyen fırsatların farkında olmaktır. 
+Başlamadan önce Office 365 Güvenli Puanınızı kontrol edin. Office 365 Secure Score, düzenli etkinliklerinize ve güvenlik ayarlarınıza göre kuruluşunuzun güvenliğini analiz eder ve bir puan atar. Geçerli puanınızı dikkate alarak başlayın. Puanınızı artırmak için bu makalede önerilen eylemleri tamamlayın. Amaç maksimum puanı elde etmek değil, çevrenizi korumak için kullanıcılarınızın üretkenliğini olumsuz etkilemeyen fırsatların farkında olmaktır. 
 
 Daha fazla bilgi için [Microsoft Secure Score'a](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)bakın.
 
@@ -42,7 +42,7 @@ Office 365 veya Microsoft 365 ortamınız kötü amaçlı yazılıma karşı kor
   
 1. Yönetici [https://protection.office.com](https://protection.office.com) hesap kimlik bilgilerinizle oturum açın. 
     
-2. Office 365 Güvenlik &amp; Uyumluluk Merkezi'nde, sol navigasyon bölmesinde, **Tehdit yönetimi**altında, **Politika** \> **Anti-Malware**seçin.
+2. Güvenlik &amp; Uyumluluk Merkezi'nde, sol navigasyon bölmesinde, **Tehdit yönetimi**altında, **Politika** \> **Anti-Malware**seçin.
     
 3. Şirket genelinde ki bu ilkeyi yeniden yapmak için varsayılan ilkeyi çift tıklatın.
     
@@ -87,7 +87,7 @@ Posta aktarım kuralı oluşturmak için:
 |Aşağıdakileri yapın. . .  <br/> |Alıcıya bir ileti bildirme  <br/> |
 |İleti metni sağlama  <br/> |Kötü amaçlı kodiçeren makrolar içerebileceğinden tanımadığınız kişilerden bu tür dosyaları açmayın.  <br/> |
    
-Daha fazla bilgi için bkz.
+Daha fazla bilgi için bkz.:
   
 - [Nasıl ransomware ile başa çıkmak için](https://go.microsoft.com/fwlink/?linkid=2016501)
     
@@ -130,7 +130,7 @@ Bir ATP kimlik avı önleme ilkesi oluşturmak için [bu kısa eğitim videosunu
   
 1. [https://protection.office.com](https://protection.office.com) adresine gidin. 
     
-2. Office 365 Güvenlik &amp; Uyumluluk Merkezi'nde, sol navigasyon bölmesinde, **Tehdit yönetimi**altında, **İlke'yi**seçin.
+2. Güvenlik &amp; Uyumluluk Merkezi'nde, tehdit **yönetimi**altında sol gezinti bölmesinde, **İlke'yi**seçin.
     
 3. **İlke** **sayfasında, ATP anti-phishing'i**seçin.
     
@@ -160,7 +160,7 @@ BIR ATP güvenli eki ilkesi oluşturmak [için, bu kısa videoyu](https://suppor
   
 1. Yönetici [https://protection.office.com](https://protection.office.com)hesabınıza gidin ve oturum açın. 
     
-2. Office 365 Güvenlik &amp; Uyumluluk Merkezi'nde, sol navigasyon bölmesinde, **Tehdit yönetimi**altında, **İlke'yi**seçin.
+2. Güvenlik &amp; Uyumluluk Merkezi'nde, tehdit **yönetimi**altında sol gezinti bölmesinde, **İlke'yi**seçin.
     
 3. İlke **sayfasında, ATP güvenli ekleri**seçin.
     
@@ -183,8 +183,6 @@ BIR ATP güvenli eki ilkesi oluşturmak [için, bu kısa videoyu](https://suppor
    
 Daha fazla bilgi için [bkz.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies)
   
-
-
 ## <a name="protect-against-phishing-attacks-with-atp-safe-links"></a>ATP Güvenli Bağlantıları ile kimlik avı saldırılarına karşı koruma
 
 Bilgisayar korsanları bazen kötü amaçlı web sitelerini e-posta veya diğer dosyalardaki bağlantılarda gizler. Office 365 Gelişmiş Tehdit Koruması'nın bir parçası olan Office 365 ATP Güvenli Bağlantılar (ATP Güvenli Bağlantılar), e-posta iletilerinde ve Office belgelerinde web adreslerinin (URL'ler) tıklattıka doğrulanmasını sağlayarak kuruluşunuzun korunmasına yardımcı olabilir. Koruma, ATP Güvenli Bağlantılar ilkeleri yle tanımlanır.
@@ -199,7 +197,7 @@ ATP Güvenli Bağlantılar'ı kurmak için [bu kısa eğitim videosunu](https://
   
 1. Yönetici [https://protection.office.com](https://protection.office.com)hesabınıza gidin ve oturum açın. 
     
-2. Office 365 Güvenlik &amp; Uyumluluk Merkezi'nde, sol navigasyon bölmesinde, **Tehdit yönetimi**altında, **İlke'yi**seçin.
+2. Güvenlik &amp; Uyumluluk Merkezi'nde, tehdit **yönetimi**altında sol gezinti bölmesinde, **İlke'yi**seçin.
     
 3. İlke **sayfasında, ATP Güvenli Bağlantılar'ı**seçin.
     
@@ -207,7 +205,7 @@ Varsayılan ilkeyi değiştirmek için:
   
 1. Güvenli bağlantılar sayfasında, **tüm kuruluş için geçerli olan İlkeler**altında **Varsayılan** ilkeyi seçin. 
     
-2. **E-posta dışındaki içeriğe uygulanan Ayarlar**altında, **iOS ve Android için Office, Office 365 ProPlus'ı**seçin.
+2. **E-posta dışındaki içeriğe uygulanan Ayarlar**altında, **kurumsal, iOS için Office ve Android için Microsoft 365 Uygulamaları'nı**seçin.
     
 3. **Kaydet**'i seçin. 
     

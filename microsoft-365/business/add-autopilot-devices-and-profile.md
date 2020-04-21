@@ -24,12 +24,12 @@ search.appverid:
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: İşletmeniz için çalışanların kullanımına hazır olmaları için yeni Windows 10 aygıtları ayarlamak için Windows AutoPilot'u nasıl kullanacağınızı öğrenin.
-ms.openlocfilehash: 3b1cf297914862aaa74fdf9a8bb7290d00f73b1d
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: 98a2bfc721ce86c81ebd89e8f41603e619b31546
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561590"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627504"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>AutoPilot cihaz ve profilleri eklemek için adım adım kılavuzu kullanın.
 
@@ -59,7 +59,7 @@ Henüz aygıt grupları veya profiller oluşturmadıysanız, başlamanın en iyi
     
     ![Click Start guide for step-by-step instructions for Autopilot.](../media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   
-3. Cihazların **listesi sayfasının bulunduğu Upload .csv dosyasında,** hazır bulunduğunuz konuma göz atın. CSV dosyası, ardından \> **Sonraki'ni Aç.** **** Dosyanın üç üstbilgi olmalıdır:
+3. Cihazların **listesi sayfasının bulunduğu Upload .csv dosyasında,** hazır bulunduğunuz konuma göz atın. CSV dosyası, ardından \> **Sonraki'ni Aç.** **Next** Dosyanın üç üstbilgi olmalıdır:
     
     - A sütunu: Cihaz Seri Numarası
     
@@ -81,7 +81,7 @@ Henüz aygıt grupları veya profiller oluşturmadıysanız, başlamanın en iyi
     
     - Şirketinizin markasıyla oturum açma deneyimi oluşturma.
     
-    - Aygıtlarınızı Azure Active Directory hesaplarına bağlayın ve otomatik olarak Microsoft 365 Business tarafından yönetilecek şekilde kaydedin.
+    - Cihazlarınızı Azure Active Directory hesaplarına bağlayın ve otomatik olarak Microsoft 365 Business Premium tarafından yönetilecek şekilde kaydedin.
     
     Daha fazla bilgi için [Otomatik Pilot Profil ayarları hakkında](autopilot-profile-settings.md)bilgi sahibi olayın. 
     
