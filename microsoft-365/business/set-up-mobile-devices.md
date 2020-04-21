@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 İş kullanıcıları için mobil cihazları ayarlama
+title: Microsoft 365 için iş kullanıcıları için mobil aygıtlar ayarlama
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -23,88 +23,88 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
-description: Office'i bir iPhone'a veya Android telefona yükleyin ve Office uygulamalarındaki iş dosyalarınız Microsoft 365 Business tarafından korunacaktır.
-ms.openlocfilehash: 36cc3cb9b35cb5746a4147509f17e4f4d7909617
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Office'i bir iPhone'a veya Android telefona yükleyin ve Office uygulamalarındaki iş dosyalarınız iş için Microsoft 365 tarafından korunacaktır.
+ms.openlocfilehash: 1263a922ba41083511fec8030634ed6cfaf70f00
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42089489"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43632577"
 ---
-# <a name="set-up-mobile-devices-for-microsoft-365-business-users"></a><span data-ttu-id="f1db6-103">Microsoft 365 İş kullanıcıları için mobil cihazları ayarlama</span><span class="sxs-lookup"><span data-stu-id="f1db6-103">Set up mobile devices for Microsoft 365 Business users</span></span>
+# <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a><span data-ttu-id="472d7-103">Microsoft 365 için iş kullanıcıları için mobil aygıtlar ayarlama</span><span class="sxs-lookup"><span data-stu-id="472d7-103">Set up mobile devices for Microsoft 365 for business users</span></span>
 
-<span data-ttu-id="f1db6-p101">iPhone'a veya Android telefona Office'i yüklemek için sekmelerdeki yönergeleri izleyin. Bu adımları izledikten sonra, Office uygulamalarında oluşturulan çalışma dosyalarınız Microsoft 365 Business tarafından korunur.</span><span class="sxs-lookup"><span data-stu-id="f1db6-p101">Follow the instructions in the tabs to install Office on an iPhone or an Android phone. After you follow these steps, your work files created in Office apps will be protected by Microsoft 365 Business.</span></span>
+<span data-ttu-id="472d7-104">iPhone'a veya Android telefona Office'i yüklemek için sekmelerdeki yönergeleri izleyin.</span><span class="sxs-lookup"><span data-stu-id="472d7-104">Follow the instructions in the tabs to install Office on an iPhone or an Android phone.</span></span> <span data-ttu-id="472d7-105">Bu adımları izledikten sonra, Office uygulamalarında oluşturulan iş dosyalarınız iş için Microsoft 365 tarafından korunur.</span><span class="sxs-lookup"><span data-stu-id="472d7-105">After you follow these steps, your work files created in Office apps will be protected by Microsoft 365 for business.</span></span>
 
-<span data-ttu-id="f1db6-106">Bu örnek Outlook üzerinden hazırlanmıştır, ancak bahsedilen işlemler yüklemek istediğiniz diğer tüm Office uygulamaları için geçerlidir.</span><span class="sxs-lookup"><span data-stu-id="f1db6-106">The example is for Outlook, but applies for any other Office apps you want to install also.</span></span>
+<span data-ttu-id="472d7-106">Bu örnek Outlook üzerinden hazırlanmıştır, ancak bahsedilen işlemler yüklemek istediğiniz diğer tüm Office uygulamaları için geçerlidir.</span><span class="sxs-lookup"><span data-stu-id="472d7-106">The example is for Outlook, but applies for any other Office apps you want to install also.</span></span>
   
-## <a name="set-up-mobile-devices"></a><span data-ttu-id="f1db6-107">Mobil cihazları ayarlama</span><span class="sxs-lookup"><span data-stu-id="f1db6-107">Set up mobile devices</span></span>
+## <a name="set-up-mobile-devices"></a><span data-ttu-id="472d7-107">Mobil cihazları ayarlama</span><span class="sxs-lookup"><span data-stu-id="472d7-107">Set up mobile devices</span></span>
 
-## <a name="iphonetabiphone"></a>[<span data-ttu-id="f1db6-108">Iphone</span><span class="sxs-lookup"><span data-stu-id="f1db6-108">iPhone</span></span>](#tab/iPhone)
+## <a name="iphone"></a>[<span data-ttu-id="472d7-108">Iphone</span><span class="sxs-lookup"><span data-stu-id="472d7-108">iPhone</span></span>](#tab/iPhone)
   
-<span data-ttu-id="f1db6-109">Microsoft 365 Business ile iOS aygıtlarında Office uygulamalarını nasıl ayarlayabilirsiniz hakkında kısa bir video izleyin.</span><span class="sxs-lookup"><span data-stu-id="f1db6-109">Watch a short video on how to set up Office apps on iOS devices with Microsoft 365 Business.</span></span><br><br>
+<span data-ttu-id="472d7-109">İş için Microsoft 365 ile iOS aygıtlarında Office uygulamalarını nasıl ayarlayıp kurabilirsiniz hakkında kısa bir video izleyin.</span><span class="sxs-lookup"><span data-stu-id="472d7-109">Watch a short video on how to set up Office apps on iOS devices with Microsoft 365 for business.</span></span><br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWee2n] 
 
-<span data-ttu-id="f1db6-110">Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  </span><span class="sxs-lookup"><span data-stu-id="f1db6-110">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span></span>
+<span data-ttu-id="472d7-110">Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  </span><span class="sxs-lookup"><span data-stu-id="472d7-110">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span></span>
 
-<span data-ttu-id="f1db6-111">**App Store**'a gidin ve arama alanına Microsoft Outlook yazın.</span><span class="sxs-lookup"><span data-stu-id="f1db6-111">Go to **App store**, and in the search field type in Microsoft Outlook.</span></span>
+<span data-ttu-id="472d7-111">**App Store**'a gidin ve arama alanına Microsoft Outlook yazın.</span><span class="sxs-lookup"><span data-stu-id="472d7-111">Go to **App store**, and in the search field type in Microsoft Outlook.</span></span>
   
 ![Go to the iPhone App Store](../media/886913de-76e5-4883-8ed0-4eb3ec06188f.png)
   
-<span data-ttu-id="f1db6-113">Bulut simgesine dokunarak Outlook'u yükleyin.</span><span class="sxs-lookup"><span data-stu-id="f1db6-113">Tap the cloud icon to install Outlook.</span></span>
+<span data-ttu-id="472d7-113">Bulut simgesine dokunarak Outlook'u yükleyin.</span><span class="sxs-lookup"><span data-stu-id="472d7-113">Tap the cloud icon to install Outlook.</span></span>
   
 ![Tap the cloud icon to install Outlook](../media/665e1620-948a-4ab8-b914-dca49530142c.png)
   
-<span data-ttu-id="f1db6-115">Yükleme tamamlandığında, **Aç** düğmesine dokunarak Outlook'u açın ve ardından **Başlarken**'e dokunun.</span><span class="sxs-lookup"><span data-stu-id="f1db6-115">When the installation is done, tap the **Open** button to open Outlook and then tap **Get Started**.</span></span>
+<span data-ttu-id="472d7-115">Yükleme tamamlandığında, **Aç** düğmesine dokunarak Outlook'u açın ve ardından **Başlarken**'e dokunun.</span><span class="sxs-lookup"><span data-stu-id="472d7-115">When the installation is done, tap the **Open** button to open Outlook and then tap **Get Started**.</span></span>
   
 ![Screenshot of Outlook with Get Started button](../media/005bedec-ae50-4d75-b3bb-e7cef9e2561c.png)
   
-<span data-ttu-id="f1db6-117">Enter your work email address on the **Add Email Account** screen \> **Add Account**, and then enter your Microsoft 365 Business credentials \> **Sign in**.</span><span class="sxs-lookup"><span data-stu-id="f1db6-117">Enter your work email address on the **Add Email Account** screen \> **Add Account**, and then enter your Microsoft 365 Business credentials \> **Sign in**.</span></span>
+<span data-ttu-id="472d7-117">İş e-posta adresinizi **E-posta Hesabı** \> **Ekle**ekranına girin ve ardından \> iş kimlik bilgileri için Microsoft 365'inizi girin **Oturum açın.**</span><span class="sxs-lookup"><span data-stu-id="472d7-117">Enter your work email address on the **Add Email Account** screen \> **Add Account**, and then enter your Microsoft 365 for business credentials \> **Sign in**.</span></span>
   
 ![Sign in to your work account](../media/3cef1fb5-7bec-4d3d-8542-872b731ce19f.png)
   
-<span data-ttu-id="f1db6-119">Kuruluşunuz uygulamalardaki dosyaları koruyorsa, kuruluşunuzun artık uygulamadaki verileri koruduğunu ve kullanmaya devam etmek için uygulamayı yeniden başlatmanız gerektiğini belirten bir iletişim kutusu görürsünüz.</span><span class="sxs-lookup"><span data-stu-id="f1db6-119">If your organization is protecting files in apps, you'll see a dialog stating that your organization is now protecting the data in the app and you need to restart the app to continue to use it.</span></span> <span data-ttu-id="f1db6-120">**Tamam**'a dokunun ve Outlook'u kapatın.</span><span class="sxs-lookup"><span data-stu-id="f1db6-120">Tap **OK** and close Outlook.</span></span> 
+<span data-ttu-id="472d7-119">Kuruluşunuz uygulamalardaki dosyaları koruyorsa, kuruluşunuzun artık uygulamadaki verileri koruduğunu ve kullanmaya devam etmek için uygulamayı yeniden başlatmanız gerektiğini belirten bir iletişim kutusu görürsünüz.</span><span class="sxs-lookup"><span data-stu-id="472d7-119">If your organization is protecting files in apps, you'll see a dialog stating that your organization is now protecting the data in the app and you need to restart the app to continue to use it.</span></span> <span data-ttu-id="472d7-120">**Tamam**'a dokunun ve Outlook'u kapatın.</span><span class="sxs-lookup"><span data-stu-id="472d7-120">Tap **OK** and close Outlook.</span></span> 
   
 ![Kuruluşunuzun artık Outlook uygulamanızı koruduğunun ekran görüntüsü](../media/fb4c1c84-b1e9-42e1-8070-c13dcf79fb09.png)
   
-<span data-ttu-id="f1db6-122">iPhone'da Outlook'u bulun ve yeniden başlatın.</span><span class="sxs-lookup"><span data-stu-id="f1db6-122">Locate Outlook on the iPhone, and restart it.</span></span> <span data-ttu-id="f1db6-123">İstendiğinde, bir PIN girin ve doğrulayın.</span><span class="sxs-lookup"><span data-stu-id="f1db6-123">When prompted, enter a PIN and verify it.</span></span> <span data-ttu-id="f1db6-124">iPhone'unuzdaki Outlook artık kullanıma hazırdır.</span><span class="sxs-lookup"><span data-stu-id="f1db6-124">Outlook on your iPhone is now ready to be used.</span></span>
+<span data-ttu-id="472d7-122">iPhone'da Outlook'u bulun ve yeniden başlatın.</span><span class="sxs-lookup"><span data-stu-id="472d7-122">Locate Outlook on the iPhone, and restart it.</span></span> <span data-ttu-id="472d7-123">İstendiğinde, bir PIN girin ve doğrulayın.</span><span class="sxs-lookup"><span data-stu-id="472d7-123">When prompted, enter a PIN and verify it.</span></span> <span data-ttu-id="472d7-124">iPhone'unuzdaki Outlook artık kullanıma hazırdır.</span><span class="sxs-lookup"><span data-stu-id="472d7-124">Outlook on your iPhone is now ready to be used.</span></span>
   
 ![Set a PIN to access your organization's data](../media/64f2630b-3164-47a4-9dd6-ca0c29ed5fb3.png)
   
-## <a name="androidtabandroid"></a>[<span data-ttu-id="f1db6-126">Android</span><span class="sxs-lookup"><span data-stu-id="f1db6-126">Android</span></span>](#tab/Android)
+## <a name="android"></a>[<span data-ttu-id="472d7-126">Android</span><span class="sxs-lookup"><span data-stu-id="472d7-126">Android</span></span>](#tab/Android)
   
-<span data-ttu-id="f1db6-127">Outlook ve Office'i Android cihazlara yükleme hakkında bir video izleyin.</span><span class="sxs-lookup"><span data-stu-id="f1db6-127">Watch a video about installing Outlook and Office on Android devices.</span></span><br><br>
+<span data-ttu-id="472d7-127">Outlook ve Office'i Android cihazlara yükleme hakkında bir video izleyin.</span><span class="sxs-lookup"><span data-stu-id="472d7-127">Watch a video about installing Outlook and Office on Android devices.</span></span><br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/ecc2e9c0-bc7e-4f26-8b14-91d84dbcfef0] 
 
-<span data-ttu-id="f1db6-128">Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  </span><span class="sxs-lookup"><span data-stu-id="f1db6-128">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span></span>
+<span data-ttu-id="472d7-128">Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  </span><span class="sxs-lookup"><span data-stu-id="472d7-128">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span></span>
 
-<span data-ttu-id="f1db6-129">Android telefonunuzda kuruluma başlamak için Play Store'a gidin.</span><span class="sxs-lookup"><span data-stu-id="f1db6-129">To begin setup on your Android phone, go to the Play Store.</span></span>
+<span data-ttu-id="472d7-129">Android telefonunuzda kuruluma başlamak için Play Store'a gidin.</span><span class="sxs-lookup"><span data-stu-id="472d7-129">To begin setup on your Android phone, go to the Play Store.</span></span>
   
 ![On the Android home screen, tap Play Store](../media/93df88e7-c778-40e1-b35e-868ca6e97f6c.png)
   
-<span data-ttu-id="f1db6-131">Google Play arama kutusuna Microsoft Outlook'u girin ve **Yükle'ye**dokunun.</span><span class="sxs-lookup"><span data-stu-id="f1db6-131">Enter Microsoft Outlook in the Google Play search box and tap **Install**.</span></span> <span data-ttu-id="f1db6-132">Outlook yüklemeyi bitirdikten sonra **Aç'a**dokunun.</span><span class="sxs-lookup"><span data-stu-id="f1db6-132">Once Outlook is done installing, tap **Open**.</span></span>
+<span data-ttu-id="472d7-131">Google Play arama kutusuna Microsoft Outlook'u girin ve **Yükle'ye**dokunun.</span><span class="sxs-lookup"><span data-stu-id="472d7-131">Enter Microsoft Outlook in the Google Play search box and tap **Install**.</span></span> <span data-ttu-id="472d7-132">Outlook yüklemeyi bitirdikten sonra **Aç'a**dokunun.</span><span class="sxs-lookup"><span data-stu-id="472d7-132">Once Outlook is done installing, tap **Open**.</span></span>
   
 ![Tap Open to open Outlook app](../media/8b4c5937-8875-4b5a-a5b6-b8c6c9cd6240.png)
   
-<span data-ttu-id="f1db6-134">Outlook **uygulamasında, Başlat'a**dokunun, ardından Microsoft 365 \> Business e-posta **hesabınızı**ekleyin ve kuruluş kimlik bilgilerinizle oturum açın.</span><span class="sxs-lookup"><span data-stu-id="f1db6-134">In the Outlook app, tap **Get Started**, then add your Microsoft 365 Business email account \> **Continue**, and sign in with your organization credentials.</span></span>
+<span data-ttu-id="472d7-134">Outlook uygulamasında, **Başlat'a**dokunun, ardından iş e-posta \> hesabı için Microsoft 365'inizi ekleyin **ve**kuruluş kimlik bilgilerinizle oturum açın.</span><span class="sxs-lookup"><span data-stu-id="472d7-134">In the Outlook app, tap **Get Started**, then add your Microsoft 365 for business email account \> **Continue**, and sign in with your organization credentials.</span></span>
   
 ![Sign in to your organizational account in Outlook](../media/18f67c66-4bab-4b99-94bd-080839312e29.png)
   
-<span data-ttu-id="f1db6-136">Intune Şirket Portalı uygulamasını yüklemeniz gerektiğini belirten iletişim kutusunda **Mağazaya git**'e dokunun.</span><span class="sxs-lookup"><span data-stu-id="f1db6-136">In the dialog that states you must install the Intune Company Portal app, tap **Go to store**.</span></span>
+<span data-ttu-id="472d7-136">Intune Şirket Portalı uygulamasını yüklemeniz gerektiğini belirten iletişim kutusunda **Mağazaya git**'e dokunun.</span><span class="sxs-lookup"><span data-stu-id="472d7-136">In the dialog that states you must install the Intune Company Portal app, tap **Go to store**.</span></span>
   
 ![Tap on Go to store to get Intune Company Portal app](../media/a702d712-5622-45dd-a511-b1adaee63071.png)
   
-<span data-ttu-id="f1db6-138">Play Store'da Intune Company Portal'ı yükleyin.</span><span class="sxs-lookup"><span data-stu-id="f1db6-138">In Play Store, install Intune Company Portal.</span></span>
+<span data-ttu-id="472d7-138">Play Store'da Intune Company Portal'ı yükleyin.</span><span class="sxs-lookup"><span data-stu-id="472d7-138">In Play Store, install Intune Company Portal.</span></span>
   
 ![Screenshot that shows the install button for Intune Company Portal in Google Play Store](../media/5e0408f2-3f37-44dd-80ed-13ca2ac6df0c.png)
   
-<span data-ttu-id="f1db6-p105">Outlook'u yeniden açın, PIN'i girin ve onaylayın. Outlook uygulamanız artık kullanıma hazırdır.</span><span class="sxs-lookup"><span data-stu-id="f1db6-p105">Open Outlook again, and enter and confirm a PIN. Your Outlook app is now ready for use.</span></span>
+<span data-ttu-id="472d7-p105">Outlook'u yeniden açın, PIN'i girin ve onaylayın. Outlook uygulamanız artık kullanıma hazırdır.</span><span class="sxs-lookup"><span data-stu-id="472d7-p105">Open Outlook again, and enter and confirm a PIN. Your Outlook app is now ready for use.</span></span>
   
 ![Set  PIN for Outlook app in Android](../media/edb91afb-f1ed-451a-bc6b-8ccba664e055.png)
 
-## <a name="see-also"></a><span data-ttu-id="f1db6-143">Ayrıca bkz.</span><span class="sxs-lookup"><span data-stu-id="f1db6-143">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="472d7-143">Ayrıca bkz.</span><span class="sxs-lookup"><span data-stu-id="472d7-143">See also</span></span>
 
-[<span data-ttu-id="f1db6-144">Microsoft 365 İş eğitim videoları</span><span class="sxs-lookup"><span data-stu-id="f1db6-144">Microsoft 365 Business training videos</span></span>](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[<span data-ttu-id="472d7-144">İş eğitimi videoları için Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="472d7-144">Microsoft 365 for business training videos</span></span>](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
 
 ---

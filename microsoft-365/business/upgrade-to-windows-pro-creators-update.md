@@ -25,40 +25,40 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: Daha gelişmiş güvenlik ve iş ağı özelliklerinden yararlanmak için Windows cihazlarınızı Windows 10 Pro'ya yükseltmenin yollarını keşfedin.
-ms.openlocfilehash: 3901754d9ef269ae74dbf1893cb62b1ba810919d
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: f0cedda49dbff2a8c2884bb52e240fabfbeb4537
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560670"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43632061"
 ---
-# <a name="upgrade-windows-devices-to-windows-10-pro"></a><span data-ttu-id="c8a67-103">Windows cihazlarını Windows 10 Pro'ya yükseltme</span><span class="sxs-lookup"><span data-stu-id="c8a67-103">Upgrade Windows devices to Windows 10 Pro</span></span>
+# <a name="upgrade-windows-devices-to-windows-10-pro"></a><span data-ttu-id="d95a4-103">Windows cihazlarını Windows 10 Pro'ya yükseltme</span><span class="sxs-lookup"><span data-stu-id="d95a4-103">Upgrade Windows devices to Windows 10 Pro</span></span>
 
-<span data-ttu-id="c8a67-104">Windows aygıtlarını Windows 10 Pro'ya yükseltme hakkında kısa bir video izleyin.</span><span class="sxs-lookup"><span data-stu-id="c8a67-104">Watch a short video about upgrading Windows devices to Windows 10 Pro.</span></span><br><br>
+<span data-ttu-id="d95a4-104">Windows aygıtlarını Windows 10 Pro'ya yükseltme hakkında kısa bir video izleyin.</span><span class="sxs-lookup"><span data-stu-id="d95a4-104">Watch a short video about upgrading Windows devices to Windows 10 Pro.</span></span><br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
 
-<span data-ttu-id="c8a67-105">Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  </span><span class="sxs-lookup"><span data-stu-id="c8a67-105">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span></span>
+<span data-ttu-id="d95a4-105">Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  </span><span class="sxs-lookup"><span data-stu-id="d95a4-105">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span></span>
 
-## <a name="upgrade-to-windows-10-pro"></a><span data-ttu-id="c8a67-106">Windows 10 Pro'ya yükseltme</span><span class="sxs-lookup"><span data-stu-id="c8a67-106">Upgrade to Windows 10 Pro</span></span>
+## <a name="upgrade-to-windows-10-pro"></a><span data-ttu-id="d95a4-106">Windows 10 Pro'ya yükseltme</span><span class="sxs-lookup"><span data-stu-id="d95a4-106">Upgrade to Windows 10 Pro</span></span>
   
-<span data-ttu-id="c8a67-107">Windows 10 Pro'ya yükseltmek için birkaç seçeneğiniz vardır.</span><span class="sxs-lookup"><span data-stu-id="c8a67-107">To upgrade to Windows 10 Pro, you have several options.</span></span> <span data-ttu-id="c8a67-108">Şunları yapabilirsiniz:</span><span class="sxs-lookup"><span data-stu-id="c8a67-108">You can:</span></span>
+<span data-ttu-id="d95a4-107">Windows 10 Pro'ya yükseltmek için birkaç seçeneğiniz vardır.</span><span class="sxs-lookup"><span data-stu-id="d95a4-107">To upgrade to Windows 10 Pro, you have several options.</span></span> <span data-ttu-id="d95a4-108">Şunları yapabilirsiniz:</span><span class="sxs-lookup"><span data-stu-id="d95a4-108">You can:</span></span>
     
-- <span data-ttu-id="c8a67-109">[Microsoft Yazılım İndirme sitesinden](https://go.microsoft.com/fwlink/?LinkID=836951 ) &ndash; yükseltmeyi yükleyin Oturum açtığınız aygıt güncelleştirmek istediğiniz aygıtla aynı aygıttaysa bu seçeneği belirleyin.</span><span class="sxs-lookup"><span data-stu-id="c8a67-109">Install the upgrade from the [Microsoft Software Download site](https://go.microsoft.com/fwlink/?LinkID=836951 ) &ndash; Select this option if the device that you're logged in is on the same device as the one you want to update.</span></span> 
+- <span data-ttu-id="d95a4-109">[Microsoft Yazılım İndirme sitesinden](https://go.microsoft.com/fwlink/?LinkID=836951 ) &ndash; yükseltmeyi yükleyin Oturum açtığınız aygıt güncelleştirmek istediğiniz aygıtla aynı aygıttaysa bu seçeneği belirleyin.</span><span class="sxs-lookup"><span data-stu-id="d95a4-109">Install the upgrade from the [Microsoft Software Download site](https://go.microsoft.com/fwlink/?LinkID=836951 ) &ndash; Select this option if the device that you're logged in is on the same device as the one you want to update.</span></span> 
 
-    - <span data-ttu-id="c8a67-110">Yazılım indirme sitesinden, aygıtı Windows 10 Pro Creators Update'e yükseltmeye başlamak için **şimdi Güncelleştir'i** tıklatın.</span><span class="sxs-lookup"><span data-stu-id="c8a67-110">From the software download site, click **Update now** to start upgrading the device to Windows 10 Pro Creators Update.</span></span> 
+    - <span data-ttu-id="d95a4-110">Yazılım indirme sitesinden, aygıtı Windows 10 Pro Creators Update'e yükseltmeye başlamak için **şimdi Güncelleştir'i** tıklatın.</span><span class="sxs-lookup"><span data-stu-id="d95a4-110">From the software download site, click **Update now** to start upgrading the device to Windows 10 Pro Creators Update.</span></span> 
     
-- <span data-ttu-id="c8a67-111">[Medya Oluşturma Aracı'nı](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; kullanarak bir yükleme ortamı oluşturun Windows 10'u kullandığınızdan farklı bir bilgisayara yüklemek için Windows 10 Pro Creators Update yükleme ortamı (USB flash drive veya ISO dosyası) oluşturmak için bu seçeneği belirleyin.</span><span class="sxs-lookup"><span data-stu-id="c8a67-111">Create an installation media using the [Media Creation Tool](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; Select this option to create a Windows 10 Pro Creators Update installation media (USB flash drive or ISO file) to install Windows 10 on a PC that's different from the one you're using.</span></span>
+- <span data-ttu-id="d95a4-111">[Medya Oluşturma Aracı'nı](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; kullanarak bir yükleme ortamı oluşturun Windows 10'u kullandığınızdan farklı bir bilgisayara yüklemek için Windows 10 Pro Creators Update yükleme ortamı (USB flash drive veya ISO dosyası) oluşturmak için bu seçeneği belirleyin.</span><span class="sxs-lookup"><span data-stu-id="d95a4-111">Create an installation media using the [Media Creation Tool](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; Select this option to create a Windows 10 Pro Creators Update installation media (USB flash drive or ISO file) to install Windows 10 on a PC that's different from the one you're using.</span></span>
 
-    - <span data-ttu-id="c8a67-112">Aracı nasıl kullanacağınız ve yükleme ortamınızı oluşturma nızla ilgili talimatları okuyun.</span><span class="sxs-lookup"><span data-stu-id="c8a67-112">Read the instructions on how to use the tool and create your installation media.</span></span> 
+    - <span data-ttu-id="d95a4-112">Aracı nasıl kullanacağınız ve yükleme ortamınızı oluşturma nızla ilgili talimatları okuyun.</span><span class="sxs-lookup"><span data-stu-id="d95a4-112">Read the instructions on how to use the tool and create your installation media.</span></span> 
 
 > [!NOTE]
-> <span data-ttu-id="c8a67-113">Windows 7 Pro, Windows 8 Pro veya Windows 8.1 Pro çalıştıran Windows aygıtlarınız varsa, Microsoft 365 Business aboneliğiniz size Windows Pro 10 yükseltmesi hakkı verir.</span><span class="sxs-lookup"><span data-stu-id="c8a67-113">If you have Windows devices running Windows 7 Pro, Windows 8 Pro, or Windows 8.1 Pro, your Microsoft 365 Business subscription entitles you to a Windows Pro 10 upgrade.</span></span>
+> <span data-ttu-id="d95a4-113">Windows 7 Pro, Windows 8 Pro veya Windows 8.1 Pro çalıştıran Windows aygıtlarınız varsa, iş aboneliği için Microsoft 365'iniz size Windows Pro 10 yükseltmesi hakkı verir.</span><span class="sxs-lookup"><span data-stu-id="d95a4-113">If you have Windows devices running Windows 7 Pro, Windows 8 Pro, or Windows 8.1 Pro, your Microsoft 365 for business subscription entitles you to a Windows Pro 10 upgrade.</span></span>
     
-<span data-ttu-id="c8a67-114">Bkz. Windows 10 aygıtlarını ayarlamayı tamamlamak [için Microsoft 365 Business kullanıcıları için Windows aygıtları](set-up-windows-devices.md) ayarlama.</span><span class="sxs-lookup"><span data-stu-id="c8a67-114">See [Set up Windows devices for Microsoft 365 Business users](set-up-windows-devices.md) to complete setting up Windows 10 devices.</span></span> 
+<span data-ttu-id="d95a4-114">Bkz. İş kullanıcılarının Windows 10 aygıtlarını ayarlamayı tamamlamaları [için Microsoft 365 için Windows aygıtları](set-up-windows-devices.md) ayarlama.</span><span class="sxs-lookup"><span data-stu-id="d95a4-114">See [Set up Windows devices for Microsoft 365 for business users](set-up-windows-devices.md) to complete setting up Windows 10 devices.</span></span> 
   
-<span data-ttu-id="c8a67-115">Bkz. Android ve iOS aygıtlarını ayarlamayı tamamlamak [için Microsoft 365 Business kullanıcıları için mobil cihazlar ayarlama.](set-up-mobile-devices.md)</span><span class="sxs-lookup"><span data-stu-id="c8a67-115">See [Set up mobile devices for Microsoft 365 Business users](set-up-mobile-devices.md) to complete setting up Android and iOS devices.</span></span> 
+<span data-ttu-id="d95a4-115">Bkz. İş kullanıcılarının Android ve iOS aygıtlarını ayarlamayı tamamlamaları [için Microsoft 365 için mobil cihazlar ayarlama.](set-up-mobile-devices.md)</span><span class="sxs-lookup"><span data-stu-id="d95a4-115">See [Set up mobile devices for Microsoft 365 for business users](set-up-mobile-devices.md) to complete setting up Android and iOS devices.</span></span> 
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a><span data-ttu-id="c8a67-116">Microsoft 365 Business'ı kurma ve kullanma hakkında daha fazla şey için</span><span class="sxs-lookup"><span data-stu-id="c8a67-116">For more on setting up and using Microsoft 365 Business</span></span>
+## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a><span data-ttu-id="d95a4-116">İşletmeler için Microsoft 365'i kurma ve kullanma hakkında daha fazla şey için</span><span class="sxs-lookup"><span data-stu-id="d95a4-116">For more on setting up and using Microsoft 365 for business</span></span>
 
-[<span data-ttu-id="c8a67-117">Microsoft 365 İş eğitim videoları</span><span class="sxs-lookup"><span data-stu-id="c8a67-117">Microsoft 365 Business training videos</span></span>](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[<span data-ttu-id="d95a4-117">İş eğitimi videoları için Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="d95a4-117">Microsoft 365 for business training videos</span></span>](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
