@@ -13,12 +13,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, Kobİ, geçiş CSP aboneliği
 ms.date: 11/01/2017
-ms.openlocfilehash: 0a30d80ad5217868fec81866ab1dc41013917e99
-ms.sourcegitcommit: dbbdeca5a6cd048e1bde9e820a8b8a0d6022c7a2
+ms.openlocfilehash: da56ce5bc70dfed5a3e86c739ef3c940b4ac1511
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43504117"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635074"
 ---
 # <a name="transition-a-microsoft-365-business-csp-subscription"></a>Microsoft 365 Business CSP aboneliğine geçiş
 
@@ -91,7 +91,7 @@ Aşağıdaki tablo, uygulama yönetimi politikalarının mobil cihazlar üzerind
 | **Oturum açma başarısız olduğunda PIN'i sıfırlama** | Uygulamalara kısıtlı erişim | Uygulama düzeyinde erişim kısıtlaması yok |
 | **Office uygulamaları boşta kaldıktan sonra kullanıcıların yeniden oturum açmalarını zorunlu kılmasını zorunlu kılmasını** | Oturum açma gerekli | Oturum açma gerekli değildir |
 | **İşletim sistemi kısıtlamaları kaldırılmış veya kök erişim izni verilmiş cihazlardan iş dosyalarına erişilmesini engelle** | Çalışma dosyalarına jailbroken/rooted cihazlarda erişilenemiyor | Çalışma dosyalarına jailbroken/rooted cihazlarda erişilebilir |
-| **Kullanıcıların Office uygulamalarından Kişisel uygulamalara içerik kopyalamasına izin verme** | Microsoft 365 Business aboneliğinin bir parçası olarak kullanılabilen uygulamalarla sınırlı kopyalama/yapıştır | Tüm uygulamaların kullanabileceği kopyalama/yapıştır |
+| **Kullanıcıların Office uygulamalarından Kişisel uygulamalara içerik kopyalamasına izin verme** | Microsoft 365 aboneliğinin bir parçası olarak kullanılabilen uygulamalarla sınırlı kopyalama/yapıştır | Tüm uygulamaların kullanabileceği kopyalama/yapıştır |
 
 ## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>Windows 10 PC abonelik sona erme sırasında etkiler
 

@@ -26,19 +26,19 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 1f468690-530c-47ea-918f-fede24607c53
-description: Microsoft 365 Business'ta AutoPilot aygıt dosyalarıyla çalışırken görebileceğiniz hataları nasıl giderdiğinizi öğrenin.
-ms.openlocfilehash: 8b99e848fa040711785b921d12548f16dadb09af
-ms.sourcegitcommit: 4a34b48584071e0c43c920bb35025e34cb4f5d15
+description: Microsoft 365 Business Premium'da AutoPilot aygıt dosyalarıyla çalışırken görebileceğiniz hataları nasıl giderdiğinizi öğrenin.
+ms.openlocfilehash: 0c0742e5bf17c85cedfb421cabfd87c0e2184ba5
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43212143"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635054"
 ---
 # <a name="troubleshoot-autopilot-device-errors"></a>AutoPilot cihazı sorunlarını giderme
 
 ## <a name="device-file-error-messages"></a>Aygıt dosyası hata iletileri
 
-Microsoft 365 Business'ta AutoPilot aygıt dosyalarıyla çalışırken görebileceğiniz bazı hatalar hakkında bilgiler aşağıda verilmiştir. 
+Microsoft 365 Business Premium'da AutoPilot aygıt dosyalarıyla çalışırken görebileceğiniz bazı hatalar hakkında bilgiler aşağıda verilmiştir. 
   
 |**Hata kodu**|**Denemek için düzeltme**|
 |:-----|:-----|

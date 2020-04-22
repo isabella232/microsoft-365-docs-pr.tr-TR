@@ -21,13 +21,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: Windows 10 cihazlarında Microsoft 365 İş uygulaması koruma ayarlarını doğrulayın ve kullanıcıların şirket verilerini kişisel dosyalara veya yönetilmeyen uygulamalara kopyalayamayacağını doğrulayın.
-ms.openlocfilehash: 5b798e0335188543fc308553f71085bcde8b7752
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Windows 10 cihazlarında Microsoft 365 Business Premium uygulama koruma ayarlarını doğrulayın ve kullanıcıların şirket verilerini kişisel dosyalara veya yönetilmeyen uygulamalara kopyalayamayacağını doğrulayın.
+ms.openlocfilehash: 20b2e43ae53486c046440ff1066d241ec9661888
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560850"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635754"
 ---
 # <a name="validate-app-protection-settings-on-windows-10-pcs"></a>Windows 10 bilgisayarlarda uygulama koruma ayarlarını doğrulama
 
@@ -37,7 +37,7 @@ ms.locfileid: "42560850"
   
  **Bağlantı ayarlarını doğrulama**
   
-1. [Microsoft 365 İş kullanıcıları için Windows cihazlarını ayarlama](set-up-windows-devices.md) konusunda açıklandığı gibi Microsoft 365 İş kimlik bilgileriyle oturum açtıktan ve Azure AD'ye bağlandıktan sonra, **Windows Ayarları** \> **Hesaplar** \> **İş yeri veya okula eriş** seçeneğine gidin. **Bağlanılan \<kiracı adı\> Azure AD**'yi seçin ve sonra da **Bilgi**'yi seçin.
+1. Microsoft 365 Business Premium kimlik bilgileriyle oturum açtıktan ve [Microsoft 365 Business Premium kullanıcıları için Windows aygıtları](set-up-windows-devices.md)ayarla'da açıklandığı gibi Azure AD'ye bağlandıktan sonra **Windows Ayarları** \> **Hesapları** \> **Erişim çalışmasına veya okuluna**gidin. **Bağlanılan \<kiracı adı\> Azure AD**'yi seçin ve sonra da **Bilgi**'yi seçin.
     
     ![Click or tap Info on the Connected to Azure AD dialog.](../media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
   
@@ -47,7 +47,7 @@ ms.locfileid: "42560850"
   
  **Yönetilmeyen bir uygulamaya şirket verilerini yapıştıramayacağınızı doğrulayın**
   
-1. Microsoft 365 İş tarafından yüklenmiş olan Outlook 2016'yı açın.
+1. Microsoft 365 Business Premium tarafından yüklenen Outlook 2016'yı açın.
     
 2. Bir e-postayı açın ve içeriğinin bir bölümünü kopyalayın.
     
@@ -67,7 +67,7 @@ ms.locfileid: "42560850"
     
 2. **İş yeri veya okula eriş** alanının altında **Bağlan**'ı seçin.
     
-3. **İş yeri veya okul hesabı oluştur iletişim kutusu** \> **Oturum aç** için Microsoft 365 İş kimlik bilgilerinizi girin.
+3. Microsoft 365 Business Premium kimlik bilgilerinizi **iş veya okul hesabı iletişim kutusunda** \> **oturum aç'a**girin.
     
 4. **İş yeri veya okula eriş** sayfasında, **İş veya okul hesabı**'nı ve sonra da **Bilgi**'yi seçin.
     
@@ -79,7 +79,7 @@ ms.locfileid: "42560850"
   
  **Yönetilmeyen bir uygulamaya şirket verilerini yapıştıramayacağınızı doğrulayın**
   
-1. Outlook 2016'yı açın, gerekirse Microsoft 365 İş hesabınızı ekleyin ve Microsoft 365 İş kimlik bilgilerinizle oturum açın.
+1. Outlook 2016'yı açın ve gerekirse Microsoft 365 Business Premium hesabınızı ekleyin ve Microsoft 365 Business Premium kimlik bilgilerinizle oturum açın.
     
 2. Bir e-postayı açın ve içeriğinin bir bölümünü kopyalayın.
     

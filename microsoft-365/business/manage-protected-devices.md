@@ -1,5 +1,5 @@
 ---
-title: Korunan cihazları Microsoft 365 Business ile yönetme
+title: İşletmeler için Microsoft 365 ile korumalı aygıtları yönetme
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -27,14 +27,14 @@ search.appverid:
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
 description: Koruma ilkeleri yle yönetilen aygıtlardan şirket verilerini kaldırmayı ve Windows 10 aygıtlarını fabrika ayarlarına sıfırlamayı öğrenin.
-ms.openlocfilehash: 97c9751d020d7f2aecb1e64718721c1ca25189e1
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: 180887dca3226512ab558e98d2b5a78da3521e53
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561530"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43634298"
 ---
-# <a name="manage-protected-devices-with-microsoft-365-business"></a>Korunan cihazları Microsoft 365 Business ile yönetme
+# <a name="manage-protected-devices-with-microsoft-365-for-business"></a>İşletmeler için Microsoft 365 ile korumalı aygıtları yönetme
 
 Bir kullanıcı, iş hesabıyla aygıta veya aygıttaki Office uygulamalarına oturum açarak cihazı kuruluşunuza bağladıktan sonra, ayarladığınız ilkelerle aygıtı koruyabilirsiniz. Bağlı aygıtlar **Cihazlar** sayfasında listelenir. Kaybolan veya çalınan bir cihazı bu sayfadan yönetebilir ve böylece tüm şirket verilerini kaldırabilirsiniz. Ayrıca, Windows 10 cihazları fabrika ayarlarına sıfırlayarak tüm özel ayarları da temizleyebilirsiniz. 
 

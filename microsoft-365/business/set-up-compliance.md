@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Business için tehdit korumayı artırın
+title: Microsoft 365 Business Premium için tehdit koruması artırın
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -21,16 +21,16 @@ search.appverid:
 - BCS160
 - MET150
 description: Veri kaybını önlemek ve sizin ve müşterilerinizin hassas bilgilerinin güvenliğini sağlamaya yardımcı olmak için uyumluluk özellikleri ayarlayın.
-ms.openlocfilehash: 6f4520b052c2e7acb8748d3c9d6e26777cb56d4b
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: e0d853223c7e6f455cba6e68ad173b137992d863
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561250"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635134"
 ---
 # <a name="set-up-compliance-features"></a>Uyumluluk özelliklerini ayarlama
 
-Microsoft 365 Business'ınız verilerinizi ve cihazlarınızı koruyan ve sizin ve müşterilerinizin hassas bilgilerini güvende tutmanıza yardımcı olan özelliklerle birlikte gelir.
+Microsoft 365 Business Premium'unuz, verilerinizi ve cihazlarınızı koruyan ve sizin ve müşterilerinizin hassas bilgilerini güvende tutmanıza yardımcı olacak özelliklerle birlikte gelir.
 
 ## <a name="set-up-dlp-features"></a>DLP özelliklerini ayarlama
 

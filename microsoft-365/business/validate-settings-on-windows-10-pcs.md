@@ -24,13 +24,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: Microsoft 365 Business uygulaması koruma ayarlarının kullanıcılarınızın Windows 10 aygıtlarında etkin olduğunu nasıl doğrulayabilirsiniz öğrenin.
-ms.openlocfilehash: 47977f8d79eb6dbb2f4d087af8f8ad7da4313c61
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: İş uygulaması koruma ayarları için Microsoft 365'in kullanıcılarınızın Windows 10 aygıtlarında etkili olduğunu nasıl doğrulayabilirsiniz öğrenin.
+ms.openlocfilehash: b63681f040b0fe49127693e9cb7aac7ba6c41af6
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560690"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635714"
 ---
 # <a name="validate-device-protection-settings-on-windows-10-pcs"></a>Windows 10 bilgisayarlarında aygıt koruma ayarlarını doğrulama
 
@@ -60,11 +60,11 @@ ms.locfileid: "42560690"
   
 ## <a name="related-topics"></a>İlgili Konular
 
-[Microsoft 365 İş belgeleri ve kaynakları](https://go.microsoft.com/fwlink/p/?linkid=853701)
+[İş belgeleri ve kaynakları için Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=853701)
   
-[Microsoft 365 İş ile çalışmaya başlama](microsoft-365-business-overview.md)
+[İşletmeler için Microsoft 365 ile başlayın](microsoft-365-business-overview.md)
   
-[Microsoft 365 İş yönetimi](manage.md)
+[İşletmeler için Microsoft 365'i yönetin](manage.md)
   
 [Windows 10 bilgisayarlarında cihaz yapılandırmalarını ayarlama](protection-settings-for-windows-10-pcs.md)
   

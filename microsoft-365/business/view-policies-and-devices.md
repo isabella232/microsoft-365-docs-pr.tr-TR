@@ -21,13 +21,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
-description: Genel yönetici kimlik bilgileriyle Microsoft 365 işletmesine oturum açtırarak aygıt ilkelerini ve eylemlerini görüntüleyin.
-ms.openlocfilehash: ac8ea8a5b484fe6401e72fd0eaab4d79515f3aac
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Genel yönetici kimlik bilgilerine sahip işletmeler için Microsoft 365'te oturum açtırarak aygıt ilkelerini ve eylemlerini görüntüleyin.
+ms.openlocfilehash: e514b48c17de492bd1eaa75b48418ce0f2ff493e
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42056618"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635694"
 ---
 # <a name="view-and-manage-policies-and-devices"></a>İlkeleri ve cihazları görüntüleme ve yönetme
 

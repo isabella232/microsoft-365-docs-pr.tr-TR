@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Business için kaydolun
+title: Microsoft 365 Business Premium için kaydolun
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -24,27 +24,27 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Microsoft 365 Business'ın neler içerdiğini öğrenin ve Microsoft 365 Business'a kaydolma konusunda adım adım kılavuz alın.
-ms.openlocfilehash: 85e9ff3585e1e4bbadc6c34699f75d77486f58ea
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Microsoft 365 Business Premium'un neler içerdiğini öğrenin ve Microsoft 365 Business Premium'a kaydolma konusunda adım adım kılavuz alın.
+ms.openlocfilehash: 443363fa673a112ae13eb5b63308115724d9bd00
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560761"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635114"
 ---
-# <a name="sign-up-for-microsoft-365-business"></a>Microsoft 365 Business için kaydolun
+# <a name="sign-up-for-microsoft-365-business-premium"></a>Microsoft 365 Business Premium için kaydolun
 
-Microsoft 365 Business'ın neler içerdiğini öğrenmek için kısa bir [video](https://go.microsoft.com/fwlink/?linkid=2109651) izleyin ve [Genel Bakış'a](microsoft-365-business-overview.md)bakın.
+Microsoft 365 Business Premium'un neler içerdiğini öğrenmek için kısa bir [video](https://go.microsoft.com/fwlink/?linkid=2109651) izleyin ve [Genel Bakış'a](microsoft-365-business-overview.md)bakın.
 
-Microsoft 365 Business'ı almanın üç yolu vardır:
-- **Microsoft 365 Business'ı satın alın ve kendi kurulumunuzu tamamlayın**: Microsoft 365 Business'ı çevrimiçi satın almak için [aşağıdaki adımları izleyin.](#sign-up-steps)
-- **Microsoft iş ortakları için**: İş ortağıysanız, [Microsoft İş Ortağı Merkezi'nden Microsoft 365 Business'ı al'a](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center)bakın.
+Microsoft 365 Business Premium'u almanın üç yolu vardır:
+- **Microsoft 365 Business Premium satın alın ve kendi kurulumunuzu tamamlayın**: Microsoft 365 Business Premium'u çevrimiçi satın almak için [aşağıdaki adımları izleyin.](#sign-up-steps)
+- **Microsoft iş ortakları için**: İş ortağıysanız, [Microsoft İş Ortağı Merkezi'nden Microsoft 365 Business Premium'u alın'](get-microsoft-365-business.md)a bakın.
 - **Bir Microsoft mağazasından yardım alın**: [Microsoft Mağazası'na](https://go.microsoft.com/fwlink/?linkid=2109652)gidin. Microsoft mağazaları, planlar la ilgili sorularda size yardımcı olabilir, işletme gereksinimlerinize uygun bir plan satın almanıza ve kurulumunuzu tamamlamanıza yardımcı olabilir.
 
 **Farklı bir şeye mi ihtiyacınız var?** Şunları yapabilirsiniz:
-- [Office 365 planınızı Microsoft 365 Business'a yükseltin.](migrate-to-microsoft-365-business.md)
-- Microsoft 365 Business'ı bir ay boyunca ücretsiz olarak deneme sürümünden [alın.](https://go.microsoft.com/fwlink/p/?linkid=2102309)
-- Daha az özelliklere sahip bir plana ihtiyacınız varsa [Office 365 Business Premium'a kaydolun.](https://go.microsoft.com/fwlink/p/?LinkID=510935) Her iş planının [products.office.com](https://go.microsoft.com/fwlink/?linkid=2109397)neler içerdiğini öğrenin.
+- [Office 365 planınızı Microsoft 365 Business Premium'a yükseltin.](migrate-to-microsoft-365-business.md)
+- Microsoft 365 Business Premium'u bir ay boyunca [ücretsiz olarak deneme dene.](https://go.microsoft.com/fwlink/p/?linkid=2102309)
+- Daha az özelliklere sahip bir plana ihtiyacınız varsa [Microsoft 365 İş Standardı'na kaydolun.](https://go.microsoft.com/fwlink/p/?LinkID=510935) Her iş planının [products.office.com](https://go.microsoft.com/fwlink/?linkid=2109397)neler içerdiğini öğrenin.
 - Bir iş için satın almıyorsanız [bir ev veya aile planı için kaydolun.](https://go.microsoft.com/fwlink/?linkid=2109398) 
 
 ## <a name="sign-up-steps"></a>Kaydolun adımlar
@@ -58,8 +58,8 @@ Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i il
 İşletmeniz için Microsoft 365'e kaydolmak ve satın almak için aşağıdaki adımları tamamlayın:
 
 1. İşletme [sayfası için Microsoft 365'te,](https://go.microsoft.com/fwlink/?linkid=2109654) **& fiyatlandırma planlarına bakın'ı**seçin. 
-2. Bir sonraki sayfada, aylık maliyeti öğrenin ve ardından Microsoft 365 Business'ta nelerin yer aldığı hakkında daha fazla bilgi edinmek için sayfayı aşağı kaydırın. Microsoft 365 Business altında, **şimdi Satın Al'ı**seçin.
-3. Microsoft **365 Business** sayfasını seçtiğiniz için teşekkür ederiz, başlamak için bilgilerinizi girin.
+2. Bir sonraki sayfada, aylık maliyeti öğrenin ve ardından Microsoft 365'te nelerin yer aldığı hakkında daha fazla bilgi edinmek için sayfayı aşağı kaydırın. Microsoft 365 Business Premium altında, **şimdi Satın Al'ı**seçin.
+3. Microsoft **365 Business Premium** sayfasını seçtiğiniz için teşekkür ederiz, başlamak için bilgilerinizi girin.
 4. **Adım 1'** de, zaten kullandığınız bir e-posta adresini girin. Bu, geçerli iş e-posta adresiniz veya Microsoft'un kurulum sırasında sizinle iletişim kurmak için kullanmasını istediğiniz herhangi bir adres olabilir. Ayrıca, faturanız ve yenilemeleriniz hakkında size bilgi göndereceğimiz adrestir. Sonra seçin, **Hesabı ayarlayın.**
 5. **Adım 2'de**adınızı, iş telefon numaranızı, şirket adınızı ve konumunuzu girin. Ülkeniz veya Bölgeniz Microsoft'tan tam olarak aldığınız hizmetleri belirler ve bu adımı tamamladıktan sonra değiştirilemez. **İleri**'yi seçin.
     > [!NOTE]
@@ -96,4 +96,4 @@ Kurulumla ilgili yardım almak için [kuruluma](set-up.md)bakın.
 
 ## <a name="see-also"></a>Ayrıca bkz.
 
-[Microsoft 365 İş eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[İş eğitimi videoları için Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

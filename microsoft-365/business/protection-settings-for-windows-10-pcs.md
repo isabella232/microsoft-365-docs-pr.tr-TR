@@ -21,19 +21,19 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: bd66c26c-73a4-45a8-8642-3ea4ee7cd89d
-description: Windows 10 aygıtlarını güvenli hale getirmek için Microsoft 365 Business'ta varsayılan ve diğer ayarlar hakkında bilgi edinin.
-ms.openlocfilehash: 1b424fe6a85ad23b2914ea29f47d1dc16b333c94
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Windows 10 aygıtlarının güvenliğini sağlamak için microsoft 365'te varsayılan ve diğer ayarlar hakkında bilgi edinin.
+ms.openlocfilehash: a3b7f0a8572a215491b32101a30c306b54571b6f
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42064984"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633027"
 ---
 # <a name="set-device-protection-settings-for-windows-10-pcs"></a>Windows 10 PC'lere yönelik cihaz koruma ayarlarını belirleme
 
 ## <a name="secure-windows-10-devices"></a>Windows 10 cihazlarının güvenliğini sağlama
 
-Microsoft 365 İş ile Windows 10 cihazlarının güvenliğini sağlama hakkındaki videoyu izleyin:
+İşletmeler için Microsoft 365 ile Windows 10 aygıtlarını nasıl güvenli hale getirmek le ilgili bir video izleyin:
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/a5734146-620a-4cec-8618-536b3ca37972?autoplay=false]
   
@@ -59,7 +59,7 @@ Microsoft 365 İş ile Windows 10 cihazlarının güvenliğini sağlama hakkınd
 
 Varsayılan olarak tüm ayarlar **Açık** durumdadır. Aşağıdaki ayarlar kullanılabilir.
   
-Daha fazla bilgi için bkz. [Microsoft 365 İş'in koruma özellikleriyle Intune ayarları nasıl eşleşir?](map-protection-features-to-intune-settings.md) 
+Daha fazla bilgi için, [Microsoft 365 Premium haritadan Intune ayarlarına koruma özelliklerinin nasıl olduğunu](map-protection-features-to-intune-settings.md)görün. 
   
 |||
 |:-----|:-----|

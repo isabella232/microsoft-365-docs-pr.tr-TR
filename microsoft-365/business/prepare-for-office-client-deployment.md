@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 İş tarafından Office istemci dağıtımı hazırlığı
+title: Microsoft 365 tarafından iş için Office istemci dağıtımına hazırlanın
 f1.keywords:
 - CSH
 ms.author: sirkkuw
@@ -21,18 +21,18 @@ search.appverid:
 - MET150
 ms.assetid: ed34fff3-2881-4ed4-9906-1ba6bb8dd804
 description: Windows 10 bilgisayarlara 32 bit Office uygulamalarını otomatik olarak nasıl yükleyip güncel tutacağınızı öğrenin.
-ms.openlocfilehash: 0f8cd7df49ad627b190fad6737ec95a6d64d99d0
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+ms.openlocfilehash: b5f01bc9bb10765929f3c6bdd5908e8b48a51a11
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42065126"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633109"
 ---
-# <a name="prepare-for-office-client-deployment-by-microsoft-365-business"></a>Microsoft 365 İş tarafından Office istemci dağıtımı hazırlığı
+# <a name="prepare-for-office-client-deployment-by-microsoft-365-for-business"></a>Microsoft 365 tarafından iş için Office istemci dağıtımına hazırlanın
 
 ## <a name="prepare-to-automatically-install-office-apps-to-client-computers"></a>İstemci bilgisayarlara Office uygulamalarını otomatik olarak yükleme hazırlığı
 
-Microsoft 365 Business'ı kullanarak Windows 10 bilgisayarlara 32 bit Office uygulamalarını otomatik olarak yükleyebilir ve güncelleştirmelerle güncel tutabilirsiniz.
+Windows 10 bilgisayarlara 32 bit Office uygulamalarını otomatik olarak yüklemek ve güncelleştirmelerle güncel tutmak için iş için Microsoft 365'i kullanabilirsiniz.
   
 Son kullanıcının bilgisayarı Windows 10 Business'taysa otomatik yükleme en iyi şekilde çalışır ve:
   
@@ -50,15 +50,15 @@ Office'in Tıkla-Çalıştır sürümüne sahip olup olmadığınızı belirleme
   
 Bilgisayarı aşağıdaki özelliklere sahip olan son kullanıcılar:
   
-- Windows 10 Business kullanıcı lisansı, etkin bir Microsoft 365 İş lisansı, Windows 10 Creators Update **bulunur** ve Azure Active Directory'ye katılmıştır. 
+- Windows 10 Business kullanıcı lisansına, işletme lisansı için etkin bir Microsoft 365'e, Windows 10 Creators Update'e **sahiptir** ve Azure Active Directory'ye katılır. 
     
-- 64 bit Office uygulamaları **yok** (örnek: Word, Excel, PowerPoint). 64 bit Office uygulamaları gerekiyorsa, Microsoft 365 Business yönetici konsolundan Office'in 64 bit 2016 Tıkla çalıştır sürümünü tetiklemek için destek olmadığından bu özellik uygun değildir. 
+- 64 bit Office uygulamaları **yok** (örnek: Word, Excel, PowerPoint). 64 bit Office uygulamaları gerekiyorsa, iş yöneticisi konsolu için Microsoft 365'ten Office'in 64 bit 2016 Tıkla çalıştır sürümünü tetiklemek için destek olmadığından bu özellik uygun değildir. 
     
-- Herhangi bir 2016 Windows Installer (MSI) tek başına uygulaması (örneğin, Visio veya Project) **yoktur**. Microsoft 365 Business, Office 2016'nın Tıkla Çalıştır sürümüne Office'i yükseltir ve bu office 2016 MSI bağımsız uygulamalarıyla çalışmaz. 
+- Herhangi bir 2016 Windows Installer (MSI) tek başına uygulaması (örneğin, Visio veya Project) **yoktur**. İş için Microsoft 365, Office'i Office 2016'nın Tıkla Çalıştır sürümüne yükseltir ve bu office 2016 MSI bağımsız uygulamalarıyla çalışmaz. 
     
-Aşağıdaki tablo, Microsoft 365 Business yönetici konsolundan Office dağıtımının 32 bit'lik başarılı bir Tıklamayla Çalıştır sürümüne sahip olmak için, başlangıç durumlarına bağlı olarak son kullanıcıların/yöneticilerin hangi eylemi üstlenmeleri gerekebileceğini gösterir.
+Aşağıdaki tablo, iş yöneticisi konsolu için Microsoft 365'ten Office dağıtımının başarılı bir 32 bit Click-to-Run sürümüne sahip olmak için, başlangıç durumlarına bağlı olarak son kullanıcıların/yöneticilerin hangi eylemi üstlenmeleri gerekebileceğini gösterir.
   
-|**Başlangıçtaki Office yükleme durumu**|**Microsoft 365 İş Office yüklemesinden önce yapılması gereken işlem**|**Son durum**|
+|**Başlangıçtaki Office yükleme durumu**|**İş Office yüklemesi için Microsoft 365'ten önce yapılacak işlem**|**Son durum**|
 |:-----|:-----|:-----|
 |Hiçbir Office paketi yüklü değil  <br/> |Yok  <br/> |Office 2016 32 bit Tıkla çalıştır kullanılarak yüklenir  <br/> |
 |Office'in Tıkla-Çalıştır 32 bit sürümü (2016 veya önceki) var ve tek başına uygulama yok  <br/> |Yok  <br/> |Gerektiği gibi Office 2016'nın en son 32 bit Tıkla-Çalıştır sürümüne yükseltilir **\*** <br/> |

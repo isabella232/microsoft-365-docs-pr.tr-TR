@@ -17,14 +17,14 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Office 365 E3, Office 365 Business Premium veya Microsoft 365 Business'ın işletmeniz için uygun olup olmadığını belirleyin.
-ms.openlocfilehash: 44d8b6c64882b0357674793e8430423802b0fc1a
-ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
+description: Office 365 E3, Microsoft 365 İş Standardı veya Microsoft 365 Business Premium'un işletmeniz için uygun olup olmadığını belirleyin.
+ms.openlocfilehash: 480129ad8251770a4153b7ecc0777bdf03759012
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "41594945"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635674"
 ---
 # <a name="what-subscription-is-right-for-your-small-business"></a>Küçük işletmeniz için hangi abonelik doğrudur?
 
-Microsoft, küçük işletmeler için çeşitli planlar sunar. Önerilen abonelikler, 300'e kadar kullanıcısı olan Office 365 Business Premium veya Microsoft 365 Business'tır. Microsoft 365 Business, ek bir ücret karşılığında Office 365 Business Premium'dan daha fazla güvenlik özelliği sunar.
+Microsoft, küçük işletmeler için çeşitli planlar sunar. Önerilen abonelikler, 300'e kadar kullanıcısı olan Microsoft 365 İş Standardı veya Microsoft 365 Business Premium'dır. Microsoft 365 Business Premium, ek bir ücret karşılığında Microsoft 365 İş Standardı'ndan daha fazla güvenlik özelliği sunar.

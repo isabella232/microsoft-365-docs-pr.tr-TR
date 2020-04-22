@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 İş güvenliği ve uyumluluk özellikleri
+title: Microsoft 365 Business Premium güvenlik ve uyumluluk özellikleri
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -22,23 +22,23 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
-description: Bilgisayar, telefon ve tabletlerdeki verilerinizin korunmasına yardımcı olmak için Microsoft 365 Business ile birlikte gelen güvenlik özellikleri hakkında bilgi edinin.
-ms.openlocfilehash: 3f638a3287c06ded7bf4c29c647e62cbf3fca969
-ms.sourcegitcommit: e525bcf073a61e1350484719a0c3ceb6ff0d8db1
+description: Bilgisayar, telefon ve tabletlerdeki verilerinizin korunmasına yardımcı olmak için Microsoft 365 Business Premium ile birlikte gelen güvenlik özellikleri hakkında bilgi edinin.
+ms.openlocfilehash: 35eb0ac1dce216ccc557fc629ddb5d2df50e7134
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43153808"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635154"
 ---
-# <a name="microsoft-365-business-security-and-compliance-features"></a>Microsoft 365 İş güvenliği ve uyumluluk özellikleri
+# <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Microsoft 365 Business Premium güvenlik ve uyumluluk özellikleri
 
-Microsoft 365 Business, bilgisayar, telefon ve tabletlerdeki verilerinizin korunmasına yardımcı olmak için basitleştirilmiş güvenlik özellikleri sunar.
+Microsoft 365 Business Premium, bilgisayar, telefon ve tabletlerdeki verilerinizin korunmasına yardımcı olmak için basitleştirilmiş güvenlik özellikleri sunar.
     
-## <a name="microsoft-365-business-admin-center-security-features"></a>Microsoft 365 İş yönetici merkezi güvenlik özellikleri
+## <a name="microsoft-365-admin-center-security-features"></a>Microsoft 365 yönetici merkezi güvenlik özellikleri
 
 [![Yönetim merkezinin değiştiğini size bildirmeye yarayan etiket ve daha fazla ayrıntıyı aka.ms/aboutM365preview sayfasında bulabilirsiniz.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
-Bu özellikleri açmak veya kapatmak için basitleştirilmiş bir yol sağlayan microsoft 365 İş güvenliği özelliklerinin çoğunu yönetici merkezinde yönetebilirsiniz. Yönetici merkezinde aşağıdakileri yapabilirsiniz:
+Bu özellikleri açmaveya kapatmanın basitleştirilmiş bir yolunu sağlayan microsoft 365 Business Premium güvenlik özelliklerinin çoğunu yönetici merkezinde yönetebilirsiniz. Yönetici merkezinde aşağıdakileri yapabilirsiniz:
   
 - [Android veya iOS aygıtları için uygulama yönetimi ayarlarını ayarlayın.](app-protection-settings-for-android-and-ios.md) 
     
@@ -62,7 +62,7 @@ Bu özellikleri açmak veya kapatmak için basitleştirilmiş bir yol sağlayan 
     
 ## <a name="additional-security-features"></a>Ek güvenlik özellikleri 
 
-Microsoft 365 Business'taki gelişmiş özellikler, işletmenizi siber tehditlere karşı korumanıza ve hassas bilgileri korumanıza yardımcı olmak için kullanılabilir.
+Microsoft 365 Business Premium'daki gelişmiş özellikler, işletmenizi siber tehditlere karşı korumanıza ve hassas bilgileri korumanıza yardımcı olmak için kullanılabilir.
   
 - **[Office 365 Gelişmiş Tehdit Koruması](https://support.office.com/article/e100fe7c-f2a1-4b7d-9e08-622330b83653)**
     
@@ -74,13 +74,13 @@ Microsoft 365 Business'taki gelişmiş özellikler, işletmenizi siber tehditler
 
 - **[Azure portalında Intune'un tüm özellikleri](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
-    Azure portalındaki Intune yönetici merkezine erişmek, MacOS aygıtlarının yönetimi, iPhone ve Android cihazlarının yanı sıra Microsoft 365 İş yöneticisi merkezi aracılığıyla kullanılamayan Windows için gelişmiş aygıt yönetimi gibi ek güvenlik özellikleri ayarlamanıza olanak tanır.
+    Azure portalındaki Intune yönetici merkezine erişmek, MacOS aygıtlarının yönetimi, iPhone ve Android cihazlarının yanı sıra Microsoft 365 yönetici merkezi aracılığıyla kullanılamayan Windows için gelişmiş aygıt yönetimi gibi ek güvenlik özellikleri ayarlamanıza olanak tanır.
 - **Azure AD Premium P1 planıyla Aynı [Koşullu Erişim](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)**
 
 
     Koşullu Erişim, kuruluşunuzun oturum açma riskine karşı korunmasına, beklenmeyen bir ağdan veya yerel alandan erişim girişimlerine, riskli aygıt türlerinden erişim girişimlerine ve benzeri nedenlerden korunmaya yardımcı olabilir. Koşullu Erişim ilkeleri ilk kimlik doğrulama tamamlandıktan sonra uygulanır ve girişimde bulunulması, reddedilmesi veya daha fazla kanıt (ikinci bir kimlik biçimi gibi) gerekip gerekip gerekmemesi gerektiğini belirlemek için ilk kimlik doğrulama olayından gelen sinyalleri kullanır.
 
-    Koşullu Erişim özellikleri şunlardır:
+    Koşullu erişim özellikleri şunlardır:
 
     - Kullanıcı adına, gruba ve role göre erişim
     - [Bir uygulamaya dayalı](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) erişim 
@@ -95,7 +95,7 @@ Microsoft 365 Business'taki gelişmiş özellikler, işletmenizi siber tehditler
     
 ## <a name="compliance-features"></a>Uyumluluk özellikleri
 
-Microsoft 365 Business aboneliğiniz, uyumluluk ve düzenleme standartlarını korumanıza yardımcı olan özellikler içerir.
+Microsoft 365 Business Premium aboneliğiniz, uyumluluk ve mevzuat standartlarını korumanıza yardımcı olan özellikler içerir.
 
 - **[Veri kaybıönleme ilkelerine](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP) genel bakış. 
     
@@ -107,20 +107,20 @@ Microsoft 365 Business aboneliğiniz, uyumluluk ve düzenleme standartlarını k
     
 - **[Duyarlılık etiketleri](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)**
 
-   Microsoft 365 Business, [Azure Bilgi Koruma Planı 1'in](https://go.microsoft.com/fwlink/p/?linkid=871407)tüm özelliklerini içerir. Bu planla, "İlerletme" ve "Kopyalamayın" gibi denetimlerle e-posta ve belgelerdeki hassas bilgilere erişimi denetlemenize olanak tanıyan **Duyarlılık etiketleri** oluşturabilirsiniz. Ayrıca hassas bilgileri "Gizli" olarak sınıflandırabilir ve gizli bilgilerin işletmenin dışında ve içinde nasıl paylaşılabileceğini belirtebilirsiniz. Bilgilerinizi gizli tutmak için e-posta ve belgelere kurumsal sınıf şifreleme uygulamak kolaydır. Office uygulamaları için Azure Bilgi Koruması istemci eklentisini de yükleyebilirsiniz. Daha fazla bilgi için Azure [Bilgi Koruması birleşik etiketleme istemcisi'ne](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history)bakın. Duyarlılık etiketleri için **AzInfoProtection_UL.exe'yi**yükleyin.
+   Microsoft 365 Business Premium, [Azure Bilgi Koruma Planı 1'in](https://go.microsoft.com/fwlink/p/?linkid=871407)tüm özelliklerini içerir. Bu planla, "İlerletme" ve "Kopyalamayın" gibi denetimlerle e-posta ve belgelerdeki hassas bilgilere erişimi denetlemenize olanak tanıyan **Duyarlılık etiketleri** oluşturabilirsiniz. Ayrıca hassas bilgileri "Gizli" olarak sınıflandırabilir ve gizli bilgilerin işletmenin dışında ve içinde nasıl paylaşılabileceğini belirtebilirsiniz. Bilgilerinizi gizli tutmak için e-posta ve belgelere kurumsal sınıf şifreleme uygulamak kolaydır. Office uygulamaları için Azure Bilgi Koruması istemci eklentisini de yükleyebilirsiniz. Daha fazla bilgi için Azure [Bilgi Koruması birleşik etiketleme istemcisi'ne](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history)bakın. Duyarlılık etiketleri için **AzInfoProtection_UL.exe'yi**yükleyin.
 
-Bu özellikleri Güvenlik &amp; Uyumluluğu merkezinde ve Intune yönetici merkezinde yönetebilirsiniz. Zamanla basitleştirilmiş denetimler Microsoft 365 Business yönetici merkezine eklenir.
+Bu özellikleri Güvenlik &amp; Uyumluluğu merkezinde ve Intune yönetici merkezinde yönetebilirsiniz. Zamanla basitleştirilmiş denetimler Microsoft 365 yönetici merkezine eklenir.
   
     
 ## <a name="faq"></a>SSS
 
  ### <a name="are-these-security-features-available-in-all-markets"></a>Bu güvenlik özellikleri tüm pazarlarda kullanılabilir mi?
   
-Evet, bu özellikler Microsoft 365 Business'ın satıldığı tüm pazarlarda kullanılabilir.
+Evet, bu özellikler Microsoft 365 Business Premium'un satıldığı tüm pazarlarda kullanılabilir.
   
 ### <a name="how-do-i-find-the-security-amp-compliance-center"></a>Güvenlik &amp; Uyumluluk merkezini nasıl bulabilirim?
   
-1. Yönetici kimlik bilgilerinizi kullanarak [Microsoft 365 Business'ta oturum açın.](https://portal.microsoft.com/) 
+1. Yönetici kimlik bilgilerinizi kullanarak [Microsoft 365 Business Premium'da oturum açın.](https://portal.microsoft.com/) 
     
 2. Sol navigasyonda, **Yönetici merkezlerini** bulun ve genişletin. 
     

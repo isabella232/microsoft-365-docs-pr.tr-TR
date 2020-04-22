@@ -1,5 +1,5 @@
 ---
-title: Etki alanına katılmış Windows 10 cihazlarını Microsoft 365 İş tarafından yönetilecek şekilde etkinleştirme
+title: Etki alanına birleştirilmiş Windows 10 aygıtlarını iş için Microsoft 365 tarafından yönetilmesini etkinleştirin
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -24,16 +24,16 @@ search.appverid:
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Microsoft 365'in yerel Active-Directory'ye katılan Windows 10 aygıtlarını yalnızca birkaç adımda nasıl koruyacağınızı öğrenin.
-ms.openlocfilehash: 625eb7ac344b060409101d650ff30044d073f5bf
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: 431c1be74723e156befb13ffe1ed98b48b9a23cb
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561470"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633293"
 ---
-# <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business"></a>Etki alanına katılmış Windows 10 cihazlarını Microsoft 365 İş tarafından yönetilecek şekilde etkinleştirme
+# <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-for-business"></a>Etki alanına birleştirilmiş Windows 10 aygıtlarını iş için Microsoft 365 tarafından yönetilmesini etkinleştirin
 
-Kuruluşunuz Windows Server Active Directory'yi şirket içinde kullanıyorsa, Windows 10 aygıtlarınızı korumak için Microsoft 365 Business'ı ayarlayabilir ve yerel kimlik doğrulaması gerektiren şirket içi kaynaklara erişimi sürdürebilirsiniz.
+Kuruluşunuz Windows Server Active Directory'yi şirket içinde kullanıyorsa, Windows 10 aygıtlarınızı korumak için iş için Microsoft 365'i ayarlayabilir ve yerel kimlik doğrulaması gerektiren şirket içi kaynaklara erişimi sürdürebilirsiniz.
 Bu korumayı ayarlamak için **Karma Azure AD birleştirilmiş aygıtları**uygulayabilirsiniz. Bu aygıtlar hem şirket içi Etkin Dizininizde hem de Azure Etkin Dizininizde birleştirilir.
 
 Bu videoda, bunu en yaygın senaryo için nasıl ayarlayacağına yönelik adımlar açıklanmaktadır ve bu da izleyen adımlarda ayrıntılı olarak açıklanmaktadır.
@@ -56,9 +56,9 @@ Kullanıcılarınızı ve bilgisayarlarınızı yerel Active Directory Etki Alan
 Kullanıcılarınızı, gruplarınızı ve kişilerinizi yerel Active Directory'den Azure Etkin Dizini'ne senkronize etmek için Azure Active Directory Connect'i yükleyin ve dizin eşitlemesi ayarlayın. Bkz. Daha fazla bilgi edinmek [için Office 365 için dizin eşitlemesi ayarla.](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846)
 
 > [!NOTE]
-> Adımlar Microsoft 365 Business için tam olarak aynıdır. 
+> Adımlar, iş için Microsoft 365 için tam olarak aynıdır. 
 
-Azure AD Connect seçeneklerinizi yapılandırırken, Parola **Eşitleme**, **Sorunsuz Tek Oturum**Açma ve Microsoft 365 Business'ta da desteklenen **parola yazma** özelliğini etkinleştirmenizi öneririz.
+Azure AD Connect seçeneklerinizi yapılandırırken, İş için Microsoft 365'te de desteklenen **Parola Eşitleme**, **Kesintisiz Tek Oturum**Açma ve parola **yazma** özelliğini etkinleştirmenizi öneririz.
 
 > [!NOTE]
 > Azure AD Connect'teki onay kutusunun ötesinde parola yazma için bazı ek adımlar vardır. Daha fazla bilgi için [bkz: Nasıl Yapılır: parola yazmayı yapılandırma.](https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-writeback) 

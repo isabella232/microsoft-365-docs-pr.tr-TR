@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 İş yönetimi
+title: İşletmeler için Microsoft 365'i yönetin
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -20,33 +20,33 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
-description: Microsoft 365 İş ile ilgili yönetici görevlerini, mobil cihazları, Windows 10 bilgisayarlarınve bu tür birçok görevi yönetmeyi öğrenin.
-ms.openlocfilehash: 41b627b0bb7cbb009832d3e7c45e44ceb8a8fdcd
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: İşle ilgili yönetici görevleri, mobil cihazlar, Windows 10 bilgisayarların ve bu tür birçok görev için Microsoft 365'i yönetmeyi öğrenin.
+ms.openlocfilehash: 5e6d4633410d4aa38ad1eebcab3405f57f5b2446
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593791"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633273"
 ---
-# <a name="manage-microsoft-365-business"></a>Microsoft 365 İş yönetimi
+# <a name="manage-microsoft-365-for-business"></a>İşletmeler için Microsoft 365'i yönetin
 
-## <a name="general-microsoft-365-business-admin-tasks"></a>Genel Microsoft 365 İş yönetici görevleri
+## <a name="general-microsoft-365-for-business-admin-tasks"></a>İş yöneticisi görevleri için Genel Microsoft 365
 
-İşletmeler için Office 365'in [yönetici içeriğinin](https://docs.microsoft.com/office365/admin/admin-home) çoğu Microsoft 365 Business için de geçerlidir.
+Office 365'in [yönetici içeriğinin](https://docs.microsoft.com/office365/admin/admin-home) çoğu iş için Microsoft 365 için de geçerlidir.
 
-- [Microsoft 365 Business'a daha fazla kullanıcı ekleme](add-users-m365b.md)
+- [İşletmeler için Microsoft 365'e daha fazla kullanıcı ekleme](add-users-m365b.md)
     
 - [İlkeleri ve cihazları görüntüleme](view-policies-and-devices.md)
     
-- [Microsoft 365 İş güvenlik özellikleri](security-features.md)
+- [İş güvenliği özellikleri için Microsoft 365](security-features.md)
     
-- [Microsoft 365 İş'in koruma özellikleriyle Intune ayarları nasıl eşleşir?](map-protection-features-to-intune-settings.md)
+- [Iş haritası için Microsoft 365'teki koruma özellikleri Intune ayarları nasıI](map-protection-features-to-intune-settings.md)
     
-Kuruluşunuzun bilgisayarve mobil cihazlardaki verilerini korumak için Microsoft 365 Business'ı nasıl kullanacağınıza ilişkin aşağıdaki bölümlere bakın.
+Kuruluşunuzun bilgisayarlar ve mobil cihazlarla ilgili verilerini korumak için microsoft 365'in işletme için nasıl kullanılacağıyla ilgili aşağıdaki bölümlere bakın.
   
 ## <a name="manage-mobile-devices"></a>Mobil cihazları yönetme
 
-- [Microsoft 365 İş kullanıcıları için mobil cihazları ayarlama](set-up-mobile-devices.md)
+- [Microsoft 365 için iş kullanıcıları için mobil aygıtlar ayarlama](set-up-mobile-devices.md)
     
 - [Android veya iOS cihazlara yönelik uygulama koruma ayarlarını belirleme](app-protection-settings-for-android-and-ios.md)
     
@@ -56,9 +56,9 @@ Kuruluşunuzun bilgisayarve mobil cihazlardaki verilerini korumak için Microsof
     
 ## <a name="manage-windows-10-pcs"></a>Windows 10 PC'leri yönetme
 
-- [Microsoft 365 İş kullanıcıları için Windows cihazları ayarlama](set-up-windows-devices.md)
+- [Microsoft 365 için iş kullanıcıları için Windows aygıtları ayarlama](set-up-windows-devices.md)
 
-    Office'i otomatik olarak yüklemeden önce [Office istemcisinin Microsoft 365 İş tarafından dağıtımı için hazırlanma](prepare-for-office-client-deployment.md) konusunu okuyun. 
+    Office'i otomatik yüklemeden önce [microsoft 365 tarafından Office istemci dağıtımı için hazırla'yı](prepare-for-office-client-deployment.md) okuyun. 
     
 - [Windows 10 cihazlara yönelik cihaz koruma ayarlarını belirleme](protection-settings-for-windows-10-pcs.md)
     
@@ -74,7 +74,7 @@ Kuruluşunuzun bilgisayarve mobil cihazlardaki verilerini korumak için Microsof
     
 ### <a name="use-autopilot-to-deploy-windows-10-devices"></a>Windows 10 cihazlarını dağıtmak için AutoPilot'u kullanma
 
-Aşağıdaki konularda, Microsoft 365 İş'te AutoPilot'u kullanarak Windows 10 cihazlarını önceden yapılandırma işlemi açıklanır.
+Aşağıdaki konular, Windows 10 aygıtlarını önceden yapılandırmak için microsoft 365'te Windows AutoPilot'u işletme için nasıl kullanabileceğinizi açıklar.
   
 - [AutoPilot cihaz ve profili eklemek için adım adım kılavuzu kullanma](add-autopilot-devices-and-profile.md)
     
@@ -90,12 +90,12 @@ Aşağıdaki konularda, Microsoft 365 İş'te AutoPilot'u kullanarak Windows 10 
     
 ## <a name="set-up-and-prerequisite-information"></a>Kurulum ve önkoşul bilgileri
 
-- [Microsoft 365 Business ile cihazlardaki verileri korumak için ön koşullar](pre-requisites-for-data-protection.md)
+- [İşletmeler için Microsoft 365'e sahip cihazlardaki verileri korumak için ön koşullar](pre-requisites-for-data-protection.md)
     
-- [Microsoft 365 İş'i kurulum sihirbazını kullanarak ayarlama](set-up.md)
+- [Kurulum sihirbazını kullanarak Microsoft 365'i iş için ayarlama](set-up.md)
     
-- [Microsoft 365 İş'e geçiş](migrate-to-microsoft-365-business.md)
+- [İşletmeler için Microsoft 365'e geçiş](migrate-to-microsoft-365-business.md)
     
-- [Etki alanına katılmış Windows 10 cihazlarını Microsoft 365 İş tarafından yönetilecek şekilde etkinleştirme](manage-windows-devices.md)
+- [Etki alanına birleştirilmiş Windows 10 aygıtlarını iş için Microsoft 365 tarafından yönetilmesini etkinleştirin](manage-windows-devices.md)
     
 - [Ek güvenlik özellikleri](security-features.md#additional-security-features)

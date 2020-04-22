@@ -21,13 +21,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: f3433b6b-02f7-447f-9d62-306bf03638b0
-description: Learn how to validate the Microsoft 365 Business app protection settings in your Android or iOS devices.
-ms.openlocfilehash: f37bc262b3a80f4acb7113829e3d809ee16d41d1
-ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
+description: Android veya iOS cihazlarınızdaki Microsoft 365 Business Premium uygulama koruma ayarlarını nasıl doğrulayayarılar gerektiğini öğrenin.
+ms.openlocfilehash: d25a23bc8eb56e05bd74f7bf4658ee9e18dc41f8
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "42091233"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635734"
 ---
 # <a name="validate-app-protection-settings-on-android-or-ios-devices"></a>Android veya iOS cihazlarda uygulama koruma ayarlarını doğrulama
 
@@ -41,7 +41,7 @@ Uygulamaları korumak amacıyla [Android cihazları için uygulama yapılandırm
   
 İlk olarak, politikanın doğruladığınız uygulama için geçerli olduğundan emin olun.
   
-1. Microsoft 365 Business [yönetim merkezinde](https://portal.office.com) **İlkeler** \> **İlkeyi düzenle**'ye gidin.
+1. Microsoft 365 Business Premium [yönetici merkezinde,](https://portal.office.com) **İlkeler** \> **Edit ilkesine**gidin.
     
 2. Kurulumda oluşturduğunuz ayarlar veya oluşturduğunuz başka bir ilke **için Android için Uygulama ilkesini** seçin ve örneğin Outlook için uygulandığını doğrulayın. 
     
@@ -53,7 +53,7 @@ Uygulamaları korumak amacıyla [Android cihazları için uygulama yapılandırm
   
 ![Office uygulamalarına erişmek için PIN veya parmak izi gerektirin, Üzerinde ayarlandıklarına emin olun.](../media/f37eb5b2-7e26-49fb-9bd6-d955d196bacf.png)
   
-1. Kullanıcının Android cihazında Outlook'u açın ve kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın.
+1. Kullanıcının Android cihazında Outlook'u açın ve kullanıcının Microsoft 365 Business Premium kimlik bilgileriyle oturum açın.
     
 2. Ayrıca pin girmeniz veya parmak izi kullanmanız istenir.
     
@@ -63,13 +63,13 @@ Uygulamaları korumak amacıyla [Android cihazları için uygulama yapılandırm
 
 **Edit ilkesi** bölmesinde, **Office belgelerinin yanındaki Edit'i seçin,** kullanıcıların mobil **cihazlardaki Office dosyalarına nasıl erişeceğini yönet'i**genişletin ve başarısız deneme sayısı belirlendikten **sonra PIN'i sıfırlamanın** bir sayıya ayarlandıklarından emin olun. **Edit** Bu varsayılan olarak 5'tir. 
   
-1. Kullanıcının Android cihazında Outlook'u açın ve kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın.
+1. Kullanıcının Android cihazında Outlook'u açın ve kullanıcının Microsoft 365 Business Premium kimlik bilgileriyle oturum açın.
     
 2. İlke tarafından belirtilen sayıda yanlış PIN girin. PIN'i sıfırlamak için **PIN Girişimi Sınırı'na Ulaşılan** bir istem görürsünüz. 
     
     ![After too many incorrect PIN attempts, you need to reset your PIN.](../media/fca6fcb4-bb5c-477f-af5e-5dc937e8b835.png)
   
-3. **PIN'i Sıfırla**'ya basın. Kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açmanız istenir ve ardından yeni bir PIN ayarlamanız gerekir.
+3. **PIN'i Sıfırla**'ya basın. Kullanıcının Microsoft 365 Business Premium kimlik bilgileriyle oturum açmanız istenir ve ardından yeni bir PIN ayarlamanız gerekir.
     
 ### <a name="validate-force-users-to-save-all-work-files-to-onedrive-for-business"></a>Kullanıcıları, tüm çalışma dosyalarını OneDrive İş'e kaydetmeye zorlama doğrulaması
 
@@ -77,7 +77,7 @@ Uygulamaları korumak amacıyla [Android cihazları için uygulama yapılandırm
   
 ![Verify that Force users to save all work files to OneDrive for Business is set to On.](../media/7140fa1d-966d-481c-829f-330c06abb5a5.png)
   
-1. Kullanıcının Android cihazında Outlook'u açıp kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın ve istenirse PIN girin.
+1. Kullanıcının Android cihazında Outlook'u açın ve kullanıcının Microsoft 365 Business Premium kimlik bilgileriyle oturum açın ve istenirse bir PIN girin.
     
 2. Eki olan bir e-posta açın ve ekin bilgilerinin yanındaki aşağı ok simgesine dokunun.
     
@@ -94,7 +94,7 @@ Uygulamaları korumak amacıyla [Android cihazları için uygulama yapılandırm
 
 **Edit ilkesi** bölmesinde, **Office belgelerinin yanındaki Edit'i seçin,** kullanıcıların mobil **cihazlardaki Office dosyalarına nasıl erişeceğini yönetin**ve Office uygulamaları boşta kaldıktan **sonra kullanıcıların oturum açmalarını zorunlu** kıldığından emin olun. **Edit** Bu varsayılan olarak 30 dakikadır. 
   
-1. Kullanıcının Android cihazında Outlook'u açıp kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın ve istenirse PIN girin.
+1. Kullanıcının Android cihazında Outlook'u açın ve kullanıcının Microsoft 365 Business Premium kimlik bilgileriyle oturum açın ve istenirse bir PIN girin.
     
 2. Şimdi Outlook gelen kutusunu görüyor olmalısınız. Android cihazına en az 30 dakika (veya ilkede belirttiğinizden daha uzun bir süre) boyunca dokunmayın ve boşta beklemesini sağlayın. Cihaz büyük olasılıkla kararacaktır.
     
@@ -106,7 +106,7 @@ Uygulamaları korumak amacıyla [Android cihazları için uygulama yapılandırm
 
 **İlkeyi düzenle** bölmesinde **Kaybolmuş veya çalınmış cihaz koruması**'nın yanındaki **Düzenle**'yi seçin, **Cihaz kaybolursa veya çalınırsa çalışma dosyalarını koru**'yu genişletin ve **Şifreli çalışma dosyalarını koru** seçeneğinin **Açık**, **Kullanıcıları, tüm çalışma dosyalarını OneDrive İş'e kaydetmeye zorla** seçeneğinin **Kapalı** olarak ayarlandığından emin olun.
   
-1. Kullanıcının Android cihazında Outlook'u açıp kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın ve istenirse PIN girin.
+1. Kullanıcının Android cihazında Outlook'u açın ve kullanıcının Microsoft 365 Business Premium kimlik bilgileriyle oturum açın ve istenirse bir PIN girin.
     
 2. Birkaç resim dosyası ekleri içeren bir e-posta açın.
     
@@ -130,7 +130,7 @@ Uygulamaları korumak amacıyla [iOS cihazları için uygulama yapılandırmalar
   
 İlk olarak, politikanın doğruladığınız uygulama için geçerli olduğundan emin olun.
   
-1. Microsoft 365 Business [yönetim merkezinde](https://portal.office.com) **İlkeler** \> **İlkeyi düzenle**'ye gidin.
+1. Microsoft 365 Business Premium [yönetici merkezinde,](https://portal.office.com) **İlkeler** \> **Edit ilkesine**gidin.
     
 2. Kurulumda oluşturduğunuz ayarlar veya oluşturduğunuz başka bir ilke için iOS için **Uygulama ilkesini** seçin ve örneğin Outlook için uygulandığını doğrulayın. 
     
@@ -142,7 +142,7 @@ Uygulamaları korumak amacıyla [iOS cihazları için uygulama yapılandırmalar
   
 ![Office uygulamalarına erişmek için PIN veya parmak izi gerektirin, Üzerinde ayarlandıklarına emin olun.](../media/f37eb5b2-7e26-49fb-9bd6-d955d196bacf.png)
   
-1. Kullanıcının iOS cihazında Outlook'u açın ve kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın.
+1. Kullanıcının iOS aygıtında Outlook'u açın ve kullanıcının Microsoft 365 Business Premium kimlik bilgileriyle oturum açın.
     
 2. Ayrıca pin girmeniz veya parmak izi kullanmanız istenir.
     
@@ -152,13 +152,13 @@ Uygulamaları korumak amacıyla [iOS cihazları için uygulama yapılandırmalar
 
 **Edit ilkesi** bölmesinde, **Office belgelerinin yanındaki Edit'i seçin,** kullanıcıların mobil **cihazlardaki Office dosyalarına nasıl erişeceğini yönet'i**genişletin ve başarısız deneme sayısı belirlendikten **sonra PIN'i sıfırlamanın** bir sayıya ayarlandıklarından emin olun. **Edit** Bu varsayılan olarak 5'tir. 
   
-1. Kullanıcının iOS cihazında Outlook'u açın ve kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın.
+1. Kullanıcının iOS aygıtında Outlook'u açın ve kullanıcının Microsoft 365 Business Premium kimlik bilgileriyle oturum açın.
     
 2. İlke tarafından belirtilen sayıda yanlış PIN girin. PIN'i sıfırlamak için **PIN Girişimi Sınırı'na Ulaşılan** bir istem görürsünüz. 
     
     ![After too many incorrect PIN attempts, you need to reset your PIN.](../media/fab5c089-a4a5-4e8d-8c95-b8eed1dfa262.png)
   
-3. **Tamam**'a basın. Kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açmanız istenir ve ardından yeni bir PIN ayarlamanız gerekir.
+3. **Tamam**'a basın. Kullanıcının Microsoft 365 Business Premium kimlik bilgileriyle oturum açmanız istenir ve ardından yeni bir PIN ayarlamanız gerekir.
     
 ### <a name="validate-force-users-to-save-all-work-files-to-onedrive-for-business"></a>Kullanıcıları, tüm çalışma dosyalarını OneDrive İş'e kaydetmeye zorlama doğrulaması
 
@@ -166,13 +166,13 @@ Uygulamaları korumak amacıyla [iOS cihazları için uygulama yapılandırmalar
   
 ![Verify that Force users to save all work files to OneDrive for Business is set to On.](../media/7140fa1d-966d-481c-829f-330c06abb5a5.png)
   
-1. Kullanıcının iOS cihazında Outlook'u açıp kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın ve istenirse PIN girin.
+1. Kullanıcının iOS aygıtında Outlook'u açın ve kullanıcının Microsoft 365 Business Premium kimlik bilgileriyle oturum açın ve istenirse bir PIN girin.
     
 2. Ek içeren bir e-postayı açın ve eki açıp ekranın altındaki **Kaydet**'i seçin. 
     
     ![Tap the Save option after you open an attachment to try to save it.](../media/b419b070-1530-4f14-86a8-8d89933a2b25.png)
   
-3. OneDrive İş için yalnızca bir seçenek görüyor olmanız gerekir. Değilse, **Hesap Ekle'ye** dokunun ve **Depolama Hesabı Ekle** ekranından İşletmeler için **OneDrive'ı** seçin. İstendiği zaman son kullanıcının Microsoft 365 İş bilgilerini sağlayarak oturum açın. 
+3. OneDrive İş için yalnızca bir seçenek görüyor olmanız gerekir. Değilse, **Hesap Ekle'ye** dokunun ve **Depolama Hesabı Ekle** ekranından İşletmeler için **OneDrive'ı** seçin. İstendiğinde oturum açması için son kullanıcının Microsoft 365 Business Premium'una olanak sağlayın. 
     
     **Kaydet**'e tıklayıp **OneDrive İş**'i seçin.
     
@@ -180,7 +180,7 @@ Uygulamaları korumak amacıyla [iOS cihazları için uygulama yapılandırmalar
 
 **Edit ilkesi** bölmesinde, **Office belgelerinin yanındaki Edit'i seçin,** kullanıcıların mobil **cihazlardaki Office dosyalarına nasıl erişeceğini yönetin**ve Office uygulamaları boşta kaldıktan **sonra kullanıcıların oturum açmalarını zorunlu** kıldığından emin olun. **Edit** Bu varsayılan olarak 30 dakikadır. 
   
-1. Kullanıcının iOS cihazında Outlook'u açıp kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın ve istenirse PIN girin.
+1. Kullanıcının iOS aygıtında Outlook'u açın ve kullanıcının Microsoft 365 Business Premium kimlik bilgileriyle oturum açın ve istenirse bir PIN girin.
     
 2. Şimdi Outlook gelen kutusunu görüyor olmanız gerekir. iOS cihazına en az 30 dakika (veya ilkede belirttiğinizden daha uzun bir süre) boyunca dokunmayın. Cihaz büyük olasılıkla kararır.
     
@@ -190,9 +190,9 @@ Uygulamaları korumak amacıyla [iOS cihazları için uygulama yapılandırmalar
     
 ### <a name="validate-protect-work-files-with-encryption"></a>Şifreli çalışma dosyalarını koruma doğrulaması
 
-**İlkeyi düzenle** bölmesinde **Kayıp veya çalınan cihazlara karşı koruma**'nın yanındaki **Düzenle**'yi seçip **Cihazlar kaybolur veya çalınırsa iş dosyalarını koru** bölümünü genişletin ve **İş dosyalarını şifreyle koru** seçeneğinin **Açık**, **Kullanıcıları, tüm iş dosyalarını OneDrive İş'e kaydetmeye zorla** seçeneğinin ise **Kapalı** olarak ayarlandığından emin olun.
+**İlkeyi düzenle** bölmesinde **Kaybolmuş veya çalınmış cihaz koruması**'nın yanındaki **Düzenle**'yi seçin, **Cihaz kaybolursa veya çalınırsa çalışma dosyalarını koru**'yu genişletin ve **Şifreli çalışma dosyalarını koru** seçeneğinin **Açık**, **Kullanıcıları, tüm çalışma dosyalarını OneDrive İş'e kaydetmeye zorla** seçeneğinin **Kapalı** olarak ayarlandığından emin olun.
   
-1. Kullanıcının iOS cihazında Outlook'u açıp kullanıcının Microsoft 365 İş kimlik bilgileriyle oturum açın ve istenirse PIN girin.
+1. Kullanıcının iOS aygıtında Outlook'u açın ve kullanıcının Microsoft 365 Business Premium kimlik bilgileriyle oturum açın ve istenirse bir PIN girin.
     
 2. Birkaç resim dosyası ekleri içeren bir e-posta açın.
     

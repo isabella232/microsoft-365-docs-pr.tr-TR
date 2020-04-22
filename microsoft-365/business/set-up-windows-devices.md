@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Business kullanıcıları için Windows cihazlarını ayarlama
+title: Microsoft 365 Business Premium kullanıcıları için Windows aygıtları ayarlama
 f1.keywords:
 - CSH
 ms.author: sirkkuw
@@ -24,21 +24,21 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
-description: Merkezi yönetim ve güvenlik denetimlerini etkinleştiren Microsoft 365 Business kullanıcıları için Windows 10 Pro çalıştıran Windows aygıtlarını nasıl ayarlayabilirsiniz öğrenin.
-ms.openlocfilehash: 6ecc45f825a783d9d47c4b069a6021143d96597c
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Merkezi yönetim ve güvenlik denetimlerini etkinleştiren Microsoft 365 Business Premium kullanıcıları için Windows 10 Pro çalıştıran Windows aygıtlarını nasıl ayarlayabilirsiniz öğrenin.
+ms.openlocfilehash: efe81a5547496f502232e1db2f3f092165475641
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561170"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635462"
 ---
-# <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>Microsoft 365 Business kullanıcıları için Windows cihazlarını ayarlama
+# <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Microsoft 365 Business Premium kullanıcıları için Windows aygıtları ayarlama
 
-## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-users"></a>Microsoft 365 İş kullanıcıları için Windows aygıtları kurmak için ön koşullar
+## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-premium-users"></a>Microsoft 365 Business Premium kullanıcıları için Windows aygıtları kurmak için ön koşullar
 
-Microsoft 365 Business kullanıcıları için Windows cihazları ayarlamadan önce, tüm Windows cihazların Windows 10 Pro sürüm 1703 (Creators Update) çalıştırdığından emin olun. Windows 10 Pro'yu tamamlayıcı nitelikte bir bulut hizmetleri ve cihaz yönetimi kümesi olan ve Microsoft 365 Business'ın güvenlik denetimlerine ve merkezi olarak yönetilmesine olanak sağlayan Windows 10 Business'in dağıtımı için gerekli önkoşullardan biri Windows 10 Pro'dur.
+Microsoft 365 Business Premium kullanıcıları için Windows aygıtları ayarlamadan önce, tüm Windows aygıtlarının Windows 10 Pro, sürüm 1703 (Creators Update) çalıştırdığından emin olun. Windows 10 Pro, Windows 10 Pro'yu tamamlayan ve Microsoft 365 Business Premium'un merkezi yönetim ve güvenlik denetimlerini etkinleştiren bir dizi bulut hizmeti ve aygıt yönetimi özelliği olan Windows 10 Business'ı dağıtmak için bir ön koşuldur.
   
-Windows 7 Pro, Windows 8 Pro veya Windows 8.1 Pro çalıştıran Windows cihazlarınız varsa, Microsoft 365 Business aboneliğiniz size bir Windows 10 yükseltmesi hakkı tanır.
+Windows 7 Pro, Windows 8 Pro veya Windows 8.1 Pro çalıştıran Windows aygıtlarınız varsa, Microsoft 365 Business Premium aboneliğiniz size Windows 10 yükseltmesi hakkı verir.
   
 Windows cihazları Windows 10 Pro Creators Update sürümüne yükseltme hakkında daha fazla bilgi için bu konudaki adımları izleyin: [Windows cihazları Windows Pro Creators Update sürümüne yükseltme](upgrade-to-windows-pro-creators-update.md).
   
@@ -52,7 +52,7 @@ Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i il
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Kuruluşunuzun Azure AD'sine Windows 10 cihazlarını ekleme
 
-Kuruluşunuzdaki tüm Windows aygıtları Windows 10 Pro Creators Update'e yükseltilmiş sa veya Windows 10 Pro Creators Update'i zaten çalıştırıyorsa, bu aygıtları kuruluşunuzun Azure Etkin Dizini'ne katılabilirsiniz. Aygıtlar birleştikten sonra, Microsoft 365 Business aboneliğinizin bir parçası olan Windows 10 Business'a otomatik olarak yükseltilir.
+Kuruluşunuzdaki tüm Windows aygıtları Windows 10 Pro Creators Update'e yükseltilmiş sa veya Windows 10 Pro Creators Update'i zaten çalıştırıyorsa, bu aygıtları kuruluşunuzun Azure Etkin Dizini'ne katılabilirsiniz. Aygıtlar birleştikten sonra, Microsoft 365 Business Premium aboneliğinizin bir parçası olan Windows 10 Business'a otomatik olarak yükseltilir.
   
 ### <a name="for-a-brand-new-or-newly-upgraded-windows-10-pro-device"></a>Yeni yükseltilmiş veya yeni bir Windows 10 Pro cihaz için
 
@@ -62,7 +62,7 @@ Windows 10 Pro Creators Update çalıştıran yeni bir cihaz için ya da Windows
     
     ![On the How would you like to set up page, choose Set up for an organization](../media/1b0b2dba-00bb-4a99-a729-441479220cb7.png)
   
-2. Burada **Kuruluş için ayarlama**'yı seçin ve ardından Microsoft 365 Business kullanıcı adınızı ve parolanızı girin. 
+2. Burada, **bir kuruluş için ayarla'yı** seçin ve ardından Microsoft 365 Business Premium için kullanıcı adınızı ve parolanızı girin. 
     
 3. Windows 10 cihazı kurulumunu tamamlayın.
     
@@ -108,13 +108,13 @@ Eşitleme durumunuzu doğrulamak için, **Ayarlar**'daki **İş yeri veya okula 
   
 En son mobil cihaz yönetimi ilkelerini bilgisayara aktarmak için, Eşitleme durumu sayfasında Eşitle'ye tıklayın.
   
-Microsoft 365 Business hesabını kullanmaya başlamak için Windows **Başlat** düğmesine gidin, geçerli hesap resminize sağ tıklayın ve ardından **hesabı değiştirin.** Kurumsal e-postanız ve parolanızla oturum açın.
+Microsoft 365 Business Premium hesabını kullanmaya başlamak için Windows **Start** düğmesine gidin, geçerli hesap resminize sağ tıklayın ve ardından **hesabı değiştirin.** Kurumsal e-postanız ve parolanızla oturum açın.
   
 ![Click Info button to view synchronization status](../media/818f7043-adbf-402a-844a-59d50034911d.png)
   
 ## <a name="verify-the-device-is-upgraded-to-windows-10-business"></a>Cihazın Windows 10 Business'a yükseltildiğini doğrulama
 
-Azure AD'ye eklenmiş Windows 10 cihazlarınızın, Microsoft 365 Business aboneliğinize dahil olan Windows 10 Business'a yükseltildiğini doğrulayın.
+Azure AD'nizin Windows 10'a katıldığını doğrulayın, Microsoft 365 Business Premium aboneliğinizin bir parçası olarak Windows 10 Business'a yükseltildi.
   
 1. **Ayarlar** \> **Sistem** \> **Hakkında**'ya gidin.
     
@@ -124,8 +124,8 @@ Azure AD'ye eklenmiş Windows 10 cihazlarınızın, Microsoft 365 Business abone
   
 ## <a name="next-steps"></a>Sonraki adımlar
 
-Mobil cihazlarınızı ayarlamak için [Microsoft 365 Business kullanıcıları için mobil cihazları ayarlama](set-up-mobile-devices.md) bölümüne, cihaz koruma veya uygulama koruma ilkelerini ayarlamak içinse [Microsoft 365 Business yönetimi](manage.md) bölümüne bakın.
+Mobil cihazlarınızı ayarlamak için bkz: [Microsoft 365 Business Premium kullanıcıları için mobil cihazlar ayarla](set-up-mobile-devices.md), Cihaz koruma veya uygulama koruma ilkeleri ayarlamak [için, iş için Microsoft 365'i yönet'e](manage.md)bakın.
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a>Microsoft 365 Business'ı kurma ve kullanma hakkında daha fazla şey için
+## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>Microsoft 365 Business Premium'u kurma ve kullanma hakkında daha fazla şey için
 
-[Microsoft 365 İş eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[İş eğitimi videoları için Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

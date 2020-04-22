@@ -25,17 +25,17 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: Microsoft 365 Business'ın kurulum adımlarını, abone olmaktan, etki alanı ve kullanıcılar eklemeye, güvenlik ilkeleri ayarlamaya ve daha fazlasını öğrenin.
-ms.openlocfilehash: 9bb536b52981966f6c4c487f8400577b896261e0
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Microsoft 365 Business Premium için abone olmaktan etki alanı ve kullanıcı eklemeye, güvenlik ilkeleri ayarlamaya ve daha fazlasına kadar kurulum adımlarını öğrenin.
+ms.openlocfilehash: 8b26d423d4f62ee8f9ea4a61eb8f7efa72ee26cb
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561201"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633365"
 ---
 # <a name="overview-of-setup"></a>Kuruluma genel bakış
 
-Microsoft 365 İş kurulumu hakkında kısa bir video izleyin.<br><br>
+Microsoft 365 Business Premium kurulumu hakkında kısa bir video izleyin.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4jZwg] 
 
@@ -66,18 +66,18 @@ Kurulum adımlarının çoğu kurulum sihirbazında yapılabilir, ancak diğer s
 
 Başlamak için [tehdit korumasını artırın](increase-threat-protection.md) ve [uyumluluk özelliklerini ayarlayın.](set-up-compliance.md)
 
-Microsoft [365 Business'ınızı](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) en iyi güvenlik uygulamalarının yol haritası için güvence altına almanın en iyi 10 yolunu da görün.
+Microsoft [365 Business Premium'unuzu](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) en iyi güvenlik uygulamalarının yol haritası için güvence altına almanın en iyi 10 yolunu da görün.
 
 ## <a name="step-3-set-up-and-manage-windows-10-devices"></a>Adım 3: Windows 10 aygıtlarını ayarlama ve yönetme
 
 Kurulum sihirbazını çalıştırdıktan sonra, kuruluşunuzdaki tüm Windwos 10 bilgisayarlarını çalıştırmak isteyeceksiniz.
   
-- Windows 10 Pro, Microsoft 365 Business için bir [ön koşuldur,](pre-requisites-for-data-protection.md) ancak Windows 7 Pro, Windows 8 Pro veya Windows 8.1 Pro'nuz varsa, aboneliğiniz size [Windows 10 Pro'ya yükseltme](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update)hakkı verir.
+- Windows 10 Pro, Microsoft 365 Business Premium için bir [ön koşuldur,](pre-requisites-for-data-protection.md) ancak Windows 7 Pro, Windows 8 Pro veya Windows 8.1 Pro'nuz varsa, aboneliğiniz size [Windows 10 Pro'ya yükseltme](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update)hakkı verir.
 - Windows 10 aygıtları için ilkeler ayarlamak için [güvenli Windows 10 bilgisayarlarındaki](secure-win-10-pcs.md) adımları izleyin.
 
 Bir Windows 10 aygıtına Azure AD'ye katıldığınızda, Windows 10 bilgisayarlar için belirlediğiniz ilkeler uygulanır. Daha fazla bilgi için [bkz.](set-up-windows-devices.md)
 
-## <a name="step-4-install-office-365-business"></a>Adım 4: Office 365 İşi Yükleyin
+## <a name="step-4-install-microsoft-365-apps-for-business"></a>Adım 4: İşletmeler için Microsoft 365 Uygulamalarını yükleyin
 - [Kurulum sihirbazını](set-up.md#deploy-office-365-client-apps)kullanarak Office'i Windows aygıtlarına otomatik olarak yükleyebilirsiniz.
 - Kullanıcıların Windows ve aygıtlar için [Office uygulamalarını yüklemesine](https://docs.microsoft.com/office365/admin/setup/install-applications) izin verin.
      
@@ -88,10 +88,10 @@ Bir Windows 10 aygıtına Azure AD'ye katıldığınızda, Windows 10 bilgisayar
 
 - **Şirket içi kaynaklara erişim**
 
-     - Kuruluşunuz Windows Server Active Directory'yi şirket içinde kullanıyorsa, Windows 10 aygıtlarınızı korumak için Microsoft 365 Business'ı ayarlayabilir ve yerel kimlik doğrulaması gerektiren şirket içi kaynaklara erişimi sürdürebilirsiniz. Bunu ayarlamak için [Microsoft 365 Business tarafından yönetilecek etki alanına birleştirilmiş Windows 10 aygıtlarını etkinleştir](manage-windows-devices.md) metodu adımlarını izleyin. Bu tercih edilen yöntemdir ve bu durumdaki aygıtlar Karma Azure AD birleştirilmiş aygıtlar olarak adlandırılır.
+     - Kuruluşunuz Windows Server Active Directory'yi şirket içinde kullanıyorsa, Windows 10 cihazlarınızı korumak için Microsoft 365 Business Premium'u ayarlayabilir ve yerel kimlik doğrulaması gerektiren şirket içi kaynaklara erişimi sürdürebilirsiniz. Bunu ayarlamak için [Microsoft 365 Business Premium tarafından yönetilecek etki alanına birleştirilmiş Windows 10 aygıtlarını etkinleştirme](manage-windows-devices.md) adımlarını izleyin. Bu tercih edilen yöntemdir ve bu durumdaki aygıtlar Karma Azure AD birleştirilmiş aygıtlar olarak adlandırılır.
 
-    - İşletmenizde bazı şirket içi kaynaklar (dosya paylaşımları ve yazıcılar gibi) içeren yerel bir Etkin Dizin varsa, Azure AD'ye katılan aygıtlarınıza buradaki adımları izleyerek bu kaynaklara erişim sağlayabilirsiniz: [Microsoft 365 Business'taki Azure AD'ye bağlı bir aygıttan şirket içi kaynaklara erişin.](access-resources.md)
+    - İşletmenizde bazı şirket içi kaynaklar (dosya paylaşımları ve yazıcılar gibi) içeren yerel bir Etkin Dizin varsa, Azure AD'ye katılan aygıtlarınıza buradaki adımları izleyerek bu kaynaklara erişim sağlayabilirsiniz: [Microsoft 365 Business Premium'daki Azure AD'ye bağlı bir aygıttan şirket içi kaynaklara erişin.](access-resources.md)
 
 ## <a name="see-also"></a>Ayrıca bkz.
 
-[Microsoft 365 İş eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[İş eğitimi videoları için Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

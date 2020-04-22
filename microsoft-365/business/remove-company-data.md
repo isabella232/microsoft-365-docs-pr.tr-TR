@@ -22,13 +22,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
-description: Kullanıcılarınızın cihazlarında veya Windows bilgisayarlarında bulunan şirket verilerini kaldırmak için Microsoft 365 Business'ı nasıl kullanacağınızı keşfedin.
-ms.openlocfilehash: 1cfcf836f71cb81015d28a848611678252731b9c
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Kullanıcılarınızın cihazlarında veya Windows bilgisayarlarında bulunan şirket verilerini kaldırmak için iş için Microsoft 365'i nasıl kullanacağınızı keşfedin.
+ms.openlocfilehash: 80997a48bb3924ab20f16a454120d24caf76e1e7
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561330"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43634858"
 ---
 # <a name="remove-company-data-from-devices"></a>Şirket verilerini cihazlardan kaldırma
 
@@ -36,7 +36,7 @@ ms.locfileid: "42561330"
 
 ## <a name="remove-company-data"></a>Şirket verilerini kaldırma
 
-Microsoft 365 İş'i kullanarak kullanıcılarınıza ait olan ve Microsoft 365 tarafından korunan [cihazlarda](app-protection-settings-for-android-and-ios.md) veya [Windows PC'lerinde](protection-settings-for-windows-10-devices.md) bulunan şirket verilerini kaldırabilirsiniz. **Cihazdan kaldırdığınız şirket verilerini daha sonra geri yükleyemezsiniz**. 
+Microsoft 365'i, kullanıcılarınızın [cihazlarında](app-protection-settings-for-android-and-ios.md) veya Microsoft 365 tarafından korunan [Windows bilgisayarlarında](protection-settings-for-windows-10-devices.md) sahip olduğu şirket verilerini kaldırmak için iş için Microsoft 365'i kullanabilirsiniz. **Cihazdan kaldırdığınız şirket verilerini daha sonra geri yükleyemezsiniz**. 
   
 1. 'deki <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>yönetici merkezine gidin.
     
