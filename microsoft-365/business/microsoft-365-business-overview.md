@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Business'a Genel Bakış
+title: Microsoft 365 İş Ekstra’ya Genel Bakış
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -27,94 +27,94 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
-description: Office 365'in yanı sıra işletmeniz için siber tehditlere karşı gelişmiş koruma içeren bir abonelik hizmeti olan Microsoft 365 Business hakkında bilgi edinin.
-ms.openlocfilehash: fccd0403131d8afe41608c4a195b53db959e7e91
-ms.sourcegitcommit: e525bcf073a61e1350484719a0c3ceb6ff0d8db1
-ms.translationtype: MT
+description: Office üretkenlik uygulamalarını ve işletmeniz için sanal tehlikelere karşı gelişmiş korumayı içeren bir abonelik hizmeti olan Microsoft 365 İş Ekstra hakkında bilgi edinin.
+ms.openlocfilehash: 14f6acdec79323d1dfff836ba945bb3c29059a3e
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43153828"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633233"
 ---
-# <a name="overview-of-microsoft-365-business"></a>Microsoft 365 Business'a Genel Bakış
+# <a name="overview-of-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra’ya Genel Bakış
 
-## <a name="what-is-microsoft-365-business"></a>Microsoft 365 İş nedir?
+## <a name="what-is-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra nedir?
 
-Microsoft 365 Business, Office 365 üretkenlik araçlarının yanı sıra işletmenizi siber tehditlere karşı korumaya, verilerinizi korumaya ve cihazları yönetmeye yardımcı olacak gelişmiş yetenekleri içeren bir abonelik hizmetidir.
+Microsoft 365 İş Ekstra (eski adıyla Microsoft 365 İş), 300’den az çalışanı olan işletmeler için kapsamlı bir abonelik hizmetidir. Sevdiğiniz Office üretkenlik uygulama ve hizmetleri ile Microsoft Teams gibi iş birliği araçlarını gelişmiş güvenlik ve cihaz yönetimi özellikleriyle birleştirir.
 
-Microsoft 365 Business'a hızlı bir genel bakış için bu videoyu izleyin.<br><br>
+Microsoft 365 İş Ekstra’ya hızlı bir genel bakış için bu videoyu izleyin.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).   
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
 
-Microsoft 365 Business, 300'e kadar lisans içindir. Daha fazla lisansa ihtiyacınız varsa, daha fazla bilgi için [Microsoft 365 Kurumsal](https://go.microsoft.com/fwlink/p/?linkid=860986) belgelerine bakın.
+Microsoft 365 İş Ekstra, en fazla 300 lisans için uygundur. Daha fazla lisansa ihtiyacınız varsa daha fazla bilgi için [Microsoft 365 Kurumsal](https://go.microsoft.com/fwlink/p/?linkid=860986) belgelerine göz atın.
 
-Tüm özellikler listesi için [Microsoft 365 İş hizmeti açıklamasına](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) bakın.
+Tüm özellik listesi için [Microsoft 365 İş Ekstra hizmet açıklamasına](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) göz atın.
   
-## <a name="small-business-security-needs"></a>Küçük işletme güvenlik ihtiyaçları
+## <a name="small-business-security-needs"></a>Küçük işletmelerin güvenlik ihtiyaçları
 
-İş verileriniz birçok şekilde tehlikeye atılabilir. Siz ve kullanıcılarınız, gizliliği ihlal edilen kimlik bilgileriyle oturum açtığınızda veya farklı aygıtlarda ve uygulamalarda kuruluş verilerini görüntülediğinizde kuruluşunuzun güvenliğini tehlikeye atabilirsiniz. Daha ayrıntılı olarak, kuruluşunuz şu nedenlerden dolayı risk altındadır:
+İşletme verilerinizin güvenliği çeşitli şekillerde ihlal edilebilir. Siz ve kullanıcılarınız, risk altındaki kimlik bilgileriyle oturum açtığınızda ya da şirket verilerini farklı cihaz ve uygulamalarda görüntülediğinizde, işletmenizin güvenliğini riske atabilirsiniz. Başka bir deyişle, işletmenizi riske atan faktörler şunlardır:
 
-- Gizliliği ihlal edilen veya zayıf oturum açma kimlik bilgileri.
-- Zayıf bir pime sahip bozulmuş aygıt veya kullanıcıya ait bir aygıt.
-- Kuruluşunuzun verilerini kişisel uygulamalara kopyala/yapıştırabilen/kaydedebilen kullanıcılar.
-- Güvenlik zayıf olan üçüncü taraf uygulamaları yükleyen ve kullanan kullanıcılar.
-- Hassas verilerin paylaşılması, kimlik avı girişimleri, kötü amaçlı yazılımlar ve benzeri e-posta güvenlik açıkları.
-- Olmaması gereken kişiler, hassas bilgilere sahip belgelere erişebilir.
+- Risk altındaki veya zayıf oturum açma kimlik bilgileri.
+- Zayıf bir PIN’i olan risk altındaki bir cihaz veya kullanıcıya ait bir cihaz.
+- İşletmenizin verilerini kişisel uygulamalarına kopyalayabilen/yapıştırabilen/kaydedebilen kullanıcılar.
+- Güvenliği zayıf olan üçüncü taraf uygulamalar yükleyen ve kullanan kullanıcılar.
+- Hassas verileri paylaşma, kimlik avı denemeleri, kötü amaçlı yazılım gibi e-posta açıkları.
+- Hassas bilgiler içeren belgelere erişmemesi gereken kişilerin bu belgelere erişmesi.
 
-Microsoft 365 Business, bu örneklerin her birinde verilerinizin korunmasına yardımcı olur. İş verilerinizi koruyan güvenlik özellikleri aşağıdaki şekilde ayrıntılı olarak açıklanmaktadır.
+Microsoft 365 İş Ekstra, bu örneklerin her birinde verilerinizin korunmasına yardımcı olur. Aşağıdaki şekilde, iş verilerinizi koruyan güvenlik özellikleri ayrıntılı olarak verilmiştir.
 
-![M365B'nin işletmenizi nasıl koruduğunun bir figürü.](../media/m365businessvalueadd.png)
+![M365B'nin işletmenizi nasıl koruduğunu gösteren bir şekil.](../media/m365businessvalueadd.png)
 
 ## <a name="how-your-data-and-devices-are-protected"></a>Verileriniz ve cihazlarınız nasıl korunur?
 
-Microsoft 365 Business, şu nedenlerle **tehditlere karşı savunmaya** yardımcı olur:
+Microsoft 365 İş Ekstra, tehditlere karşı şu şekilde **koruma** sağlar:
 
-- Güvenli olmayan web sitelerini (ATP Güvenli Bağlantılar) engellemek için e-postalardaki ve belgelerdeki bağlantıları gerçek zamanlı olarak taramak.
+- Güvenli olmayan web sitelerini engellemek için e-posta ve belgelerdeki bağlantıları gerçek zamanlı olarak tarama (ATP Güvenli Bağlantılar).
 
-- Yeni geliştirilen kötü amaçlı yazılımları (ATP Güvenli Ekler) tespit etmek için bir kum havuzu ortamında e-posta ekleri gelişmiş analiz gerçekleştirin. 
+- Yeni geliştirilmiş kötü amaçlı yazılımları saptamak için korumalı bir ortamda e-posta eklerinin gelişmiş analizini yapma (ATP Güvenli Ekler). 
 
-- Gelişmiş saldırılara (ATP kimlik avı önleme zekası) karşı koruma sağlamak için makine öğrenimi modellerini ve kimliğe bürünme algılamayı kullanan kimlik avı önleme ilkelerini etkinleştirme. 
+- Gelişmiş saldırılara karşı koruma sağlamak için makine öğrenimi modellerini ve kimliğe bürünme algılamasını kullanan kimlik avından koruma ilkelerini etkinleştirme (ATP kimlik avından koruma istihbaratı). 
 
-- Güvenilmeyen konumlardan erişimi devre dışı eden veya ofis ağınız gibi güvenilir yerlerden çok faktörlü kimlik doğrulamasını atlayan gelişmiş ilkeler ayarlama (güvenilir IP'ler dahil Azure Çok Faktörlü Kimlik Doğrulaması ve Koşullu Erişim). 
+- Güvenilir olmayan konumlardan erişimi devre dışı bırakan veya ofis ağınız gibi güvenilir yerlerden erişimde çok faktörlü kimlik doğrulamasını atlayan gelişmiş ilkeler ayarlama (güvenilen IP’ler ve Koşullu Erişim dahil Azure MFA). 
 
-- Kuruluşunuzun tüm Windows 10 cihazlarında kötü amaçlı yazılım koruması nın uygulanması ve anahtar sistem klasörlerinde bulunan dosyaların ransomware (Windows Defender) tarafından yapılan değişikliklere karşı korunması
+- İşletmenizdeki tüm Windows 10 cihazlarında kötü amaçlı yazılım korumasını zorunlu tutma ve önemli sistem klasörlerindeki dosyaları fidye yazılımlar tarafından yapılacak değişikliklere karşı koruma (Windows Defender)
 
 **İş verileriniz** şu şekilde korunur:
 
-- Sosyal Güvenlik numaraları veya kredi kartları gibi hassas bilgilerin işletmenizin dışına sızmasını önlemeye yardımcı olmak için otomatik algılamayı kullanma (veri kaybıönleme). 
+- Sosyal Güvenlik numarası veya kredi kartı gibi hassas bilgilerin işletmenizin dışına sızmasını önlemeye yardımcı olmak için otomatik algılamayı kullanma (veri kaybını önleme). 
 
-- Müşterilerinizle veya kuruluşunuz dışındaki diğer kişilerle güvenli bir şekilde iletişim kurabilmeniz için hassas e-postaları şifreleme. Bu, yalnızca hedeflenen alıcının iletiyi (Office 365 İleti Şifrelemesi) okumasını sağlar.
+- Müşterileriniz veya kuruluşunuzun dışındaki kişilerle güvenli bir şekilde iletişim kurabilmeniz için hassas bilgiler içeren e-postaları şifreleme. Bu işlem, iletiyi yalnızca hedef alıcının okuyabilmesini sağlar (Office 365 İleti Şifrelemesi).
 
-- E-posta ve belgelere **"Kopyalama"** ve **Iletme gibi** kısıtlamalar uygulayarak şirket bilgilerine kimlere erişebilenleri kontrol etmek (Azure Bilgi Koruması, Plan 1).
+- E-postalara ve belgelere **Kopyalama** ve **İletme** gibi kısıtlamalar uygulayarak şirket bilgilerine kimlerin erişebildiğini denetleme (Azure Information Protection, Plan 1).
 
-- Eski çalışanların posta kutuları (Exchange Online Arşivleme) dahil olmak üzere kuruluşunuzun tüm e-postalarını tutabilmeniz için sınırsız bulut arşivlemesini etkinleştirme.
+- Eski çalışanlarınızın posta kutuları dahil, işletmenizdeki tüm e-postaları korumanızı sağlayan sınırsız bulut arşivleme olanağı sunma (Exchange Online Arşivleme).
 
-Cihazlarınız aşağıdaki ler tarafından **güvenli hale alınmıştır:**
+**Cihazlarınız** şu şekilde korunur:
 
-- Hangi cihazların ve kullanıcıların Office 365 verilerinize erişebileceğini ve kullanıcıların ev bilgisayarlarından, onaylanmamış uygulamalardan veya çalışma saatleri dışında oturum açmalarını engelleme seçenekleriyle (Koşullu Erişim) denetleme.
+- Kullanıcıların ev bilgisayarlarından, onaylanmayan uygulamalardan veya çalışma saatlerinin dışında oturum açmasını engelleme seçenekleriyle, hangi cihazların ve kullanıcıların Microsoft verilerinize erişebileceğini denetleme.
 
-- iOS ve Android cihazlardaki iş verilerini korumak için güvenlik ilkeleri uygulamak. Örneğin, kullanıcıların iş verilerine erişmek için PIN veya parmak izi sağlamalarını ve mobil cihazlardaki verileri şifrelemelerini (Office mobil uygulamaları için Uygulama koruması) alabilirsiniz.
+- iOS ve Android cihazlarda iş verilerini korumak için güvenlik ilkelerini uygulama. Örneğin, kullanıcıların iş verilerine erişmek için bir PIN veya parmak izi sağlamasını isteyebilir ve mobil cihazlarda verileri şifreleyebilirsiniz (Office mobil uygulamaları için uygulama koruması).
 
-- İş belgelerini, e-postaları ve diğer verileri onaylı Office mobil uygulamalarında tutmak ve çalışanların bunları yetkisiz uygulamalara ve konumlara kaydetmesini önlemek (Office mobil uygulamaları için Uygulama koruması).
+- İş belgelerini, e-postaları ve diğer verileri onaylı Office mobil uygulamalarında tutma ve çalışanların bunları yetkisiz uygulamalara ve konumlara kaydetmesini önleme (Office mobil uygulamaları için uygulama koruması).
 
-- Kişisel bilgileri etkilemeden kaybolan veya çalınan cihazlardaki iş verilerini uzaktan silmek (Intune seçici silme).
+- Kaybolan veya çalınan cihazlardaki iş verilerini kişisel bilgileri etkilemeden uzaktan silme (Intune seçmeli temizleme).
 
-- Şirketinizdeki tüm Windows 10 bilgisayarlarının ilkelerini yönetmek için basitleştirilmiş denetimleri kullanarak BitLocker şifrelemesini uygulayın ve kritik Windows güncelleştirmelerini otomatik olarak yükleyin (Windows güncelleştirme ilkelerini uygulayın).
+- Kuruluşunuzdaki tüm Windows 10 bilgisayarlarının ilkelerini yönetmek için basitleştirilmiş denetimleri kullanma, BitLocker şifrelemesini zorunlu tutma ve kritik Windows güncelleştirmelerini otomatik olarak yükleme (Windows güncelleştirme ilkelerini zorunlu kılma).
 
-Güvenlik özelliklerinin tam listesini görmek için [Microsoft 365 İş güvenlik özelliklerine](security-features.md)bakın. Microsoft [365 Business'ı ayarladıktan](set-up.md)sonra, [tehdit korumayı artırın](increase-threat-protection.md) ve kılavuzlu kurulumun bir parçası olarak dahil olmayan güvenlik özellikleriyle başlamak için [uyumluluk özelliklerini ayarlayın.](set-up-compliance.md) Ayrıca, siber suçlulara ve bilgisayar korsanlarına karşı korumalar nasıl ayarlanıncaya ilişkin iyi bir genel bakış için [Office 365 ve Microsoft 365 İş planlarını güvence altına almanın en iyi 10 yolunu](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) da okuyun.
+Güvenlik özelliklerinin tam listesini görmek için, bkz. [Microsoft 365 İş Ekstra güvenlik özellikleri](security-features.md). [Microsoft 365 İş Ekstra’yı kurma](set-up.md) işleminden sonra, rehberli kurulumun parçası olmayan güvenlik özelliklerini kullanmaya başlamak için [tehdit korumasını artırma ve uyumluluk özelliklerini ayarlama konularına bakın. Ayrıca siber suçlulara ve korsanlara karşı koruma ayarlama ile ilgili ayrıntılı bir genel bakış için [Office 365 ve Microsoft 365 İş Ekstra planlarının güvenliğini sağlamanın en iyi 10 yolu](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) makalesini okuyun.
 
-## <a name="get-microsoft-365-business"></a>Microsoft 365 İş'i edinme
+## <a name="get-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra’yı edinin
 
-- Bir iş ortağınız varsa, Microsoft 365 Business: [Microsoft 365 Business'ı Microsoft İş Ortağı Merkezi'nden alın.](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center)
+- İş ortağınız varsa, o da Microsoft 365 İş Ekstra’ya sahip olabilir: [Microsoft 365 İş Ekstra’yı Microsoft İş Ortağı Merkezi'nden alma](get-microsoft-365-business.md).
 
-- Bir iş ortağınız yoksa ve Microsoft 365 Business'ı almak istiyorsanız, [buradan satın alabilir](https://www.microsoft.com/microsoft-365/business) ve [kaydolma](sign-up.md) yönergelerini takip edebilirsiniz.
+- Bir iş ortağınız yoksa ve Microsoft 365 İş Ekstra’ya sahip olmak istiyorsanız, [buradan satın alabilir](https://www.microsoft.com/microsoft-365/business) ve [kaydolma](sign-up.md) yönergelerini izleyebilirsiniz.
 
-- Ayrıca, hem Microsoft 365 Business satın almak hem de kurulum yardımı almak için bir [Microsoft Mağazası'na](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer) gidebilirsiniz.
+- Ayrıca, Microsoft 365 İş Ekstra’yı satın almak ve kurulum yardımı almak için bir [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer)’a da gidebilirsiniz.
 
     > [!NOTE]
-    > Bu bağlantı sadece ABD'deki mağazalar içindir
+    > Bu bağlantı yalnızca ABD'deki mağazalar içindir
 
 ## <a name="see-also"></a>Ayrıca bkz.
 
-[Microsoft 365 İş eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 İş Ekstra eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
