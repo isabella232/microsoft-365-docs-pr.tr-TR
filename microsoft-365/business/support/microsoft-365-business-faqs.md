@@ -12,12 +12,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 İş Ekstra, Microsoft 365, KOBİ, SSS, sık sorulan sorular, yanıtlar, iş
 ms.date: 06/08/2018
-ms.openlocfilehash: e456719d393dc911a6f28455e530c90e8ab9ff5a
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 2ace43e0a3bab466d102740434b2a126fb8e099d
+ms.sourcegitcommit: b6c4b514b2cb6739af949780d7e2a5a5c8dcc161
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635094"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43900700"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Microsoft 365 İş Ekstra sık sorulan sorular
 
@@ -48,7 +48,7 @@ Microsoft 365, küçük ve orta ölçekli işletmeler için sınıfının en iyi
 * Windows AutoPilot ile bilgisayarların kolay dağıtımı.
 
 **Diğer yetkilendirmeler** 
-- Microsoft 365 İş Ekstra müşterilerinin Windows Sanal Masaüstü ve Office Paylaşılan Bilgisayar Etkinleştirmesi özelliklerine de erişimi vardır. Daha fazla bilgi edinmek için [Microsoft 365 İş Ekstra bloğunu](https://techcommunity.microsoft.com/t5/Microsoft-365-Business-Blog/bg-p/Microsoft365BusinessBlog) okuyun. Ayrıca [iş hizmet açıklaması için Microsoft 365](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description)’e bakın.
+- Microsoft 365 İş Ekstra müşterilerinin Windows Sanal Masaüstü ve Office Paylaşılan Bilgisayar Etkinleştirmesi özelliklerine de erişimi vardır. Daha fazla bilgi edinmek için [Microsoft 365 İş Ekstra bloğunu](https://techcommunity.microsoft.com/t5/Microsoft-365-Business-Blog/bg-p/Microsoft365BusinessBlog) okuyun. Ayrıca [Microsoft 365 İş hizmet açıklaması](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) makalesine bakın.
 
 ### <a name="who-should-consider-adopting-microsoft-365-business-premium"></a>Kimler Microsoft 365 İş Ekstra’yı benimsemeyi düşünmelidir? 
 Microsoft 365 İş Ekstra, size şu olanakları sunan kapsamlı, bulut tabanlı güvenlik çözümüdür:  
@@ -85,7 +85,7 @@ Var olan masaüstü (Win32) uygulama uyumluluğu, herhangi bir değişiklik olma
 ### <a name="what-is-windows-10-business"></a>Windows 10 Business nedir? 
 Windows 10 Business, Windows 10 Pro'yu tamamlayıcı nitelikte bir bulut hizmetleri ve cihaz yönetimi kümesidir ve Microsoft 365 İş Ekstra’nın merkezi yönetimine ve güvenlik denetimlerine olanak sağlar.
 
-Windows 10 Business, Denetlenen Klasör Erişimi ve web tabanlı iş parçacıklarına yönelik Ağ Koruması gibi bazı ekstra Microsoft Defender özellikleriyle birlikte gelir. Ayrıca, yeni Windows 10 bilgisayarların dağıtımını kolaylaştıran bir hizmet olan Windows AutoPilot’u içerir.
+Ayrıca Windows 10 Business, Denetimli Klasör Erişimi ve web tabanlı tehditlere yönelik Ağ Koruması gibi bazı premium Microsoft Defender özellikleriyle birlikte gelir. Ayrıca, yeni Windows 10 bilgisayarların dağıtımını kolaylaştıran bir hizmet olan Windows AutoPilot’u içerir.
 
 Windows 7, 8 ve 8.1 Professional lisanslı cihazlarınız varsa Microsoft 365 İş Ekstra, Windows 10 Business’ı dağıtmak için bir ön koşul olan Windows 10 Pro’ya yükseltme olanağını sunar.
 > [!IMPORTANT]
