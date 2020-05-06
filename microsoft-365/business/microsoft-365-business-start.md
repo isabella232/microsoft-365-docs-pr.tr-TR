@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: İşletmeler için Microsoft 365, nasıl ayarlayacağı ve kullanıcılarınızın aygıtlarını ve cd'lerini iş için Microsoft 365 tarafından korunduklarından emin olmak için nasıl hazırlayacağınızı öğrenin.
-ms.openlocfilehash: 17b142fb704d1b0be088a649490e751effb19517
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 8754c470cb6369f0814f953288be130fa49cea86
+ms.sourcegitcommit: 5476c2578400894640ae74bfe8e93c3319f685bd
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43633213"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44048095"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>İşletmeler için Microsoft 365 ile başlayın
 
@@ -44,7 +44,7 @@ ms.locfileid: "43633213"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-İşletmeler için Microsoft 365, 300'e kadar lisans içindir. Daha fazla lisansa ihtiyacınız varsa, daha fazla bilgi için [Microsoft 365 Kurumsal](https://go.microsoft.com/fwlink/p/?linkid=860986) belgelerine bakın. 
+İşletmeler için Microsoft 365, 300'e kadar lisans içindir. Daha fazla lisansa ihtiyacınız varsa daha fazla bilgi için [Microsoft 365 Kurumsal](https://go.microsoft.com/fwlink/p/?linkid=860986) belgelerine göz atın. 
   
 ## <a name="get-microsoft-365-for-business"></a>İşletmeler için Microsoft 365'i alın
 
@@ -64,7 +64,7 @@ Aşağıdaki diyagramda, yöneticilerin Microsoft 365'i işletme için nasıl ku
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
-Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
   
 ### <a name="1-set-up-microsoft-365-for-business-admin"></a>1: İşletmeler için Microsoft 365'i ayarlama (Yönetici)
@@ -83,7 +83,7 @@ Genel yönetici kimlik bilgilerinizle [Microsoft 365 yönetici merkezinde](https
     
     - Kullanıcılarınızı bulutla eşitlemek için dizin eşitleme sihirbazını kullanın. Bu işlemi tamamlamak [için Microsoft 365 için dizin eşitlemesi](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) ayarla'daki adımları izleyin. Kullanıcılarınızı bulutla eşitledikten sonra [Office 365 için dizin eşitlemesi kapatmanız](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d)gerekir.
     
-    Ayrıca, bu şekilde eklenen her kullanıcıya iş için Microsoft 365'e lisans vermeniz gerekir. Bunu [kurulum sihirbazında](set-up.md) yapabilir veya [microsoft 365'teki kullanıcılara iş için lisans atayabilirsiniz.](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC)
+    Ayrıca, bu şekilde eklenen her kullanıcıya iş için Microsoft 365'e lisans vermeniz gerekir. Bunu [kurulum sihirbazında](set-up.md) yapabilir veya [microsoft 365'teki kullanıcılara iş için lisans atayabilirsiniz.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
 ### <a name="2-prepare-mobile-devices"></a>2: Mobil cihazları hazırlama
 
