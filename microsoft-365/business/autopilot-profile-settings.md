@@ -29,12 +29,12 @@ search.appverid:
 - MOE150
 ms.assetid: 99bfbf81-e719-4630-9b0f-c187edfa1f8a
 description: Otomatik Pilot profilleri, Windows'un kullanıcı aygıtlarına nasıl yükleniyi denetlemenize yardımcı olur. Profiller Cortana yüklemesini atla gibi varsayılan ve isteğe bağlı ayarlar içerir.
-ms.openlocfilehash: 5c2ec3f4c3e0ebc4ea545d11f819c897f414ad52
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 0c706d12ba262856ff40ea3bee57c64234fd77f7
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43627424"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165851"
 ---
 # <a name="about-autopilot-profile-settings"></a>AutoPilot Profili ayarları hakkında
 
@@ -47,7 +47,7 @@ Windows'un kullanıcı aygıtlarına nasıl yüklenirdenetlemek için Otomatik P
 |**Ayar**|**Açıklama**|
 |:-----|:-----|
 |Cortana, OneDrive ve OEM kaydını atla  <br/> |Cortana ve kişisel OneDrive gibi tüketici uygulamalarının yüklenmesini atlar. Aygıt kullanıcısı, aygıtta yerel bir yönetici olduğu sürece bunları daha sonra yükleyebilir. Aygıt Microsoft 365 Business Premium tarafından yönetilecektir, çünkü orijinal üretici kaydı atlanır.  <br/> |
-|Şirket markanızla deneyim de oturum açın  <br/> |Şirketinizin Microsoft [365 Oturum Açma sayfasına şirket markanızı ekle'ye](https://support.office.com/article/a1229cdb-ce19-4da5-90c7-2b9b146aef0a)sahipse, aygıt kullanıcısı oturum açken bu deneyimi yaşar.  <br/> |
+|Şirket markanızla deneyim de oturum açın  <br/> |Şirketinizin Microsoft [365 Oturum Açma sayfasına şirket markanızı ekle'ye](https://docs.microsoft.com/microsoft-365/admin/setup/customize-sign-in-page)sahipse, aygıt kullanıcısı oturum açken bu deneyimi yaşar.  <br/> |
 |Yapılandırılmış AAD hesapları ile MDM otomatik kayıt.  <br/> |Kullanıcı kimliği Azure Active Directory tarafından yönetilecek ve kullanıcılar Microsoft 365 Business Premium kimlik bilgileriyle Windows ve Microsoft 365'te oturum açacaktır.  <br/> |
    
  **İsteğe bağlı ayarlar:**
