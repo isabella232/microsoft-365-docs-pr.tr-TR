@@ -24,12 +24,12 @@ search.appverid:
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: İşletmeniz için çalışanların kullanımına hazır olmaları için yeni Windows 10 aygıtları ayarlamak için Windows AutoPilot'u nasıl kullanacağınızı öğrenin.
-ms.openlocfilehash: 98a2bfc721ce86c81ebd89e8f41603e619b31546
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: de14012ebf9e7cdd22e41505f316ab665773c670
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43627504"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165891"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>AutoPilot cihaz ve profilleri eklemek için adım adım kılavuzu kullanın.
 
@@ -69,7 +69,7 @@ Henüz aygıt grupları veya profiller oluşturmadıysanız, başlamanın en iyi
     
     Bu bilgileri donanım satıcınızdan alabilir veya Bir CSV dosyası oluşturmak için [Get-WindowsAutoPilotInfo PowerShell komut dosyasını](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) kullanabilirsiniz. 
     
-    Daha fazla bilgi için bkz. [Cihaz listesi CSV dosyası](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e). **Cihaz listesiyle .csv dosyası yükleme** sayfasında bir örnek dosya da indirebilirsiniz. 
+    Daha fazla bilgi için bkz. [Cihaz listesi CSV dosyası](https://docs.microsoft.com/microsoft-365/admin/misc/device-list). **Cihaz listesiyle .csv dosyası yükleme** sayfasında bir örnek dosya da indirebilirsiniz. 
     
 4. Profil sayfası **atarken,** varolan bir profili seçebilir veya yeni bir profil oluşturabilirsiniz. Henüz bir tane yoksa, bir tane oluşturmanız istenir. 
     

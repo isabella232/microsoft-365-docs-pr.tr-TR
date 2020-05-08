@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Bilgisayar, telefon ve tabletlerdeki verilerinizin korunmasına yardımcı olmak için Microsoft 365 Business Premium ile birlikte gelen güvenlik özellikleri hakkında bilgi edinin.
-ms.openlocfilehash: 35eb0ac1dce216ccc557fc629ddb5d2df50e7134
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: f6aef84afc76217161dee6b68d626128e0cc15b2
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635154"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165767"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Microsoft 365 Business Premium güvenlik ve uyumluluk özellikleri
 
@@ -64,7 +64,7 @@ Bu özellikleri açmaveya kapatmanın basitleştirilmiş bir yolunu sağlayan mi
 
 Microsoft 365 Business Premium'daki gelişmiş özellikler, işletmenizi siber tehditlere karşı korumanıza ve hassas bilgileri korumanıza yardımcı olmak için kullanılabilir.
   
-- **[Office 365 Gelişmiş Tehdit Koruması](https://support.office.com/article/e100fe7c-f2a1-4b7d-9e08-622330b83653)**
+- **[Office 365 Gelişmiş Tehdit Koruması](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)**
     
     Gelişmiş Tehdit Koruması (ATP), çalışan veya müşteri bilgilerini tehlikeye atmak üzere tasarlanmış gelişmiş kimlik avı ve fidye yazılımı saldırılarına karşı işletmenizi korumaya yardımcı olur. Özellikler şunlardır:
     
@@ -97,7 +97,7 @@ Microsoft 365 Business Premium'daki gelişmiş özellikler, işletmenizi siber t
 
 Microsoft 365 Business Premium aboneliğiniz, uyumluluk ve mevzuat standartlarını korumanıza yardımcı olan özellikler içerir.
 
-- **[Veri kaybıönleme ilkelerine](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP) genel bakış. 
+- **[Veri kaybıönleme ilkelerine](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)** (DLP) genel bakış. 
     
     Kredi kartı numaraları, sosyal güvenlik numaraları ve benzeri hassas bilgileri şirketiniz dışında yanlışlıkla paylaşmalarını önlemek için otomatik olarak algılamak için DLP'yi ayarlayabilirsiniz.
     

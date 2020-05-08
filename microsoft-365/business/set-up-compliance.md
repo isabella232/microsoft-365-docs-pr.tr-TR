@@ -21,12 +21,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Veri kaybını önlemek ve sizin ve müşterilerinizin hassas bilgilerinin güvenliğini sağlamaya yardımcı olmak için uyumluluk özellikleri ayarlayın.
-ms.openlocfilehash: 523d020587bcf16e46263b88ee7654b9c786e7a2
-ms.sourcegitcommit: 5476c2578400894640ae74bfe8e93c3319f685bd
+ms.openlocfilehash: a3405207cd7d2d6565807ef0f3a51acbcb80409a
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44048075"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165747"
 ---
 # <a name="set-up-compliance-features"></a>Uyumluluk özelliklerini ayarlama
 
@@ -34,9 +34,9 @@ Microsoft 365 Business Premium'unuz, verilerinizi ve cihazlarınızı koruyan ve
 
 ## <a name="set-up-dlp-features"></a>DLP özelliklerini ayarlama
 
-Bkz. Kişisel olarak tanımlanabilir bilgilere (PII) karşı korumak için bir ilke oluşturma hakkında bir örnek için şablondan Bir [DLP ilkesi oluşturun.](https://support.office.com/article/59414438-99f5-488b-975c-5023f2254369) 
+Bkz. Kişisel olarak tanımlanabilir bilgilere (PII) karşı korumak için bir ilke oluşturma hakkında bir örnek için şablondan Bir [DLP ilkesi oluşturun.](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template) 
   
-DLP, birçok farklı yerel bölge için kullanıma hazır ilke şablonlarıyla birlikte gelir. Örneğin, Avustralya Finansal Verileri, Kanada Kişisel Bilgiler Yasası, ABD Finansal Verileri ve benzeri. Tam liste için [DLP ilkesi şablonlarının neler içerdiğini](https://support.office.com/article/c2e588d3-8f4f-4937-a286-8c399f28953a) görün. Bu şablonların tümü, KIŞISEL bilgiler şablonu örneğine benzer şekilde etkinleştirilebilir. 
+DLP, birçok farklı yerel bölge için kullanıma hazır ilke şablonlarıyla birlikte gelir. Örneğin, Avustralya Finansal Verileri, Kanada Kişisel Bilgiler Yasası, ABD Finansal Verileri ve benzeri. Tam liste için [DLP ilkesi şablonlarının neler içerdiğini](https://docs.microsoft.com/microsoft-365/compliance/what-the-dlp-policy-templates-include) görün. Bu şablonların tümü, KIŞISEL bilgiler şablonu örneğine benzer şekilde etkinleştirilebilir. 
   
 ## <a name="set-up-email-retention-with-exchange-online-archiving"></a>Exchange Online Arşivleme ile e-posta saklama yı ayarlama
 
