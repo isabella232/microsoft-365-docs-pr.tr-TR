@@ -12,12 +12,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 İş Ekstra, Microsoft 365, KOBİ, SSS, sık sorulan sorular, yanıtlar, iş
 ms.date: 06/08/2018
-ms.openlocfilehash: 2ace43e0a3bab466d102740434b2a126fb8e099d
-ms.sourcegitcommit: b6c4b514b2cb6739af949780d7e2a5a5c8dcc161
-ms.translationtype: HT
+ms.openlocfilehash: 68e085313b0344f9e48ddfa9124c1d2d7297ae45
+ms.sourcegitcommit: 7f307b4f583b602f11f69adae46d7f3bf6982c65
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43900700"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44065845"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Microsoft 365 İş Ekstra sık sorulan sorular
 
@@ -130,7 +130,7 @@ Microsoft 365 İş Ekstra’nın tüm özelliklerini denemek isteyen müşterile
 ## <a name="deployment"></a>Dağıtım
 
 ### <a name="what-should-customers-consider-when-planning-a-microsoft-365-business-premium-deployment"></a>Microsoft 365 İş Ekstra dağıtımını planlarken müşteriler neleri göz önünde bulundurmalıdır? 
-Başarılı bir Microsoft 365 İş Ekstra dağıtımına giden en doğrudan yol, bir Microsoft İş Ortağı ile birlikte çalışmaktır. Çok çeşitli müşteri senaryoları üzerinde kapsamlı eğitim ve deneyime sahiptir ve ortamınızı ve gereksinimlerinizi anlamak üzere en iyi şekilde donatılmıştır.  Deneyimli BT personeli bulunan müşteriler, Microsoft 365 İş Ekstra dağıtımlarında onlara yardımcı olması için <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">Microsoft 365 İş Ekstra’yı Kullanmaya Başlama</a>’yı kullanabilirler. 
+Başarılı bir Microsoft 365 İş Ekstra dağıtımına giden en doğrudan yol, bir Microsoft İş Ortağı ile birlikte çalışmaktır. Çok çeşitli müşteri senaryoları üzerinde kapsamlı eğitim ve deneyime sahiptir ve ortamınızı ve gereksinimlerinizi anlamak üzere en iyi şekilde donatılmıştır.  Deneyimli BT personeli bulunan müşteriler, Microsoft 365 İş Ekstra dağıtımlarında onlara yardımcı olması için <a href="https://docs.microsoft.com/microsoft-365/business/microsoft-365-business-overview" target="_blank">Microsoft 365 İş Ekstra’yı Kullanmaya Başlama</a>’yı kullanabilirler. 
 
 ### <a name="does-microsoft-365-business-premium-include-the-full-capabilities-of-microsoft-intune"></a>Microsoft 365 İş Ekstra, Microsoft Intune’un tüm özelliklerini içeriyor mu? 
 Evet, Microsoft 365 İş Ekstra abonelerinin iOS, Android, MacOS ve diğer platformlar arası cihaz yönetimi için tüm Intune özelliklerini kullanma lisansı vardır. Microsoft 365 İş Ekstra’daki basitleştirilmiş yönetim konsolunda bulunmayan üçüncü taraf uygulama yönetimi ve Wi-Fi profillerinin, VPN sertifikalarının yapılandırması gibi özellikler tam Intune konsolunda yönetilebilir. 
