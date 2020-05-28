@@ -17,78 +17,79 @@ ms.custom:
 - Core_O365Admin_Migration
 - MSB365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
 description: Windows 10 cihazlarında Microsoft 365 Business Premium uygulama koruma ayarlarını doğrulayın ve kullanıcıların şirket verilerini kişisel dosyalara veya yönetilmeyen uygulamalara kopyalayamayacağını doğrulayın.
-ms.openlocfilehash: 20b2e43ae53486c046440ff1066d241ec9661888
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 589d2fc25cc1425a775523595881660cc03e152e
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635754"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403400"
 ---
-# <a name="validate-app-protection-settings-on-windows-10-pcs"></a><span data-ttu-id="5308f-103">Windows 10 bilgisayarlarda uygulama koruma ayarlarını doğrulama</span><span class="sxs-lookup"><span data-stu-id="5308f-103">Validate app protection settings on Windows 10 PCs</span></span>
+# <a name="validate-app-protection-settings-on-windows-10-pcs"></a><span data-ttu-id="c66cd-103">Windows 10 bilgisayarlarda uygulama koruma ayarlarını doğrulama</span><span class="sxs-lookup"><span data-stu-id="c66cd-103">Validate app protection settings on Windows 10 PCs</span></span>
 
-## <a name="verify-that-users-cannot-copy-company-data-to-personal-files-on-corporate-devices"></a><span data-ttu-id="5308f-104">Kullanıcıların şirket cihazlarındaki kişisel dosyalarına şirket verilerini kopyalayamadıklarını doğrulama</span><span class="sxs-lookup"><span data-stu-id="5308f-104">Verify that users cannot copy company data to personal files on corporate devices</span></span>
+## <a name="verify-that-users-cannot-copy-company-data-to-personal-files-on-corporate-devices"></a><span data-ttu-id="c66cd-104">Kullanıcıların şirket cihazlarındaki kişisel dosyalarına şirket verilerini kopyalayamadıklarını doğrulama</span><span class="sxs-lookup"><span data-stu-id="c66cd-104">Verify that users cannot copy company data to personal files on corporate devices</span></span>
 
-<span data-ttu-id="5308f-105">[Uygulama koruma ilkelerini ayarladıktan](protection-settings-for-windows-10-devices.md) sonra, ilkenin kullanıcı cihazlarında geçerlilik kazanması birkaç saat sürebilir.</span><span class="sxs-lookup"><span data-stu-id="5308f-105">After you [set up app protection policies](protection-settings-for-windows-10-devices.md), it may take up to a few hours for the policy to take effect on users' devices.</span></span> <span data-ttu-id="5308f-106">Kullanıcıların şirket verilerini kişisel dosyalara kopyalamasını Engelley'i **açtıysanız** ve iş dosyalarını şirkete ait cihazlar için İş için **OneDrive'a kaydetmeye zorladıysanız,** azure AD'ye bağlanıp oturum açtıktan sonra bunu kullanıcının aygıtında denetleyebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="5308f-106">If you turned **On** the **Prevent users from copying company data to personal files and force them to save work files to OneDrive for Business** setting for company owned devices, you can check this on the user's device after they've connected to Azure AD and signed in.</span></span> 
+<span data-ttu-id="c66cd-105">[Uygulama koruma ilkelerini ayarladıktan](protection-settings-for-windows-10-devices.md) sonra, ilkenin kullanıcı cihazlarında geçerlilik kazanması birkaç saat sürebilir.</span><span class="sxs-lookup"><span data-stu-id="c66cd-105">After you [set up app protection policies](protection-settings-for-windows-10-devices.md), it may take up to a few hours for the policy to take effect on users' devices.</span></span> <span data-ttu-id="c66cd-106">Kullanıcıların şirket verilerini kişisel dosyalara kopyalamasını Engelley'i **açtıysanız** ve iş dosyalarını şirkete ait cihazlar için İş için **OneDrive'a kaydetmeye zorladıysanız,** azure AD'ye bağlanıp oturum açtıktan sonra bunu kullanıcının aygıtında denetleyebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="c66cd-106">If you turned **On** the **Prevent users from copying company data to personal files and force them to save work files to OneDrive for Business** setting for company owned devices, you can check this on the user's device after they've connected to Azure AD and signed in.</span></span> 
   
- <span data-ttu-id="5308f-107">**Bağlantı ayarlarını doğrulama**</span><span class="sxs-lookup"><span data-stu-id="5308f-107">**Verify connection settings**</span></span>
+ <span data-ttu-id="c66cd-107">**Bağlantı ayarlarını doğrulama**</span><span class="sxs-lookup"><span data-stu-id="c66cd-107">**Verify connection settings**</span></span>
   
-1. <span data-ttu-id="5308f-108">Microsoft 365 Business Premium kimlik bilgileriyle oturum açtıktan ve [Microsoft 365 Business Premium kullanıcıları için Windows aygıtları](set-up-windows-devices.md)ayarla'da açıklandığı gibi Azure AD'ye bağlandıktan sonra **Windows Ayarları** \> **Hesapları** \> **Erişim çalışmasına veya okuluna**gidin.</span><span class="sxs-lookup"><span data-stu-id="5308f-108">After you sign in with Microsoft 365 Business Premium credentials and connect to Azure AD as described in [Set up Windows devices for Microsoft 365 Business Premium users](set-up-windows-devices.md), go to **Windows Settings** \> **Accounts** \> **Access work or school**.</span></span> <span data-ttu-id="5308f-109">**Bağlanılan \<kiracı adı\> Azure AD**'yi seçin ve sonra da **Bilgi**'yi seçin.</span><span class="sxs-lookup"><span data-stu-id="5308f-109">Choose **Connected to \<tenant name\> Azure AD**, and then choose **Info**.</span></span>
+1. <span data-ttu-id="c66cd-108">Microsoft 365 Business Premium kimlik bilgileriyle oturum açtıktan ve [Microsoft 365 Business Premium kullanıcıları için Windows aygıtları](set-up-windows-devices.md)ayarla'da açıklandığı gibi Azure AD'ye bağlandıktan sonra **Windows Ayarları** \> **Hesapları** \> **Erişim çalışmasına veya okuluna**gidin.</span><span class="sxs-lookup"><span data-stu-id="c66cd-108">After you sign in with Microsoft 365 Business Premium credentials and connect to Azure AD as described in [Set up Windows devices for Microsoft 365 Business Premium users](set-up-windows-devices.md), go to **Windows Settings** \> **Accounts** \> **Access work or school**.</span></span> <span data-ttu-id="c66cd-109">\*\* \<tenant name\> Azure AD'ye Bağlı'yı\*\*seçin ve ardından **Bilgi'yi**seçin.</span><span class="sxs-lookup"><span data-stu-id="c66cd-109">Choose **Connected to \<tenant name\> Azure AD**, and then choose **Info**.</span></span>
     
     ![Click or tap Info on the Connected to Azure AD dialog.](../media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
   
-2. <span data-ttu-id="5308f-111">\<Kiracı\> adı tarafından **yönetilen** sayfada, aşağıdaki şekilde gösterildiği gibi bir Yönetim **Sunucusu Adresi** içeren Bağlantı **bilgilerini** görebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="5308f-111">On the **Managed by** \<tenant name\> page, you can see the **Connection info** that includes a **Management Server Address** like the one shown in the following figure.</span></span> 
+2. <span data-ttu-id="c66cd-111">**Yönetilenler** \<tenant name\> sayfasında, aşağıdaki şekilde gösterildiği gibi bir **Yönetim Sunucusu Adresi** içeren Bağlantı **bilgilerini** görebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="c66cd-111">On the **Managed by** \<tenant name\> page, you can see the **Connection info** that includes a **Management Server Address** like the one shown in the following figure.</span></span> 
     
     ![Managed by page shows connection info of the device manager URL.](../media/47515a8e-2d0c-4bea-99f0-6b2545b88a11.png)
   
- <span data-ttu-id="5308f-113">**Yönetilmeyen bir uygulamaya şirket verilerini yapıştıramayacağınızı doğrulayın**</span><span class="sxs-lookup"><span data-stu-id="5308f-113">**Verify that you cannot paste company data in a non-managed app**</span></span>
+ <span data-ttu-id="c66cd-113">**Yönetilmeyen bir uygulamaya şirket verilerini yapıştıramayacağınızı doğrulayın**</span><span class="sxs-lookup"><span data-stu-id="c66cd-113">**Verify that you cannot paste company data in a non-managed app**</span></span>
   
-1. <span data-ttu-id="5308f-114">Microsoft 365 Business Premium tarafından yüklenen Outlook 2016'yı açın.</span><span class="sxs-lookup"><span data-stu-id="5308f-114">Open Outlook 2016 that was installed by Microsoft 365 Business Premium.</span></span>
+1. <span data-ttu-id="c66cd-114">Microsoft 365 Business Premium tarafından yüklenen Outlook 2016'yı açın.</span><span class="sxs-lookup"><span data-stu-id="c66cd-114">Open Outlook 2016 that was installed by Microsoft 365 Business Premium.</span></span>
     
-2. <span data-ttu-id="5308f-115">Bir e-postayı açın ve içeriğinin bir bölümünü kopyalayın.</span><span class="sxs-lookup"><span data-stu-id="5308f-115">Open an email and copy some content from it.</span></span>
+2. <span data-ttu-id="c66cd-115">Bir e-postayı açın ve içeriğinin bir bölümünü kopyalayın.</span><span class="sxs-lookup"><span data-stu-id="c66cd-115">Open an email and copy some content from it.</span></span>
     
-    <span data-ttu-id="5308f-116">Not Defteri'ni açın ve içeriği oraya yapıştırmayı deneyin.</span><span class="sxs-lookup"><span data-stu-id="5308f-116">Open Notepad and attempt to paste the content in.</span></span>
+    <span data-ttu-id="c66cd-116">Not Defteri'ni açın ve içeriği oraya yapıştırmayı deneyin.</span><span class="sxs-lookup"><span data-stu-id="c66cd-116">Open Notepad and attempt to paste the content in.</span></span>
     
-    <span data-ttu-id="5308f-117">Uygulamanın içeriğe erişemediğini belirten bir hata alırsınız.</span><span class="sxs-lookup"><span data-stu-id="5308f-117">You'll receive an error that states the app can't access content.</span></span>
+    <span data-ttu-id="c66cd-117">Uygulamanın içeriğe erişemediğini belirten bir hata alırsınız.</span><span class="sxs-lookup"><span data-stu-id="c66cd-117">You'll receive an error that states the app can't access content.</span></span>
     
     ![A dialog that states app can't access content when you paste into an unmanaged app.](../media/5e82b154-cf2f-43c8-ae80-b45d8ad80e56.png)
   
-    <span data-ttu-id="5308f-119">Öte yandan, içeriği Word 2016'yı yapıştırabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="5308f-119">You can, however, paste the same content into Word 2016.</span></span>
+    <span data-ttu-id="c66cd-119">Öte yandan, içeriği Word 2016'yı yapıştırabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="c66cd-119">You can, however, paste the same content into Word 2016.</span></span>
     
-## <a name="verify-that-users-cannot-copy-company-data-to-personal-files-on-personal-devices"></a><span data-ttu-id="5308f-120">Kullanıcıların kişisel cihazlarındaki kişisel dosyalarına şirket verilerini kopyalayamadıklarını doğrulama</span><span class="sxs-lookup"><span data-stu-id="5308f-120">Verify that users cannot copy company data to personal files on personal devices</span></span>
+## <a name="verify-that-users-cannot-copy-company-data-to-personal-files-on-personal-devices"></a><span data-ttu-id="c66cd-120">Kullanıcıların kişisel cihazlarındaki kişisel dosyalarına şirket verilerini kopyalayamadıklarını doğrulama</span><span class="sxs-lookup"><span data-stu-id="c66cd-120">Verify that users cannot copy company data to personal files on personal devices</span></span>
 
- <span data-ttu-id="5308f-121">**Bağlantı ayarlarını doğrulama**</span><span class="sxs-lookup"><span data-stu-id="5308f-121">**Verify connection settings**</span></span>
+ <span data-ttu-id="c66cd-121">**Bağlantı ayarlarını doğrulama**</span><span class="sxs-lookup"><span data-stu-id="c66cd-121">**Verify connection settings**</span></span>
   
-1. <span data-ttu-id="5308f-122">Yerel bir kullanıcı olarak oturum açtığınız Windows 10 kişisel cihazınızda **Windows Ayarları'na**gidin ve **HesaplarA** \> **Erişim çalışmasına veya okuluna**tıklayın veya dokunun.</span><span class="sxs-lookup"><span data-stu-id="5308f-122">On your Windows 10 personal device where you're logged in as a local user, go to **Windows Settings**, and click or tap **Accounts** \> **Access work or school**.</span></span>
+1. <span data-ttu-id="c66cd-122">Yerel bir kullanıcı olarak oturum açtığınız Windows 10 kişisel cihazınızda **Windows Ayarları'na**gidin ve **Accounts** \> **HesaplarA Erişim çalışmasına veya okuluna**tıklayın veya dokunun.</span><span class="sxs-lookup"><span data-stu-id="c66cd-122">On your Windows 10 personal device where you're logged in as a local user, go to **Windows Settings**, and click or tap **Accounts** \> **Access work or school**.</span></span>
     
-2. <span data-ttu-id="5308f-123">**İş yeri veya okula eriş** alanının altında **Bağlan**'ı seçin.</span><span class="sxs-lookup"><span data-stu-id="5308f-123">Under the **Access work or school**, choose **Connect**.</span></span>
+2. <span data-ttu-id="c66cd-123">**İş yeri veya okula eriş** alanının altında **Bağlan**'ı seçin.</span><span class="sxs-lookup"><span data-stu-id="c66cd-123">Under the **Access work or school**, choose **Connect**.</span></span>
     
-3. <span data-ttu-id="5308f-124">Microsoft 365 Business Premium kimlik bilgilerinizi **iş veya okul hesabı iletişim kutusunda** \> **oturum aç'a**girin.</span><span class="sxs-lookup"><span data-stu-id="5308f-124">Enter your Microsoft 365 Business Premium credential into the **Set up a work or school account dialog** \> **Sign in**.</span></span>
+3. <span data-ttu-id="c66cd-124">Microsoft 365 Business Premium kimlik bilgilerinizi **iş veya okul hesabı iletişim kutusunda** oturum \> **aç'a**girin.</span><span class="sxs-lookup"><span data-stu-id="c66cd-124">Enter your Microsoft 365 Business Premium credential into the **Set up a work or school account dialog** \> **Sign in**.</span></span>
     
-4. <span data-ttu-id="5308f-125">**İş yeri veya okula eriş** sayfasında, **İş veya okul hesabı**'nı ve sonra da **Bilgi**'yi seçin.</span><span class="sxs-lookup"><span data-stu-id="5308f-125">On the **Access work or school** page, choose the **Work or school account**, and then choose **Info**.</span></span>
+4. <span data-ttu-id="c66cd-125">**İş yeri veya okula eriş** sayfasında, **İş veya okul hesabı**'nı ve sonra da **Bilgi**'yi seçin.</span><span class="sxs-lookup"><span data-stu-id="c66cd-125">On the **Access work or school** page, choose the **Work or school account**, and then choose **Info**.</span></span>
     
     ![İş veya okul hesabı iletişim kutusundaKi Bilgiler'i tıklatın veya dokunun.](../media/63bd8b32-cb32-4afa-8ce0-6070ac403abc.png)
   
-5. <span data-ttu-id="5308f-127">Access **çalışmasında veya okul** sayfasında, aşağıdaki şekilde gösterildiği gibi bir **Yönetim Sunucusu Adresi** içeren ve içindeki *silme* ve *mam* sözcülerini içeren **Bağlantı bilgilerini** görebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="5308f-127">On the **Access work or school** page, you can see the **Connection info** that includes a **Management Server Address** like the one shown in the following figure, and includes the words  *wip*  and  *mam*  within.</span></span> 
+5. <span data-ttu-id="c66cd-127">Access **çalışmasında veya okul** sayfasında, aşağıdaki şekilde gösterildiği gibi bir **Yönetim Sunucusu Adresi** içeren ve içindeki *silme* ve *mam* sözcülerini içeren **Bağlantı bilgilerini** görebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="c66cd-127">On the **Access work or school** page, you can see the **Connection info** that includes a **Management Server Address** like the one shown in the following figure, and includes the words  *wip*  and  *mam*  within.</span></span> 
     
     ![Managed by page shows connection info URL that includes the words mam and wpi.](../media/abd4eaf4-44fa-4538-a3e8-1e0d331dfe1e.png)
   
- <span data-ttu-id="5308f-129">**Yönetilmeyen bir uygulamaya şirket verilerini yapıştıramayacağınızı doğrulayın**</span><span class="sxs-lookup"><span data-stu-id="5308f-129">**Verify that you cannot paste company data in a non-managed app**</span></span>
+ <span data-ttu-id="c66cd-129">**Yönetilmeyen bir uygulamaya şirket verilerini yapıştıramayacağınızı doğrulayın**</span><span class="sxs-lookup"><span data-stu-id="c66cd-129">**Verify that you cannot paste company data in a non-managed app**</span></span>
   
-1. <span data-ttu-id="5308f-130">Outlook 2016'yı açın ve gerekirse Microsoft 365 Business Premium hesabınızı ekleyin ve Microsoft 365 Business Premium kimlik bilgilerinizle oturum açın.</span><span class="sxs-lookup"><span data-stu-id="5308f-130">Open Outlook 2016 and add your Microsoft 365 Business Premium account if necessary and sign in with your Microsoft 365 Business Premium credentials.</span></span>
+1. <span data-ttu-id="c66cd-130">Outlook 2016'yı açın ve gerekirse Microsoft 365 Business Premium hesabınızı ekleyin ve Microsoft 365 Business Premium kimlik bilgilerinizle oturum açın.</span><span class="sxs-lookup"><span data-stu-id="c66cd-130">Open Outlook 2016 and add your Microsoft 365 Business Premium account if necessary and sign in with your Microsoft 365 Business Premium credentials.</span></span>
     
-2. <span data-ttu-id="5308f-131">Bir e-postayı açın ve içeriğinin bir bölümünü kopyalayın.</span><span class="sxs-lookup"><span data-stu-id="5308f-131">Open an email and copy some content from it.</span></span>
+2. <span data-ttu-id="c66cd-131">Bir e-postayı açın ve içeriğinin bir bölümünü kopyalayın.</span><span class="sxs-lookup"><span data-stu-id="c66cd-131">Open an email and copy some content from it.</span></span>
     
-    <span data-ttu-id="5308f-132">Not Defteri'ni açın ve içeriği oraya yapıştırmayı deneyin.</span><span class="sxs-lookup"><span data-stu-id="5308f-132">Open Notepad and attempt to paste the content in.</span></span>
+    <span data-ttu-id="c66cd-132">Not Defteri'ni açın ve içeriği oraya yapıştırmayı deneyin.</span><span class="sxs-lookup"><span data-stu-id="c66cd-132">Open Notepad and attempt to paste the content in.</span></span>
     
-    <span data-ttu-id="5308f-133">App'in içeriğe erişemediğini belirten bir hata alırsınız.</span><span class="sxs-lookup"><span data-stu-id="5308f-133">You'll receive an error that states App can't access content.</span></span>
+    <span data-ttu-id="c66cd-133">App'in içeriğe erişemediğini belirten bir hata alırsınız.</span><span class="sxs-lookup"><span data-stu-id="c66cd-133">You'll receive an error that states App can't access content.</span></span>
     
     ![A dialog that states app can't access content when you paste into an unmanaged app.](../media/5e82b154-cf2f-43c8-ae80-b45d8ad80e56.png)
   
-    <span data-ttu-id="5308f-135">Öte yandan, içeriği Word 2016'yı yapıştırabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="5308f-135">You can, however, paste the same content into Word 2016.</span></span>
+    <span data-ttu-id="c66cd-135">Öte yandan, içeriği Word 2016'yı yapıştırabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="c66cd-135">You can, however, paste the same content into Word 2016.</span></span>
     
 
