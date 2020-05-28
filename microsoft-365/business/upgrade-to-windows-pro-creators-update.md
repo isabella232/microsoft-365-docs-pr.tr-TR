@@ -20,17 +20,18 @@ ms.custom:
 - TRN_M365B
 - OKR_SMB_Videos
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: Daha gelişmiş güvenlik ve iş ağı özelliklerinden yararlanmak için Windows cihazlarınızı Windows 10 Pro'ya yükseltmenin yollarını keşfedin.
-ms.openlocfilehash: f0cedda49dbff2a8c2884bb52e240fabfbeb4537
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: c982f59ded0b0d2e1cd321f5856b38bd792eebed
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43632061"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403540"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Windows cihazlarını Windows 10 Pro'ya yükseltme
 
@@ -38,17 +39,17 @@ Windows aygıtlarını Windows 10 Pro'ya yükseltme hakkında kısa bir video iz
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
 
-Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 ## <a name="upgrade-to-windows-10-pro"></a>Windows 10 Pro'ya yükseltme
   
 Windows 10 Pro'ya yükseltmek için birkaç seçeneğiniz vardır. Şunları yapabilirsiniz:
     
-- [Microsoft Yazılım İndirme sitesinden](https://go.microsoft.com/fwlink/?LinkID=836951 ) &ndash; yükseltmeyi yükleyin Oturum açtığınız aygıt güncelleştirmek istediğiniz aygıtla aynı aygıttaysa bu seçeneği belirleyin. 
+- [Microsoft Yazılım İndirme sitesinden](https://go.microsoft.com/fwlink/?LinkID=836951 ) yükseltmeyi yükleyin Oturum açtığınız aygıt güncelleştirmek istediğiniz aygıtla &ndash; aynı aygıttaysa bu seçeneği belirleyin. 
 
     - Yazılım indirme sitesinden, aygıtı Windows 10 Pro Creators Update'e yükseltmeye başlamak için **şimdi Güncelleştir'i** tıklatın. 
     
-- [Medya Oluşturma Aracı'nı](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; kullanarak bir yükleme ortamı oluşturun Windows 10'u kullandığınızdan farklı bir bilgisayara yüklemek için Windows 10 Pro Creators Update yükleme ortamı (USB flash drive veya ISO dosyası) oluşturmak için bu seçeneği belirleyin.
+- [Medya Oluşturma Aracı'nı](https://go.microsoft.com/fwlink/?LinkID=836960) kullanarak bir yükleme ortamı oluşturun Windows &ndash; 10'u kullandığınızdan farklı bir bilgisayara yüklemek için Windows 10 Pro Creators Update yükleme ortamı (USB flash drive veya ISO dosyası) oluşturmak için bu seçeneği belirleyin.
 
     - Aracı nasıl kullanacağınız ve yükleme ortamınızı oluşturma nızla ilgili talimatları okuyun. 
 
