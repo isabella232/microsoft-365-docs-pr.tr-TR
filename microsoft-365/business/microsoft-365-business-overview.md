@@ -23,17 +23,18 @@ ms.custom:
 - TRN_M365B
 - OKR_SMB_Videos
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Office üretkenlik uygulamalarını ve işletmeniz için sanal tehlikelere karşı gelişmiş korumayı içeren bir abonelik hizmeti olan Microsoft 365 İş Ekstra hakkında bilgi edinin.
-ms.openlocfilehash: 14f6acdec79323d1dfff836ba945bb3c29059a3e
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 61f4c34ade180717486ce889162947afe9be7ba6
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43633233"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402264"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra’ya Genel Bakış
 
@@ -102,7 +103,7 @@ Microsoft 365 İş Ekstra, tehditlere karşı şu şekilde **koruma** sağlar:
 
 - Kuruluşunuzdaki tüm Windows 10 bilgisayarlarının ilkelerini yönetmek için basitleştirilmiş denetimleri kullanma, BitLocker şifrelemesini zorunlu tutma ve kritik Windows güncelleştirmelerini otomatik olarak yükleme (Windows güncelleştirme ilkelerini zorunlu kılma).
 
-Güvenlik özelliklerinin tam listesini görmek için, bkz. [Microsoft 365 İş Ekstra güvenlik özellikleri](security-features.md). [Microsoft 365 İş Ekstra’yı kurma](set-up.md) işleminden sonra, rehberli kurulumun parçası olmayan güvenlik özelliklerini kullanmaya başlamak için [tehdit korumasını artırma ve uyumluluk özelliklerini ayarlama konularına bakın. Ayrıca siber suçlulara ve korsanlara karşı koruma ayarlama ile ilgili ayrıntılı bir genel bakış için [Office 365 ve Microsoft 365 İş Ekstra planlarının güvenliğini sağlamanın en iyi 10 yolu](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) makalesini okuyun.
+Güvenlik özelliklerinin tam listesini görmek için, bkz. [Microsoft 365 İş Ekstra güvenlik özellikleri](security-features.md). [Microsoft 365 İş Ekstra’yı kurma](set-up.md) işleminden sonra, rehberli kurulumun parçası olmayan güvenlik özelliklerini kullanmaya başlamak için [tehdit korumasını artırma](increase-threat-protection.md) ve [uyumluluk özelliklerini ayarlama](set-up-compliance.md) konularına bakın. Ayrıca siber suçlulara ve korsanlara karşı koruma ayarlama ile ilgili ayrıntılı bir genel bakış için [Office 365 ve Microsoft 365 İş Ekstra planlarının güvenliğini sağlamanın en iyi 10 yolu](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) makalesini okuyun.
 
 ## <a name="get-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra’yı edinin
 

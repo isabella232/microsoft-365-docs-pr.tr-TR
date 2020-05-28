@@ -21,16 +21,17 @@ ms.custom:
 - TRN_M365B
 - OKR_SMB_Videos
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 description: Microsoft 365 Business Premium'un neler içerdiğini öğrenin ve Microsoft 365 Business Premium'a kaydolma konusunda adım adım kılavuz alın.
-ms.openlocfilehash: 443363fa673a112ae13eb5b63308115724d9bd00
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 50662149ae2faa99c567080d5e914c3300ac3494
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635114"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401568"
 ---
 # <a name="sign-up-for-microsoft-365-business-premium"></a>Microsoft 365 Business Premium için kaydolun
 
@@ -53,7 +54,7 @@ Kayıt işlemine hızlı bir genel bakış için bu videoyu izleyin.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3znhX] 
 
-Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 İşletmeniz için Microsoft 365'e kaydolmak ve satın almak için aşağıdaki adımları tamamlayın:
 

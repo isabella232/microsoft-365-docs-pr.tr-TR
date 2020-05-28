@@ -20,18 +20,19 @@ ms.custom:
 - MiniMaven
 - MSB365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: aa31319c-9196-48c9-a90b-4057e0494c7a
 description: Kullanıcıların Office uygulamalarına ve mobil cihazlardan dosyaları nasıl çalıştırdığını yönetmenize olanak tanıyan koruma ilkeleri hakkında bilgi edinin.
-ms.openlocfilehash: 870706103a6c05e2e193c80f7a586eab529bb1e7
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: f613e518c3607010cae55443456be9d3ddc3d689
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561510"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403088"
 ---
 # <a name="manage-how-users-access-office-documents-on-mobile-devices"></a>Kullanıcıların mobil cihazlarda Office belgelerine nasıl erişeceğini yönetme
 
@@ -44,7 +45,7 @@ Kullanıcıların Office iş dosyalarına erişimini yönetmek için şu ayarlar
 |||
 |:-----|:-----|
 |Ayar  <br/> |Açıklama  <br/> |
-|Office uygulamalarına erişirken PIN veya parmak izi iste  <br/> |Bu ayar **** Açık'taysa, kullanıcıların mobil aygıtlarında Office uygulamalarını kullanabilmeleri için kullanıcı adlarına ve parolalarına ek olarak başka bir kimlik doğrulama biçimi sağlamaları gerekir.  <br/> |
+|Office uygulamalarına erişirken PIN veya parmak izi iste  <br/> |Bu ayar **On**Açık'taysa, kullanıcıların mobil aygıtlarında Office uygulamalarını kullanabilmeleri için kullanıcı adlarına ve parolalarına ek olarak başka bir kimlik doğrulama biçimi sağlamaları gerekir.  <br/> |
 |Belirli sayıda başarısız oturum açma girişimi yapıldığında PIN'i sıfırla  <br/> |Yetkisiz bir kullanıcının PIN'i rastgele tahmin etmesini engellemek için belirlediğiniz sayıda yanlış giriş yapılırsa PIN sıfırlanır.  <br/> |
 |Office uygulamaları belirli bir süre boyunca boşta kalırsa kullanıcıların yeniden oturum açmasını iste  <br/> |Bu ayar, kullanıcıdan yeniden oturum açması istenmeden önce ne kadar süre yle boşta kalınabileceğini belirler.  <br/> |
 |Jailbreak uygulanmış veya kök erişim izni verilmiş cihazlardan iş dosyalarına erişilmesini engelle  <br/> |Akıllı kullanıcılar, bir cihaza jailbreak uygulamış veya kök erişim izni sağlamış olabilir. Bu, kullanıcının işletim sistemini değiştirebileceği ve bu da aygıtı kötü amaçlı yazılımlara karşı daha duyarlı hale getirebileceği anlamına gelir. Bu ayar **Açık** olduğunda böyle cihazlar engellenir.  <br/> |

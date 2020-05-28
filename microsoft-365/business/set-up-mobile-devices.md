@@ -19,17 +19,18 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: Office'i bir iPhone'a veya Android telefona yükleyin ve Office uygulamalarındaki iş dosyalarınız iş için Microsoft 365 tarafından korunacaktır.
-ms.openlocfilehash: 1263a922ba41083511fec8030634ed6cfaf70f00
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: e96e2edc0fc2bc25449d8f50239fa25179b345bd
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43632577"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403008"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>Microsoft 365 için iş kullanıcıları için mobil aygıtlar ayarlama
 
@@ -45,7 +46,7 @@ Bu örnek Outlook üzerinden hazırlanmıştır, ancak bahsedilen işlemler yük
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWee2n] 
 
-Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 **App Store**'a gidin ve arama alanına Microsoft Outlook yazın.
   
@@ -59,7 +60,7 @@ Yükleme tamamlandığında, **Aç** düğmesine dokunarak Outlook'u açın ve a
   
 ![Screenshot of Outlook with Get Started button](../media/005bedec-ae50-4d75-b3bb-e7cef9e2561c.png)
   
-İş e-posta adresinizi **E-posta Hesabı** \> **Ekle**ekranına girin ve ardından \> iş kimlik bilgileri için Microsoft 365'inizi girin **Oturum açın.**
+İş e-posta adresinizi **E-posta Hesabı Ekle** ekranına girin \> **Add Account**ve ardından iş kimlik bilgileri için Microsoft 365'inizi girin \> **Oturum açın.**
   
 ![Sign in to your work account](../media/3cef1fb5-7bec-4d3d-8542-872b731ce19f.png)
   
@@ -77,7 +78,7 @@ Outlook ve Office'i Android cihazlara yükleme hakkında bir video izleyin.<br><
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/ecc2e9c0-bc7e-4f26-8b14-91d84dbcfef0] 
 
-Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 Android telefonunuzda kuruluma başlamak için Play Store'a gidin.
   
@@ -87,7 +88,7 @@ Google Play arama kutusuna Microsoft Outlook'u girin ve **Yükle'ye**dokunun. Ou
   
 ![Tap Open to open Outlook app](../media/8b4c5937-8875-4b5a-a5b6-b8c6c9cd6240.png)
   
-Outlook uygulamasında, **Başlat'a**dokunun, ardından iş e-posta \> hesabı için Microsoft 365'inizi ekleyin **ve**kuruluş kimlik bilgilerinizle oturum açın.
+Outlook uygulamasında, **Başlat'a**dokunun, ardından iş e-posta hesabı için Microsoft 365'inizi ekleyin \> **ve**kuruluş kimlik bilgilerinizle oturum açın.
   
 ![Sign in to your organizational account in Outlook](../media/18f67c66-4bab-4b99-94bd-080839312e29.png)
   

@@ -20,17 +20,18 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: aad21b1a-c775-469a-b89c-c5d1d59d27db
 description: Microsoft 365 Business Premium haritadan Intune ayarlarına koruma özelliklerinin nasıl olduğunu öğrenin. Abonelik, Intune ayarlarını değiştirmeniz için size bir lisans sağlar.
-ms.openlocfilehash: 572d3364e465067536e8369b49404d3d1de1bb5b
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: ce75073f748f6005a843e31f7c38d06b38a3c706
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43633253"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401588"
 ---
 # <a name="how-do-protection-features-in-microsoft-365-business-premium-map-to-intune-settings"></a>Microsoft 365 Business Premium haritadaki koruma özellikleri Intune ayarlarına nasıl yapılır?
 
@@ -44,7 +45,7 @@ Intune ayarını bulmak için Microsoft 365 Business Premium yönetici kimlik bi
  > 
  > Microsoft 365 Business Premium aboneliği, tüm Intune ayarlarını değiştirmeniz için size lisans verir. [Başlamak için Intune'a Giriş'e bakın.](https://docs.microsoft.com/intune/introduction-intune)
   
-Örneğin istediğiniz &mdash; Politika adını seçin, Android &mdash; için Uygulama ilkesi ve ardından Politika **ayarlarını**seçin.
+Örneğin istediğiniz Politika adını &mdash; seçin, Android için Uygulama ilkesi &mdash; ve ardından **Politika ayarlarını**seçin.
   
 **Cihaz kaybolursa veya çalınırsa iş dosyalarını koru** alanında
   
@@ -95,7 +96,7 @@ Kullanılabilir ayarları keşfetmek için istediğiniz ilke adını seçin ve a
 
 Aşağıdaki tabloda, Windows 10 cihaz yapılandırma ayarlarının Intune ayarlarıyla nasıl eşlendiği ayrıntılarıyla gösterilir.
   
-Intune ayarını bulmak için Microsoft 365 Business Premium yönetici kimlik bilgilerinizle oturum açın ve [Azure portalına](https://portal.azure.com)gidin, ardından **Daha Fazla hizmet**seçin ve **Filtre'ye** **Intune'da** \> yazın , Intune **Device yapılandırma** \> **Profilleri'ni**seçin. Ardından **Windows 10** \> **Özellikleri** \> **Ayarları**için Aygıt ilkesini seçin.
+Intune ayarını bulmak için Microsoft 365 Business Premium yönetici kimlik bilgilerinizle oturum açın ve [Azure portalına](https://portal.azure.com)gidin, ardından **Daha Fazla hizmet**seçin ve **Filtre'ye** **Intune'da** yazın , Intune Device \> **yapılandırma** \> **Profilleri'ni**seçin. Ardından **Windows 10** Özellikleri Ayarları için Aygıt ilkesini \> **Properties** \> **Settings**seçin.
   
 |**Windows 10 cihazı ilkesi ayarı**|**Intune ayarları**|
 |:-----|:-----|
@@ -103,7 +104,7 @@ Intune ayarını bulmak için Microsoft 365 Business Premium yönetici kimlik bi
 |Bilgisayarları Microsoft Edge'de web tabanlı tehditlere karşı korumaya yardımcı ol  <br/> |**Edge Tarayıcı Ayarları**'nda **SmartScreen** seçeneği **Gerekli** olarak ayarlanır.  <br/> |
 |Cihaz şu kadar süreyle boşta kaldığında ekranı kapat (dakika)  <br/> |Ekran kilitlenmeden önce geçmesi gereken, işlem yapılmayan dakika sayısı  <br/> |
 |Kullanıcıların Microsoft Store'ndan uygulama indirmesine izin ver  <br/> |Özel URI ilkesi  <br/> |
-|Kullanıcıların Cortana'ya erişmesine izin ver  <br/> |**General** \> **Cortana,** Microsoft 365 Business Premium'da **havalandığında** Intune'u **engelleyecek** şekilde ayarlanmıştır.  <br/> |
+|Kullanıcıların Cortana'ya erişmesine izin ver  <br/> |**Genel** \> **Cortana,** Microsoft 365 Business Premium'da **havalandığında** Intune'da **engellenir.**  <br/> |
 |Kullanıcıların Microsoft'tan Windows ipucu ve reklam almasına izin ver  <br/> |**Windows spot ışığı,** Microsoft 365 Business Premium'da **bu** şekilde ayarlanırsa hepsi engellenir.  <br/> |
 |Windows 10 cihazları otomatik olarak güncelleştir  <br/> | Bu ayar **Microsoft Intune** \> **Service güncelleştirmelerinde - Windows 10 Güncelleştirme Halkaları,** Windows **10 aygıtları için Güncelleştirme ilkesini**seçin ve ardından **Özellikler** \> **Ayarları.**  <br/>  Microsoft 365 Business Premium ayarı **Ayarı Ayarı**olarak ayarlandığında, aşağıdaki ayarların tümü ayarlanır:  <br/> **Hizmet dalı** **CB** olarak ayarlanır (Microsoft 365 Business Premium'da bu kapatıldığında CBB).  <br/> **Microsoft ürün güncelleştirmeleri** seçeneği **İzin ver** olarak ayarlanır.  <br/> **Windows sürücüleri** seçeneği **İzin ver** olarak ayarlanır.  <br/> **Otomatik güncelleştirme davranışı** seçeneği **Bakım zamanında otomatik yükle** olarak ayarlanır ve:  <br/> **Etkin saatlerin başlangıcı** için **06:00** ayarlanır.  <br/> **Etkin saatlerin sonu** için **22:00** ayarlanır.  <br/> **Kalite güncelleştirmesi erteleme süresi (gün)** için **0** ayarlanır.  <br/> **Özellik güncelleştirmesi erteleme süresi (gün)** için **0** ayarlanır.  <br/> **Teslimi iyileştirme indirme modu** için **Aynı NAT arkasında eşleme ile karışık HTTP** ayarlanır.  <br/> |
 |||

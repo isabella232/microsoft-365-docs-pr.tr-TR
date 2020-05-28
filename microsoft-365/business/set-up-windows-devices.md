@@ -20,17 +20,18 @@ ms.custom:
 - TRN_M365B
 - OKR_SMB_Videos
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: Merkezi yönetim ve güvenlik denetimlerini etkinleştiren Microsoft 365 Business Premium kullanıcıları için Windows 10 Pro çalıştıran Windows aygıtlarını nasıl ayarlayabilirsiniz öğrenin.
-ms.openlocfilehash: efe81a5547496f502232e1db2f3f092165475641
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: ecd9f5aa348d29d34e77061657619c015b09c41a
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635462"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402968"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Microsoft 365 Business Premium kullanıcıları için Windows aygıtları ayarlama
 
@@ -48,7 +49,7 @@ Windows'u Microsoft 365'e bağlama hakkında kısa bir video izleyin.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3yXh3] 
 
-Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).  
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Kuruluşunuzun Azure AD'sine Windows 10 cihazlarını ekleme
 
@@ -104,7 +105,7 @@ OneDrive İş'e dosya yüklediyseniz, bunları tekrar eşitleyin. Profili ve dos
   
 ## <a name="verify-the-device-is-connected-to-azure-ad"></a>Cihazın Azure AD'ye bağlı olduğunu doğrulama
 
-Eşitleme durumunuzu doğrulamak için, **Ayarlar**'daki **İş yeri veya okula erişim** sayfasında **Bağlanılan yer** _ \<organization name\> _ alanına tıklayarak **Bilgi** ve **Bağlantıyı kes** düğmelerini görüntüleyin. Eşitleme durumunuzu görmek için **Bilgi**'ye tıklayın. 
+**Eşitleme**durumunuzu doğrulamak için Ayarlar'daki **Access çalışmasında veya okul** sayfasında , Bilgi ve Bağlantı kesme düğmelerini ortaya çıkarmak için _ _ alanına **Bağlı'yı** \<organization name\> **Info** tıklatın. **Disconnect** Eşitleme durumunuzu görmek için **Bilgi**'ye tıklayın. 
   
 En son mobil cihaz yönetimi ilkelerini bilgisayara aktarmak için, Eşitleme durumu sayfasında Eşitle'ye tıklayın.
   

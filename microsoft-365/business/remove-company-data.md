@@ -18,17 +18,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
 description: Kullanıcılarınızın cihazlarında veya Windows bilgisayarlarında bulunan şirket verilerini kaldırmak için iş için Microsoft 365'i nasıl kullanacağınızı keşfedin.
-ms.openlocfilehash: 80997a48bb3924ab20f16a454120d24caf76e1e7
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 42784149fcf6b850e7d0483c17dd605e7ecb7cf0
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43634858"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402796"
 ---
 # <a name="remove-company-data-from-devices"></a>Şirket verilerini cihazlardan kaldırma
 
@@ -38,9 +39,9 @@ ms.locfileid: "43634858"
 
 Microsoft 365'i, kullanıcılarınızın [cihazlarında](app-protection-settings-for-android-and-ios.md) veya Microsoft 365 tarafından korunan [Windows bilgisayarlarında](protection-settings-for-windows-10-devices.md) sahip olduğu şirket verilerini kaldırmak için iş için Microsoft 365'i kullanabilirsiniz. **Cihazdan kaldırdığınız şirket verilerini daha sonra geri yükleyemezsiniz**. 
   
-1. 'deki <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>yönetici merkezine gidin.
+1. 'deki yönetici merkezine <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> gidin.
     
-2. Sol daki gezinmede, **Aygıtları** \> **Yönet'i**seçin.  
+2. Sol daki **gezinmede,** \> **Aygıtları Yönet'i**seçin.  
   
 3. **Yönet** sayfasında, kaldırmak istediğiniz verileri seçen veya arayan bir kullanıcı yı seçin ve adı seçin. 
     
@@ -48,7 +49,7 @@ Microsoft 365'i, kullanıcılarınızın [cihazlarında](app-protection-settings
     
     ![Şirket veri bölmesini kaldır'da, verileri kaldırmak istediğiniz aygıtı seçin.](../media/resetorremove.png)
   
-5. Onay bölmesine, \> **Kapat'ı** **Onayla'yı** seçin.
+5. Onay bölmesine, **Confirm** \> **Kapat'ı**Onayla'yı seçin.
     
 
 
