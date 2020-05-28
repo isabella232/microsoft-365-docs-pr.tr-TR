@@ -18,18 +18,19 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: İşletmeniz için çalışanların kullanımına hazır olmaları için yeni Windows 10 aygıtları ayarlamak için Windows AutoPilot'u nasıl kullanacağınızı öğrenin.
-ms.openlocfilehash: de14012ebf9e7cdd22e41505f316ab665773c670
-ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
+ms.openlocfilehash: efcb5442b34d2d42275cedc30e71ac98c7ea1266
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44165891"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401104"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>AutoPilot cihaz ve profilleri eklemek için adım adım kılavuzu kullanın.
 
@@ -49,7 +50,7 @@ Aygıtlar bu gereksinimleri karşılamalıdır:
 
 Henüz aygıt grupları veya profiller oluşturmadıysanız, başlamanın en iyi yolu adım adım kılavuzu kullanmaktır. Ayrıca, kılavuzu kullanmadan [aygıtlar ekleyebilir](create-and-edit-autopilot-devices.md) ve [onlara profil atayabilirsiniz.](create-and-edit-autopilot-profiles.md) 
   
-1. 'deki <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>yönetici merkezine gidin.
+1. 'deki yönetici merkezine <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> gidin.
 
 2. Soldaki gezinti bölmesine **Aygıtlar** \> **Otomatik Pilot'u**seçin.
 
@@ -59,7 +60,7 @@ Henüz aygıt grupları veya profiller oluşturmadıysanız, başlamanın en iyi
     
     ![Click Start guide for step-by-step instructions for Autopilot.](../media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   
-3. Cihazların **listesi sayfasının bulunduğu Upload .csv dosyasında,** hazır bulunduğunuz konuma göz atın. CSV dosyası, ardından \> **Sonraki'ni Aç.** **Next** Dosyanın üç üstbilgi olmalıdır:
+3. Cihazların **listesi sayfasının bulunduğu Upload .csv dosyasında,** hazır bulunduğunuz konuma göz atın. CSV dosyası, ardından **Sonraki'ni** \> **Next**Aç. Dosyanın üç üstbilgi olmalıdır:
     
     - A sütunu: Cihaz Seri Numarası
     

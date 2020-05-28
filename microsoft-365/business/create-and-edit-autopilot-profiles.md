@@ -20,18 +20,19 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: Bir Otomatik Pilot profili oluşturmayı ve bir aygıta uygulamayı, profili düzenlemeyi veya silmeyi veya bir profili aygıttan kaldırmayı öğrenin.
-ms.openlocfilehash: a6e02ab56faeb08718a9831657b55cff0356a4ec
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: e58418813ed0b4d23a5fa7e1d23aae33d8850e7f
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43627384"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44400984"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>AutoPilot profillerini oluşturma ve düzenleme
 
@@ -41,7 +42,7 @@ Profiller bir cihaza veya cihaz grubuna uygulanır,
   
 1. Microsoft 365 yönetici merkezinde, **Cihazlar** \> **Otomatik Pilot**seçin.
   
-2. Otomatik **Pilot** sayfasında **Profiller** sekmesini \> seçin **profil oluştur.**
+2. Otomatik **Pilot** sayfasında **Profiller** sekmesini seçin \> **profil oluştur.**
     
 3. Profil **Oluştur** sayfasında, profilin kimliğini belirlemenize yardımcı olacak bir ad girin, örneğin Pazarlama. İstediğiniz ayarı açın ve sonra **Kaydet'i**seçin. Otomatik Pilot profil ayarları hakkında daha fazla bilgi [için, Otomatik Pilot Profil ayarları hakkında](autopilot-profile-settings.md)bakın.
     
@@ -53,7 +54,7 @@ Bir profil oluşturduktan sonra, profili bir aygıta veya aygıt grubuna uygulay
   
 1. **Windows'u Hazırla** sayfasında **Cihazlar** sekmesini seçin. 
     
-2. Aygıt adının yanındaki onay kutusunu seçin ve **Aygıt** panelinde, **Atanan profil** açılır listesinden \> bir profil seçin **Kaydet**.
+2. Aygıt adının yanındaki onay kutusunu seçin ve **Aygıt** panelinde, **Atanan profil** açılır listesinden bir profil seçin \> **Kaydet**.
     
     ![In the Device panel, select an Assigned profile to apply it.](../media/ed0ce33f-9241-4403-a5de-2dddffdc6fb9.png)
   
@@ -65,7 +66,7 @@ Bir profili bir cihaza atadıktan sonra, cihazı daha önce bir kullanıcıya ve
 
 1. **Windows'u Hazırla** sayfasında **Profiller** sekmesini seçin. 
     
-2. Bir aygıt adının yanındaki onay kutusunu seçin ve **Profil** panelinde kullanılabilir \> ayarlardan herhangi birini **kaydet'i**güncelleştirin.
+2. Bir aygıt adının yanındaki onay kutusunu seçin ve **Profil** panelinde kullanılabilir ayarlardan herhangi birini \> **kaydet'i**güncelleştirin.
     
     Bunu cihaz bir kullanıcı tarafından İnternet'e bağlanmadan önce gerçekleştirirseniz, profil kurulum işlemine uygulanır.
     
@@ -81,5 +82,5 @@ Bir profili bir cihaza atadıktan sonra, cihazı daha önce bir kullanıcıya ve
 
 1. **Windows'u Hazırla** sayfasında **Cihazlar** sekmesini seçin. 
     
-2. Aygıt adının yanındaki onay kutusunu seçin ve **Aygıt** panelinde **Atanan profil** açılır listesinden \> **Kaydet'i**yok'u seçin. **None**
+2. Aygıt adının yanındaki onay kutusunu seçin ve **Aygıt** panelinde **Atanan profil** açılır listesinden **Kaydet'i** yok'u \> **Save**seçin.
     

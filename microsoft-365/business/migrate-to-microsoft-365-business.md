@@ -18,17 +18,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Microsoft 365 Business Standard ile Microsoft 365 Business Premium arasındaki farkı ve Microsoft 365 Business Premium'a nasıl yükseltebileceğinizi öğrenin.
-ms.openlocfilehash: 20a4162f74a9cb0e943195a589fd2d964f773f48
-ms.sourcegitcommit: eb3c7f473e8fe62624f52c9bb38dcd6a96fa58a3
+ms.openlocfilehash: bdab8165623170926b17efa4cae9408b78a2f5f5
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045990"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401392"
 ---
 # <a name="upgrade-to-microsoft-365-business-premium-from-microsoft-365-business-standard"></a>Microsoft 365 İş Standardı'ndan Microsoft 365 Business Premium'a yükseltme
 
@@ -55,9 +56,9 @@ Bu iki planın yan yana karşılaştırmasını [Microsoft 365 Business Premium 
 
 ## <a name="upgrade-to-microsoft-365-business-premium"></a>Microsoft 365 Business Premium'a yükseltin
 
-1. 'de <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>yönetici merkezine giriş
+1. 'de yönetici merkezine giriş <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>
 
-2. Navigasyon bölmesine gidin ve \> **Ürünlerinizi** **Faturalandırma'yı** seçin. Geçerli aboneliğinizi bulun ve ayrıntıları görüntülemek için aboneliğinizi seçin.
+2. Navigasyon bölmesine gidin ve **Billing** \> **Ürünlerinizi Faturalandırma'yı**seçin. Geçerli aboneliğinizi bulun ve ayrıntıları görüntülemek için aboneliğinizi seçin.
 
 3. Sonraki sayfada **Yükseltme'yi**seçin.
 
@@ -85,7 +86,7 @@ Microsoft'un yeni hizmet planlarınızı ayarlaması birkaç dakika sürer. İle
 
 Microsoft 365 Business Premium lisansları atandığı için, aygıtları ve dosyaları korumaya başlamak için tüm adımları niçin tamamlayın. Yönetici merkezi gezinti bölmesinde yer alan bazı yeni seçenekleri kullanırsınız.
   
-1. Yönetici merkezinde, gezinti bölmesinde AygıtLar **Devices** \> **İlkeleri'ne**gidin.
+1. Yönetici merkezinde, gezinti bölmesinde **Devices** \> **AygıtLar İlkeleri'ne**gidin.
 
 2. Aygıt **ilkeleri** sayfasında **Ekle'yi**seçin.
 

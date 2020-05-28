@@ -19,18 +19,19 @@ ms.custom:
 - MiniMaven
 - MSB365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: c12164c7-6190-4294-b88a-590580c9869a
 description: Bir kullanıcının aygıtı kaybolduğunda veya çalınırsa iş dosyalarını korumak için Microsoft 365'te kullanılabilen ayarlar hakkında bilgi edinin.
-ms.openlocfilehash: 8924a2c99ee4c6a4b2c0cb987b4c5ff76911bb13
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 89f9041a39ef0167d5b918622b68c9566e65d5b3
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43633089"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401272"
 ---
 # <a name="protect-work-files-when-a-mobile-device-is-lost-or-stolen"></a>Mobil cihaz kaybolduğunda veya çalındığında iş dosyalarını koruma
 
