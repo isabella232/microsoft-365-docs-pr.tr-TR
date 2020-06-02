@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Microsoft 365 Business Premium için abone olmaktan etki alanı ve kullanıcı eklemeye, güvenlik ilkeleri ayarlamaya ve daha fazlasına kadar kurulum adımlarını öğrenin.
-ms.openlocfilehash: 80243fac6ca2efcfca030b6ee1c1113c026a80ce
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 4670344263ceb64a32962dfa6eb9c1644e61541d
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402988"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470535"
 ---
 # <a name="overview-of-setup"></a>Kuruluma genel bakış
 
@@ -48,7 +48,7 @@ Kurulum adımlarının çoğu kurulum sihirbazında yapılabilir, ancak diğer s
 
    - **[Etki alanınızı ekleyin](set-up.md#add-your-domain-to-personalize-sign-in)** [(kaydolma](sign-up.md)sırasında etki alanınızı satın aldıysanız, bu adım zaten tamamlanır.)
 
-    - **Kullanıcı ekle.** Kullanıcıları üç şekilde ekleyebilirsiniz:
+   - **Kullanıcı ekle.** Kullanıcıları üç şekilde ekleyebilirsiniz:
         - [Büyücüde.](set-up.md#add-users-in-the-wizard)
         - Şirket içinde Etkin dizininiz varsa [Azure AD Connect'i kullanarak kullanıcıları eklemek](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) için dizin eşitlemesi kullanın.
         - Daha sonra yönetici merkezine [de kullanıcı ekleyebilirsiniz.](add-users-m365b.md)

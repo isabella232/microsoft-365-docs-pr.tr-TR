@@ -27,16 +27,18 @@ search.appverid:
 - MOE150
 ms.assetid: aa31319c-9196-48c9-a90b-4057e0494c7a
 description: Kullanıcıların Office uygulamalarına ve mobil cihazlardan dosyaları nasıl çalıştırdığını yönetmenize olanak tanıyan koruma ilkeleri hakkında bilgi edinin.
-ms.openlocfilehash: f613e518c3607010cae55443456be9d3ddc3d689
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: b2b828cf2e201360f12b8fadcb395e72958230f6
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403088"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44471077"
 ---
 # <a name="manage-how-users-access-office-documents-on-mobile-devices"></a>Kullanıcıların mobil cihazlarda Office belgelerine nasıl erişeceğini yönetme
 
- Kullanıcıların mobil cihazlarından Office dosyalarına erişimini denetleyen ilke ayarları varsayılan olarak **Kapalı** durumdadır. Tüm kullanıcılar için geçerli olan Android, iOS ve Windows 10 için uygulama ilkeleri oluşturmak için kurulum sırasında varsayılan değerleri kabul etmenizi öneririz. Kurulum tamamlandıktan sonra daha fazla ilke oluşturabilirsiniz. 
+Bu makale Microsoft 365 Business Premium için geçerlidir.
+
+Kullanıcıların mobil cihazlarından Office dosyalarına erişimini denetleyen ilke ayarları varsayılan olarak **Kapalı** durumdadır. Tüm kullanıcılar için geçerli olan Android, iOS ve Windows 10 için uygulama ilkeleri oluşturmak için kurulum sırasında varsayılan değerleri kabul etmenizi öneririz. Kurulum tamamlandıktan sonra daha fazla ilke oluşturabilirsiniz. 
   
 ## <a name="settings-that-control-how-users-access-office-files-on-mobile-devices"></a>Kullanıcıların Office dosyalarına mobil cihazlardan erişimini denetleyen ayarlar
 

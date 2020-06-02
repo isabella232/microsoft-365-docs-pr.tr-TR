@@ -24,16 +24,16 @@ search.appverid:
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
 description: Microsoft 365'i işletme için nasıl kullanacağınızı, yönettiğiniz Windows 10 aygıtlarını fabrikadan sıfırlamak için nasıl kullanacağınızı ve satın alma sırasında orijinal ayarlarına geri nasıl geri çevirdiğinizi öğrenin.
-ms.openlocfilehash: 62585828274652e48b6c6d3654faa8c20fb4caba
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 6b82f502f8fdcbbd2338b2a0e2ad69d230a693cb
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402776"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470817"
 ---
 # <a name="reset-windows-10-devices-to-their-factory-settings"></a>Windows 10 cihazlarını fabrika ayarlarına sıfırlama
 
-[![Yönetim merkezinin değiştiğini size bildirmeye yarayan etiket ve daha fazla ayrıntıyı aka.ms/aboutM365preview sayfasında bulabilirsiniz.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+Bu makale Microsoft 365 Business Premium için geçerlidir.
 
 Fabrika sıfırlaması, cihazı satın alındığı sırada geçerli olan özgün ayarlarına döndürür. Satın alındıktan sonra cihaza yüklenmiş olan tüm uygulamalar ve veriler kaldırılır. Microsoft 365'i işletme için yönetdiğiniz Windows 10 aygıtlarını fabrikadan sıfırlamak için kullanabilirsiniz.
   

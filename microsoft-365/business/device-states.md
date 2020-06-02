@@ -26,14 +26,16 @@ search.appverid:
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
 description: İşletmeler için Microsoft 365'teki Yönetici evindeki Aygıt eylemleri listesindeki çeşitli aygıt durumları hakkında bilgi edinin.
-ms.openlocfilehash: 90c11caa03249408ba2916d303bcb4a59fbcca8c
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 64138e2b6ae73c067709cde1912a96615d08ebf1
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44400964"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44471189"
 ---
 # <a name="device-states"></a>Cihaz durumları
+
+Bu makale Microsoft 365 Business Premium için geçerlidir.
 
 **Cihaz eylemleri** listesindeki (Yönetim giriş sayfası \> **Cihaz eylemleri**) cihazlar aşağıdaki durumlarda olabilir.
   

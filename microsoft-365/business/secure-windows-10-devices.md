@@ -27,14 +27,16 @@ search.appverid:
 - MOE150
 ms.assetid: 21e5551f-fa35-4f13-9418-f80d668b6a2b
 description: Herhangi bir Windows 10 cihazının iş veya okul hesabına oturum açmadan alacağı varsayılan aygıt ilkesinin ayarlarını yapılandırma hakkında bilgi edinin.
-ms.openlocfilehash: 7714a6e47de8a254d836ca2e158b92907b87f8c3
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 03ae86861ddb0cb83cd39b7834f19e01bf3e99e2
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402744"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470637"
 ---
 # <a name="secure-windows-10-devices"></a>Windows 10 cihazlarının güvenliğini sağlama
+
+Bu makale Microsoft 365 Business Premium için geçerlidir.
 
 Burada yapılandırdığınız ayarlar, Windows 10 için varsayılan cihaz ilkesinin bir parçasıdır. Mobil cihazlar ve bilgisayarlar da dahil olmak üzere bir Windows 10 cihazını iş hesaplarıyla oturum açarak bağlayan tüm kullanıcılar bu ayarları otomatik olarak alır. Kurulum sırasında varsayılan ilkeyi kabul etmenizi ve daha sonra belirli kullanıcı gruplarını hedef alan ilkeler eklemenizi öneririz.
   

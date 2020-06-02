@@ -25,14 +25,16 @@ search.appverid:
 - MET150
 - MOE150
 description: Önemli ölçüde ek güvenlik eklemek için Microsoft 365 Kampanyaları için koşullu erişim ilkeleri nasıl ayarlayabilirsiniz öğrenin.
-ms.openlocfilehash: d7c9cfee2ef00e4ebe231a28ccca185c10f53c6b
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 58ee760877ee2fd7e53ef9463242657ab66a2b6e
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403028"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470657"
 ---
 # <a name="set-up-conditional-access-policies"></a>Koşullu erişim ilkeleri ayarlama
+
+Bu makale Microsoft 365 Business Premium için geçerlidir.
 
 [Koşullu erişim](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) ilkeleri önemli ölçüde ek güvenlik ekler. Microsoft, tüm müşteriler için önerilen bir temel koşullu erişim ilkeleri kümesi sağlar. Temel ilkeler, kuruluşların birçok yaygın saldırıya karşı korunmasına yardımcı olan önceden tanımlanmış ilkeler kümesidir. Bu yaygın saldırılar parola püskürtme, yeniden oynatma ve kimlik avı içerebilir.
 

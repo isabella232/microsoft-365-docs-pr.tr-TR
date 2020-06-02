@@ -22,18 +22,20 @@ search.appverid:
 - MET150
 ms.assetid: ed34fff3-2881-4ed4-9906-1ba6bb8dd804
 description: Windows 10 bilgisayarlara 32 bit Office uygulamalarını otomatik olarak nasıl yükleyip güncel tutacağınızı öğrenin.
-ms.openlocfilehash: 6f3a80be9729a3818607c0f42e2cc7ece66a07ee
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 2de492914edbde2afe593aac290c4a634b801443
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401332"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470957"
 ---
 # <a name="prepare-for-office-client-deployment-by-microsoft-365-for-business"></a>Microsoft 365 tarafından iş için Office istemci dağıtımına hazırlanın
 
+Bu makale Microsoft 365 Business Premium için geçerlidir.
+
 ## <a name="prepare-to-automatically-install-office-apps-to-client-computers"></a>İstemci bilgisayarlara Office uygulamalarını otomatik olarak yükleme hazırlığı
 
-Windows 10 bilgisayarlara 32 bit Office uygulamalarını otomatik olarak yüklemek ve güncelleştirmelerle güncel tutmak için iş için Microsoft 365'i kullanabilirsiniz.
+Microsoft 365 Business Premium'u kullanarak Windows 10 bilgisayarlara 32 bit Office uygulamalarını otomatik olarak yükleyebilir ve güncelleştirmelerle güncel tutabilirsiniz.
   
 Son kullanıcının bilgisayarı Windows 10 Business'taysa otomatik yükleme en iyi şekilde çalışır ve:
   
