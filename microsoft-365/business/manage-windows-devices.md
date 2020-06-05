@@ -1,7 +1,7 @@
 ---
 title: Etki alanına birleştirilmiş Windows 10 aygıtlarını iş için Microsoft 365 tarafından yönetilmesini etkinleştirin
 f1.keywords:
-- NOCSH
+- CSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -23,14 +23,13 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Microsoft 365'in yerel Active-Directory'ye katılan Windows 10 aygıtlarını yalnızca birkaç adımda nasıl koruyacağınızı öğrenin.
-ms.openlocfilehash: 7bfe5da8701a17712fa249eac99a22b8d5a1b2d1
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+ms.openlocfilehash: 857651081fb10856d28dd419333ebef655388407
+ms.sourcegitcommit: e6e704cbd9a50fc7db1e6a0cf5d3f8c6cbb94363
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44471057"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44564963"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Etki alanına bağlı Windows 10 cihazlarının Microsoft 365 Business Premium tarafından yönetilmesini etkinleştirme
 
@@ -42,48 +41,92 @@ Bu videoda, bunu en yaygın senaryo için nasıl ayarlayacağına yönelik adım
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
   
 
-## <a name="1-prepare-for-directory-synchronization"></a>1. Dizin Senkronizasyonuna Hazırla 
+## <a name="before-you-get-started-make-sure-you-complete-these-steps"></a>Başlamadan önce şu adımları tamamladığınızdan emin olun:
+- Azure AD Connect ile kullanıcıları Azure AD ile senkronize edin.
+- Azure AD Connect Kuruluş Birimi (OU) eşitlemeyi tamamlayın.
+- Eşitlediğiniz tüm etki alanı kullanıcılarının Microsoft 365 Business Premium lisansına sahip olduğundan emin olun.
 
-Kullanıcılarınızı ve bilgisayarlarınızı yerel Active Directory Etki Alanından eşitlemeden önce, [Office 365'e dizin eşitlemesi için hazırlayın'ı](https://docs.microsoft.com/office365/enterprise/prepare-for-directory-synchronization)gözden geçirin. Özellikle:
+Bkz. Adımlar için [etki alanı kullanıcılarını Microsoft'a senkronize edin.](manage-domain-users.md)
 
-   - Aşağıdaki öznitelikler için dizininizde yineleme olmadığından emin olun: **posta,** **proxyAdresler**ve **userPrincipalName**. Bu değerler benzersiz olmalı ve yinelenenler kaldırılmalıdır.
-   
-   - Her yerel kullanıcı hesabı için **userPrincipalName** (UPN) özniteliğini, lisanslı Microsoft 365 kullanıcısına karşılık gelen birincil e-posta adresiyle eşleşecek şekilde yapılandırmanızı öneririz. Örneğin: *mary@contoso.yerel* yerine *mary.shelley@contoso.com*
-   
-   - Active Directory etki alanı *.com* veya *.org*gibi bir internet routable sonek yerine *.local* veya *.lan*gibi bir routable olmayan sonek biterse, önce yerel kullanıcı hesaplarının UPN sonekini [dizin eşitleme için routable olmayan bir etki alanı hazırlayın'da](https://docs.microsoft.com/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization)açıklandığı gibi ayarlayın. 
+## <a name="1-verify-mdm-authority-in-intune"></a>1. Intune MDM Yetki doğrulayın
 
-## <a name="2-install-and-configure-azure-ad-connect"></a>2. Azure AD Connect'i yükleme ve yapılandırma
+portal.azure.com gidin ve Intune için sayfa arama üst kısmında.
+Microsoft Intune sayfasında Cihaz **kaydını** seçin ve **Genel Bakış** sayfasında **MDM yetkilisinin** **Intune**olduğundan emin olun.
 
-Kullanıcılarınızı, gruplarınızı ve kişilerinizi yerel Active Directory'den Azure Etkin Dizini'ne senkronize etmek için Azure Active Directory Connect'i yükleyin ve dizin eşitlemesi ayarlayın. Bkz. Daha fazla bilgi edinmek [için Office 365 için dizin eşitlemesi ayarla.](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization)
+- **MDM yetkisi** **Yok**ise, **Intune**ayarlamak için **MDM yetkisini** tıklatın.
+- **MDM yetkisi** **Microsoft Office 365**ise, **Aygıtlar**Kayıt  >  **aygıtlarına** gidin ve **Intune MDM** yetkilisi ekleme hakkını sağdaki **MDM yetki** ekle iletişim kutusunu kullanın **(MDM Yetkilisi Ekle** iletişim kutusu yalnızca **MDM Yetkilisi** Microsoft Office 365'e ayarlanırsa kullanılabilir).
 
-> [!NOTE]
-> Adımlar, iş için Microsoft 365 için tam olarak aynıdır. 
+## <a name="2-verify-azure-ad-is-enabled-for-joining-computers"></a>2. Bilgisayarlara katılmak için Azure AD'nin etkinleştirildiğinden doğrulayın
 
-Azure AD Connect seçeneklerinizi yapılandırırken, İş için Microsoft 365'te de desteklenen **Parola Eşitleme**, **Kesintisiz Tek Oturum**Açma ve parola **yazma** özelliğini etkinleştirmenizi öneririz.
+- Yönetici merkezleri listesinde yönetici merkezine gidin <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> ve Azure **Active Directory'yi** seçin (Azure **Admin centers** Etkin Dizini görünmüyorsa tümünü göster'i seçin). 
+- Azure **Etkin Dizin yönetici merkezinde,** **Azure Etkin Dizin'e** gidin, **Aygıtlar'ı** seçin ve ardından **Aygıt ayarlarını seçin.**
+- **Kullanıcıların Azure AD'de aygıtlara katılıp katılamayada** olabileceğini doğrulayın etkin 
+    1. Tüm kullanıcıları etkinleştirmek için **Tümü'ne**ayarlayın.
+    2. Belirli kullanıcıları etkinleştirmek için, belirli bir kullanıcı grubunu etkinleştirmek için **Seçili** olarak ayarlayın.
+        - Azure AD'de senkronize edilen istenen etki alanı kullanıcılarını bir [güvenlik grubuna](../admin/create-groups/create-groups.md)ekleyin.
+        - Bu güvenlik grubu için MDM kullanıcı kapsamını etkinleştirmek için **Grupları Seç'i** seçin.
 
-> [!NOTE]
-> Azure AD Connect'teki onay kutusunun ötesinde parola yazma için bazı ek adımlar vardır. Daha fazla bilgi için [bkz: Nasıl Yapılır: parola yazmayı yapılandırma.](https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-writeback) 
+## <a name="3-verify-azure-ad-is-enabled-for-mdm"></a>3. MDM için Azure AD'nin etkinleştirildiğinden doğrulayın
 
-## <a name="3-configure-hybrid-azure-ad-join"></a>3. Karma Azure REKLAM Birleştirme'yi Yapılandırma
+- Yönetici merkezine gidin <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> ve **Endpoint Managemen**t'yi seçin **(Endpoint Manager** görünmüyorsa **tümünü göster'i** seçin)
+- Microsoft **Endpoint Manager yönetici merkezinde,** **Windows**Windows Kayıt Otomatik Kayıt Cihazlar  >  **Windows**  >  **Windows Enrollment**  >  **Automatic Enrollment**gidin.
+- MDM kullanıcı kapsamının etkin olduğunu doğrulayın.
 
-Windows 10 aygıtların Karma Azure AD'ye katılmasını etkinleştirmeden önce aşağıdaki ön koşulları yerine getirebildiğinizden emin olun:
+    1. Tüm bilgisayarları kaydetmek için, kullanıcılar Windows'a bir iş hesabı eklediğinde Azure AD'ye katılan tüm kullanıcı bilgisayarlarını ve yeni bilgisayarları otomatik olarak kaydetmek için **Tümü'ne** ayarlayın.
+    2. Belirli bir kullanıcı grubunun bilgisayarlarını kaydetmek için **Bazıları'na** ayarlayın.
+        -  Azure AD'de senkronize edilen istenen etki alanı kullanıcılarını bir [güvenlik grubuna](../admin/create-groups/create-groups.md)ekleyin.
+        -  Bu güvenlik grubu için MDM kullanıcı kapsamını etkinleştirmek için **Grupları Seç'i** seçin.
 
-   - Azure AD Connect'in en son sürümünü çalıştırıyorsunuz.
+## <a name="4-set-up-service-connection-point-scp"></a>4. Servis bağlantı noktasını (SCP) ayarlama
 
-   - Azure AD bağlantısı, karma Azure AD olmak istediğiniz aygıtların tüm bilgisayar nesnelerini senkronize etti. Bilgisayar nesneleri belirli kuruluş birimlerine (OU) aitse, bu OU'ların Azure AD bağlantısında eşitleme için ayarlandıklarından emin olun.
+Bu [adımlar, karma azure AD birleştirme](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join)yapılandırmabasitleştirilmiştir. Adımları tamamlamak için Azure AD Connect'i ve Microsoft 365 Business Premium global yöneticinizi ve Active Directory yönetici parolalarınızı kullanmanız gerekir.
 
-Karma Azure AD'nin katıldığı varolan etki alanı birleştirilmiş Windows 10 aygıtlarını kaydetmek [için, Öğreticideki adımları izleyin: Yönetilen etki alanları için karma Azure Active Directory join'i yapılandırın.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join) Bu karma, mevcut şirket içi Active Directory'nizin Windows 10 bilgisayarlarına katılmasını ve bulutu hazır hale getirmesini sağlar.
-    
-## <a name="4-enable-automatic-enrollment-for-windows-10"></a>4. Windows 10 için otomatik kaydı etkinleştirme
+1.  Azure AD Connect'i başlatın ve sonra **Yapıla'yı**seçin.
+2.  Ek **görevler** sayfasında, **aygıtı yapılandır'ı**seçin ve **sonra İleri'yi**seçin.
+3.  Genel **Bakış** sayfasında **İleri'yi**seçin.
+4.  **Azure'a Bağlan AD** sayfasında, Microsoft 365 Business Premium için global bir yöneticinin kimlik bilgilerini girin.
+5.  Aygıt **seçenekleri** sayfasında, **Karma Azure AD birleştirme'yi yapılandır'ı**ve **ardından İleri'yi**seçin.
+6.  **SCP** sayfasında, Azure AD Connect'in SCP'yi yapılandırmasını istediğiniz her orman için aşağıdaki adımları tamamlayın ve **sonra İleri'yi**seçin:
+    - Orman adının yanındaki kutuyu işaretleyin. Orman, AD alan adınız olmalıdır.
+    - Kimlik **Doğrulama Hizmeti** sütununda açılır dosyayı açın ve eşleşen etki alanı adını seçin (yalnızca tek bir seçenek olmalıdır).
+    - Etki alanı yöneticisi kimlik bilgilerini girmek için **Ekle'yi** seçin.  
+7.  Aygıt **işletim sistemleri** sayfasında yalnızca Windows 10 veya daha sonraki etki alanına bağlı aygıtları seçin.
+8.  **Yapılandırmaya Hazır** **sayfasında, Yapılandırma'yı**seçin.
+9.  Yapılandırma **tam** **sayfasında, Exit'i**seçin.
 
- Mobil aygıt yönetimi için Windows 10 aygıtlarını Intune'a otomatik olarak kaydetmek için Grup [İlkesi'ni kullanarak bir Windows 10 aygıtını otomatik olarak kaydedin'e](https://docs.microsoft.com/windows/client-management/mdm/enroll-a-windows-10-device-automatically-using-group-policy)bakın. Grup İlkesi'ni yerel bilgisayar düzeyinde ayarlayabilirsiniz veya toplu işlemler için Etki Alanı Denetleyicinizde bu Grup İlkesi ayarını oluşturmak için Grup İlkesi Yönetim Konsolu ve ADMX şablonlarını kullanabilirsiniz.
 
-## <a name="5-configure-seamless-single-sign-on"></a>5. Yapılandırılan Sorunsuz Tek İşaret-On
+## <a name="5-create-a-gpo-for-intune-enrollment--admx-method"></a>5. Intune Kayıt için bir GPO oluşturma – ADMX yöntemi
 
-  Sorunsuz SSO, kullanıcıları kurumsal bilgisayarları kullanırken Microsoft 365 bulut kaynaklarına otomatik olarak imzalar. [Azure Active Directory Seamless Tek Oturum Açma: Hızlı başlangıç'ta](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start#step-2-enable-the-feature)açıklanan iki Grup İlkesi seçeneğinden birini dağıtmanız yeterlidir. **Grup İlkesi** seçeneği kullanıcıların ayarlarını değiştirmesine izin vermezken, **Grup İlkesi Tercihi** seçeneği değerleri ayarlar, aynı zamanda kullanıcı tarafından yapılandırılabilir bırakır.
+Kullanın. ADMX şablon dosyası.
 
-## <a name="6-set-up-windows-hello-for-business"></a>6. İşletmeler için Windows Hello'yu ayarlama
+1.  AD sunucusunda oturum açın, **Sunucu Yöneticisi**  >  **Araçları**Grup  >  **İlkesi Yönetimi'ni**arayın ve açın.
+2.  **Etki Alanları** altında etki alanı adınızı seçin ve **Yeni'yi**seçmek için **Grup İlkesi Nesneleri'ni** sağ tıklatın.
+3.  Yeni GPO'ya bir ad verin, örneğin "*Cloud_Enrollment*" ve sonra **Tamam'ı**seçin.
+4.  **Grup İlkesi Nesneleri** altındaki yeni GPO'ya sağ tıklayın ve **Edit'i**seçin.
+5.  Grup **İlkesi Yönetimi**Düzenleyicisi'nde, **Bilgisayar Yapılandırma**  >  **İlkeleri**  >  **Yönetim Şablonları**Windows  >  **Components**  >  **MDM'ye**gidin.
+6. **Varsayılan Azure AD kimlik bilgilerini kullanarak otomatik MDM kaydını etkinleştir'e** sağ tıklatın ve ardından Etkin **Enabled**  >  **Tamam'ı**seçin. Editör penceresini kapatın.
 
- Windows Hello for Business, yerel bir bilgisayarda oturum açmak için parolaları güçlü iki faktörlü kimlik doğrulama (2FA) ile değiştirir. Bir faktör asimetrik anahtar çifti, diğeri ise aygıtınız destekliyorsa parmak izi veya yüz tanıma gibi bir PIN veya diğer yerel harekettir. Parolaları mümkün olduğunca 2FA ve Windows Hello for Business ile değiştirmenizi öneririz.
+> [!IMPORTANT]
+> **Varsayılan Azure REKLAM kimlik bilgilerini kullanarak otomatik MDM kaydını etkinleştir**ilkesini görmüyorsanız, bkz. [Get the latest Administrative Templates](#get-the-latest-administrative-templates)
 
-İşletmeler için Karma Windows Merhaba'yı yapılandırmak [için, İş Önkoşulları için Karma Anahtar güven Windows Hello'yu gözden geçirin.](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-trust-prereqs) Ardından, İş [için Karma Windows Merhaba'yı Yapılandır'daki](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-whfb-settings)yönergeleri izleyin anahtar güven ayarları. 
+## <a name="6-deploy-the-group-policy"></a>6. Grup İlkesini Dağıtmak
+
+1.  Sunucu Yöneticisi'nde, **Etki Alanları** > Grup İlkesi nesneleri altında, "Cloud_Enrollment" gibi yukarıdaki Adım 3'ten GPO'yu seçin.
+2.  GPO'nuz için **Kapsam** sekmesini seçin.
+3.  GPO'nun Kapsam sekmesinde, **Linkler**altındaki etki alanına bağlantısağ tıklayın.
+4.  GPO'yu dağıtmak için **Zorla'yı** seçin ve onay ekranında **Tamam'ı** seçin.
+
+## <a name="get-the-latest-administrative-templates"></a>En son Yönetim Şablonlarını Alın
+
+**Varsayılan Azure AD kimlik bilgilerini kullanarak otomatik MDM kaydını etkinleştir**ilkesini görmüyorsanız, bunun nedeni Windows 10, sürüm 1803, sürüm 1809 veya sürüm 1903 için ADMX yüklü değil. Sorunu gidermek için aşağıdaki adımları izleyin (Not: en son MDM.admx geriye dönük uyumludur):
+
+1.  Indirin: [Windows 10 Mayıs 2019 Güncelleştirmesi (1903) için Yönetim Şablonları (.admx)](https://www.microsoft.com/download/details.aspx?id=58495&WT.mc_id=rss_alldownloads_all).
+2.  Paketi Birincil Etki Alanı Denetleyicisi'ne (PDC) yükleyin.
+3.  Klasöre sürülmeye bağlı olarak gidin: **C:\Program Files (x86)\Microsoft Group Policy\Windows 10 Mayıs 2019 Güncelleştirmesi (1903) v3**.
+4.  **İlke** **Tanımları** klasörünü yukarıdaki yolda Yeniden adlandırın.
+5.  **İlke Tanımlar** klasörünü **C:\Windows\SYSVOL\domain\İlkeler'e**kopyalayın. 
+    -   Tüm etki alanınız için merkezi bir ilke deposu kullanmayı planlıyorsanız, PolicyDefinitions'ın içeriğini oraya ekleyin.
+6.  İlkenin kullanılabilir olması için Birincil Etki Alanı Denetleyicisini yeniden başlatın. Bu yordam, gelecekteki herhangi bir sürüm için de çalışacaktır.
+
+Bu noktada, kullanılabilir varsayılan Azure **REKLAM kimlik bilgilerini kullanarak otomatik MDM kaydını etkinleştir** ilkesini görebilmeniz gerekir.
+
