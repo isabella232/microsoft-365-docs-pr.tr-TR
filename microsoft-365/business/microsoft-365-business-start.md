@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: İşletmeler için Microsoft 365, nasıl ayarlayacağı ve kullanıcılarınızın aygıtlarını ve cd'lerini iş için Microsoft 365 tarafından korunduklarından emin olmak için nasıl hazırlayacağınızı öğrenin.
-ms.openlocfilehash: a09b7c676f0e095d2a9db16daa56e19fb7a3baae
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 48a103333e101d545d562e7f2e9dd7329686f107
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402016"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44786164"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>İşletmeler için Microsoft 365 ile başlayın
 
@@ -65,7 +65,7 @@ Aşağıdaki diyagramda, yöneticilerin Microsoft 365'i işletme için nasıl ku
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
-Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
   
 ### <a name="1-set-up-microsoft-365-for-business-admin"></a>1: İşletmeler için Microsoft 365'i ayarlama (Yönetici)
@@ -113,4 +113,4 @@ Bazı şirket içi kaynakları (dosya paylaşımları ve yazıcılar gibi) içer
   
 [İşletmeler için Microsoft 365'i yönetin](manage.md)[İşletmeler için Microsoft 365'e geçirin](migrate-to-microsoft-365-business.md)
 
-[İş eğitimi videoları için Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) 
+[İş eğitimi videoları için Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) 

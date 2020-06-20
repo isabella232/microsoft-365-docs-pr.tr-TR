@@ -26,12 +26,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Microsoft 365 Business Premium'un neler içerdiğini öğrenin ve Microsoft 365 Business Premium'a kaydolma konusunda adım adım kılavuz alın.
-ms.openlocfilehash: 50662149ae2faa99c567080d5e914c3300ac3494
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 5cee380998b188e7d5845becacfa46383905737f
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401568"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44785682"
 ---
 # <a name="sign-up-for-microsoft-365-business-premium"></a>Microsoft 365 Business Premium için kaydolun
 
@@ -54,7 +54,7 @@ Kayıt işlemine hızlı bir genel bakış için bu videoyu izleyin.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3znhX] 
 
-Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 İşletmeniz için Microsoft 365'e kaydolmak ve satın almak için aşağıdaki adımları tamamlayın:
 
@@ -97,4 +97,4 @@ Kurulumla ilgili yardım almak için [kuruluma](set-up.md)bakın.
 
 ## <a name="see-also"></a>Ayrıca bkz.
 
-[İş eğitimi videoları için Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[İş eğitimi videoları için Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

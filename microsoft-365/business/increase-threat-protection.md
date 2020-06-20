@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Office 365 Gelişmiş Tehdit Koruması'nı ayarlayın ve hassas verileri kimlik avı, kötü amaçlı yazılım ve diğer tehditlere karşı koruyun.
-ms.openlocfilehash: 6fa4d1595c379aaccf3a0cbfca020fbd32376fb9
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: d5510cdc082781fd9a1776e86b1bab1d8a2723d6
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44400880"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44786216"
 ---
 # <a name="increase-threat-protection"></a>Tehdit korumayı artırın
 
@@ -92,13 +92,13 @@ Daha fazla bilgi için bkz.:
   
 - [Nasıl ransomware ile başa çıkmak için](https://go.microsoft.com/fwlink/?linkid=2016501)
     
-- [OneDrive'ınızı Geri Yükleme](https://support.office.com/article/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
+- [OneDrive'ınızı Geri Yükleme](https://support.microsoft.com/office/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
 
 ## <a name="stop-auto-forwarding-for-email"></a>E-posta için otomatik yönlendirmeyi durdurma
 
 Bir kullanıcının posta kutusuna erişen bilgisayar korsanları, posta kutusunu otomatik olarak e-posta iletecek şekilde ayarlayarak postaları çalabilir. Bu kullanıcının farkındalığı olmadan bile gerçekleşebilir. Bunun olmasını önlemek için bir posta akışı kuralını yapılandırın. 
   
-Posta aktarım kuralı oluşturmak için [bu kısa videoyu](https://support.office.com/article/f9d693ba-5c78-47c0-b156-8e461e062aa7) izleyin veya aşağıdaki adımları izleyin:
+Posta aktarım kuralı oluşturmak için [bu kısa videoyu](https://support.microsoft.com/office/f9d693ba-5c78-47c0-b156-8e461e062aa7) izleyin veya aşağıdaki adımları izleyin:
   
 1. Microsoft 365 yönetici merkezinde, **Yönetici merkezleri** \> **Exchange'i**seçin.
     
@@ -127,9 +127,9 @@ Office 365 veya Microsoft 365 ortamınız için bir veya daha fazla özel etki a
   
 En önemli kullanıcılarınızı ve özel etki alanınızı korumak için bir ilke oluşturarak bu korumaya başlamanızı öneririz. 
 
-Bir ATP kimlik avı önleme ilkesi oluşturmak için [bu kısa eğitim videosunu](https://support.office.com/article/86c425e1-1686-430a-9151-f7176cce4f2c)izleyin veya aşağıdaki adımları tamamlayın:
+Bir ATP kimlik avı önleme ilkesi oluşturmak için [bu kısa eğitim videosunu](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)izleyin veya aşağıdaki adımları tamamlayın:
   
-1. [https://protection.office.com](https://protection.office.com) adresine gidin. 
+1. [https://protection.office.com](https://protection.office.com) adımına gidin. 
     
 2. Güvenlik &amp; Uyumluluk Merkezi'nde, tehdit **yönetimi**altında sol gezinti bölmesinde, **İlke'yi**seçin.
     
@@ -157,7 +157,7 @@ Bir ATP kimlik avı önleme ilkesi oluşturmak için [bu kısa eğitim videosunu
 
 Kişiler belgeler, sunular, elektronik tablolar ve daha fazlası gibi ekleri düzenli olarak gönderir, alır ve paylaşır. Bir eki sadece bir e-posta iletisine bakarak güvenli veya kötü niyetli olup olmadığını söylemek her zaman kolay değildir. Office 365 Gelişmiş Tehdit Koruması ATP Güvenli Eki koruması içerir, ancak bu koruma varsayılan olarak açık değildir. Bu korumayı kullanmaya başlamak için yeni bir kural oluşturmanızı öneririz. Bu koruma SharePoint, OneDrive ve Microsoft Teams'deki dosyaları genişletir.
   
-BIR ATP güvenli eki ilkesi oluşturmak [için, bu kısa videoyu](https://support.office.com/article/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)izleyin veya aşağıdaki adımları tamamlayın:
+BIR ATP güvenli eki ilkesi oluşturmak [için, bu kısa videoyu](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)izleyin veya aşağıdaki adımları tamamlayın:
   
 1. Yönetici [https://protection.office.com](https://protection.office.com) hesabınıza gidin ve oturum açın. 
     
@@ -194,7 +194,7 @@ Aşağıdakileri yapmanızı öneririz:
     
 - Etki alanınızdaki tüm alıcılara yönelik yeni bir ilke ekleyin.
     
-ATP Güvenli Bağlantılar'ı kurmak için [bu kısa eğitim videosunu](https://support.office.com/article/61492713-53c2-47da-a6e7-fa97479e97fa)izleyin veya aşağıdaki adımları tamamlayın:
+ATP Güvenli Bağlantılar'ı kurmak için [bu kısa eğitim videosunu](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa)izleyin veya aşağıdaki adımları tamamlayın:
   
 1. Yönetici [https://protection.office.com](https://protection.office.com) hesabınıza gidin ve oturum açın. 
     
