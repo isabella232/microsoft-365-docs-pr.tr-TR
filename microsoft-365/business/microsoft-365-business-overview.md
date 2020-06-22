@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Office üretkenlik uygulamalarını ve işletmeniz için sanal tehlikelere karşı gelişmiş korumayı içeren bir abonelik hizmeti olan Microsoft 365 İş Ekstra hakkında bilgi edinin.
-ms.openlocfilehash: 61f4c34ade180717486ce889162947afe9be7ba6
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 6cff2fe62111e0d3ee99f406d0be83db0a119b09
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402264"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44786184"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra’ya Genel Bakış
 
@@ -46,7 +46,7 @@ Microsoft 365 İş Ekstra’ya hızlı bir genel bakış için bu videoyu izleyi
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
 
 Microsoft 365 İş Ekstra, en fazla 300 lisans için uygundur. Daha fazla lisansa ihtiyacınız varsa daha fazla bilgi için [Microsoft 365 Kurumsal](https://go.microsoft.com/fwlink/p/?linkid=860986) belgelerine göz atın.
 
@@ -111,11 +111,11 @@ Güvenlik özelliklerinin tam listesini görmek için, bkz. [Microsoft 365 İş 
 
 - Bir iş ortağınız yoksa ve Microsoft 365 İş Ekstra’ya sahip olmak istiyorsanız, [buradan satın alabilir](https://www.microsoft.com/microsoft-365/business) ve [kaydolma](sign-up.md) yönergelerini izleyebilirsiniz.
 
-- Ayrıca, Microsoft 365 İş Ekstra’yı satın almak ve kurulum yardımı almak için bir [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer)’a da gidebilirsiniz.
+- Ayrıca, Microsoft 365 İş Ekstra’yı satın almak ve kurulum yardımı almak için bir [Microsoft Store](https://www.microsoft.com/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer)’a da gidebilirsiniz.
 
     > [!NOTE]
     > Bu bağlantı yalnızca ABD'deki mağazalar içindir
 
 ## <a name="see-also"></a>Ayrıca bkz.
 
-[Microsoft 365 İş Ekstra eğitim videoları](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 İş Ekstra eğitim videoları](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
