@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: İşletmeler için Microsoft 365, nasıl ayarlayacağı ve kullanıcılarınızın aygıtlarını ve cd'lerini iş için Microsoft 365 tarafından korunduklarından emin olmak için nasıl hazırlayacağınızı öğrenin.
-ms.openlocfilehash: 48a103333e101d545d562e7f2e9dd7329686f107
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+ms.openlocfilehash: 08a956cc7e68bbba74d29bafaab77065be1321ce
+ms.sourcegitcommit: 3ddcf08e8deec087df1fe524147313f1cb12a26d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44786164"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45022127"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>İşletmeler için Microsoft 365 ile başlayın
 
@@ -84,7 +84,7 @@ Genel yönetici kimlik bilgilerinizle [Microsoft 365 yönetici merkezinde](https
     
     - Kullanıcılarınızı bulutla eşitlemek için dizin eşitleme sihirbazını kullanın. Bu işlemi tamamlamak [için Microsoft 365 için dizin eşitlemesi](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) ayarla'daki adımları izleyin. Kullanıcılarınızı bulutla eşitledikten sonra [Office 365 için dizin eşitlemesi kapatmanız](https://docs.microsoft.com/office365/enterprise/turn-off-directory-synchronization)gerekir.
     
-    Ayrıca, bu şekilde eklenen her kullanıcıya iş için Microsoft 365'e lisans vermeniz gerekir. Bunu [kurulum sihirbazında](set-up.md) yapabilir veya [microsoft 365'teki kullanıcılara iş için lisans atayabilirsiniz.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+    Ayrıca, bu şekilde eklenen her kullanıcıya iş için Microsoft 365'e lisans vermeniz gerekir. Bunu [kurulum sihirbazında](set-up.md) yapabilir veya [kullanıcılara lisans atayabilirsiniz.](../admin/manage/assign-licenses-to-users.md)
     
 ### <a name="2-prepare-mobile-devices"></a>2: Mobil cihazları hazırlama
 
