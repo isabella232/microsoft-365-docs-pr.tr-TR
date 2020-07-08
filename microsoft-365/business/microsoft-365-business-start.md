@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: İşletmeler için Microsoft 365, nasıl ayarlayacağı ve kullanıcılarınızın aygıtlarını ve cd'lerini iş için Microsoft 365 tarafından korunduklarından emin olmak için nasıl hazırlayacağınızı öğrenin.
-ms.openlocfilehash: 08a956cc7e68bbba74d29bafaab77065be1321ce
-ms.sourcegitcommit: 3ddcf08e8deec087df1fe524147313f1cb12a26d
+ms.openlocfilehash: aedcf78f10707dbe6a1d1527effea7d56283dce0
+ms.sourcegitcommit: 5b769f74bcc76ac8d38aad815d1728824783cd9f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45022127"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45080053"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>İşletmeler için Microsoft 365 ile başlayın
 
@@ -80,9 +80,9 @@ Genel yönetici kimlik bilgilerinizle [Microsoft 365 yönetici merkezinde](https
     
     Yerel bir **Active Directory'den buluta kalıcı olarak hareket**ediyorsanız, Microsoft 365 yönetici merkezine gidebilir ve kullanıcılarınızı el ile eklemek için kurulum sihirbazını kullanabilir veya Azure AD Connect ile tek seferlik eşitleme yapabilirsiniz. Bunu yapmanın iki yolu vardır: 
     
-    - Exchange 2010, Exchange 2013 veya Exchange 2016 sunucunuz da varsa, [Exchange posta kutularını Office 365'e hızla geçirmek için Minimal Karma'yı kullanabilirsiniz.](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate) En az karma adımlar, kullanıcıların Azure AD ile tek seferlik eşitlemeyi ve şirket içi buluta e-posta geçişini içerir. E-posta geçişi tamamlandıktan sonra, bu yöntemi kullandığınızda dizin eşitlemesi otomatik olarak kapatılır.
+    - Exchange 2010, Exchange 2013 veya Exchange 2016 sunucunuz da varsa, [Exchange posta kutularını Microsoft 365'e hızla geçirmek için Minimal Karma'yı kullanabilirsiniz.](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate) En az karma adımlar, kullanıcıların Azure AD ile tek seferlik eşitlemeyi ve şirket içi buluta e-posta geçişini içerir. E-posta geçişi tamamlandıktan sonra, bu yöntemi kullandığınızda dizin eşitlemesi otomatik olarak kapatılır.
     
-    - Kullanıcılarınızı bulutla eşitlemek için dizin eşitleme sihirbazını kullanın. Bu işlemi tamamlamak [için Microsoft 365 için dizin eşitlemesi](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) ayarla'daki adımları izleyin. Kullanıcılarınızı bulutla eşitledikten sonra [Office 365 için dizin eşitlemesi kapatmanız](https://docs.microsoft.com/office365/enterprise/turn-off-directory-synchronization)gerekir.
+    - Kullanıcılarınızı bulutla eşitlemek için dizin eşitleme sihirbazını kullanın. Bu işlemi tamamlamak [için Microsoft 365 için dizin eşitlemesi](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) ayarla'daki adımları izleyin. Kullanıcılarınızı bulutla eşitledikten sonra, Microsoft [365 için dizin eşitlemesi](https://docs.microsoft.com/office365/enterprise/turn-off-directory-synchronization)kapatmanız gerekir.
     
     Ayrıca, bu şekilde eklenen her kullanıcıya iş için Microsoft 365'e lisans vermeniz gerekir. Bunu [kurulum sihirbazında](set-up.md) yapabilir veya [kullanıcılara lisans atayabilirsiniz.](../admin/manage/assign-licenses-to-users.md)
     
