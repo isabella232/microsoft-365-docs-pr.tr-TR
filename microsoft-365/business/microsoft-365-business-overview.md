@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Office üretkenlik uygulamalarını ve işletmeniz için sanal tehlikelere karşı gelişmiş korumayı içeren bir abonelik hizmeti olan Microsoft 365 İş Ekstra hakkında bilgi edinin.
-ms.openlocfilehash: 6cff2fe62111e0d3ee99f406d0be83db0a119b09
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+ms.openlocfilehash: 50b1fec21593bd22577e07e000cedb89dfd90f66
+ms.sourcegitcommit: f7566dd6010744c72684efdc37f4471672330b61
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44786184"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138238"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra’ya Genel Bakış
 
@@ -110,11 +110,6 @@ Güvenlik özelliklerinin tam listesini görmek için, bkz. [Microsoft 365 İş 
 - İş ortağınız varsa, o da Microsoft 365 İş Ekstra’ya sahip olabilir: [Microsoft 365 İş Ekstra’yı Microsoft İş Ortağı Merkezi'nden alma](get-microsoft-365-business.md).
 
 - Bir iş ortağınız yoksa ve Microsoft 365 İş Ekstra’ya sahip olmak istiyorsanız, [buradan satın alabilir](https://www.microsoft.com/microsoft-365/business) ve [kaydolma](sign-up.md) yönergelerini izleyebilirsiniz.
-
-- Ayrıca, Microsoft 365 İş Ekstra’yı satın almak ve kurulum yardımı almak için bir [Microsoft Store](https://www.microsoft.com/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer)’a da gidebilirsiniz.
-
-    > [!NOTE]
-    > Bu bağlantı yalnızca ABD'deki mağazalar içindir
 
 ## <a name="see-also"></a>Ayrıca bkz.
 
