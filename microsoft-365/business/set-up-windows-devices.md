@@ -67,7 +67,7 @@ Windows 10 Pro Creators Update çalıştıran yeni bir cihaz için ya da Windows
     
 3. Windows 10 cihazı kurulumunu tamamlayın.
     
-   Once you're done, the user will be connected to your organization's Azure AD. See [Verify the device is connected to Azure AD](#verify-the-device-is-connected-to-azure-ad) to make sure. 
+   İşiniz bittiğinde kullanıcı, kuruluşunuzun Azure AD'sine bağlanmış olur. Emin olmak için bkz. [Cihazın Azure AD'ye bağlı olduğunu doğrulama](#verify-the-device-is-connected-to-azure-ad). 
   
 ### <a name="for-a-device-already-set-up-and-running-windows-10-pro"></a>Önceden ayarlanmış ve Windows 10 Pro çalıştıran bir cihaz için
 
@@ -97,7 +97,7 @@ Windows 10 Pro Creators Update çalıştıran yeni bir cihaz için ya da Windows
   
 6. Bunun **kuruluş sayfanız olduğundan emin olun,** bilgilerin doğru olduğundan emin olun ve **Katıl'ı**tıklatın.
   
-   On the **You're all set!** page, click **Done**.
+   **Hazırsınız!** sayfasında **Bitti**'ye tıklayın.
   
    ![On the Make sure this is your organization screen, click Join](../media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
   

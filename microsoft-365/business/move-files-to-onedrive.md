@@ -50,7 +50,7 @@ Kullanıcının çok fazla kişisel dosya içeren bir bilgisayarı varsa, önce 
     
 3. Menü çubuğunda **Karşıya Yükle**![Upload](../media/d9b963b8-10af-42e2-953d-360301b83d3c.png) öğesini seçin ve kaydetmek istediğiniz dosyalara göz atın. 
     
-To transfer the user profile and important files, you can also use a third-party tool, such as ForensiT. You should upload the resulting files in OneDrive for Business also.
+Kullanıcı profilini ve önemli dosyaları aktarmak için ForensiT gibi üçüncü taraf araçlarından birini de kullanabilirsiniz. Sonuçta elde edilen dosyaları da OneDrive İş'e yüklemelisiniz.
   
 ## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>İşletmeler için Microsoft 365'i kurma ve kullanma hakkında daha fazla şey için
 
