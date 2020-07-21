@@ -13,12 +13,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 İş Ekstra, Microsoft 365, KOBİ, SSS, sık sorulan sorular, yanıtlar, iş
 ms.date: 06/08/2018
-ms.openlocfilehash: a2feb91ddcd2d95da28c3363d983b382cf2aa6dc
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 30437825a896acb470b23cb8f68ea36235ee80c8
+ms.sourcegitcommit: 5f980a9eb5aca61cf3662ef0bc65dec215e21656
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403460"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "45185986"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Microsoft 365 İş Ekstra sık sorulan sorular
 
@@ -137,9 +137,9 @@ Başarılı bir Microsoft 365 İş Ekstra dağıtımına giden en doğrudan yol,
 Evet, Microsoft 365 İş Ekstra abonelerinin iOS, Android, MacOS ve diğer platformlar arası cihaz yönetimi için tüm Intune özelliklerini kullanma lisansı vardır. Microsoft 365 İş Ekstra’daki basitleştirilmiş yönetim konsolunda bulunmayan üçüncü taraf uygulama yönetimi ve Wi-Fi profillerinin, VPN sertifikalarının yapılandırması gibi özellikler tam Intune konsolunda yönetilebilir. 
   
 
-### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business"></a>Microsoft 365 İş Azure Active Directory (Azure AD) Premium P1 ile birlikte gelir mi? 
+### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business-premium"></a>Azure Active Directory (Azure AD) Premium P1 Microsoft 365 Business Premium ile birlikte geliyor mu? 
 
-Daha önce Microsoft 365 İş, Koşullu Erişim, kendi kendine parola sıfırlama ve Çok Faktörlü Kimlik Doğrulama da dahil olmak üzere Azure AD Premium Plan 1 özelliklerinin bir alt kümesine sahipti. Artık tam Azure AD Premium P1 lisansını başlangıçta yeni müşteriler ve ardından şu anki aboneler olmak üzere Microsoft 365 İş abonelerine dağıtıyoruz. Daha fazla bilgi için [Microsoft 365 İş Hizmet Tanımı](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description)’na ve bu [bloğa](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/azure-active-directory-premium-p1-is-coming-to-microsoft-365/ba-p/1275496) bakın.
+Evet, Azure AD Premium P1 Microsoft Business Premium'a dahildir.
  
  
 ### <a name="does-microsoft-365-business-premium-allow-customers-to-manage-macs"></a>Microsoft 365 İş Ekstra müşterilerin Mac’leri yönetmesine olanak sağlar mı? 
