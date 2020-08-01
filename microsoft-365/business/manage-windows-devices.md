@@ -24,12 +24,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Microsoft 365'in yerel Active-Directory'ye katılan Windows 10 aygıtlarını yalnızca birkaç adımda nasıl koruyacağınızı öğrenin.
-ms.openlocfilehash: 857651081fb10856d28dd419333ebef655388407
-ms.sourcegitcommit: e6e704cbd9a50fc7db1e6a0cf5d3f8c6cbb94363
+ms.openlocfilehash: 2eaf5aa76cae1680b93af008af615ae872e4fb20
+ms.sourcegitcommit: fab425ea4580d1924fb421e6db233d135f5b7d19
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44564963"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46533795"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Etki alanına bağlı Windows 10 cihazlarının Microsoft 365 Business Premium tarafından yönetilmesini etkinleştirme
 
@@ -77,44 +77,32 @@ Microsoft Intune sayfasında Cihaz **kaydını** seçin ve **Genel Bakış** say
         -  Azure AD'de senkronize edilen istenen etki alanı kullanıcılarını bir [güvenlik grubuna](../admin/create-groups/create-groups.md)ekleyin.
         -  Bu güvenlik grubu için MDM kullanıcı kapsamını etkinleştirmek için **Grupları Seç'i** seçin.
 
-## <a name="4-set-up-service-connection-point-scp"></a>4. Servis bağlantı noktasını (SCP) ayarlama
+## <a name="4-create-the-required-resources"></a>4. Gerekli kaynakları oluşturma 
 
-Bu [adımlar, karma azure AD birleştirme](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join)yapılandırmabasitleştirilmiştir. Adımları tamamlamak için Azure AD Connect'i ve Microsoft 365 Business Premium global yöneticinizi ve Active Directory yönetici parolalarınızı kullanmanız gerekir.
+[Karma Azure AD birleştirmeyapılandırmak](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join) için gerekli görevlerin yerine getirilmesi, [SecMgmt](https://www.powershellgallery.com/packages/SecMgmt) PowerShell modülünde bulunan [Initialize-SecMgmtHybirdDeviceEnrollment](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) cmdlet'inin kullanımı yla basitleştirilmiştir. Bu cmdlet'i çağırdığınızda, gerekli servis bağlantı noktası ve grup ilkesini oluşturur ve yapılandıracaktır.
 
-1.  Azure AD Connect'i başlatın ve sonra **Yapıla'yı**seçin.
-2.  Ek **görevler** sayfasında, **aygıtı yapılandır'ı**seçin ve **sonra İleri'yi**seçin.
-3.  Genel **Bakış** sayfasında **İleri'yi**seçin.
-4.  **Azure'a Bağlan AD** sayfasında, Microsoft 365 Business Premium için global bir yöneticinin kimlik bilgilerini girin.
-5.  Aygıt **seçenekleri** sayfasında, **Karma Azure AD birleştirme'yi yapılandır'ı**ve **ardından İleri'yi**seçin.
-6.  **SCP** sayfasında, Azure AD Connect'in SCP'yi yapılandırmasını istediğiniz her orman için aşağıdaki adımları tamamlayın ve **sonra İleri'yi**seçin:
-    - Orman adının yanındaki kutuyu işaretleyin. Orman, AD alan adınız olmalıdır.
-    - Kimlik **Doğrulama Hizmeti** sütununda açılır dosyayı açın ve eşleşen etki alanı adını seçin (yalnızca tek bir seçenek olmalıdır).
-    - Etki alanı yöneticisi kimlik bilgilerini girmek için **Ekle'yi** seçin.  
-7.  Aygıt **işletim sistemleri** sayfasında yalnızca Windows 10 veya daha sonraki etki alanına bağlı aygıtları seçin.
-8.  **Yapılandırmaya Hazır** **sayfasında, Yapılandırma'yı**seçin.
-9.  Yapılandırma **tam** **sayfasında, Exit'i**seçin.
+PowerShell örneğinden aşağıdakileri çağırarak bu modülü yükleyebilirsiniz:
 
-
-## <a name="5-create-a-gpo-for-intune-enrollment--admx-method"></a>5. Intune Kayıt için bir GPO oluşturma – ADMX yöntemi
-
-Kullanın. ADMX şablon dosyası.
-
-1.  AD sunucusunda oturum açın, **Sunucu Yöneticisi**  >  **Araçları**Grup  >  **İlkesi Yönetimi'ni**arayın ve açın.
-2.  **Etki Alanları** altında etki alanı adınızı seçin ve **Yeni'yi**seçmek için **Grup İlkesi Nesneleri'ni** sağ tıklatın.
-3.  Yeni GPO'ya bir ad verin, örneğin "*Cloud_Enrollment*" ve sonra **Tamam'ı**seçin.
-4.  **Grup İlkesi Nesneleri** altındaki yeni GPO'ya sağ tıklayın ve **Edit'i**seçin.
-5.  Grup **İlkesi Yönetimi**Düzenleyicisi'nde, **Bilgisayar Yapılandırma**  >  **İlkeleri**  >  **Yönetim Şablonları**Windows  >  **Components**  >  **MDM'ye**gidin.
-6. **Varsayılan Azure AD kimlik bilgilerini kullanarak otomatik MDM kaydını etkinleştir'e** sağ tıklatın ve ardından Etkin **Enabled**  >  **Tamam'ı**seçin. Editör penceresini kapatın.
+```powershell
+Install-Module SecMgmt
+```
 
 > [!IMPORTANT]
-> **Varsayılan Azure REKLAM kimlik bilgilerini kullanarak otomatik MDM kaydını etkinleştir**ilkesini görmüyorsanız, bkz. [Get the latest Administrative Templates](#get-the-latest-administrative-templates)
+> Bu modülü Azure AD Connect çalıştıran Windows Server'a yüklemeniz önerilir.
 
-## <a name="6-deploy-the-group-policy"></a>6. Grup İlkesini Dağıtmak
+Gerekli servis bağlantı noktası ve grup ilkesini oluşturmak için [Initialize-SecMgmtHybirdDeviceEnrollment](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) cmdlet'ini çağırırsınız. Bu görevi yerine getirirken Microsoft 365 Business Premium global yönetici kimlik bilgilerinize ihtiyacınız olacaktır. Kaynakları oluşturmaya hazır olduğunuzda aşağıdakileri çağırın:
 
-1.  Sunucu Yöneticisi'nde, **Etki Alanları** > Grup İlkesi nesneleri altında, "Cloud_Enrollment" gibi yukarıdaki Adım 3'ten GPO'yu seçin.
-2.  GPO'nuz için **Kapsam** sekmesini seçin.
-3.  GPO'nun Kapsam sekmesinde, **Linkler**altındaki etki alanına bağlantısağ tıklayın.
-4.  GPO'yu dağıtmak için **Zorla'yı** seçin ve onay ekranında **Tamam'ı** seçin.
+```powershell
+PS C:\> Connect-SecMgmtAccount
+PS C:\> Initialize-SecMgmtHybirdDeviceEnrollment -GroupPolicyDisplayName 'Device Management'
+```
+
+İlk komut Microsoft bulutuyla bir bağlantı kurar ve sizden istendiğinde Microsoft 365 Business Premium global yönetici kimlik bilgilerinizi belirtin.
+
+## <a name="5-link-the-group-policy"></a>5. Grup İlkesini Bağla
+
+1. Grup İlkesi Yönetim Konsolu'nda (GPMC), politikayı bağlamak istediğiniz konuma sağ tıklayın ve bağlam menüsünden *varolan bir GPO'yu bağlayın...* seçeneğini belirleyin.
+2. Yukarıdaki adımda oluşturulan ilkeyi seçin ve **ardından Tamam'ı**tıklatın.
 
 ## <a name="get-the-latest-administrative-templates"></a>En son Yönetim Şablonlarını Alın
 
@@ -129,4 +117,3 @@ Kullanın. ADMX şablon dosyası.
 6.  İlkenin kullanılabilir olması için Birincil Etki Alanı Denetleyicisini yeniden başlatın. Bu yordam, gelecekteki herhangi bir sürüm için de çalışacaktır.
 
 Bu noktada, kullanılabilir varsayılan Azure **REKLAM kimlik bilgilerini kullanarak otomatik MDM kaydını etkinleştir** ilkesini görebilmeniz gerekir.
-
