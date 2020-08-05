@@ -24,12 +24,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Microsoft 365'in yerel Active-Directory'ye katılan Windows 10 aygıtlarını yalnızca birkaç adımda nasıl koruyacağınızı öğrenin.
-ms.openlocfilehash: 2eaf5aa76cae1680b93af008af615ae872e4fb20
-ms.sourcegitcommit: fab425ea4580d1924fb421e6db233d135f5b7d19
+ms.openlocfilehash: 6275c6c4be9cd9631ab095f8b0e1b39683022bb2
+ms.sourcegitcommit: d988faa292c2661ffea43c7161aef92b2b4b99bc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46533795"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46560853"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Etki alanına bağlı Windows 10 cihazlarının Microsoft 365 Business Premium tarafından yönetilmesini etkinleştirme
 
@@ -50,8 +50,7 @@ Bkz. Adımlar için [etki alanı kullanıcılarını Microsoft'a senkronize edin
 
 ## <a name="1-verify-mdm-authority-in-intune"></a>1. Intune MDM Yetki doğrulayın
 
-portal.azure.com gidin ve Intune için sayfa arama üst kısmında.
-Microsoft Intune sayfasında Cihaz **kaydını** seçin ve **Genel Bakış** sayfasında **MDM yetkilisinin** **Intune**olduğundan emin olun.
+[Endpoint Manager'a](https://endpoint.microsoft.com/#blade/Microsoft_Intune_Enrollment/EnrollmentMenu/overview) gidin ve Microsoft Intune sayfasında Cihaz **kaydını**seçin ve ardından **Genel Bakış** sayfasında **MDM yetkilisinin** **Intune**olduğundan emin olun.
 
 - **MDM yetkisi** **Yok**ise, **Intune**ayarlamak için **MDM yetkisini** tıklatın.
 - **MDM yetkisi** **Microsoft Office 365**ise, **Aygıtlar**Kayıt  >  **aygıtlarına** gidin ve **Intune MDM** yetkilisi ekleme hakkını sağdaki **MDM yetki** ekle iletişim kutusunu kullanın **(MDM Yetkilisi Ekle** iletişim kutusu yalnızca **MDM Yetkilisi** Microsoft Office 365'e ayarlanırsa kullanılabilir).

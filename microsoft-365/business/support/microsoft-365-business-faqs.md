@@ -13,12 +13,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 İş Ekstra, Microsoft 365, KOBİ, SSS, sık sorulan sorular, yanıtlar, iş
 ms.date: 07/21/2020
-ms.openlocfilehash: 520009d26d0133a2c53c6149fe4938bea9db5a32
-ms.sourcegitcommit: 1b83b6bcacb997324bc4be355deba6daf319591d
+ms.openlocfilehash: 614da177df9250045ca3cc18c0b071e0aa43b7ec
+ms.sourcegitcommit: d988faa292c2661ffea43c7161aef92b2b4b99bc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46503009"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46560809"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Microsoft 365 İş Ekstra sık sorulan sorular
 
@@ -154,7 +154,7 @@ Windows AutoPilot, yeni Windows 10 bilgisayarların dağıtımını kolaylaştı
 Microsoft 365 İş Standart’a eklenebilen tüm eklentiler Microsoft 365 İş Ekstra’ya eklenebilir. Bu, Office 365 Cloud App Security, Advanced Compliance, Threat Intelligence, MyAnalytics, Power BI Pro ve Audio Conferencing satın alabileceğiniz anlamına gelir. 
  
 ### <a name="can-i-add-phone-system-and-calling-plans-to-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra’ya Telefon Sistemi ve Arama Planları ekleyebilir miyim? 
-Hayır, Telefon Sistemi ve Arama Planı daha gelişmiş gereksinimleri olan müşterilere ayrılmıştır. Bu özelliklere gereksinim duyan müşteriler Microsoft 365 Kurumsal tekliflerine göz atmalıdır. 
+Evet, Business Voice aboneliği satın alabilirsiniz. [Business Voice,](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice) Telefon Sistemi, Sesli Konferans, Yurtiçi Arama Planı ve daha fazlasını paketleyen 300 kullanıcıya kadar küçük ve orta ölçekli işletmeler için tasarlanmış bir telefon çözümüdür. Alacağınız Telefon Sistemi özellikleri arasında sesli mesaj, arayan kimliği, arama parkı, arama yönlendirme, otomatik görevliler ve arama kuyrukları yer alır. <br> Business Voice'ın ülkenizde veya bölgenizde kullanılabilir olup olmadığını öğrenmek [için, İş Sesi için Ülke ve bölge kullanılabilirliğine](https://docs.microsoft.com/microsoftteams/business-voice/country-region-availability)bakın. Fiyatlandırma bilgileri [için İş Sesi fiyatlandırması'na](https://go.microsoft.com/fwlink/?linkid=2127221)bakın.
  
 ### <a name="can-microsoft-365-business-premium-customers-use--microsoft-defender-advanced-threat-protection"></a>Microsoft 365 Business Premium müşterileri Microsoft Defender Gelişmiş Tehdit Koruması'nı kullanabilir mi? 
 Evet, Microsoft Defender Gelişmiş Tehdit Koruması, Microsoft 365 Business Premium müşterilerine eklenti olarak kullanılabilir.
