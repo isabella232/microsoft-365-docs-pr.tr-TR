@@ -1,5 +1,5 @@
 ---
-title: İşletmeler için Microsoft 365 ile başlayın
+title: İş için Microsoft 365 kullanmaya başlama
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -27,76 +27,76 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
-description: İşletmeler için Microsoft 365, nasıl ayarlayacağı ve kullanıcılarınızın aygıtlarını ve cd'lerini iş için Microsoft 365 tarafından korunduklarından emin olmak için nasıl hazırlayacağınızı öğrenin.
-ms.openlocfilehash: aedcf78f10707dbe6a1d1527effea7d56283dce0
-ms.sourcegitcommit: 5b769f74bcc76ac8d38aad815d1728824783cd9f
+description: İş için Microsoft 365 hakkında bilgi edinin, bu uygulamayı nasıl ayarlayabilirim ve kullanıcıların cihazlarından ve PC 'larından işletmeler için Microsoft 365 tarafından korunduğundan emin olun.
+ms.openlocfilehash: ec50036f589cfd8497b0e7e9af6519b30d25dcd3
+ms.sourcegitcommit: 555d756c69ac9031d1fb928f2e1f9750beede066
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45080053"
+ms.lasthandoff: 08/29/2020
+ms.locfileid: "47306499"
 ---
-# <a name="get-started-with-microsoft-365-for-business"></a>İşletmeler için Microsoft 365 ile başlayın
+# <a name="get-started-with-microsoft-365-for-business"></a>İş için Microsoft 365 kullanmaya başlama
 
-## <a name="what-is-microsoft-365-for-business"></a>İşletmeler için Microsoft 365 nedir
+## <a name="what-is-microsoft-365-for-business"></a>İş için Microsoft 365 nedir?
 
-İşletmeler için Microsoft 365, Outlook, Word, Excel ve diğer Office ürünleri gibi her zaman güncel olan kapsamlı bir iş üretkenliği ve işbirliği araçları kümesidir. İş dosyalarınızı tüm iOS, Android ve Windows 10 aygıtlarınızda, yönetilmesi kolay kurumsal sınıf güvenlikle koruyabilirsiniz.
+İş için Microsoft 365, her zaman güncel olan Outlook, Word, Excel ve diğer Office ürünleri gibi kapsamlı bir iş verimliliği ve işbirliği araçları kümesidir. İş dosyalarınızı tüm iOS, Android ve Windows 10 cihazlarınızda, yönetimi kolay olan kurumsal güvenlik güvenliğiyle koruyabilir.
 
-İşletmeler için Microsoft 365'e hızlı bir genel bakış için bu videoyu izleyin.<br><br>
+Microsoft 365 iş 'e hızlı bir genel bakış için bu videoyu izleyin.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-İşletmeler için Microsoft 365, 300'e kadar lisans içindir. Daha fazla lisansa ihtiyacınız varsa daha fazla bilgi için [Microsoft 365 Kurumsal](https://go.microsoft.com/fwlink/p/?linkid=860986) belgelerine göz atın. 
+Microsoft 365 işletmeler için 300 lisans sağlanmıştır. Daha fazla lisansa ihtiyacınız varsa daha fazla bilgi için [Microsoft 365 Kurumsal](https://go.microsoft.com/fwlink/p/?linkid=860986) belgelerine göz atın. 
   
-## <a name="get-microsoft-365-for-business"></a>İşletmeler için Microsoft 365'i alın
+## <a name="get-microsoft-365-for-business"></a>İş için Microsoft 365
 
-- İş ortağınız varsa, iş için Microsoft 365 alırsınız: [Microsoft İş Ortağı Merkezi'nden iş için Microsoft 365'i alın.](get-microsoft-365-business.md)
+- İş ortağınız varsa 365, Microsoft iş [Ortağı Merkezi 'nden iş için microsoft 365](get-microsoft-365-business.md).
     
-- Bir iş ortağınız yoksa ve microsoft 365'i iş için almak istiyorsanız, [buradan satın](https://www.microsoft.com/microsoft-365/business)alabilirsiniz.
+- İş ortağınız yoksa ve Microsoft 365 iş 'i edinmek istiyorsanız, [buradan satın](https://www.microsoft.com/microsoft-365/business)alabilirsiniz.
     
-## <a name="set-up-microsoft-365-for-business"></a>İşletmeler için Microsoft 365'i ayarlama
+## <a name="set-up-microsoft-365-for-business"></a>Microsoft 365 iş 'i ayarlama
 
- **Business Suite kurulumu için Microsoft 365'e genel bakış**
+ **İş için Microsoft 365 kurulumu**
   
-Aşağıdaki diyagramda, yöneticilerin Microsoft 365'i işletme için nasıl kurdukları açıklanmaktadır. Ayrıca, microsoft 365 için windows bilgisayarların iş için hazırlanması adımlarını da açıklar. Ayrıca [Windows AutoPilot](add-autopilot-devices-and-profile.md)ile Microsoft 365 yönetici merkezinde yeni cihazlar ekleyebilirsiniz. Yeni aygıtları kurmak ve önceden yapılandırmak için Otomatik Pilot'u, kullanıcı iş kimlik bilgileri için Microsoft 365 ile birlikte girer imzalamaz verimli kullanıma hazır olmaları için önceden yapılandırmak için kullanabilirsiniz.
+Aşağıdaki diyagramda, yöneticilerin Microsoft 365 iş için nasıl ayarlandığı açıklanmaktadır. Ayrıca, Microsoft 365 iş için Windows bilgisayarlarını hazırlama adımlarını da açıklar. Microsoft 365 Yönetim Merkezi 'nde [Windows Autopilot](add-autopilot-devices-and-profile.md)ile yeni aygıtlar da ekleyebilirsiniz. Bir Kullanıcı Microsoft 365 iş kimlik bilgileriyle oturum açtığında, üretken olmaları için yeni cihazları ayarlamak ve önceden yapılandırmak üzere AutoPilot 'ı kullanabilirsiniz.
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](../media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
 
-İş kurulumu için Microsoft 365'e genel bir bakış için bu videoyu izleyin.<br><br>
+İş için Microsoft 365 'e genel bir bakış için bu videoyu izleyin.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
 Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
   
-### <a name="1-set-up-microsoft-365-for-business-admin"></a>1: İşletmeler için Microsoft 365'i ayarlama (Yönetici)
+### <a name="1-set-up-microsoft-365-for-business-admin"></a>1: Microsoft 365 iş 'i ayarlama (yönetici)
 
-Genel yönetici kimlik bilgilerinizle [Microsoft 365 yönetici merkezinde](https://portal.office.com/adminportal/home) oturum açın ve iş için Microsoft 365'i ayarlamak için aşağıdaki adımları tamamlayın. 
+Genel yönetici kimlik bilgilerinizle [microsoft 365 Yönetim Merkezi](https://portal.office.com/adminportal/home) 'nde oturum açın ve Microsoft 365 iş için ayarlamak üzere aşağıdaki adımları tamamlayın. 
   
-1. [İşletmeler için Microsoft 365'e sahip cihazlardaki verileri korumak için ön koşullar](pre-requisites-for-data-protection.md)
+1. [Microsoft 365 iş 'te cihazlarda verileri koruma önkoşulları](pre-requisites-for-data-protection.md)
     
-    Aygıtlarınızın microsoft 365 için iş için hazır olduğundan emin olmak için önce ön koşulları okuyun.
+    Cihazınızın Microsoft 365 iş için hazır olduğundan emin olmak için öncelikle önkoşulları okuyun.
     
-2. [İşletmeler için Microsoft 365'i ayarlamak için kurulum sihirbazını kullanma](set-up.md)
+2. [Microsoft 365 iş 'i ayarlamak için kurulum sihirbazını kullanma](set-up.md)
     
-    Yerel bir **Active Directory'den buluta kalıcı olarak hareket**ediyorsanız, Microsoft 365 yönetici merkezine gidebilir ve kullanıcılarınızı el ile eklemek için kurulum sihirbazını kullanabilir veya Azure AD Connect ile tek seferlik eşitleme yapabilirsiniz. Bunu yapmanın iki yolu vardır: 
+    **Bir yerel Active Directory 'den buluta kalıcı olarak taşınmıyorsanız**, Microsoft 365 Yönetim Merkezi 'ne gidebilir ve Kurulum Sihirbazı 'nı kullanarak, kullanıcılarınızı el ile ekleyebilir veya Azure AD Connect ile bir kerelik eşitleme yapabilirsiniz. Bunu yapmanın iki yolu vardır: 
     
-    - Exchange 2010, Exchange 2013 veya Exchange 2016 sunucunuz da varsa, [Exchange posta kutularını Microsoft 365'e hızla geçirmek için Minimal Karma'yı kullanabilirsiniz.](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate) En az karma adımlar, kullanıcıların Azure AD ile tek seferlik eşitlemeyi ve şirket içi buluta e-posta geçişini içerir. E-posta geçişi tamamlandıktan sonra, bu yöntemi kullandığınızda dizin eşitlemesi otomatik olarak kapatılır.
+    - Ayrıca Exchange 2010, Exchange 2013 veya Exchange 2016 sunucunuz varsa, [Exchange posta kutularını hızla 365 Microsoft 'a geçirmek Için en az karma kullanabilirsiniz](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate). En az karma adımlarda, kullanıcılardan Azure AD 'ye bir kerelik eşitleme ve şirket içi 'tan buluta e-posta geçişi dahildir. E-posta geçişi tamamlandıktan sonra, bu yöntemi kullandığınızda dizin eşitlemesi otomatik olarak kapatılır.
     
-    - Kullanıcılarınızı bulutla eşitlemek için dizin eşitleme sihirbazını kullanın. Bu işlemi tamamlamak [için Microsoft 365 için dizin eşitlemesi](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) ayarla'daki adımları izleyin. Kullanıcılarınızı bulutla eşitledikten sonra, Microsoft [365 için dizin eşitlemesi](https://docs.microsoft.com/office365/enterprise/turn-off-directory-synchronization)kapatmanız gerekir.
+    - Kullanıcılarınızı bulut ile eşitlemek için Dizin eşitleme Sihirbazı 'nı kullanın. Bu süreci tamamlamak için [Microsoft 365 için dizin eşitlemesini ayarlama](https://docs.microsoft.com/microsoft-365/enterprise/set-up-directory-synchronization) bölümündeki adımları izleyin. Kullanıcılarınızı bulut ile eşitledikten sonra, [Microsoft 365 için dizin eşitlemesini](https://docs.microsoft.com/microsoft-365/enterprise/turn-off-directory-synchronization)kapatmanız gerekir.
     
-    Ayrıca, bu şekilde eklenen her kullanıcıya iş için Microsoft 365'e lisans vermeniz gerekir. Bunu [kurulum sihirbazında](set-up.md) yapabilir veya [kullanıcılara lisans atayabilirsiniz.](../admin/manage/assign-licenses-to-users.md)
+    Bu şekilde, bir Microsoft 365 kullanıcısına bu şekilde eklenen her kullanıcıya da izin vermeniz gerekir. Bu işlemi [Kurulum sihirbazında](set-up.md) yapabilir veya [kullanıcılara lisans atayabilirsiniz](../admin/manage/assign-licenses-to-users.md).
     
-### <a name="2-prepare-mobile-devices"></a>2: Mobil cihazları hazırlama
+### <a name="2-prepare-mobile-devices"></a>2: mobil cihazları hazırlama
 
-İş kullanıcılarının Office uygulamalarını cihazlara yüklemeleri ve iş için Microsoft 365 tarafından korunduklarına emin olmaları [için Microsoft 365 için mobil aygıtlar ayarlama](set-up-mobile-devices.md) adımlarını izleyin. 
+[Microsoft 365 iş kullanıcıları için mobil cihazları ayarlama](set-up-mobile-devices.md) konusundaki adımları izleyerek Office uygulamalarını cihazlara yükleyebilir ve Microsoft 365 iş için korunduğundan emin olun. 
   
-### <a name="3-prepare-pcs"></a>3: Hazırlayın CD'ler
+### <a name="3-prepare-pcs"></a>3: bilgisayarları hazırlama
 
-Yöneticiler, [Windows AutoPilot'u](add-autopilot-devices-and-profile.md)kullanarak yeni Windows 10 bilgisayarları için ayarları önceden seçebilirler. Kullanıcılar bu konudaki adımları izleyerek varolan veya yeni Windows 10 aygıtlarını ayarlayabilir: [İş kullanıcıları için Microsoft 365 için Windows bilgisayarları ayarlayın.](set-up-windows-devices.md) Varolan aygıtlar için kullanıcılar **dosyaları isteğe bağlı olarak** [OneDrive for Business'a taşıyabilir.](move-files-to-onedrive.md) Windows profiliyle ilişkili dosyaları OneDrive'a taşımak için üçüncü taraf araçlarını da kullanabilirler.
+Yöneticiler, [Windows Autopilot](add-autopilot-devices-and-profile.md)kullanarak yeni Windows 10 PC 'lerin ayarlarını önceden seçebilir. Kullanıcılar, bu konudaki adımları izleyerek mevcut veya yeni Windows 10 cihazlarını ayarlayabilir: [iş Için Microsoft 365 Windows bilgisayarlarını ayarlama](set-up-windows-devices.md). Var olan cihazlarda, kullanıcılar **isteğe bağlı olarak** [dosyaları OneDrive iş 'e taşıyabilir](move-files-to-onedrive.md). Windows profiliyle ilişkili dosyaları OneDrive 'a taşımak için üçüncü taraf araçları da kullanabilirler.
   
-Kuruluşunuz Windows Server Active Directory'yi şirket içinde kullanıyorsa, Windows 10 aygıtlarınızı korumak için iş için Microsoft 365'i ayarlayabilir ve yerel kimlik doğrulaması gerektiren şirket içi kaynaklara erişimi sürdürebilirsiniz. İşletmelerin bunu ayarlaması [için Microsoft 365 tarafından yönetilecek etki alanına birleştirilmiş Windows 10 aygıtlarını etkinleştirme](manage-windows-devices.md) adımlarını izleyin. Bu yöntem tercih edilir ve bu durumdaki aygıtlar **Karma Azure AD birleştirilmiş aygıtlar**olarak adlandırılır. 
+Kuruluşunuzda Windows Server Active Directory 'yi şirket içinde kullanıyorsanız, yerel kimlik doğrulaması gerektiren şirket içi kaynaklara erişimi sürdürmek için Microsoft 365 iş için iş 'i ayarlayabilirsiniz. [Etki alanı odaklı Windows 10 cihazlarının iş Için Microsoft 365 tarafından yönetilmesini etkinleştirme](manage-windows-devices.md) konusundaki adımları izleyin. Bu yöntem tercih edilir ve bu durumdaki cihazlar **karma Azure AD birleştirilmiş cihazları**olarak adlandırılır. 
   
-Bazı şirket içi kaynakları (dosya paylaşımları ve yazıcılar gibi) içeren yerel bir Etkin Dizin'i korursanız, **Azure AD'ye katılan aygıtlarınıza** buradaki adımları izleyerek bu kaynaklara erişim sağlayabilirsiniz: [Microsoft 365'teki Azure AD'ye bağlı bir aygıttan](access-resources.md)şirket içi kaynaklara iş için erişebilirsiniz.
+Bazı şirket içi kaynaklar (dosya paylaşımları ve yazıcılar gibi) içeren yerel bir Active Directory 'yi korumanız durumunda, buradaki adımları izleyerek **Azure AD-birleştirilmiş cihazlarınıza** bu kaynaklar için erişim sağlayabilirsiniz: [Şirket Içi 365 kaynaklara erişim](access-resources.md)sağlayın.
   
   
 ## <a name="contact-support"></a>Desteğe başvurun
@@ -105,12 +105,12 @@ Bazı şirket içi kaynakları (dosya paylaşımları ve yazıcılar gibi) içer
   
 - İş ortağınızla iletişime geçin.
     
-- İş yöneticisi için Microsoft 365 olarak, müşteri destek ekibimize erişebilirsiniz: ** [İş ürünleri için destekle iletişime geçin - Yönetici Yardımı](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)**
+- İş için Microsoft 365, müşteri desteği ekibimize erişiminiz vardır: ** [iş ürünleri Için desteğe başvurun-Yönetici Yardımı](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)**
     
 ## <a name="see-also"></a>Ayrıca bkz.
 
-[İş belgeleri ve kaynakları için Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=853701)
+[İş belgeleri ve kaynaklar için Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=853701)
   
-[İşletmeler için Microsoft 365'i yönetin](manage.md)[İşletmeler için Microsoft 365'e geçirin](migrate-to-microsoft-365-business.md)
+[İş için 365 microsoft](manage.md)[365 iş 'i](migrate-to-microsoft-365-business.md) yönetme
 
-[İş eğitimi videoları için Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) 
+[Microsoft 365 iş eğitim videoları](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) 
