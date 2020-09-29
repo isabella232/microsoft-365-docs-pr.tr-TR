@@ -1,5 +1,5 @@
 ---
-title: Office 365 E3'ten Microsoft 365 Business'a geçiş
+title: Office 365 E3 'den Microsoft 365 Business 'a geçme
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -21,104 +21,109 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: İşinizi Office 365 E3'ten Microsoft 365 Business Premium'a nasıl taşıyabildiğiniöğrenin.
-ms.openlocfilehash: d72f0c52a745ff973868b6fdaa95efa1a37a3dbd
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+description: İşinizi Office 365 E3 'den Microsoft 365 Business Premium 'a taşımayı öğrenin.
+ms.openlocfilehash: f3f3894a2a5cb69f9f91825d89db4f4b857fac5c
+ms.sourcegitcommit: 15be7822220041c25fc52565f1c64d252e442d89
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "45081924"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48295300"
 ---
-# <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Office 365 E3'ten Microsoft 365 Business Premium'a geçiş 
+# <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Office 365 E3 'den Microsoft 365 Business Premium 'a geçme 
 
-Microsoft 365 Business Premium, sınıfının en iyisi bulut tabanlı üretkenlik uygulamalarını basit cihaz yönetimi ve güvenlikle birleştirerek küçük işletmeniz için ihtiyacınız olan her şeye sahiptir. Şu anda bir Office 365 E3 aboneliğiniz varsa, ancak 300'den fazla çalışanın yoksa, ek güvenlik özellikleri için Microsoft 365 Business Premium'a geçmeyi düşünün.
+Microsoft 365 Iş ekstra, basit cihaz yönetimi ve güvenliğiyle en iyi sınıf bulut tabanlı verimlilik uygulamalarını birleştiren küçük işletmeniz için gereken her şeyi içerir. Şu anda bir Office 365 E3 aboneliğiniz varsa, ancak 300 ' den fazla çalışanı yoksa, ek güvenlik özellikleri için Microsoft 365 Iş Premium 'a geçmeyi düşünebilirsiniz.
 
-Geçiş kolaydır: Önce lisansları değiştirirsiniz ve geçerli aboneliğinizdeki tüm verileriniz ve kullanıcı bilgileriniz korunur. Geçişten sonra Microsoft 365 Business Premium'a eklenen özellikleri ayarlamanız gerekir.
+Geçiş kolay: Ilk olarak lisansları değiştirdiğinizde geçerli aboneliğinizde tüm verileriniz ve Kullanıcı bilgileriniz korunur. Geçişten sonra, Microsoft 365 Business Premium 'A eklenen özellikleri ayarlamanız gerekir.
 
-## <a name="differences-between-office-365-e3-and-microsoft-365-business-premium"></a>Office 365 E3 ile Microsoft 365 Business Premium arasındaki farklar
+## <a name="differences-between-office-365-e3-and-microsoft-365-business-premium"></a>Office 365 E3 ve Microsoft 365 Iş ekstra arasındaki farklar
 
-Bu tablo, Microsoft 365 Business Premium ve Office 365 E3 arasındaki farkları gösterir.
+Bu tabloda, Microsoft 365 Business Premium ve Office 365 E3 arasındaki farklılıklar gösterilmektedir.
 
-| Özellik    | Microsoft 365 Business Premium desteği    | Office 365 E3'te destek | 
+| Özellik    | Microsoft 365 Business Premium 'da destek    | Office 365 E3 | 
 |:-------|:-----|:-----|
 | **Şirket içi**        | | | 
-| Office uygulamaları<sup>1</sup>    | Microsoft 365 İş uygulamaları    | Kurumsal uygulamalar için Microsoft 365 | 
-| **Bulut üretkenliği uygulamaları**        | | | 
-| Exchange Online ve Outlook    | Posta kutusu başına 50 GB depolama sınırı ve sınırsız Exchange Online Arşivleme    | Posta kutusu başına 100 GB depolama sınırı ve sınırsız Exchange Online Arşivleme | 
-| Takım    | ![Microsoft 365 Business Premium'a dahildir](../media/check-mark.png)    | ![Office 365 E3 ile birlikte](../media/check-mark.png) | 
-| OneDrive İş    | Kullanıcı başına 1 TB depolama sınırı    | Sınırsız | 
-| Yammer, SharePoint Online, Planlayıcı, Akış    | ![Microsoft 365 Business Premium'a dahildir](../media/check-mark.png)    | ![Office 365 E3 ile birlikte](../media/check-mark.png) | 
-| PersonelHub    | ![Microsoft 365 Business Premium'a dahildir](../media/check-mark.png)    | ![Office 365 E3 ile birlikte](../media/check-mark.png) | 
-| Outlook Müşteri Yöneticisi, MileIQ    | ![Microsoft 365 Business Premium'a dahildir](../media/check-mark.png)    | | 
-| **Tehdit Koruması**        | | | 
-| Office 365 Gelişmiş Tehdit Koruması (ATP) Planı 1 | ![Microsoft 365 Business Premium'a dahildir](../media/check-mark.png)    | Dahil değil, ancak eklenebilir | 
+| Office uygulamaları<sup>1</sup>    | İş için Microsoft 365 uygulamaları    | Kurumlar için Microsoft 365 Uygulamaları | 
+| **Bulut üretkenlik uygulamaları**        | | | 
+| Exchange Online ve Outlook    | posta kutusu başına 50 GB depolama alanı ve sınırsız Exchange Online arşivleme    | posta kutusu başına 100 GB depolama alanı ve sınırsız Exchange Online arşivleme | 
+| Teams    | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | ![Office 365 E3 ile birlikte](../media/check-mark.png) | 
+| OneDrive İş    | Kullanıcı başına 1 TB depolama sınırı    | Süresiz | 
+| Yammer, SharePoint Online, Planner, akış    | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | ![Office 365 E3 ile birlikte](../media/check-mark.png) | 
+| StaffHub    | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | ![Office 365 E3 ile birlikte](../media/check-mark.png) | 
+| Outlook Customer Manager, MileIQ    | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | | 
+| **Tehdit koruması**        | | | 
+| Office 365 Gelişmiş tehdit koruması (ATP) plan 1 | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | Dahil değildir, ancak eklenebilir | 
 | **Kimlik yönetimi**        | | | 
-| Karma Azure Etkin Dizin (Azure AD) hesapları, Azure çok faktörlü kimlik doğrulama (MFA), Koşullu Erişim, şirket içi kimlikler için parola yazma için self servis parola sıfırlama|     ![Microsoft 365 Business Premium'a dahildir](../media/check-mark.png)    |  | 
+| Karma Azure Active Directory (Azure AD) hesapları, Azure Multi-Factor Authentication (MFA) için self servis parola sıfırlama, koşullu erişim, şirket içi kimlikler için parola geri yazma|     ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    |  | 
 | **Cihaz ve uygulama yönetimi**        | | |
-| Microsoft Intune, Windows AutoPilot|     ![Microsoft 365 Business Premium'a dahildir](../media/check-mark.png)    |  |
-| Paylaşılan bilgisayar etkinleştirme|     ![Microsoft 365 Business Premium'a dahildir](../media/check-mark.png)    | ![Office 365 E3 ile birlikte](../media/check-mark.png)| 
-| Win 7/8.1 Pro lisanslarından Windows 10 Pro'nun yükseltme hakları|     ![Microsoft 365 Business Premium'a dahildir](../media/check-mark.png)    || 
+| Microsoft Intune, Windows AutoPilot|     ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    |  |
+| Paylaşılan bilgisayar etkinleştirmesi|     ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | ![Office 365 E3 ile birlikte](../media/check-mark.png)| 
+| Win 7/8.1 Pro lisanlarından Windows 10 Pro 'ya yükseltme hakları|     ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    || 
 | **Bilgi koruması**        | | |
-|Office 365 Veri Kaybı Önleme|    ![Microsoft 365 Business Premium'a dahildir](../media/check-mark.png)|![Office 365 E3 ile birlikte](../media/check-mark.png)|
-|Azure Bilgi Koruma Planı 1, Bitlocker uygulaması|![Microsoft 365 Business Premium'a dahildir](../media/check-mark.png)||
-|Azure Bilgi Koruma Planı 1, Duyarlılık etiketleri|![Microsoft 365 Business Premium'a dahildir](../media/check-mark.png)||
-|**İstemci Erişim Lisansı (CAL hakları)**|||
+|Office 365 veri kaybı önleme|    ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)|![Office 365 E3 ile birlikte](../media/check-mark.png)|
+|Azure bilgi koruma planı 1, BitLocker zorlaması|![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)||
+|Azure bilgi koruma planı 1, duyarlılık etiketleri|![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)||
+|**İstemci erişim lisansı (CAL hakları)**|||
 |Kurumsal CAL Paketi (Exchange, SharePoint, Skype)||![Office 365 E3 ile birlikte](../media/check-mark.png)|
 
-<sup>1</sup> Office uygulamalarının Microsoft 365 Business Premium sürümü, Grup İlkesi, uygulama telemetrisi, denetimleri güncelleştirme, elektronik tablo karşılaştırma ve sorgulama veya iş Zekası yoluyla toplu etkinleştirme içermez.
+<sup>1</sup> Office uygulamalarının Microsoft 365 Business Premium sürümü Grup ilkesi, uygulama telemetri, güncelleştirme denetimleri, elektronik tablo karşılaştırma ve sorgulama veya iş zekası aracılığıyla toplu etkinleştirme içermez.
 
-## <a name="migration"></a>Geçiş
+## <a name="migration"></a>Geçişte
 
-Aboneliğinizi geçirmek için, birkaç kişiyi Microsoft 365 Business Premium'a taşımak istiyorsanız, talimatları [el ile değiştir planlarına](../commerce/subscriptions/change-plans-manually.md) bakın. E3 aboneliğinizi ve lisanslarınızı Microsoft 365 Business Premium aboneliğine taşımak için [herkesi otomatik olarak yükseltebilir](../commerce/subscriptions/upgrade-to-different-plan.md)veya bir iş ortağıyla birlikte çalışabilirsiniz.
-Aşağıdaki bölümlerde, varsa yapmanız gereken değişiklikleri ve geçişten sonra neler yapabileceğiniz açıklanabilir.
+Aboneliğinizi geçirmek için, yalnızca birkaç kişiyi Microsoft 365 Business Premium 'a taşımak isterseniz yönergeleri [El Ile değiştirme](../commerce/subscriptions/change-plans-manually.md) konusuna bakın. Ayrıca, E3 aboneliğinizi ve lisanslarınızı bir Microsoft 365 Iş Ekstra aboneliğine taşımak için [herkesi otomatik olarak yükseltebilir](../commerce/subscriptions/upgrade-to-different-plan.md)veya bir iş ortağıyla çalışabilirsiniz.
+Aşağıdaki bölümlerde, eğer varsa ve geçiş sonrasında yapabileceğiniz değişiklikler açıklanmaktadır.
 
 ### <a name="office-365-e3-subscription-configuration-and-data"></a>Office 365 E3 abonelik yapılandırması ve verileri
-Geçiş yapmadan önce geçerli aboneliğinizde veya verilerinizde herhangi bir değişiklik yapmanız gerekmez:
+Geçirmeden önce geçerli aboneliğinizde veya verilerinizde değişiklik yapmanız gerekmez, aşağıdakileri içerir:
 
 - DNS kayıtları ve etki alanı adları gibi abonelik yapılandırması.
-- Çok faktörlü kimlik doğrulama veya koşullu erişim ilkeleri gibi kullanıcı ve grup hesapları ve kimlik doğrulama ayarları.
-- Ekipler, Exchange Online posta kutuları, SharePoint Online siteleri, İş için OneDrive klasörleri ve OneNote not defterleri gibi üretkenlik hizmeti yapılandırmaları ve verileri.
-- Office uygulamaları otomatik olarak ölçeklendirilir. Office 365 modern lisanslama, kullanıcının lisans atamasını her 72 saatte bir denetler ve Office uygulamalarını kullanıcı aboneliğiyle eşleşen sürüme dönüştürür.
+- Kullanıcı ve grup hesapları ve çok faktörlü kimlik doğrulaması veya koşullu erişim ilkeleri gibi kimlik doğrulama ayarları.
+- Üretkenlik hizmeti yapılandırmaları ve takımlar, Exchange Online posta kutuları, SharePoint Online siteleri, OneDrive Iş klasörleri ve OneNote Not defterleri gibi verileri.
+- Office uygulamaları otomatik olarak ölçeklenir. Office 365 modern lisanslama, kullanıcının lisans atamasını her 72 saatte denetler ve Office uygulamalarını Kullanıcı aboneliğiyle eşleşen sürüme dönüştürür.
 
 ### <a name="windows-10"></a>Windows 10
 
-Windows'unuz Windows Pro Creator güncelleştirmesi kullanmıyorsa, [bunları Windows Pro Creators Update'e yükseltin.](upgrade-to-windows-pro-creators-update.md)
+Windows 'da Windows Pro Creator güncelleştirmesi yoksa, [bunları Windows Pro Creators Update 'e yükseltebilirsiniz](upgrade-to-windows-pro-creators-update.md).
 
-### <a name="set-up-policies-to-protect-user-devices-and-files"></a>Kullanıcı aygıtlarını ve dosyalarını korumak için ilkeler ayarlama
+### <a name="set-up-policies-to-protect-user-devices-and-files"></a>Kullanıcı aygıtlarını ve dosyalarını koruyacak ilkeler ayarlama
 
 > [!NOTE]
-> Office 365 MDM ilkeleri ve aygıtları ayarlarsanız, bu aygıtlar Microsoft 365 yönetici merkezindeki **Cihazlar** sayfasında listelenir. Ayarladığınız tüm [ilkeler, Intune portalındaki](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview)klasik ilkeler listesinde gösterecektir.
+> Office 365 MDM ilkeleri ve aygıtları ayarlıyorsanız, bu cihazlar Microsoft 365 yönetim merkezindeki **cihazlar** sayfasında listelenir. Ayarladığınız tüm ilkeler [Intune portalında](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview)klasik ilkeler listesinde görünür.
 
-Microsoft 365 Business Premium'a lisans lar atadıktan sonra, kullanıcıların aygıtlarını ve dosyalarını korumaya başlayabilirsiniz.
+Microsoft 365 Business Premium 'a lisans atadıktan sonra, kullanıcıların cihazlarını ve dosyalarını korumaya başlayabilirsiniz.
 
-Kuruluşunuzdaki herkesi Microsoft 365 Business Premium'a yükselttiyseniz, Ana Sayfada kurulum sihirbazını görürsünüz ve dosyaları ve mobil aygıtları korumak için [kurulum sihirbazı adımlarında Microsoft 365 Business Premium'u](set-up.md) ayarlayabilirsiniz.
+Kuruluşunuzdaki herkesi Microsoft 365 Business Premium 'a yükselttiyseniz, giriş sayfasında Kurulum Sihirbazı 'nı görürsünüz ve dosyaları ve mobil cihazları koruyan [Kurulum sihirbazındaki Microsoft 365 Business Premium](set-up.md) kurulumunu izleyebilir.
 
-Ayrıca Cihazlar sayfasında aşağıdaki adımları tamamlayabilirsiniz:
+Bu adımları aygıtlar sayfasında da tamamlayabilirsiniz:
   
-1. Yönetici merkezinde, sol navigasyonda Aygıt **Devices** \> **İlkeleri'ne**gidin.
+1. Yönetim merkezinde, sol gezintide, **cihazlar** \> **ilkeleri**'ne gidin.
     
-2. Aygıt **ilkeleri** sayfasında **Ekle'yi**seçin.
+2. **Cihaz ilkeleri** sayfasında **Ekle**'yi seçin.
     
-3. **İlke Ekle** bölmesinde ilke bir ad verin ve ardından açılan dan bir **İlke türü** seçin. 
+3. **Ilke Ekle** bölmesinde ilkeye bir ad verin ve açılan listeden bir **ilke türü** seçin. 
     
-     Android ve iPhone aygıtlarının yanı sıra Windows 10'daki dosyaları korumak için uygulama ilkeleri ayarlayabilir ve şirkete ait Windows 10 aygıtları için aygıt yapılandırma ilkeleri ayarlayabilirsiniz. Ayrıntılar için aşağıdaki bağlantılara bakın:
+     Windows 10 ' da Android ve iPhone cihazlarında dosyaları korumak için uygulama ilkelerini ayarlayabilir ve şirkete ait Windows 10 cihazlarında aygıt yapılandırma ilkelerini ayarlayabilirsiniz. Ayrıntılar için aşağıdaki bağlantılara bakın:
     
   - [Android veya iOS cihazlara yönelik uygulama koruma ayarlarını belirleme](app-protection-settings-for-android-and-ios.md)
     
   - [Windows 10 cihazlarına yönelik uygulama koruma ayarlarını belirleme](protection-settings-for-windows-10-devices.md)
     
-  - [Windows 10 bilgisayarların aygıt koruma ayarlarını ayarlama](protection-settings-for-windows-10-pcs.md)
+  - [Windows 10 bilgisayarlarında cihaz koruma ayarlarını ayarlama](protection-settings-for-windows-10-pcs.md)
   
-4. İlkeleri ayarladıktan sonra, siz ve çalışanlarınız aygıtlar ayarlayabilirsiniz:
+4. İlkeleri ayarladıktan sonra, siz ve çalışanlarınız cihazları ayarlayabilirsiniz:
     
-  - Bkz. Windows aygıtları için adımlar [için Microsoft 365 Business Premium kullanıcıları için Windows aygıtları ayarlayın.](set-up-windows-devices.md) 
+  - Windows aygıtlarının adımları için [Microsoft 365 Business Premium kullanıcıları Için Windows cihazlarını ayarlama](set-up-windows-devices.md) bölümüne bakın. 
     
-  - Bkz. Android telefonlar ve iPhone'lar için adımlar için [Microsoft 365 Business Premium kullanıcıları için mobil cihazlar ayarlama.](set-up-mobile-devices.md) 
+  - Android telefonlar ve IPhone adımları için [Microsoft 365 Business Premium kullanıcıları için mobil cihazları ayarlayın](set-up-mobile-devices.md) bölümüne bakın. 
+  
+### <a name="mailbox-size"></a>Posta kutusu boyutu
+
+Microsoft 365 Business Premium, Exchange Online Plan 1 kullandığı için 50 GB depolama sınırlamasına sahiptir. Microsoft 365 Business Premium 'a geçiş yaparken, kullanıcılarınız 50 GB 'lik posta kutusu deposunu aşıyorsa, bu kullanıcıyı bir Exchange Online Plan 2 ' ye atamanız ve her ikisini de atamak uygun olmadığı için Exchange Online Plan 1 ' i kaldırmanız önerilir.
+
 
 ### <a name="threat-protection"></a>Tehdit koruması
 
-Microsoft 365 Business Premium'a geçtikten sonra Office 365 ATP'niz var. Genel bakış için [Office 365 ATP'ye](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) bakın. Kurmak için, [ATP güvenli bağlantılar kurmak,](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa) [ATP güvenli ekleri kurmak](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)ve [ATP anti-phishing kurmak](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)bakın.
+Microsoft 365 Business Premium 'a geçtikten sonra, Office 365 ATP 'niz vardır. Genel bakış için [Office 365 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) 'ye bakın. Ayarlamak için, [ATP güvenli bağlantılarını ayarlayın](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa), [ATP güvenli EKLERINI ayarlayın](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)ve [ATP önleme önleyici bir şekilde ayarlayın](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c).
 
 ### <a name="sensitivity-labels"></a>Duyarlılık etiketleri
 
-Duyarlılık etiketleri kullanmaya başlamak için duyarlılık [etiketlerine genel bakış](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels) bölümüne bakın ve duyarlılık etiketleri videosu [oluşturun ve yönetin.](https://support.microsoft.com/office/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9)
+Duyarlılık etiketlerini kullanmaya başlamak için, [duyarlılık etiketlerine genel bakış](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels) ve [duyarlılık etiketleri oluşturma ve yönetme](https://support.microsoft.com/office/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9)

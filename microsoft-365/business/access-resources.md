@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Bir Azure Active Directory 'de Windows 10 aygıtından iş uygulamaları, dosya paylaşımları ve yazıcılar gibi şirket içi kaynaklara erişim almayı öğrenin.
-ms.openlocfilehash: 9b83781afee746b06bbdf90962de0f55ffbcb118
-ms.sourcegitcommit: 555d756c69ac9031d1fb928f2e1f9750beede066
+ms.openlocfilehash: 2144268f5cbab67c39d5902622c61c0c35e6481c
+ms.sourcegitcommit: 15be7822220041c25fc52565f1c64d252e442d89
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/29/2020
-ms.locfileid: "47307503"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48295320"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Microsoft 365 Business Premium 'da Azure AD ile birleştirilmiş cihazından şirket içi kaynaklara erişme
 
@@ -36,9 +36,6 @@ Azure Active Directory 'deki herhangi bir Windows 10 aygıtının, Microsoft 365
 
 Daha fazla bilgi edinmek için [Azure Active Directory 'de cihaz yönetimine giriş](https://docs.microsoft.com/azure/active-directory/device-management-introduction)konusuna bakın.
 Adımlar aşağıdaki bölümlerde de özetlenmiştir.
-
-> [!IMPORTANT]
-> Bu yordam yalnızca OAuth ve NTLM için geçerlidir. Kerberos desteklenmez.
  
 ## <a name="run-azure-ad-connect"></a>Azure AD Connect 'i çalıştırır
 
