@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: İşletmenizi Microsoft 365 Business Premium 'dan Microsoft 365 E3 'e taşımayı öğrenin.
-ms.openlocfilehash: fbd5c0710bffa92cfc17447094bb9b2683641d5f
-ms.sourcegitcommit: c083602dda3cdcb5b58cb8aa070d77019075f765
+ms.openlocfilehash: 874da0d35759c8af4c3ee2ca4a1bdfa90a91627c
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48195529"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842210"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Microsoft 365 Business Premium 'dan Microsoft 365 E3
 
@@ -40,7 +40,7 @@ Veya işiniz, kurumsal Microsoft 365 uygulamaları, Windows 10 Enterprise E3 vey
 Yükseltme işlemi kolaydır: yükseltmeye [Yönetim merkezinden](../commerce/subscriptions/upgrade-to-different-plan.md)başlayabilirsiniz. Geçerli aboneliğinizde tüm verileriniz ve yapılandırmanız korunur. Yeni özelliklerden yararlanmak dışında, Geçişe hazırlanmak için hiçbir şey olmuyor ve bundan sonra hiçbir şey olmuyor.
 
 >[!Note]
->300 oturun kadar Microsoft 365 Iş ekstra aboneliği de kullanabilir ve 300 bir E3 aboneliği için bir Microsoft 365 aboneliği edinebilirsiniz. Ancak, Office 365 ATP, Microsoft 365 E3. Devam eden tehdit koruması için, Office 365 ATP ilkelerinin kapsamındaki tüm kullanıcıların lisanslı olması için ek Office 365 ATP lisansları eklemelisiniz.
+>300 oturun kadar Microsoft 365 Iş ekstra aboneliği de kullanabilir ve 300 bir E3 aboneliği için bir Microsoft 365 aboneliği edinebilirsiniz. Ancak, Office 365 için Microsoft Defender, Microsoft 365 E3. Devam eden tehdit koruması için, Office 365 ilkeleriyle ilgili tüm kullanıcıların lisanslı olması için Office 365 lisansları için ek Defender 'ı eklemeniz gerekir.
 >
 
 ## <a name="differences-between-microsoft-365-business-premium-and-microsoft-365-enterprise"></a>Microsoft 365 Business Premium ve Microsoft 365 Enterprise arasındaki farklar
@@ -51,7 +51,7 @@ Bu tabloda, Microsoft 365 Business Premium ve Microsoft 365 E3 arasındaki farkl
 |:-------|:-----|:-----|
 | **Şirket içi**        | | | 
 | Windows 10    | Windows 10 Iş  |     Windows 10 Kurumsal E3| 
-| Office uygulamaları *    | [İş için Microsoft 365 uygulamaları](#office-365-business)    | Kurumlar için Microsoft 365 Uygulamaları | 
+| Office uygulamaları *    | [İş için Microsoft 365 uygulamaları](#office-365-business)    | Microsoft 365 Kurumsal Uygulamaları | 
 | **Bulut üretkenlik uygulamaları**        | | | 
 | Exchange Online ve Outlook    | posta kutusu başına 50 GB depolama alanı ve sınırsız Exchange Online arşivleme    | posta kutusu başına 100 GB depolama alanı ve sınırsız Exchange Online arşivleme | 
 | Teams    | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
@@ -60,12 +60,12 @@ Bu tabloda, Microsoft 365 Business Premium ve Microsoft 365 E3 arasındaki farkl
 | Outlook Customer Manager, MileIQ    | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | | 
 | **Tehdit koruması**        | | | 
 | Attack Surface azaltma özellikleri    | [Bu listeye bakın](#threat-protection) | Microsoft Edge için donanım tabanlı yalıtımın Kurumsal Yönetimi | 
-| Office 365 Gelişmiş tehdit koruması (ATP) plan 1 | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | Dahil değildir, ancak eklenebilir | 
+| Office 365 plan 1 için Defender | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | Dahil değildir, ancak eklenebilir | 
 | **Kimlik yönetimi**        | | | 
 | Karma Azure Active Directory (Azure AD) hesapları, Azure Multi-Factor Authentication (MFA) için self servis parola sıfırlama, koşullu erişim, şirket içi kimlikler için parola geri yazma|     ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
 | Bulut uygulama keşfi, Azure AD Connect durumu    |     | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-| Azure AD Office 365 uygulamaları çoklu oturum açma (SSO): Kullanıcı başına 10 uygulama (örneğin, Salesforce gibi Galeri SaaS uygulamaları) * | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-| Azure AD Premium 1 SSO: sınırsız (Azure AD uygulaması proxy 'Si ile şirket içi uygulamalar, self servis uygulaması tümleştirme şablonları kullanılarak Galeri dışı uygulamalar)    |     | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
+| Azure AD Office 365 uygulamaları tek Sign-On (SSO): Kullanıcı başına 10 uygulama (örneğin, Salesforce gibi Galeri SaaS uygulamaları) * | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
+| Azure AD Premium 1 SSO: sınırsız (Azure AD uygulaması proxy 'Si ile şirket içi uygulamalar, Self-Service uygulama tümleştirme şablonları kullanılarak Galeri dışı uygulamalar)    |     | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
 | **Cihaz ve uygulama yönetimi**        | | | 
 | Microsoft Intune, Windows Autopilot|     ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
 |Sanal masaüstü erişimi (VDA)    |  |     ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
@@ -129,7 +129,7 @@ Windows 10 Business bu korumaları içerir:
 Windows 10 Enterprise E3, Microsoft Edge için donanım tabanlı yalıtımın kurumsal yönetimini de içerir.
 
 >[!Note]
->Microsoft 365 E3 'e geçirilen kullanıcıların, devam eden tehdit koruması için bir Office 365 ATP lisansı gerekir. Office 365 ATP ilkelerinin kapsamındaki tüm kullanıcıların lisanslı olması için ek Office 365 ATP lisansları satın aldığınızdan emin olun. 
+>Microsoft 365 E3 'e geçirilen kullanıcıların, sürekli tehdit koruması için Office 365 için bir Microsoft Defender lisansı gerekir. Office 365 ilkeleriyle ilgili tüm kullanıcıların lisanslı olması için Office 365 lisansları için ek Defender 'ı satın aldığınızdan emin olun. 
 >
 
 ### <a name="device-management-with-intune"></a>Intune ile cihaz yönetimi

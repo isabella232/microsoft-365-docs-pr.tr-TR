@@ -1,6 +1,6 @@
 ---
-title: Microsoft 365 İş Ekstra sık sorulan sorular 
-description: Küçük ve orta ölçekli işletmeler (KOBİ) için tasarlanmış yeni bir çözüm olan Microsoft 365 İş hakkında en sık sorulan sorulara yanıtlar bulun. 
+title: Microsoft 365 İş Ekstra sık sorulan sorular
+description: Küçük ve orta ölçekli işletmeler (KOBİ) için tasarlanmış yeni bir çözüm olan Microsoft 365 İş hakkında en sık sorulan sorulara yanıtlar bulun.
 author: Sirkkuw
 f1.keywords:
 - NOCSH
@@ -10,15 +10,15 @@ ms.prod: microsoft-365-business
 ms.collection: M365-subscription-management
 ms.custom: AdminSurgePortfolio
 localization_priority: Normal
-audience: microsoft-business 
+audience: microsoft-business
 keywords: Microsoft 365 İş Ekstra, Microsoft 365, KOBİ, SSS, sık sorulan sorular, yanıtlar, iş
 ms.date: 07/21/2020
-ms.openlocfilehash: a8547240a2733a10730d0f8fb62fe8e8c7ef971c
-ms.sourcegitcommit: dffb9b72acd2e0bd286ff7e79c251e7ec6e8ecae
+ms.openlocfilehash: b117f0aecb76dc3b30a30e067c37328865eb0fdf
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "47948578"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842120"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Microsoft 365 İş Ekstra sık sorulan sorular
 
@@ -27,15 +27,15 @@ ms.locfileid: "47948578"
 ### <a name="what-is-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra nedir?
 Microsoft 365, küçük ve orta ölçekli işletmeler için sınıfının en iyisi üretkenlik araçlarını, güvenlik ve cihaz yönetimi özelliklerini bir araya getiren tümleşik bir çözümdür. İçindekiler:
 
-**İş üretkenliği ve işbirliği araçları kümesi**:
+**İş üretkenliği ve işbirliği araçları kümesi** :
 
 - Word, Excel, PowerPoint, Outlook, OneNote, Publisher ve Access
 - Exchange, OneDrive, Skype Kurumsal, Microsoft Teams ve SharePoint.
 - Office’teki iş uygulamaları (Bookings, MileIQ<sup>[1](#footnote1)</sup>).
 
-**Kurumsal sınıf cihaz yönetimi ve güvenlik özellikleri**:
+**Kurumsal sınıf cihaz yönetimi ve güvenlik özellikleri** :
 
-- Office 365 Gelişmiş tehdit koruması planı 1 ve Microsoft Defender Exploit Guard ile sızdırma ve gelişmiş kötü amaçlı yazılım gibi dış tehditlerden korunma sağlamaya yardımcı olur.
+- Office 365 plan 1 ve Microsoft Defender Exploit Guard için Microsoft Defender ile sızdırma ve gelişmiş kötü amaçlı yazılım gibi dış tehditlerden korunma sağlamaya yardımcı olur.
 - Veri kaybını önleme ilkeleri ve Azure Information Protection Plan 1 ile hassas bilgilere nasıl erişileceğini ve bu bilgilerin nasıl aktarılacağını denetlemeye ve yönetmeye yardımcı olur.
 - Exchange Online Arşivleme ile verilerinizi korumanıza, saklamanıza ve yedeklemenize yardımcı olur.
 - Intune Uygulama Koruma ile Office ve diğer mobil uygulamalar için uygulama koruması.
@@ -43,14 +43,14 @@ Microsoft 365, küçük ve orta ölçekli işletmeler için sınıfının en iyi
 - Çok faktörlü kimlik doğrulama, kendi kendine parola sıfırlama ve koşullu erişim ile kimlik koruması.
 - Cihazlar &mdash; genelinde şirket verilerinin korunması arasında tutarlı güvenlik yapılandırması; Her zaman açık ve güncel olan Microsoft Defender virüsten koruma.
 
-**Basitleştirilmiş cihaz dağıtımı ve Kullanıcı Kurulumu**:
+**Basitleştirilmiş cihaz dağıtımı ve Kullanıcı Kurulumu** :
 
 - Kullanıcıları ve cihazları ayarlamak ve yönetmek için tek yönetici konsolu
 - Windows 10 bilgisayarlarda Office uygulamalarını otomatik yükleme.
 - Her zaman güncel Office + Windows 10.
 - Windows AutoPilot ile bilgisayarların kolay dağıtımı.
 
-**Diğer hak edişleri**:
+**Diğer hak edişleri** :
 
 - Microsoft 365 İş Ekstra müşterilerinin Windows Sanal Masaüstü ve Office Paylaşılan Bilgisayar Etkinleştirmesi özelliklerine de erişimi vardır. Daha fazla bilgi edinmek için [Microsoft 365 İş Ekstra bloğunu](https://techcommunity.microsoft.com/t5/Microsoft-365-Business-Blog/bg-p/Microsoft365BusinessBlog) okuyun. Ayrıca [Microsoft 365 İş hizmet açıklaması](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) makalesine bakın.
 
@@ -110,7 +110,7 @@ Birçok çalışan, her bir amaç için birden çok cihaz taşımak yerine kişi
 
 Microsoft 365 İş Ekstra, çalışanların kendi kişisel cihazlarını iş için kullanmalarına olanak tanırken işletmenin bu cihazların iş bilgilerine erişmesini, bu bilgileri saklamasını ve/veya paylaşmasını önlemesini sağlayarak müşterilere basit ama güçlü araçlar sunar. Özellikle:
 
-- **Office mobil uygulamaları için Uygulama Koruması**, hizmete önceden belirlenmiş bir süre boyunca bağlanmadıktan sonra iş verilerini otomatik olarak silme gibi ilkeleri zorlayarak, bilgilerin yalnızca OneDrive İş’te depolanmasını gerektirerek, Office uygulamalarına erişmek için PIN/parmak izi doğrulaması gerektirerek ve şirket verilerinin bir Office uygulamasından kişisel uygulamalara kopyalanmasını önleyerek iOS ve Android mobil cihazlarındaki e-posta, takvim, kişiler ve belgeler gibi Office verilerini korumaya yardımcı olur. Intune yoluyla diğer mobil uygulamalar için mobil uygulama yönetimi, Microsoft 365 İş Ekstra aboneleri için de kullanılabilir.
+- **Office mobil uygulamaları için Uygulama Koruması** , hizmete önceden belirlenmiş bir süre boyunca bağlanmadıktan sonra iş verilerini otomatik olarak silme gibi ilkeleri zorlayarak, bilgilerin yalnızca OneDrive İş’te depolanmasını gerektirerek, Office uygulamalarına erişmek için PIN/parmak izi doğrulaması gerektirerek ve şirket verilerinin bir Office uygulamasından kişisel uygulamalara kopyalanmasını önleyerek iOS ve Android mobil cihazlarındaki e-posta, takvim, kişiler ve belgeler gibi Office verilerini korumaya yardımcı olur. Intune yoluyla diğer mobil uygulamalar için mobil uygulama yönetimi, Microsoft 365 İş Ekstra aboneleri için de kullanılabilir.
 
 - **Windows 10 PC 'ler Için aygıt yönetimi** , işletmelerin kötü amaçlı yazılımlar, otomatik güncelleştirmeler Için Microsoft Defender virüsten koruma koruması ve otomatik güncelleştirmeler gibi özellikleri ayarlamayı ve zorunlu kılabilir Ayrıca, kayıp veya çalıntı Windows 10 cihazlarından yönetim merkezi yoluyla iş uygulamaları ve verileri tamamen silinebilir.
 
@@ -126,11 +126,11 @@ Windows 10 Business Ayrıca yeni bir izinsiz erişim önleme özelliği içeren 
 
 Microsoft’un küçük ila orta ölçekli müşterilerin masaüstlerini ve cihaz altyapılarını yükseltirken değerlendirebilecekleri, her biri güçlü özellikler ve işlevsellik getiren çeşitli üretkenlik ve güvenlik yönetimi teklifleri vardır.
 
-**Microsoft 365 İş Standart**, Office 365 uygulamaları ve hizmetleriyle sınıfının en iyisi üretkenliği sunar, ancak Microsoft 365 İş Ekstra’nın uygulama koruması ve cihaz yönetimi özelliklerini içermez.
+**Microsoft 365 İş Standart** , Office 365 uygulamaları ve hizmetleriyle sınıfının en iyisi üretkenliği sunar, ancak Microsoft 365 İş Ekstra’nın uygulama koruması ve cihaz yönetimi özelliklerini içermez.
 
-**Microsoft 365 İş Ekstra**, işletmenizin gelişmiş siber tehditlere karşı korunmasına yardımcı olmak, verilerinizi korumak ve cihazlarınızı yönetmek için gelişmiş güvenlik özellikleriyle Office 365 uygulamalarını ve hizmetlerini birleştirir. Cihaz ve veri ilkelerinin yönetilebileceği basitleştirilmiş bir yönetim konsolu içerir. Çoğu küçük-orta ölçekli işletme, Microsoft 365 İş Ekstra ile en iyi şekilde hizmet alabilir.
+**Microsoft 365 İş Ekstra** , işletmenizin gelişmiş siber tehditlere karşı korunmasına yardımcı olmak, verilerinizi korumak ve cihazlarınızı yönetmek için gelişmiş güvenlik özellikleriyle Office 365 uygulamalarını ve hizmetlerini birleştirir. Cihaz ve veri ilkelerinin yönetilebileceği basitleştirilmiş bir yönetim konsolu içerir. Çoğu küçük-orta ölçekli işletme, Microsoft 365 İş Ekstra ile en iyi şekilde hizmet alabilir.
 
-**Microsoft 365 Kurumsal**, Microsoft 365 İş Ekstra üzerinden artırılmış uyumluluk ve güvenlik yönetimi düzeyleri sunan bir lisans planları kümesidir ve kurumsal müşteriler ile 300’ü aşkın kullanıcıya sahip müşteriler için tasarlanmıştır. Ayrıca, Microsoft 365 Kurumsal planları, iş zekası ve analiz araçları içeren ek işlevler sağlar.
+**Microsoft 365 Kurumsal** , Microsoft 365 İş Ekstra üzerinden artırılmış uyumluluk ve güvenlik yönetimi düzeyleri sunan bir lisans planları kümesidir ve kurumsal müşteriler ile 300’ü aşkın kullanıcıya sahip müşteriler için tasarlanmıştır. Ayrıca, Microsoft 365 Kurumsal planları, iş zekası ve analiz araçları içeren ek işlevler sağlar.
 
 ### <a name="can-i-switch-my-office-365-plan-to-microsoft-365-business-premium"></a>Office 365 planımı Microsoft 365 İş Ekstra’ya geçirebilir miyim?
 
@@ -156,7 +156,7 @@ Başarılı bir Microsoft 365 İş Ekstra dağıtımına giden en doğrudan yol,
 
 ### <a name="does-microsoft-365-business-premium-include-the-full-capabilities-of-microsoft-intune"></a>Microsoft 365 İş Ekstra, Microsoft Intune’un tüm özelliklerini içeriyor mu?
 
-Evet, Microsoft 365 Business Premium aboneleri iOS, Android, macOS ve diğer platformlar arası cihaz yönetimi için tam Intune özelliklerini kullanacak lisanslıdır. Microsoft 365 Iş ekstra 'da, üçüncü taraf uygulama yönetimi, Wi-Fi profillerinin yapılandırması ve VPN sertifikaları gibi basitleştirilmiş yönetim konsolunda kullanılamayan özellikler, tam Intune konsolunda yönetilebilir.
+Evet, Microsoft 365 Business Premium aboneleri iOS, Android, macOS ve diğer platformlar arası cihaz yönetimi için tam Intune özelliklerini kullanacak lisanslıdır. Microsoft 365 Iş ekstra 'da, üçüncü taraf uygulama yönetimi, Wi-Fi profilleri ve VPN sertifikaları yapılandırması gibi basitleştirilmiş yönetim konsolunda kullanılamayan özellikler, tam Intune konsolunda yönetilebilir.
 
 ### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business-premium"></a>Azure Active Directory (Azure AD) Premium P1, Microsoft 365 Iş ekstra ile birlikte geliyor mu?
 
@@ -180,9 +180,9 @@ Microsoft 365 İş Standart’a eklenebilen tüm eklentiler Microsoft 365 İş E
 
 Evet, Iş için bir ses aboneliği satın alabilirsiniz. [Iş sesi](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice) , telefon sistemi, sesli konferans, yurtiçi çağrı planı ve daha fazlası sunan 300 kullanıcıya sahip küçük ve orta ölçekli işletmeler için tasarlanmış bir telefon çözümüdür. Sesli mesaj, arayan KIMLIĞI, çağrı Park, çağrı yönlendirme, otomatik zayıfladığında ve arama kuyrukları içeren telefon sistemi özellikleri. <br> Iş sesinizi ülkenizde veya bölgenizde kullanılabilir olup olmadığını öğrenmek için, [Iş sesi Için ülke ve bölge uygunluk](https://docs.microsoft.com/microsoftteams/business-voice/country-region-availability)bölümüne bakın. [Fiyatlandırma bilgileri için bkz.](https://go.microsoft.com/fwlink/?linkid=2127221)
 
-### <a name="can-microsoft-365-business-premium-customers-use--microsoft-defender-advanced-threat-protection"></a>Microsoft 365 Business Premium müşterileri Microsoft Defender Gelişmiş tehdit korumasını kullanabilir mi?
+### <a name="can-microsoft-365-business-premium-customers-use-microsoft-defender-for-endpoint"></a>Microsoft 365 Business Premium müşterileri Microsoft Defender 'ı uç nokta için kullanıyor mu?
 
-Evet, Microsoft Defender Gelişmiş tehdit koruması Microsoft [bulut çözüm sağlayıcısından](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)satın alındığında Microsoft 365 İş Ekstra eklentisi olarak sunulmaktadır.
+Evet, son nokta için Microsoft Defender, Microsoft [bulut çözüm sağlayıcısından](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)satın alındığında Microsoft 365 İş Ekstra eklentisi olarak kullanılabilir.
 
 ## <a name="partner-opportunity"></a>İş ortağı fırsatı
 
@@ -224,7 +224,7 @@ Microsoft 365 İş Ekstra, Windows’un orijinal olmayan sürümlerini orijinal 
 
 ### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-premium-help-customers-with-their-compliance-obligations"></a>GDPR nedir ve Microsoft 365 İş Ekstra uyumluluk yükümlülükleri ile müşterilere nasıl yardımcı olur?
 
-Genel Veri Koruma Yönetmeliği (GDPR), Avrupa Birliği’nde (AB) ikamet edenlere "kişisel verileri" üzerinde daha fazla denetim veren ve kuruluşların bu kişisel verilerin bütünlüğünü korumasını gerektiren yeni ve kapsamlı bir gizlilik yasasıdır. GDPR, AB’de ikamet edenlere bağlı kişisel verileri denetleyen veya işleyen kuruluşların yalnızca GDPR’nin kişisel veri işleme gereksinimlerini karşılayan üçüncü taraf veri işleyicilerini kullanmalarını gerektirir.  Mart 2017’de, Microsoft bu güvenceleri sağlayan sözleşme garantilerini kullanılabilir hale getirdi. Microsoft’un kendilerinin ek GDPR yükümlülüklerini karşılamaya nasıl yardım edebileceği ile ilgili soruları olan müşteriler, Microsoft 365 İş Ekstra’da (örneğin, Azure Information Protection, veri kaybı önleme, Gelişmiş Tehdit Koruması vb.) ve diğer paketlerde (örneğin, Microsoft 365 Kurumsal E5) bulunan gelişmiş uyumluluk ve güvenlik özellikleriyle ilgili bilgi edinmelidir. Daha fazla bilgi için [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr) adresine gidin.
+Genel Veri Koruma Yönetmeliği (GDPR), Avrupa Birliği’nde (AB) ikamet edenlere "kişisel verileri" üzerinde daha fazla denetim veren ve kuruluşların bu kişisel verilerin bütünlüğünü korumasını gerektiren yeni ve kapsamlı bir gizlilik yasasıdır. GDPR, AB’de ikamet edenlere bağlı kişisel verileri denetleyen veya işleyen kuruluşların yalnızca GDPR’nin kişisel veri işleme gereksinimlerini karşılayan üçüncü taraf veri işleyicilerini kullanmalarını gerektirir.  Mart 2017’de, Microsoft bu güvenceleri sağlayan sözleşme garantilerini kullanılabilir hale getirdi. Microsoft 'un ek GDPR yükümlülüklerine uyması hakkında sorular bulunan müşteriler, Microsoft 365 Business Premium (örneğin, Azure Information Protection, veri kaybı önleme, Office 365 için Defender vb.) ve diğer paketlerinizde (örneğin, Microsoft 365 Kurumsal E5) sağlanan gelişmiş uyumluluk ve güvenlik özelliklerini öğrenmelidir. Daha fazla bilgi için [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr) adresine gidin.
 
 ## <a name="footnotes"></a>Dipnotlar
 

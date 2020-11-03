@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Business Premium için tehdit koruması artırın
+title: Microsoft 365 Business Premium için tehdit korumasını arttırın
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -21,57 +21,57 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Veri kaybını önlemek ve sizin ve müşterilerinizin hassas bilgilerinin güvenliğini sağlamaya yardımcı olmak için uyumluluk özellikleri ayarlayın.
-ms.openlocfilehash: 18886ff3a0ba5e99e63c70ef083d7a69c75bac91
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+description: Veri kaybını önlemek ve müşterilerinizin hassas bilgilerinin güvenliğini sağlamak için uyumluluk özelliklerini ayarlayın.
+ms.openlocfilehash: 2c95ad3f36df28af2c68cd11192bcfe92dfe29e3
+ms.sourcegitcommit: e56894917d2aae05705c3b9447388d10e2156183
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44785842"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48841183"
 ---
 # <a name="set-up-compliance-features"></a>Uyumluluk özelliklerini ayarlama
 
-Microsoft 365 Business Premium'unuz, verilerinizi ve cihazlarınızı koruyan ve sizin ve müşterilerinizin hassas bilgilerini güvende tutmanıza yardımcı olacak özelliklerle birlikte gelir.
+Microsoft 365 Iş ekstra, verilerinizi ve aygıtlarınızı korumaya yönelik özelliklerle birlikte gelir ve müşterilerinizin hassas bilgilerini güvende tutmanıza yardımcı olur.
 
 ## <a name="set-up-dlp-features"></a>DLP özelliklerini ayarlama
 
-Bkz. Kişisel olarak tanımlanabilir bilgilere (PII) karşı korumak için bir ilke oluşturma hakkında bir örnek için şablondan Bir [DLP ilkesi oluşturun.](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template) 
+Kişisel verilerin kaybolmasını önlemek amacıyla ilke ayarlama hakkında örnek için bir [ŞABLONDAN DLP Ilkesi oluşturma](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template) konusuna bakın. 
   
-DLP, birçok farklı yerel bölge için kullanıma hazır ilke şablonlarıyla birlikte gelir. Örneğin, Avustralya Finansal Verileri, Kanada Kişisel Bilgiler Yasası, ABD Finansal Verileri ve benzeri. Tam liste için [DLP ilkesi şablonlarının neler içerdiğini](https://docs.microsoft.com/microsoft-365/compliance/what-the-dlp-policy-templates-include) görün. Bu şablonların tümü, KIŞISEL bilgiler şablonu örneğine benzer şekilde etkinleştirilebilir. 
+DLP, birçok farklı yerel ayar için kullanıma hazır birçok ilke şablonlarıyla gelir. Örneğin, Avustralya finansal verileri, Kanada kişisel bilgileri, ABD finansal verileri vb. Tam liste için [DLP ilkesi şablonlarının neler olduğunu](https://docs.microsoft.com/microsoft-365/compliance/what-the-dlp-policy-templates-include) görün. Bu şablonların tümü, PII şablon örneğine benzer şekilde etkinleştirilebilir. 
   
-## <a name="set-up-email-retention-with-exchange-online-archiving"></a>Exchange Online Arşivleme ile e-posta saklama yı ayarlama
+## <a name="set-up-email-retention-with-exchange-online-archiving"></a>Exchange Online Arşivleme ile e-posta bekletmesini ayarlama
 
- **Exchange Online Arşivleme** lisansı özellikleri, e-posta içeriğini eDiscovery için koruyarak uyumluluk ve mevzuat standartlarını korumaya yardımcı olur. Ayrıca, bir dava varsa riskinizi azaltmaya yardımcı olur ve bir güvenlik ihlalinden sonra veya silinen öğeleri kurtarmanız gerektiğinde verileri kurtarmanın bir yolunu sağlar. Bir kullanıcının tüm içeriğini korumak için dava tutma yı kullanabilir veya korumak istediğiniz şeyi özelleştirmek için bekletme ilkelerini kullanabilirsiniz.
+ **Exchange Online arşivleme** lisansı özellikleri, eBulma için e-posta içeriğini koruyarak uyumluluk ve mevzuat standartlarını korumanıza yardımcı olur. Ayrıca, bir avda olması durumunda riskin azaltılmasına yardımcı olur ve bir güvenlik ihlalinin ardından silinmiş öğeleri kurtarmanız gerektiğinde verilerin kurtarılması için bir yol sağlar. Bir kullanıcının içeriğinin tümünü korumak veya korumak istediğiniz öğeyi özelleştirmek için bekletme ilkeleri 'ni kullanabilirsiniz.
   
-**Dava tutma:** Bir kullanıcının tüm posta kutusunu dava beklemeye alarak silinen öğeler de dahil olmak üzere tüm posta kutusu içeriğini koruyabilirsiniz. 
+Dava **tutma:** Bir kullanıcının tüm posta kutusunu dava tutma ile birlikte bırakarak silinmiş öğeler dahil tüm posta kutusu içeriğini koruyabilirsiniz. 
     
-Yönetici merkezinde, dava beklemeye bir posta kutusu yerleştirmek için:
+Posta kutusunu, bir posta kutusu
     
-1. Sol navigasyonda, **Users** \> **Active kullanıcılarına**gidin.
+1. Sol gezintide, **Kullanıcılar** \> **etkin kullanıcılarına** gidin.
     
-2. Dava beklemeye almak istediğiniz posta kutusunu seçin. Kullanıcı **bölmesinde, Posta ayarlarını**genişletin ve **Daha Fazla ayar'ın**yanında **Exchange özelliklerini edit'i**seçin.
+2. Posta kutusunu basılı tutma için yerleştirmek istediğiniz kullanıcıyı seçin. Kullanıcı bölmesinde **posta ayarlarını** genişletin ve **daha fazla ayar** 'Nın yanında **Exchange özelliklerini Düzenle** 'yi seçin.
     
-3. Kullanıcı için posta kutusu sayfasında, sol daki ** posta kutusu özelliklerini seçin ve ardından **Dava bekletme**altında **Etkinleştir** bağlantısını seçin.
+3. Kullanıcının posta kutusu sayfasında, sol gezinti bölmesinde * * posta kutusu özellikleri * * seçeneğini belirleyin ve sonra da bir bağlantı altında **saklama** bağlantısını **Etkinleştir** 'i seçin.
     
-4. Dava **tutma** iletişim kutusunda, **Dava tutma süresi** alanında dava tutma süresini belirtebilirsiniz. Sonsuz bir tutma yerleştirmek istiyorsanız alanı boş bırakın. Ayrıca notlar ekleyebilir ve posta kutusu sahibini dava tutma hakkında daha fazla açıklama nız gerekebilecek bir web sitesine yönlendirebilirsiniz. \>**Kaydet.**
+4. **Katmanlama bekletme** iletişim kutusunda, dava tutma **süresi** alanında dava tutma süresini belirtebilirsiniz. Sonsuz bir bekletme yerleştirmek istiyorsanız alanı boş bırakın. Ayrıca not ekleyebilir ve posta kutusu sahibini bir Web sitesine yönlendirebilirsiniz, bir dava alma hakkında daha fazla bilgi edinebilirsiniz. \>**Kaydetme**.
     
-**Bekletme:** Örneğin, belirli bir süre için korumak veya bekletme döneminin sonunda içeriği kalıcı olarak silmek için özelleştirilmiş bekletme ilkelerini etkinleştirebilirsiniz. Daha fazla bilgi için [bkz.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+**Bekletme:** Özel bekletme ilkelerini, örneğin belirli bir süre boyunca korumak veya saklama döneminin sonunda içeriği kalıcı olarak silmek için etkinleştirebilirsiniz. Daha fazla bilgi edinmek için [bekletme Ilkelerine genel bakış](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)konusuna bakın.
 
 ## <a name="set-up-sensitivity-labels"></a>Duyarlılık etiketlerini ayarlama
 
-Duyarlılık etiketleri Azure Bilgi Koruması (AIP) Planı 1 ile birlikte gelir ve etiketler uygulayarak belgelerinizi ve e-postalarınızı sınıflandırmanıza ve isteğe bağlı olarak korumanıza yardımcı olur. Etiketler, kuralları ve koşulları tanımlayan yöneticiler tarafından, kullanıcılar tarafından el ile veya kullanıcılara önerilerin verildiği bir kombinasyon kullanılarak otomatik olarak uygulanabilir.
+Duyarlılık etiketleri Azure bilgi koruması (AıP) plan 1 ile gelir ve etiket uygulayarak belgelerinizi ve e-postalarınızı sınıflandırmanıza ve isteğe bağlı olarak korumaya yardımcı olur. Etiketler, kuralları ve koşulları tanımlayan ve kullanıcılar tarafından el ile veya kullanıcıların öneri verdiği bileşimi kullanarak otomatik olarak uygulanabilir.
 
-Duyarlılık etiketleri ayarlamak [için, duyarlılık etiketleri videosu oluşturma ve yönetme](https://support.microsoft.com/office/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) yi görüntüleyin.
+Duyarlılık etiketlerini ayarlamak için, [duyarlılık etiketleri oluşturma ve yönetme](https://support.microsoft.com/office/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) videosu.
 
 
 
-### <a name="install-the-azure-information-protection-client-manually"></a>Azure Bilgi Koruması istemcisini el ile yükleme
+### <a name="install-the-azure-information-protection-client-manually"></a>Azure bilgi Koruması istemcisini el ile yükleme
 
-AIP istemcisini el ile yüklemek için:
+AıP istemcisini el ile yüklemek için:
 
-1. [Microsoft indirme merkezinden](https://www.microsoft.com/download/details.aspx?id=53018) **AzinfoProtection_UL.exe** indirin.
+1. [Microsoft İndirme merkezinden](https://www.microsoft.com/download/details.aspx?id=53018) **AzinfoProtection_UL.exe** indirin.
  
-2. Yüklemenin bir Word belgesini görüntüleyerek ve **Duyarlılık** seçeneğinin **Giriş** sekmesinde kullanılabilir olduğundan emin olarak çalıştığını doğrulayabilirsiniz.
+2. Bir Word belgesini görüntüleyerek ve **giriş** sekmesinde **duyarlılık** seçeneğinin kullanılabilir olduğundan emin olmak için yüklemenin çalıştığını doğrulayabilirsiniz.
 <br/>![Word belgesinde koruma sekmesi açılır.](../media/word-sensitivity.png)
 
-Daha fazla bilgi için [bkz.](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3)
+Daha fazla bilgi için bkz [.](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3)

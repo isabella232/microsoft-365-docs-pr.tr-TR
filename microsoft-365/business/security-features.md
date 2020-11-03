@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: PC, telefon ve tabletlerde verilerinizi korumaya yardımcı olmak için Microsoft 365 Business Premium ile sağlanan güvenlik özellikleri hakkında bilgi edinin.
-ms.openlocfilehash: 5e16d4bf297d363b6f9b44ce854c857e7e5464ed
-ms.sourcegitcommit: 9ce9001aa41172152458da27c1c52825355f426d
+ms.openlocfilehash: 587d80c27f867a387c901d23f4ec05f3c5905bf6
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47357328"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48843498"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Microsoft 365 Business Premium güvenlik ve uyumluluk özellikleri
 
@@ -63,9 +63,9 @@ Yönetim merkezinde Microsoft 365 Iş ekstra güvenlik özelliklerinin çoğunu,
 
 Microsoft 365 Business Premium 'daki gelişmiş özellikler, işletmenizi sanal tehditlere karşı korumaya yardımcı olmak ve hassas bilgileri korumak için kullanılabilir.
   
-- **[Office 365 Gelişmiş tehdit koruması](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)**
+- **[Office için Microsoft Defender 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)**
     
-    Gelişmiş tehdit koruması (ATP), iş veya müşteri bilgilerini tehlikeye atabilir şekilde tasarlanan gelişmiş kimlik avı ve fidye yazılımı saldırılarına karşı işinizi korumaya yardımcı olur. Özellikler şunlardır:
+    Office 365 için Microsoft Defender, iş veya müşteri bilgilerini tehlikeye atabilir Özellikler şunlardır:
     
   - Tehlikeli iletileri algılayıp atmak için gelişmiş ek taraması ve AI destekli çözümleme.
     
@@ -106,7 +106,7 @@ Microsoft 365 Business Premium aboneliğiniz, uyumluluk ve mevzuat standartları
     
 - **[Duyarlılık etiketleri](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)**
 
-   Microsoft 365 Iş ekstra, [Azure Information Protection Plan 1](https://go.microsoft.com/fwlink/p/?linkid=871407)' in tüm özelliklerini içerir. Bu planla, e-posta ve belgelerdeki hassas bilgilere erişimi denetlemenize olanak tanıyan **duyarlılık etiketleri** oluşturabilirsiniz; "iletme" ve "kopyalama yapma" gibi denetimler. Ayrıca hassas bilgileri "gizli" olarak sınıflayabilir ve sınıflandırılmış bilgilerin iş dışından nasıl paylaşılacağını belirtebilirsiniz. Kurumsal düzeyde şifreleme, bilgilerinizi özel tutmak için e-posta ve belgelere uygulamak kolaydır. Office uygulamaları için Azure Information Protection istemci eklentisini de yükleyebilirsiniz. Daha fazla bilgi için bkz [.](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) Duyarlılık etiketleri için **AzInfoProtection_UL.exe**yükleyin.
+   Microsoft 365 Iş ekstra, [Azure Information Protection Plan 1](https://go.microsoft.com/fwlink/p/?linkid=871407)' in tüm özelliklerini içerir. Bu planla, e-posta ve belgelerdeki hassas bilgilere erişimi denetlemenize olanak tanıyan **duyarlılık etiketleri** oluşturabilirsiniz; "iletme" ve "kopyalama yapma" gibi denetimler. Ayrıca hassas bilgileri "gizli" olarak sınıflayabilir ve sınıflandırılmış bilgilerin iş dışından nasıl paylaşılacağını belirtebilirsiniz. Kurumsal düzeyde şifreleme, bilgilerinizi özel tutmak için e-posta ve belgelere uygulamak kolaydır. Office uygulamaları için Azure Information Protection istemci eklentisini de yükleyebilirsiniz. Daha fazla bilgi için bkz [.](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) Duyarlılık etiketleri için **AzInfoProtection_UL.exe** yükleyin.
 
 Bu özellikleri Güvenlik &amp; Uyumluluk Merkezi 'nde ve Intune yönetim merkezinde yönetebilirsiniz. Zaman içinde, Basitleştirilmiş denetimler Microsoft 365 yönetim merkezine eklenir.
   

@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: İşinizi Office 365 E3 'den Microsoft 365 Business Premium 'a taşımayı öğrenin.
-ms.openlocfilehash: f3f3894a2a5cb69f9f91825d89db4f4b857fac5c
-ms.sourcegitcommit: 15be7822220041c25fc52565f1c64d252e442d89
+ms.openlocfilehash: b8aa58f1f050ec6247479ed02e142507a2df45fc
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48295300"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842170"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Office 365 E3 'den Microsoft 365 Business Premium 'a geçme 
 
@@ -42,7 +42,7 @@ Bu tabloda, Microsoft 365 Business Premium ve Office 365 E3 arasındaki farklıl
 | Özellik    | Microsoft 365 Business Premium 'da destek    | Office 365 E3 | 
 |:-------|:-----|:-----|
 | **Şirket içi**        | | | 
-| Office uygulamaları<sup>1</sup>    | İş için Microsoft 365 uygulamaları    | Kurumlar için Microsoft 365 Uygulamaları | 
+| Office uygulamaları<sup>1</sup>    | İş için Microsoft 365 uygulamaları    | Microsoft 365 Kurumsal Uygulamaları | 
 | **Bulut üretkenlik uygulamaları**        | | | 
 | Exchange Online ve Outlook    | posta kutusu başına 50 GB depolama alanı ve sınırsız Exchange Online arşivleme    | posta kutusu başına 100 GB depolama alanı ve sınırsız Exchange Online arşivleme | 
 | Teams    | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | ![Office 365 E3 ile birlikte](../media/check-mark.png) | 
@@ -51,7 +51,7 @@ Bu tabloda, Microsoft 365 Business Premium ve Office 365 E3 arasındaki farklıl
 | StaffHub    | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | ![Office 365 E3 ile birlikte](../media/check-mark.png) | 
 | Outlook Customer Manager, MileIQ    | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | | 
 | **Tehdit koruması**        | | | 
-| Office 365 Gelişmiş tehdit koruması (ATP) plan 1 | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | Dahil değildir, ancak eklenebilir | 
+| Office 365 plan 1 için Defender | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | Dahil değildir, ancak eklenebilir | 
 | **Kimlik yönetimi**        | | | 
 | Karma Azure Active Directory (Azure AD) hesapları, Azure Multi-Factor Authentication (MFA) için self servis parola sıfırlama, koşullu erişim, şirket içi kimlikler için parola geri yazma|     ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    |  | 
 | **Cihaz ve uygulama yönetimi**        | | |
@@ -95,9 +95,9 @@ Kuruluşunuzdaki herkesi Microsoft 365 Business Premium 'a yükselttiyseniz, gir
 
 Bu adımları aygıtlar sayfasında da tamamlayabilirsiniz:
   
-1. Yönetim merkezinde, sol gezintide, **cihazlar** \> **ilkeleri**'ne gidin.
+1. Yönetim merkezinde, sol gezintide, **cihazlar** \> **ilkeleri** 'ne gidin.
     
-2. **Cihaz ilkeleri** sayfasında **Ekle**'yi seçin.
+2. **Cihaz ilkeleri** sayfasında **Ekle** 'yi seçin.
     
 3. **Ilke Ekle** bölmesinde ilkeye bir ad verin ve açılan listeden bir **ilke türü** seçin. 
     
@@ -122,7 +122,7 @@ Microsoft 365 Business Premium, Exchange Online Plan 1 kullandığı için 50 GB
 
 ### <a name="threat-protection"></a>Tehdit koruması
 
-Microsoft 365 Business Premium 'a geçtikten sonra, Office 365 ATP 'niz vardır. Genel bakış için [Office 365 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) 'ye bakın. Ayarlamak için, [ATP güvenli bağlantılarını ayarlayın](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa), [ATP güvenli EKLERINI ayarlayın](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)ve [ATP önleme önleyici bir şekilde ayarlayın](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c).
+Microsoft 365 Business Premium 'a geçtikten sonra, Office 365 için Defender 'ınız vardır. Genel bakış için [Office 365 Için Microsoft Defender](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) 'a bakın. Ayarlamak için, [Office 365 Için](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c) [güvenli bağlantıları ayarlama](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa), [güvenli ekleri ayarlama](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)ve Office.
 
 ### <a name="sensitivity-labels"></a>Duyarlılık etiketleri
 
