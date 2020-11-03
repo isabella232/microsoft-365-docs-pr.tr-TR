@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Office üretkenlik uygulamalarını ve işletmeniz için sanal tehlikelere karşı gelişmiş korumayı içeren bir abonelik hizmeti olan Microsoft 365 İş Ekstra hakkında bilgi edinin.
-ms.openlocfilehash: 50b1fec21593bd22577e07e000cedb89dfd90f66
-ms.sourcegitcommit: f7566dd6010744c72684efdc37f4471672330b61
+ms.openlocfilehash: e67ae036bf3ce7811f19c8745838bb51dde073ea
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138238"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842190"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra’ya Genel Bakış
 
@@ -71,11 +71,11 @@ Microsoft 365 İş Ekstra, bu örneklerin her birinde verilerinizin korunmasına
 
 Microsoft 365 İş Ekstra, tehditlere karşı şu şekilde **koruma** sağlar:
 
-- Güvenli olmayan web sitelerini engellemek için e-posta ve belgelerdeki bağlantıları gerçek zamanlı olarak tarama (ATP Güvenli Bağlantılar).
+- Güvenli olmayan web sitelerini engellemek için e-posta ve belgelerdeki bağlantıları gerçek zamanlı olarak tarama ( Güvenli Bağlantılar).
 
-- Yeni geliştirilmiş kötü amaçlı yazılımları saptamak için korumalı bir ortamda e-posta eklerinin gelişmiş analizini yapma (ATP Güvenli Ekler). 
+- Yeni geliştirilmiş kötü amaçlı yazılımları saptamak için korumalı bir ortamda e-posta eklerinin gelişmiş analizini yapma (Güvenli Ekler). 
 
-- Gelişmiş saldırılara karşı koruma sağlamak için makine öğrenimi modellerini ve kimliğe bürünme algılamasını kullanan kimlik avından koruma ilkelerini etkinleştirme (ATP kimlik avından koruma istihbaratı). 
+- Gelişmiş saldırılara karşı koruma sağlamak için makine öğrenimi modellerini ve kimliğe bürünme algılamasını kullanan kimlik avından koruma ilkelerini etkinleştirme (Office 365 makine zekası Defender’ında kimlik avından korunma). 
 
 - Güvenilir olmayan konumlardan erişimi devre dışı bırakan veya ofis ağınız gibi güvenilir yerlerden erişimde çok faktörlü kimlik doğrulamasını atlayan gelişmiş ilkeler ayarlama (güvenilen IP’ler ve Koşullu Erişim dahil Azure MFA). 
 
