@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: İşletmenizi Microsoft 365 Business Premium 'dan Microsoft 365 E3 'e taşımayı öğrenin.
-ms.openlocfilehash: 2b15d20e3ae1ad0bef871b139e61abf3ba260729
-ms.sourcegitcommit: 34ebec8e2bd54ba3d4ccfd9724797665c965c17f
+ms.openlocfilehash: 3f840a27cdcf50bba7710681135f6c2e241ad14b
+ms.sourcegitcommit: 001e64f89f9c3cd6bbd4a25459f5bee3b966820c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/13/2020
-ms.locfileid: "49071437"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "49367065"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Microsoft 365 Business Premium 'dan Microsoft 365 E3
 
@@ -129,7 +129,7 @@ Windows 10 Business bu korumaları içerir:
 Windows 10 Enterprise E3, Microsoft Edge için donanım tabanlı yalıtımın kurumsal yönetimini de içerir.
 
 >[!Note]
->Microsoft 365 E3 'e geçirilen kullanıcıların, sürekli tehdit koruması için Office 365 için bir Microsoft Defender lisansı gerekir. Office 365 ilkeleriyle ilgili tüm kullanıcıların lisanslı olması için Office 365 lisansları için ek Defender 'ı satın aldığınızdan emin olun. 
+>Microsoft 365 E3 'e geçirilen kullanıcıların, sürekli tehdit koruması için Office 365 için Microsoft Defender lisansı gerekir. Office 365 ilkeleriyle ilgili tüm kullanıcıların lisanslı olması için Office 365 lisansları için ek Defender 'ı satın aldığınızdan emin olun. 
 >
 
 ### <a name="device-management-with-intune"></a>Intune ile cihaz yönetimi
