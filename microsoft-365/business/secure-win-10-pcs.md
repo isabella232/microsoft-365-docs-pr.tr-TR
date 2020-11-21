@@ -23,12 +23,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Microsoft 365 Business Premium 'u ayarladıktan sonra Windows 10 PC güvenliğini nasıl gidereceğinizi öğrenin.
-ms.openlocfilehash: a70fcd330fe6ef330fac08512aded4d8913313d5
-ms.sourcegitcommit: 1780359234abdf081097c8064438d415da92fb85
+ms.openlocfilehash: 286393779eaa92d33432ff9ad4b21c0a1fb8612c
+ms.sourcegitcommit: 20d1158c54a5058093eb8aac23d7e4dc68054688
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46778394"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "49376287"
 ---
 # <a name="secure-windows-10-computers"></a>Windows 10 bilgisayarlarında güvenli
 
@@ -36,10 +36,10 @@ Bu makale Microsoft 365 Business Premium için geçerlidir.
 
 Microsoft 365 Business Premium ['u ayarladıktan sonra](set-up.md) , kuruluşunuzdaki Windows 10 bilgisayarlarını hırsızlık durumundan korkmadan virüsler ve kötü amaçlı yazılım gibi kötü niyetli tehditlere karşı korumalısınız.
 
-## <a name="to-secure-your-windows-10-pcs"></a>Windows 10 PC 'larınızın güvenliğini sağlamak için
+## <a name="to-secure-your-windows-10-computers"></a>Windows 10 bilgisayarlarınızın güvenliğini sağlamak için
 
 1. Genel yönetici kimlik bilgilerinizi kullanarak [Microsoft 365 Yönetim Merkezi](https://admin.microsoft.com) 'nde oturum açın. 
-2. Sol gezintide, **Kurulum 'u** seçin ve ardından **oturum açma ve güvenlik**altında **Windows 10 bilgisayarlarınızı güvenli**'ı seçin. Başlamak için **görüntüle** 'yi seçin.
+2. Sol gezintide, **Kurulum 'u** seçin ve ardından **oturum açma ve güvenlik** altında **Windows 10 bilgisayarlarınızı güvenli**'ı seçin. Başlamak için **görüntüle** 'yi seçin.
 3. **Windows 10 bilgisayarlarınızın güvenliğini sağlama** sayfasında, neleri kapatacağının ve kullanıcının etkisi olan tüm bilgileri okuyun.
 
     Sayfanın üst **kısmında başlayın 'ı seçin.**
