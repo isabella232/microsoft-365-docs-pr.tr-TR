@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: İşletmenizi Microsoft 365 Business Premium 'dan Microsoft 365 E3 'e taşımayı öğrenin.
-ms.openlocfilehash: 3f840a27cdcf50bba7710681135f6c2e241ad14b
-ms.sourcegitcommit: 001e64f89f9c3cd6bbd4a25459f5bee3b966820c
+ms.openlocfilehash: 3f1bb9591e1bd2bac49326325ce6c8c2d6778497
+ms.sourcegitcommit: c1dd5be42fe0c5dcc7c05817c941edd9076febf8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49367065"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49558254"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Microsoft 365 Business Premium 'dan Microsoft 365 E3
 
@@ -51,7 +51,7 @@ Bu tabloda, Microsoft 365 Business Premium ve Microsoft 365 E3 arasındaki farkl
 |:-------|:-----|:-----|
 | **Şirket içi**        | | | 
 | Windows 10    | Windows 10 Iş  |     Windows 10 Kurumsal E3| 
-| Office uygulamaları *    | [İş için Microsoft 365 uygulamaları](#office-365-business)    | Microsoft 365 Kurumsal Uygulamaları | 
+| Office uygulamaları *    | [İş için Microsoft 365 uygulamaları](#office-365-business)    | Kurumlar için Microsoft 365 Uygulamaları | 
 | **Bulut üretkenlik uygulamaları**        | | | 
 | Exchange Online ve Outlook    | posta kutusu başına 50 GB depolama alanı ve sınırsız Exchange Online arşivleme    | posta kutusu başına 100 GB depolama alanı ve sınırsız Exchange Online arşivleme | 
 | Teams    | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
@@ -62,7 +62,7 @@ Bu tabloda, Microsoft 365 Business Premium ve Microsoft 365 E3 arasındaki farkl
 | Attack Surface azaltma özellikleri    | [Bu listeye bakın](#threat-protection) | Microsoft Edge için donanım tabanlı yalıtımın Kurumsal Yönetimi | 
 | Office 365 plan 1 için Defender | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | Dahil değildir, ancak eklenebilir | 
 | **Kimlik yönetimi**        | | | 
-| Karma Azure Active Directory (Azure AD) hesapları, Azure Multi-Factor Authentication (MFA) için self servis parola sıfırlama, koşullu erişim, şirket içi kimlikler için parola geri yazma|     ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
+| Karma Azure Active Directory (Azure AD) hesapları, Azure AD Multi-Factor Authentication (MFA) için self servis parola sıfırlama, koşullu erişim, şirket içi kimlikler için parola geri yazma|     ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
 | Bulut uygulama keşfi, Azure AD Connect durumu    |     | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
 | Azure AD Office 365 uygulamaları tek Sign-On (SSO): Kullanıcı başına 10 uygulama (örneğin, Salesforce gibi Galeri SaaS uygulamaları) * | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
 | Azure AD Premium 1 SSO: sınırsız (Azure AD uygulaması proxy 'Si ile şirket içi uygulamalar, Self-Service uygulama tümleştirme şablonları kullanılarak Galeri dışı uygulamalar)    |     | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 

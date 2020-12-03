@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: İşinizi Office 365 E3 'den Microsoft 365 Business Premium 'a taşımayı öğrenin.
-ms.openlocfilehash: b8aa58f1f050ec6247479ed02e142507a2df45fc
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: eebf78c24ed4bfd1a4fc2d843f37aebbe3d35e31
+ms.sourcegitcommit: c1dd5be42fe0c5dcc7c05817c941edd9076febf8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48842170"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49558268"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Office 365 E3 'den Microsoft 365 Business Premium 'a geçme 
 
@@ -42,7 +42,7 @@ Bu tabloda, Microsoft 365 Business Premium ve Office 365 E3 arasındaki farklıl
 | Özellik    | Microsoft 365 Business Premium 'da destek    | Office 365 E3 | 
 |:-------|:-----|:-----|
 | **Şirket içi**        | | | 
-| Office uygulamaları<sup>1</sup>    | İş için Microsoft 365 uygulamaları    | Microsoft 365 Kurumsal Uygulamaları | 
+| Office uygulamaları<sup>1</sup>    | İş için Microsoft 365 uygulamaları    | Kurumlar için Microsoft 365 Uygulamaları | 
 | **Bulut üretkenlik uygulamaları**        | | | 
 | Exchange Online ve Outlook    | posta kutusu başına 50 GB depolama alanı ve sınırsız Exchange Online arşivleme    | posta kutusu başına 100 GB depolama alanı ve sınırsız Exchange Online arşivleme | 
 | Teams    | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | ![Office 365 E3 ile birlikte](../media/check-mark.png) | 
@@ -53,7 +53,7 @@ Bu tabloda, Microsoft 365 Business Premium ve Office 365 E3 arasındaki farklıl
 | **Tehdit koruması**        | | | 
 | Office 365 plan 1 için Defender | ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | Dahil değildir, ancak eklenebilir | 
 | **Kimlik yönetimi**        | | | 
-| Karma Azure Active Directory (Azure AD) hesapları, Azure Multi-Factor Authentication (MFA) için self servis parola sıfırlama, koşullu erişim, şirket içi kimlikler için parola geri yazma|     ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    |  | 
+| Karma Azure Active Directory (Azure AD) hesapları, Azure AD Multi-Factor Authentication (MFA) için self servis parola sıfırlama, koşullu erişim, şirket içi kimlikler için parola geri yazma|     ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    |  | 
 | **Cihaz ve uygulama yönetimi**        | | |
 | Microsoft Intune, Windows AutoPilot|     ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    |  |
 | Paylaşılan bilgisayar etkinleştirmesi|     ![Microsoft 365 Business Premium ile birlikte gelir](../media/check-mark.png)    | ![Office 365 E3 ile birlikte](../media/check-mark.png)| 
@@ -95,9 +95,9 @@ Kuruluşunuzdaki herkesi Microsoft 365 Business Premium 'a yükselttiyseniz, gir
 
 Bu adımları aygıtlar sayfasında da tamamlayabilirsiniz:
   
-1. Yönetim merkezinde, sol gezintide, **cihazlar** \> **ilkeleri** 'ne gidin.
+1. Yönetim merkezinde, sol gezintide, **cihazlar** \> **ilkeleri**'ne gidin.
     
-2. **Cihaz ilkeleri** sayfasında **Ekle** 'yi seçin.
+2. **Cihaz ilkeleri** sayfasında **Ekle**'yi seçin.
     
 3. **Ilke Ekle** bölmesinde ilkeye bir ad verin ve açılan listeden bir **ilke türü** seçin. 
     
