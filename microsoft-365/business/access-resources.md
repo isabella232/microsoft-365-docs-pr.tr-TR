@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Bir Azure Active Directory 'de Windows 10 aygıtından iş uygulamaları, dosya paylaşımları ve yazıcılar gibi şirket içi kaynaklara erişim almayı öğrenin.
-ms.openlocfilehash: 2144268f5cbab67c39d5902622c61c0c35e6481c
-ms.sourcegitcommit: 15be7822220041c25fc52565f1c64d252e442d89
+ms.openlocfilehash: 22edf0c23d6318e1f70bcb21b2cd697ea0a75da4
+ms.sourcegitcommit: 849b365bd3eaa9f3c3a9ef9f5973ef81af9156fa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48295320"
+ms.lasthandoff: 12/16/2020
+ms.locfileid: "49688243"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Microsoft 365 Business Premium 'da Azure AD ile birleştirilmiş cihazından şirket içi kaynaklara erişme
 
@@ -63,4 +63,4 @@ Azure-AD 'a katıldığınız Windows cihazı daha önce etki alanına veya bir 
 
 - Kullanıcılar, Active Directory kimlik doğrulamasına bağlı uygulamalarda kimlik doğrulaması yapamaz. Eski uygulamayı değerlendirin ve mümkünse modern kimlik doğrulama kullanan bir uygulamaya güncelleştirmeyi düşünebilirsiniz.
 
-- Active Directory yazıcı keşfi çalışmaz. Tüm kullanıcılar için doğrudan yazıcı yolları sağlayabilir veya [karma bulut yazdırma](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy)kullanabilirsiniz.
+- Active Directory yazıcı keşfi çalışmaz. Tüm kullanıcılar için doğrudan yazıcı yolları sağlayabilir veya [Evrensel Yazdırma](https://aka.ms/UPDocs)kullanabilirsiniz.
