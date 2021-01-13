@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: PC, telefon ve tabletlerde verilerinizi korumaya yardımcı olmak için Microsoft 365 Business Premium ile sağlanan güvenlik özellikleri hakkında bilgi edinin.
-ms.openlocfilehash: 587d80c27f867a387c901d23f4ec05f3c5905bf6
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: b7fdd3d7fa25c23ee49ae82aa037588d8fba61a1
+ms.sourcegitcommit: 83a40facd66e14343ad3ab72591cab9c41ce6ac0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48843498"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49840399"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Microsoft 365 Business Premium güvenlik ve uyumluluk özellikleri
 
@@ -86,7 +86,7 @@ Microsoft 365 Business Premium 'daki gelişmiş özellikler, işletmenizi sanal 
     - [Konuma göre erişim](https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration);  yalnızca güvenilen IP aralıklarından veya belirli ülkelerden erişime izin verme 
     - Access için MFA gerektir
     - [Eski kimlik doğrulama](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication) kullanan uygulamalara erişimi engelleyin
-    - [Uygulama TP](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access) 'si
+    - Uygulamalar için [Intune uygulama korumasını](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access) gerektirme
     - Örneğin, üçüncü taraf sağlayıcılarla MFA gibi özel kimlik doğrulama.
    
     Diğer özellikler:
