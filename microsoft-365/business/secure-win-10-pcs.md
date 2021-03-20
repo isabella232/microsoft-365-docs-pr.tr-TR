@@ -1,5 +1,5 @@
 ---
-title: Windows 10 bilgisayarlarında güvenli
+title: Windows 10 bilgisayarların güvenliğini sağlama
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -22,32 +22,32 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Microsoft 365 Business Premium 'u ayarladıktan sonra Windows 10 PC güvenliğini nasıl gidereceğinizi öğrenin.
-ms.openlocfilehash: 286393779eaa92d33432ff9ad4b21c0a1fb8612c
-ms.sourcegitcommit: 20d1158c54a5058093eb8aac23d7e4dc68054688
+description: Microsoft 365 İş Ekstra'yi ayardikten sonra Windows 10 bilgisayarlarını nasıl güvenlik altına ala öğrenin.
+ms.openlocfilehash: 1b843e9ae3fcdb78eb128549f8f3c18badd8eb4e
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "49376287"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912640"
 ---
-# <a name="secure-windows-10-computers"></a><span data-ttu-id="ecc50-103">Windows 10 bilgisayarlarında güvenli</span><span class="sxs-lookup"><span data-stu-id="ecc50-103">Secure Windows 10 computers</span></span>
+# <a name="secure-windows-10-computers"></a><span data-ttu-id="1f4bf-103">Windows 10 bilgisayarların güvenliğini sağlama</span><span class="sxs-lookup"><span data-stu-id="1f4bf-103">Secure Windows 10 computers</span></span>
 
-<span data-ttu-id="ecc50-104">Bu makale Microsoft 365 Business Premium için geçerlidir.</span><span class="sxs-lookup"><span data-stu-id="ecc50-104">This article applies to Microsoft 365 Business Premium.</span></span>
+<span data-ttu-id="1f4bf-104">Bu makale Microsoft 365 İş Ekstra için geçerlidir.</span><span class="sxs-lookup"><span data-stu-id="1f4bf-104">This article applies to Microsoft 365 Business Premium.</span></span>
 
-<span data-ttu-id="ecc50-105">Microsoft 365 Business Premium ['u ayarladıktan sonra](set-up.md) , kuruluşunuzdaki Windows 10 bilgisayarlarını hırsızlık durumundan korkmadan virüsler ve kötü amaçlı yazılım gibi kötü niyetli tehditlere karşı korumalısınız.</span><span class="sxs-lookup"><span data-stu-id="ecc50-105">After you have [set up](set-up.md) Microsoft 365 Business Premium, it is time to protect the Windows 10 computers in your org from theft, and malicious threats like viruses and malware.</span></span>
+<span data-ttu-id="1f4bf-105">[Microsoft](set-up.md) 365 İş Ekstra'yi ayardikten sonra, şimdi sıra, bilgisayarınızdan Windows 10 bilgisayarlarını hırsızlık ve virüs ve kötü amaçlı yazılım gibi kötü amaçlı tehditlerden korumanın zamanıdır.</span><span class="sxs-lookup"><span data-stu-id="1f4bf-105">After you have [set up](set-up.md) Microsoft 365 Business Premium, it is time to protect the Windows 10 computers in your org from theft, and malicious threats like viruses and malware.</span></span>
 
-## <a name="to-secure-your-windows-10-computers"></a><span data-ttu-id="ecc50-106">Windows 10 bilgisayarlarınızın güvenliğini sağlamak için</span><span class="sxs-lookup"><span data-stu-id="ecc50-106">To secure your Windows 10 computers</span></span>
+## <a name="to-secure-your-windows-10-computers"></a><span data-ttu-id="1f4bf-106">Windows 10 bilgisayarlarınızı güvenlik altına almak için</span><span class="sxs-lookup"><span data-stu-id="1f4bf-106">To secure your Windows 10 computers</span></span>
 
-1. <span data-ttu-id="ecc50-107">Genel yönetici kimlik bilgilerinizi kullanarak [Microsoft 365 Yönetim Merkezi](https://admin.microsoft.com) 'nde oturum açın.</span><span class="sxs-lookup"><span data-stu-id="ecc50-107">Sign in to [Microsoft 365 admin center](https://admin.microsoft.com) by using your global admin credentials.</span></span> 
-2. <span data-ttu-id="ecc50-108">Sol gezintide, **Kurulum 'u** seçin ve ardından **oturum açma ve güvenlik** altında **Windows 10 bilgisayarlarınızı güvenli**'ı seçin.</span><span class="sxs-lookup"><span data-stu-id="ecc50-108">On the left nav, select **Setup** and then, under **Sign-in and security**, choose **Secure your Windows 10 computers**.</span></span> <span data-ttu-id="ecc50-109">Başlamak için **görüntüle** 'yi seçin.</span><span class="sxs-lookup"><span data-stu-id="ecc50-109">Choose **View** to get started.</span></span>
-3. <span data-ttu-id="ecc50-110">**Windows 10 bilgisayarlarınızın güvenliğini sağlama** sayfasında, neleri kapatacağının ve kullanıcının etkisi olan tüm bilgileri okuyun.</span><span class="sxs-lookup"><span data-stu-id="ecc50-110">On the **Secure your Windows 10 computers** page, read all the information to understand what you are turning on, and what the user impact is.</span></span>
+1. <span data-ttu-id="1f4bf-107">Genel yönetici [kimlik bilgilerinizi kullanarak Microsoft 365](https://admin.microsoft.com) yönetim merkezinde oturum açma.</span><span class="sxs-lookup"><span data-stu-id="1f4bf-107">Sign in to [Microsoft 365 admin center](https://admin.microsoft.com) by using your global admin credentials.</span></span> 
+2. <span data-ttu-id="1f4bf-108">Sol gezintide Kurulum'u **seçin** ve ardından Oturum açma ve güvenlik altında Windows **10** bilgisayarlarınızı güvenli hale seçin.</span><span class="sxs-lookup"><span data-stu-id="1f4bf-108">On the left nav, select **Setup** and then, under **Sign-in and security**, choose **Secure your Windows 10 computers**.</span></span> <span data-ttu-id="1f4bf-109">Başlamak **için** Görüntüle'yi seçin.</span><span class="sxs-lookup"><span data-stu-id="1f4bf-109">Choose **View** to get started.</span></span>
+3. <span data-ttu-id="1f4bf-110">Windows **10** bilgisayarlarınızı güvenli halein sayfasında, neleri açmanızı ve kullanıcının etkisini anlamak için tüm bilgileri okuyun.</span><span class="sxs-lookup"><span data-stu-id="1f4bf-110">On the **Secure your Windows 10 computers** page, read all the information to understand what you are turning on, and what the user impact is.</span></span>
 
-    <span data-ttu-id="ecc50-111">Sayfanın üst **kısmında başlayın 'ı seçin.**</span><span class="sxs-lookup"><span data-stu-id="ecc50-111">On the top of the page, choose **Get started**.</span></span>
+    <span data-ttu-id="1f4bf-111">Sayfanın üst kısmında, **Başla'ya tıklayın.**</span><span class="sxs-lookup"><span data-stu-id="1f4bf-111">On the top of the page, choose **Get started**.</span></span>
 
-4. <span data-ttu-id="ecc50-112">**Windows 10 bilgisayarlarınızın güvenliğini sağlayın** bölmesinde açmak istediğiniz seçenekleri belirtin.</span><span class="sxs-lookup"><span data-stu-id="ecc50-112">On the **Secure your Windows 10 computers** pane, select the options you want to turn on.</span></span> <span data-ttu-id="ecc50-113">Ayarlar hakkında daha fazla bilgi için bkz [Windows 10 cihazları](secure-windows-10-devices.md).</span><span class="sxs-lookup"><span data-stu-id="ecc50-113">For more information about the settings, see [Secure Windows 10 devices](secure-windows-10-devices.md).</span></span> 
+4. <span data-ttu-id="1f4bf-112">Windows **10 bilgisayarlarınızı güvenli halein** bölmesinde açmak istediğiniz seçenekleri belirleyin.</span><span class="sxs-lookup"><span data-stu-id="1f4bf-112">On the **Secure your Windows 10 computers** pane, select the options you want to turn on.</span></span> <span data-ttu-id="1f4bf-113">Ayarlar hakkında daha fazla bilgi için Bkz. [Güvenli Windows 10 cihazları.](secure-windows-10-devices.md)</span><span class="sxs-lookup"><span data-stu-id="1f4bf-113">For more information about the settings, see [Secure Windows 10 devices](secure-windows-10-devices.md).</span></span> 
     
-    <span data-ttu-id="ecc50-114">Çoğu kuruluşta, buradaki seçenekler iyi bir güvenlik düzeyi sunar, ancak kuruluşunuzun daha karmaşık güvenlik ihtiyaçlarına sahipse, Windows 10 aygıtlarınızı güvenceye almak için önceden tanımlanmış güvenlik temellerini de kullanabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="ecc50-114">For most organizations, the options here offer a good level of security, however, if your organization has more complex security needs, you can also use pre-defined security baselines to secure  your Windows 10 devices.</span></span> <span data-ttu-id="ecc50-115">Daha fazla bilgi için bkz [.](https://docs.microsoft.com/mem/intune/protect/security-baselines)</span><span class="sxs-lookup"><span data-stu-id="ecc50-115">For more information, see [security baselines for Windows 10 devices](https://docs.microsoft.com/mem/intune/protect/security-baselines).</span></span>   
+    <span data-ttu-id="1f4bf-114">Çoğu kuruluş için buradaki seçenekler iyi bir güvenlik düzeyi sunar, ancak kuruma daha karmaşık güvenlik ihtiyaçları varsa Windows 10 cihazlarınızı güvence altına almak için önceden tanımlanmış güvenlik taban çizgilerini de kullanabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="1f4bf-114">For most organizations, the options here offer a good level of security, however, if your organization has more complex security needs, you can also use pre-defined security baselines to secure  your Windows 10 devices.</span></span> <span data-ttu-id="1f4bf-115">Daha fazla bilgi için [Windows 10 cihazları için güvenlik taban çizgilerine bakın.](/mem/intune/protect/security-baselines)</span><span class="sxs-lookup"><span data-stu-id="1f4bf-115">For more information, see [security baselines for Windows 10 devices](/mem/intune/protect/security-baselines).</span></span>   
 
-1. <span data-ttu-id="ecc50-116">**Ayarları Uygula**'yı seçin.</span><span class="sxs-lookup"><span data-stu-id="ecc50-116">Choose **Apply settings**.</span></span>
+1. <span data-ttu-id="1f4bf-116">Ayarları **uygula'ya tıklayın.**</span><span class="sxs-lookup"><span data-stu-id="1f4bf-116">Choose **Apply settings**.</span></span>
 
-    <span data-ttu-id="ecc50-117">Bu ayarlar kuruluşunuzdaki tüm kullanıcılara uygulanır.</span><span class="sxs-lookup"><span data-stu-id="ecc50-117">These settings will apply to all users in your organization.</span></span> <span data-ttu-id="ecc50-118">Farklı güvenlik gruplarında farklı ilkeler ayarlamak için, [Windows 10 PC 'ler için cihaz koruma ayarlarını ayarlama](protection-settings-for-windows-10-pcs.md)bölümüne bakın.</span><span class="sxs-lookup"><span data-stu-id="ecc50-118">To set up different policies for different security groups, see [Set device protection settings for Windows 10 PCs](protection-settings-for-windows-10-pcs.md).</span></span>
+    <span data-ttu-id="1f4bf-117">Bu ayarlar, kuruluşta yer alan tüm kullanıcılara uygulanır.</span><span class="sxs-lookup"><span data-stu-id="1f4bf-117">These settings will apply to all users in your organization.</span></span> <span data-ttu-id="1f4bf-118">Farklı güvenlik grupları için farklı ilkeler ayarlamak için bkz. [Windows 10 pc'ler](protection-settings-for-windows-10-pcs.md)için cihaz koruma ayarlarını ayarlama.</span><span class="sxs-lookup"><span data-stu-id="1f4bf-118">To set up different policies for different security groups, see [Set device protection settings for Windows 10 PCs](protection-settings-for-windows-10-pcs.md).</span></span>
