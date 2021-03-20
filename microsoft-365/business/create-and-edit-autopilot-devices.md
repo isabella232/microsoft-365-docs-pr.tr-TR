@@ -25,41 +25,40 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
-description: Microsoft 365 Business Premium'da Otomatik Pilot'u kullanarak cihazları nasıl yükleyin öğrenin. Bir aygıta veya aygıt grubuna profil atayabilirsiniz.
-ms.openlocfilehash: 8c3d029d682ae30444bdc7d30a4790a8f982e0e0
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Microsoft 365 İş Ekstra'da AutoPilot kullanarak cihazları karşıya yükleme hakkında bilgi edinebilirsiniz. Bir cihaza veya cihaz grubuna profil atabilirsiniz.
+ms.openlocfilehash: 910abb98b94b749177b04cd12c766f82d348e379
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401004"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913408"
 ---
 # <a name="create-and-edit-autopilot-devices"></a>AutoPilot cihazlarını oluşturma ve düzenleme
 
 ## <a name="upload-a-list-of-devices"></a>Cihaz listesini karşıya yükleme
 
-Aygıtyüklemek için [adım adım kılavuzunu](add-autopilot-devices-and-profile.md) kullanabilirsiniz, ancak **Aygıtlar** sekmesine aygıt yükleyebilirsiniz. 
+Cihazları karşıya yüklemek [için Adım adım kılavuzu](add-autopilot-devices-and-profile.md) kullanabilirsiniz, ancak cihazlar sekmesinde cihazları da karşıya **yükleyebilirsiniz.** 
   
-Aygıtlar bu gereksinimleri karşılamalıdır:
+Cihazlar şu gereksinimleri karşılamalıdır:
   
 - Windows 10, sürüm 1703 veya sonrası
     
-- Windows'dan kutudan çıkma deneyiminden geçmemiş yeni aygıtlar
+- Windows'un ilk gelen deneyimine henüz sahip olmayan yeni cihazlar
 
-1. Microsoft 365 yönetici merkezinde, **Cihazlar** \> **Otomatik Pilot**seçin.
+1. Microsoft 365 yönetim merkezinde  Cihazlar \> **AutoPilot'u seçin.**
   
-2. Otomatik **Pilot** sayfasında, **Aygıtlar** sekmesini seçin \> **aygıtlar ekle.**
+2. **AutoPilot sayfasında** Cihazlar sekmesi Cihaz  \> **ekle'yi seçin.**
     
     ![In the Devices tab, choose Add devices.](../media/6ba81e22-c873-40ad-8a72-ce64d15ea6ba.png)
   
-3. Aygıt **ekle** panelinde, Kaydet Kapat'ı kaydet'i hazırladığınız [Aygıt listesi CSV dosyasına](https://docs.microsoft.com/microsoft-365/admin/misc/device-list) göz \> **Save** \> **Close**atın.
+3. Cihaz ekle **panelinde,** Kaydet Kapat'ı hazır [bulundurarak hazır](../admin/misc/device-list.md) istediğiniz Cihaz listesi CSV \> **dosyasına** \> **göz atabilirsiniz.**
     
-    Bu bilgileri donanım satıcınızdan alabilir veya Bir CSV dosyası oluşturmak için [Get-WindowsAutoPilotInfo PowerShell komut dosyasını](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) kullanabilirsiniz. 
+    Bu bilgileri donanım satıcıdan edinebilirsiniz veya CSV dosyası oluşturmak için [Get-WindowsAutoPilotInfo PowerShell](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) betiği kullanabilirsiniz. 
     
 ## <a name="assign-a-profile-to-a-device-or-a-group-of-devices"></a>Cihaza veya cihaz grubuna profil atama
 
-1. **Windows'u Hazırla** sayfasında **Aygıtlar** sekmesini seçin ve bir veya daha fazla aygıtın yanındaki onay kutusunu seçin. 
+1. **Windows'u Hazırla** sayfasında Cihazlar sekmesini **seçin** ve bir veya birden çok cihaz yanındaki onay kutusunu seçin. 
     
 2. **Cihaz** panelinde, **Atanan profil** açılan listesinden bir profil seçin. 
     
     Henüz hiç profiliniz yoksa, yönergeler için bkz. [AutoPilot profillerini oluşturma ve düzenleme](create-and-edit-autopilot-profiles.md). 
-    

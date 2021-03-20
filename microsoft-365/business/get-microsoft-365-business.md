@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Business Premium'u iş ortağı merkezinden alın
+title: İş ortağı merkezinden Microsoft 365 İş Ekstra'ya
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -24,39 +24,36 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
-description: Microsoft 365 Business Premium satın alma seçeneklerinizi ve Microsoft İş Ortağı Merkezi'nden satın alma yla ilgili adım adım yönergelerinizi keşfedin.
-ms.openlocfilehash: 550ab62b46ffc09f8c4822a2e1741ee51b4579ca
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Microsoft 365 İş Ekstra satın alma seçeneklerinizi ve Microsoft İş Ortağı Merkezi'nden satın almak için adım adım yönergeleri keşfedin.
+ms.openlocfilehash: 9f29846a7017259340b2125b09bc9fa5f935501b
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "45081919"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913336"
 ---
 # <a name="get-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra’yı edinin
 
-## <a name="get-microsoft-365-business-premium-from-microsoft"></a>Microsoft'tan Microsoft 365 Business Premium alın
+## <a name="get-microsoft-365-business-premium-from-microsoft"></a>Microsoft 365 İş Ekstra'ya Microsoft'tan izin
 
-Bir iş ortağınız yoksa ve Microsoft 365 Business Premium almak istiyorsanız, [buradan satın](https://www.microsoft.com/en-US/microsoft-365/business)alabilirsiniz.
+İş ortağınız yoksa ve Microsoft 365 İş Ekstra'ya sahip olmak için buradan [satın alabilirsiniz.](https://www.microsoft.com/en-US/microsoft-365/business)
 
-Ayrıntılı talimatlar [için Microsoft 365 Business Premium'a kaydolun.](sign-up.md)
+Ayrıntılı [yönergeler için Microsoft 365 İş Ekstra'ya](sign-up.md) kaydolmaya bakın.
 
-Microsoft 365 Business Premium satın almak ve kurulum yardımı almak için bir [Microsoft Mağazası'na](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) da gidebilirsiniz.
+Microsoft 365 İş [Ekstra'nı satın](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) almak ve kurulum yardımı almak için bir Microsoft Store'a da bakabilirsiniz.
   
-## <a name="get-microsoft-365-business-premium-from-microsoft-partner-center"></a>Microsoft İş Merkezi'nden Microsoft 365 Business Premium'u alın
+## <a name="get-microsoft-365-business-premium-from-microsoft-partner-center"></a>Microsoft 365 İş Ortağı Merkezi'nden Microsoft 365 İş Ekstra'ya
 
 1. Bulut Hizmeti Sağlayıcısı (CSP) programına kaydolurken oluşturduğunuz kimlik bilgilerini kullanarak [Microsoft İş Ortağı Merkezi](https://go.microsoft.com/fwlink/p/?linkid=849910)'nde oturum açın. 
     
-2. İş Ortağı Panosu'nda **Müşteriler'i**seçin, ardından müşterinizi seçin veya Microsoft 365 Business Premium'u almadan önce yeni bir müşteri ekleyin.
+2. İş Ortağı Panosunda **Müşteriler'i seçin** ve ardından Microsoft 365 İş Ekstra'ya başlamadan önce müşterinizi seçin veya yeni müşteri ekleyin.
     
     ![Microsoft İş Ortağı merkezinde bir müşteri ekleyin.](../media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
   
-3. Müşterinin **Abonelik** **sayfasında, Abonelik Ekle'yi**seçin, Katalog'un altındaki Küçük işletme seçeneğini seçin ve ardından **Microsoft 365 Business Premium'u**seçin.
+3. Müşterinin Abonelik sayfasında  Abonelik ekle'yi **seçin,** Katalog'un altında Küçük işletme seçeneğini belirleyin ve ardından **Microsoft 365 İş Ekstra'ya tıklayın.**
     
-    İhtiyacınız olan lisans sayısını (en fazla 300) seçin. 300'den fazla kullanıcınız varsa, bunun yerine [Microsoft 365 Enterprise'a](https://go.microsoft.com/fwlink/p/?linkid=862316) bakın. 
+    Size gereken lisans sayısını seçin (en çok 300). 300'den fazla kullanıcınız varsa, bunun yerine [Microsoft 365 Kurumsal'a](../enterprise/index.yml) bakın. 
     
-    ![Yeni abonelik sayfasında küçük işletmeleri seçin.](../media/52d99e89-2175-4974-84bb-dd626048541b.png)
+    ![Yeni abonelik sayfasında küçük işletmeyi seçin.](../media/52d99e89-2175-4974-84bb-dd626048541b.png)
   
-    İşletme adı da dahil olmak üzere yeni bir müşteri eklemek için adımların geri kalanını tamamlayın.
-    
-
-
+    İş adı da içinde olmak üzere, yeni müşteri ekleme adımlarının kalan kalanını tamamlayın.

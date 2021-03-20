@@ -1,5 +1,5 @@
 ---
-title: Windows 10 bilgisayarlarında güvenli
+title: Windows 10 bilgisayarların güvenliğini sağlama
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -22,32 +22,32 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Microsoft 365 Business Premium 'u ayarladıktan sonra Windows 10 PC güvenliğini nasıl gidereceğinizi öğrenin.
-ms.openlocfilehash: 286393779eaa92d33432ff9ad4b21c0a1fb8612c
-ms.sourcegitcommit: 20d1158c54a5058093eb8aac23d7e4dc68054688
+description: Microsoft 365 İş Ekstra'yi ayardikten sonra Windows 10 bilgisayarlarını nasıl güvenlik altına ala öğrenin.
+ms.openlocfilehash: 1b843e9ae3fcdb78eb128549f8f3c18badd8eb4e
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "49376287"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912640"
 ---
-# <a name="secure-windows-10-computers"></a>Windows 10 bilgisayarlarında güvenli
+# <a name="secure-windows-10-computers"></a>Windows 10 bilgisayarların güvenliğini sağlama
 
-Bu makale Microsoft 365 Business Premium için geçerlidir.
+Bu makale Microsoft 365 İş Ekstra için geçerlidir.
 
-Microsoft 365 Business Premium ['u ayarladıktan sonra](set-up.md) , kuruluşunuzdaki Windows 10 bilgisayarlarını hırsızlık durumundan korkmadan virüsler ve kötü amaçlı yazılım gibi kötü niyetli tehditlere karşı korumalısınız.
+[Microsoft](set-up.md) 365 İş Ekstra'yi ayardikten sonra, şimdi sıra, bilgisayarınızdan Windows 10 bilgisayarlarını hırsızlık ve virüs ve kötü amaçlı yazılım gibi kötü amaçlı tehditlerden korumanın zamanıdır.
 
-## <a name="to-secure-your-windows-10-computers"></a>Windows 10 bilgisayarlarınızın güvenliğini sağlamak için
+## <a name="to-secure-your-windows-10-computers"></a>Windows 10 bilgisayarlarınızı güvenlik altına almak için
 
-1. Genel yönetici kimlik bilgilerinizi kullanarak [Microsoft 365 Yönetim Merkezi](https://admin.microsoft.com) 'nde oturum açın. 
-2. Sol gezintide, **Kurulum 'u** seçin ve ardından **oturum açma ve güvenlik** altında **Windows 10 bilgisayarlarınızı güvenli**'ı seçin. Başlamak için **görüntüle** 'yi seçin.
-3. **Windows 10 bilgisayarlarınızın güvenliğini sağlama** sayfasında, neleri kapatacağının ve kullanıcının etkisi olan tüm bilgileri okuyun.
+1. Genel yönetici [kimlik bilgilerinizi kullanarak Microsoft 365](https://admin.microsoft.com) yönetim merkezinde oturum açma. 
+2. Sol gezintide Kurulum'u **seçin** ve ardından Oturum açma ve güvenlik altında Windows **10** bilgisayarlarınızı güvenli hale seçin. Başlamak **için** Görüntüle'yi seçin.
+3. Windows **10** bilgisayarlarınızı güvenli halein sayfasında, neleri açmanızı ve kullanıcının etkisini anlamak için tüm bilgileri okuyun.
 
-    Sayfanın üst **kısmında başlayın 'ı seçin.**
+    Sayfanın üst kısmında, **Başla'ya tıklayın.**
 
-4. **Windows 10 bilgisayarlarınızın güvenliğini sağlayın** bölmesinde açmak istediğiniz seçenekleri belirtin. Ayarlar hakkında daha fazla bilgi için bkz [Windows 10 cihazları](secure-windows-10-devices.md). 
+4. Windows **10 bilgisayarlarınızı güvenli halein** bölmesinde açmak istediğiniz seçenekleri belirleyin. Ayarlar hakkında daha fazla bilgi için Bkz. [Güvenli Windows 10 cihazları.](secure-windows-10-devices.md) 
     
-    Çoğu kuruluşta, buradaki seçenekler iyi bir güvenlik düzeyi sunar, ancak kuruluşunuzun daha karmaşık güvenlik ihtiyaçlarına sahipse, Windows 10 aygıtlarınızı güvenceye almak için önceden tanımlanmış güvenlik temellerini de kullanabilirsiniz. Daha fazla bilgi için bkz [.](https://docs.microsoft.com/mem/intune/protect/security-baselines)   
+    Çoğu kuruluş için buradaki seçenekler iyi bir güvenlik düzeyi sunar, ancak kuruma daha karmaşık güvenlik ihtiyaçları varsa Windows 10 cihazlarınızı güvence altına almak için önceden tanımlanmış güvenlik taban çizgilerini de kullanabilirsiniz. Daha fazla bilgi için [Windows 10 cihazları için güvenlik taban çizgilerine bakın.](/mem/intune/protect/security-baselines)   
 
-1. **Ayarları Uygula**'yı seçin.
+1. Ayarları **uygula'ya tıklayın.**
 
-    Bu ayarlar kuruluşunuzdaki tüm kullanıcılara uygulanır. Farklı güvenlik gruplarında farklı ilkeler ayarlamak için, [Windows 10 PC 'ler için cihaz koruma ayarlarını ayarlama](protection-settings-for-windows-10-pcs.md)bölümüne bakın.
+    Bu ayarlar, kuruluşta yer alan tüm kullanıcılara uygulanır. Farklı güvenlik grupları için farklı ilkeler ayarlamak için bkz. [Windows 10 pc'ler](protection-settings-for-windows-10-pcs.md)için cihaz koruma ayarlarını ayarlama.

@@ -1,5 +1,5 @@
 ---
-title: Windows 10 cihazlarında uygulama koruma ayarlarını düzenleme veya ayarlama
+title: Windows 10 cihazları için uygulama koruma ayarlarını düzenleme veya ayarlama
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -28,46 +28,46 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
-description: Kullanıcılarınızın kişisel Windows 10 cihazlarında uygulama yönetimi ilkelerini oluşturmayı veya düzenlemeyi ve iş dosyalarını korumayı öğrenin.
-ms.openlocfilehash: f85a59649e43c141b62091337b842a490d411833
-ms.sourcegitcommit: abf63669daf12993ad3353e4b578f41c8910b20f
+description: Kullanıcılarınızı kişisel Windows 10 cihazlarında uygulama yönetimi ilkelerini oluşturma veya düzenlemeyi ve iş dosyalarını korumayı öğrenin.
+ms.openlocfilehash: 64c6aa620171a373cd7564c7de3abbf4a4546c4e
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "47289209"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912832"
 ---
-# <a name="set-or-edit-application-protection-settings-for-windows-10-devices"></a>Windows 10 cihazlarında uygulama koruma ayarlarını ayarlama veya düzenleme
+# <a name="set-or-edit-application-protection-settings-for-windows-10-devices"></a>Windows 10 cihazları için uygulama koruma ayarlarını ayarlama veya düzenleme
 
-Bu makale Microsoft 365 Business Premium için geçerlidir.
+Bu makale Microsoft 365 İş Ekstra için geçerlidir.
 
-## <a name="edit-an-app-management-policy-for-windows-10"></a>Windows 10 için uygulama yönetimi ilkesini düzenleme
+## <a name="edit-an-app-management-policy-for-windows-10"></a>Windows 10 için uygulama yönetimi ilkesi düzenleme
 
-1. Yönetim Merkezi 'ne gidin <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .     
-2. Sol gezintide, **cihazlar** \> **ilkeleri** 'ni seçin.
-1. Var olan bir Windows App ilkesi seçin ve ardından **düzenleyin**.
-1. Değiştirmek istediğiniz ayarın yanındaki **Düzenle** 'yi ve sonra **Kaydet**'i seçin.
+1. Yönetim merkezine <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> gidin:     
+2. Sol gezintide Cihaz **İlkeleri'ne** \> **seçin.**
+1. Var olan bir Windows uygulama ilkesi seçin ve ardından **Düzenle'yi seçin.**
+1. Değiştirmek **istediğiniz** ayarın yanındaki Düzenle'yi ve ardından Kaydet'i **seçin.**
 
 ## <a name="create-an-app-management-policy-for-windows-10"></a>Windows 10 için uygulama yönetimi ilkesi oluşturma
 
 Kullanıcılarınızın işle ilgili görevleri gerçekleştirdikleri kişisel Windows 10 cihazları varsa, verilerinizi bu cihazlarda da koruma altına alabilirsiniz.
   
-1. Yönetim Merkezi 'ne gidin <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> . 
-2. Sol gezintide, **cihaz** \> **ilkeleri** \> **Ekle**'yi seçin.
+1. Yönetim merkezine <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> gidin: 
+2. Sol gezintide Cihaz **İlkeleri** \> **Ekle'yi** \> **seçin.**
 3. **İlke ekle** bölmesinde bu ilke için benzersiz bir ad girin. 
 4. **İlke türü**'nün altında **Windows 10 için Uygulama Yönetimi**'ni seçin.
-5. **Cihaz türü**altında **Kişisel** veya **Şirket sahibi**'i seçin.
+5. Cihaz **türü altında,** Kişisel'i **veya Şirkete** **Ait'i seçin.**
 6. **İş dosyalarını şifrele** seçeneği otomatik olarak açılır. 
 7. Kullanıcıların çalışma dosyalarını kendi bilgisayarlarına kaydetmelerini istemiyorsanız, **Kullanıcıların şirket verilerini kişisel dosyalara kopyalamasını engelle ve çalışma dosyalarını OneDrive İş'e kaydetmelerini zorla** ilkesini **Açık** olarak ayarlayın. 
-9. **Windows cihazlarında verileri kurtar 'ı**genişletin. Açmanızı **öneririz.**
-    Veri kurtarma aracısı sertifikasının konumuna göz atabilmeniz için önce bir tane oluşturmanız gerekir. Yönergeler için, [şifreleme dosya sistemi (EFS) veri kurtarma aracısı (DRA) sertifikası oluşturma ve doğrulama](https://go.microsoft.com/fwlink/p/?linkid=853700)konusuna bakın.
+9. **Windows cihazlarda Verileri kurtar'ı genişletin.** Bu açmanizi **öneririz.**
+    Veri Kurtarma Aracısı sertifikasının bulunduğu konuma göz atmadan önce bir sertifika oluşturmanız gerekir. Yönergeler için, Şifreleme [Dosyası Sistemi (EFS)](/windows/security/information-protection/windows-information-protection/create-and-verify-an-efs-dra-certificate)Veri Kurtarma Aracısı (DRA) sertifikası oluşturma ve doğrulama.
     
-    Varsayılan olarak iş dosyalarınız, cihazda depolanan ve kullanıcının profili ile ilişkilendirilmiş bir gizli anahtar kullanılarak şifrelenir. Yalnızca kullanıcı dosyanın şifresini çözebilir ve dosyayı açabilir. Bununla birlikte, cihaz kaybolursa veya kullanıcı kaldırılırsa, dosya şifrelenmiş halde kalabilir. Yönetici, dosyanın şifresini çözmek için veri kurtarma aracısı (DRA) sertifikasını kullanabilir.
+    Varsayılan olarak iş dosyalarınız, cihazda depolanan ve kullanıcının profili ile ilişkilendirilmiş bir gizli anahtar kullanılarak şifrelenir. Yalnızca kullanıcı dosyanın şifresini çözebilir ve dosyayı açabilir. Bununla birlikte, cihaz kaybolursa veya kullanıcı kaldırılırsa, dosya şifrelenmiş halde kalabilir. Yönetici, dosyanın şifresini çözmek için Veri Kurtarma Aracısı (DRA) sertifikasını kullanabilir.
     
     ![Browse to Data Recovery Agent certificate.](../media/7d7d664f-b72f-4293-a3e7-d0fa7371366c.png)
   
-10. Listelenen tüm uygulamalardaki dosyaların korunduğundan emin olmak için ek etki alanları veya SharePoint Online konumları eklemek istiyorsanız **ek ağ ve bulut konumlarını koruma** seçeneğini genişletin. Alanlara birden çok öğe girmeniz gerekiyorsa, öğeler arasında noktalı virgül (;) kullanın.
+10. Listelenen **tüm uygulamalardaki dosyaların** korun olduğundan emin olmak için ek etki alanları veya SharePoint Online konumları eklemek için Ek ağ ve bulut konumlarını koru'ya genişletin. Alanlara birden çok öğe girmeniz gerekiyorsa, öğeler arasında noktalı virgül (;) kullanın.
     
     ![Expand Protect additional network and cloud locations, and enter domains or SharePoint Online sites you own.](../media/7afaa0c7-ba53-456d-8c61-312c45e09625.png)
   
 11. Next decide **Who will get these settings?** If you don't want to use the default **All Users** security group, choose **Change**, choose the security groups who will get these settings \> **Select**.
-12. Son olarak, **Ekle**'yi seçerek ilkeyi kaydedin ve cihazlarınıza atayın. 
+12. Son olarak, **Ekle**'yi seçerek ilkeyi kaydedin ve cihazlarınıza atayın.

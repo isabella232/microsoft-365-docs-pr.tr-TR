@@ -1,5 +1,5 @@
 ---
-title: Iş için Microsoft 365 tehdit korumasını arttırın
+title: Microsoft 365 İş için tehdit korumasını artırma
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -21,217 +21,217 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Office 365 için Microsoft Defender 'ı ayarlayın ve sızdırma, kötü amaçlı yazılım ve diğer tehditlere karşı hassas verileri güvenceye alın.
-ms.openlocfilehash: 2f1a26b5a2c5678871502d441b6ba64c9b011e1c
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+description: Office 365 için Microsoft Defender'ı ayarlayın ve kimlik avı, kötü amaçlı yazılım ve diğer tehditlere karşı hassas verileri koruyun.
+ms.openlocfilehash: 0424fd56e30477f4e8d9e84b7ac78ba6255781fa
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48842266"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913296"
 ---
-# <a name="increase-threat-protection"></a>Tehdit korumasını arttırma
+# <a name="increase-threat-protection"></a>Tehdit korumasını artırma
 
-Bu makale, sızdırma, kötü amaçlı yazılım ve diğer tehditlere karşı korunmak amacıyla Microsoft 365 aboneliğinizdeki korumayı artırmanıza yardımcı olur. Bu öneriler, yasalar, yasalar ve sağlık hizmetleri Kliniği gibi güvenlik için artış artışı olan kuruluşlar için uygundur.
+Bu makale kimlik avına, kötü amaçlı yazılıma ve diğer tehditlere karşı korumak için Microsoft 365 aboneliğinizin korumasını artırmanıza yardımcı olur. Bu öneriler, hukuk ofisleri ve sağlık hizmetleri klinisleri gibi güvenlik ihtiyacı artan kuruluşlara uygundur.
 
-Başlamadan önce, Office 365 güvenli Puanını denetleyin. Office 365 güvenli puanı, kuruluşunuzun güvenliğini düzenli etkinliklerinizi ve Güvenlik ayarlarınıza göre çözümler ve bir puan atar. Geçerli puanınızın notunu almayı başlatın. Puanınızı büyütmek için bu makalede önerilen eylemleri tamamlayın. Amaç en fazla puanı elde etmeyin, ancak iş fırsatlarınızı, kullanıcılarınız için üretkenliği olumsuz etkilemeyecek şekilde korumamak için fırsatlar
+Başlamadan önce Office 365 Güvenli Puanınızı kontrol edin. Office 365 Güvenli Puan, normal etkinliklerinize ve güvenlik ayarlarınıza göre kuruluş güvenliğini analiz eder ve bir puan atar. Başlangıç olarak geçerli puanınızı not alarak başlayabilirsiniz. Puanınızı artırmak için, bu makalede önerilen eylemleri gerçekleştirin. Amaç maksimum puanı elde etmek değil, kullanıcılarınız için üretkenliği olumsuz etkilemeden ortamınızı koruma fırsatlarına dikkat etmektir.
 
-Daha fazla bilgi için bkz: [Microsoft güvenli skor](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score).
+Daha fazla bilgi için [Microsoft Güvenli Puan'a bakın.](../security/mtp/microsoft-secure-score.md)
 
-## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>Posta 'da kötü amaçlı yazılıma karşı koruma düzeyini yükseltme
+## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>Postada kötü amaçlı yazılıma karşı koruma düzeyini yükseltme
 
-Office 365 veya Microsoft 365 ortamınız, kötü amaçlı yazılımlara karşı koruma içerir. Sık kullanılan kişilerle sık kullanılan dosyaları engelleyerek bu korumayı artırabilirsiniz. E-postadaki kötü amaçlı yazılım korumasını yükseltmek için:
+Office 365 veya Microsoft 365 ortamınız kötü amaçlı yazılıma karşı koruma içerir. Kötü amaçlı yazılım için yaygın olarak kullanılan dosya türlerine sahip ekleri engelleyerek bu korumayı artırabilirsiniz. E-postada kötü amaçlı yazılımdan korunmayı artırmak için:
 
-1. [https://protection.office.com](https://protection.office.com)Yönetici hesabı kimlik bilgilerinizle gidin ve oturum açın.
+1. Yönetici [https://protection.office.com](https://protection.office.com) hesabı kimlik bilgilerinize gidin ve bu kimlik bilgileriyle oturum açın.
 
-2. Güvenlik &amp; Uyumluluk merkezinde, sol gezinti bölmesinde, **tehdit yönetimi** 'nin altında, **ilke** \> **önleme önleme** 'yı seçin.
+2. Güvenlik Uyumluluk Merkezi'nin sol gezinti bölmesinde, Tehdit yönetimi altında, İlke Kötü Amaçlı &amp; Yazılımdan   \> **Koruma'ya tıklayın.**
 
-3. Bu şirket çapındaki ilkeyi düzenlemek için varsayılan ilkeyi çift tıklatın.
+3. Şirket genelindeki bu ilkeyi düzenlemek için varsayılan ilkeye çift tıklayın.
 
-4. **Ayarlar** 'ı seçin.
+4. **Ayarlar'ı seçin.**
 
-5. **Ortak ek türleri filtresi** altında **Açık** öğesini seçin. Engellenen dosya türleri, bu denetimin hemen altındaki pencerede listelenir. Bu dosya türlerini eklediğinizden emin olun:
+5. Ortak **Ek Türleri Filtresi'nin altında,** Aç'ı **seçin.** Engellenen dosya türleri, bu denetimin hemen altındaki pencerede listelenir. Şu dosya türlerini ekley mutlaka:
 
    `ade, adp, ani, bas, bat, chm, cmd, com, cpl, crt, hlp, ht, hta, inf, ins, isp, job, js, jse, lnk, mda, mdb, mde, mdz, msc, msi, msp, mst, pcd, reg, scr, sct, shs, url, vb, vbe, vbs, wsc, wsf, wsh, exe, pif`
 
    Gerekirse, daha sonra dosya türlerini ekleyebilir veya silebilirsiniz.
 
-6. Kaydet 'i seçin **.**
+6. **Kaydet'i seçin.**
 
-Daha fazla bilgi için [EOP 'de kötü amaçlı yazılımdan koruma](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-malware-protection)konusuna bakın.
+Daha fazla bilgi için bkz. [EOP'de kötü amaçlı yazılımdan koruma.](../security/office-365-security/anti-malware-protection.md)
 
-## <a name="protect-against-ransomware"></a>Fidye aşamalarına karşı korunma
+## <a name="protect-against-ransomware"></a>Fidye yazılımlarına karşı koruma
 
-Fidye yazılımı, dosyaları şifreleyerek veya bilgisayar ekranlarını kilitleyerek verilere erişimi kısıtlar. Ardından, "ransoırlar" ("ransolar", "ransolar" ("ransolar" (
+Fidye yazılımları, dosyaları şifreleyerek veya bilgisayar ekranlarını kilitleyerek verilere erişimi kısıtlar. Ardından, verilere erişim için genellikle Bitcoin gibi şifreleme paraları şeklinde olan "kabul eden" kişilerden yardım istemekle, kabul etmek zorunda olduğu paraları ekseriyetten yararlanmaya çalışır.
 
-Fidye kurallarına karşı korunmak için, fidye kuralları için yaygın olarak kullanılan dosya uzantılarını engellemek üzere bir veya daha fazla posta akış kuralı oluşturun. (Bu kuralları, [posta adımında kötü amaçlı yazılımlara karşı koruma düzeyini artırdır](#raise-the-level-of-protection-against-malware-in-mail) .) Ayrıca, e-postada bu ekleri alan kullanıcıları uyarabilirsiniz.
+Fidye yazılımlarına karşı korumak için, fidye yazılımları için yaygın olarak kullanılan dosya uzantılarını engellemek için bir veya daha fazla posta akışı kuralı oluşturun. (Posta adımlarında bu kuralları [kötü amaçlı yazılıma karşı koruma düzeyini yükseltmek için eklediniz.)](#raise-the-level-of-protection-against-malware-in-mail) Bu ekleri e-postayla alan kullanıcıları da uyarabilirsiniz.
 
-Önceki adımda engellediğiniz dosyaların yanı sıra, makro içeren Office dosya eklerini açmadan önce kullanıcıları uyarmak için bir kural oluşturmak iyi bir yöntemdir. Fidye, makrolar içinde gizlenebilir, bu nedenle kullanıcılara bilmediğiniz kişilerin bu dosyaları açmasını sağlayın.
+Önceki adımda engelley istediğiniz dosyalara ek olarak, makro içeren Office dosya eklerini açmadan önce kullanıcıları uyaran bir kural oluşturmak da iyi bir uygulamadır. Fidye yazılımları makroların içine gizlenmiş olabilir, bu nedenle kullanıcıları, bu dosyaları kendiıldıklarından açmamaları konusunda uyarabilirsiniz.
 
 Posta aktarım kuralı oluşturmak için:
 
-1. Yönetim Merkezi 'ne gidin <https://admin.microsoft.com> ve **Yönetim Merkezleri** \> **Exchange** 'i seçin.
+1. Yönetim merkezine gidin ve <https://admin.microsoft.com> Exchange Yönetim **merkezleri'ni** \> **seçin.**
 
-2. **Posta akışı** kategorisinde **kurallar** 'ı seçin.
+2. Posta **akışı kategorisinde** kuralları **seçin.**
 
-3. **+** Öğesini seçin ve sonra **Yeni kural oluştur** 'u seçin.
+3. Seçin **+** ve ardından Yeni kural **oluştur'a seçin.**
 
-4. Tüm seçenekleri görmek için iletişim kutusunun en altındaki **diğer seçenekler** 'i seçin.
+4. Tüm **seçenek kümelerini** görmek için iletişim kutusunun en altındaki Diğer seçenekler'i seçin.
 
-5. Kural için aşağıdaki tabloda yer alan ayarları uygulayın. Ayarları değiştirmek istemiyorsanız, kalan ayarların varsayılan değerlerini kullanın.
+5. Kural için aşağıdaki tabloda yer alan ayarları uygulama. Ayarları değiştirmek istemiyorsanız, diğer ayarlar için varsayılan değerleri kullanın.
 
-6. **Kaydet** 'i seçin.
+6. **Kaydet**'i seçin.
 
-|Ayar|Office dosyalarının eklerini açmadan önce kullanıcıları uyarma||
+|Ayar|Office dosyalarının eklerini açmadan önce kullanıcıları uyar||
 |---|---|---|
-|Name|Önleme kuralı: kullanıcıları uyarma|
-|Bu kuralı uygulayın. . .|Herhangi bir ek. . . Dosya Uzantısı eşleşiyor. . .|
-|Sözcükleri veya tümceleri belirtme|Bu dosya türlerini ekleyin:  <br/> dotm, docm, xlsm, sltm, xla, xlam, XLL, PPTM, potm, PPAM, PPSM, SLDM|
-|Aşağıdakileri yapın. . .|Alıcıya iletiyle bildirme|
-|İleti metni sağlama|Tanımadığınız kişilerden bu tür dosyaları, kötü amaçlı kod içeren makrolar içerebileceğinden açmayın.|
+|Name|Fidye yazılımıyla mücadele kuralı: kullanıcıları uyar|
+|Bu kuralı şu durumda uygula: . .|Herhangi bir ek . . . dosya uzantısı eşleşmeleri. . .|
+|Sözcükleri veya tümcecikleri belirtme|Şu dosya türlerini ekleyin:  <br/> dotm, docm, xlsm, sltm, xla, xlam, xll, pptm, potm, ppam, ppsm, sldm|
+|Aşağıdakini yapın. . .|Alıcıya bir iletiyle bildirme|
+|İleti metni sağlama|Bu tür dosyaları, kötü amaçlı kod içeren makrolar içere olabileceğinden, sizin olmadığınız kişilerden açmayın.|
 
 Daha fazla bilgi için bkz.:
 
-- [Fidye yöntemleri: riski azaltma](https://www.microsoft.com/security/blog/2020/04/28/ransomware-groups-continue-to-target-healthcare-critical-services-heres-how-to-reduce-risk/)
+- [Fidye yazılımı: riski azaltma](https://www.microsoft.com/security/blog/2020/04/28/ransomware-groups-continue-to-target-healthcare-critical-services-heres-how-to-reduce-risk/)
 
-- [OneDrive 'ı geri yükleme](https://support.microsoft.com/office/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
+- [OneDrive'larınızı geri yükleme](https://support.microsoft.com/office/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
 
-## <a name="stop-auto-forwarding-for-email"></a>E-posta için otomatik yönlendirmeyi durdurma
+## <a name="stop-auto-forwarding-for-email"></a>E-posta için otomatik iletmeyi durdurma
 
-Bir kullanıcının posta kutusuna erişimi olan saldırganlar, posta kutusunu e-postayı otomatik olarak iletecek şekilde ayarlayarak posta çalabilir. Bu, Kullanıcı tanıma olmadan da gerçekleşebilir. Bunu önlemek için, posta akış kuralı yapılandırın.
+Kullanıcının posta kutusuna erişim elde eden bilgisayar korsanları, posta kutusunu e-postayı otomatik olarak iletacak şekilde ayarerek e-postaları çalar. Bu durum, kullanıcının farkında olmadan da olabilir. Bunun önüne geçmek için, posta akışı kuralını yapılandırabilirsiniz.
 
-Posta aktarım kuralı oluşturmak için [Bu kısa videoyu](https://support.microsoft.com/office/f9d693ba-5c78-47c0-b156-8e461e062aa7) izleyin veya şu adımları izleyin:
+Posta aktarım kuralı oluşturmak için bu kısa [videoyu izleyin veya](https://support.microsoft.com/office/f9d693ba-5c78-47c0-b156-8e461e062aa7) şu adımları izleyin:
 
-1. Microsoft 365 Yönetim merkezinde, **Yönetim Merkezleri** \> **Exchange** 'i seçin.
+1. Microsoft 365 yönetim merkezinde Exchange Yönetim **merkezleri'ni** \> **seçin.**
 
-2. **Posta akışı** kategorisinde **kurallar** 'ı seçin.
+2. Posta **akışı kategorisinde** kuralları **seçin.**
 
-3. **+** Öğesini seçin ve sonra **Yeni kural oluştur** 'u seçin.
+3. Seçin **+** ve ardından Yeni kural **oluştur'a seçin.**
 
-4. Tüm seçenekleri görmek için iletişim kutusunun en altındaki **diğer seçenekler** 'i seçin.
+4. Tüm seçenekleri görmek için, iletişim **kutusunun en** altındaki Diğer seçenekler'i seçin.
 
-5. Aşağıdaki tabloda yer alan ayarları uygulayın. Ayarları değiştirmek istemiyorsanız, kalan ayarların varsayılan değerlerini kullanın.
+5. Aşağıdaki tabloda yer alan ayarları uygulama. Ayarları değiştirmek istemiyorsanız, diğer ayarlar için varsayılan değerleri kullanın.
 
-6. **Kaydet** 'i seçin.
+6. **Kaydet**'i seçin.
 
-|Ayar|Office dosyalarının eklerini açmadan önce kullanıcıları uyarma|
+|Ayar|Office dosyalarının eklerini açmadan önce kullanıcıları uyar|
 |---|---|
-|Name|E-postanın dış etki alanlarına otomatik olarak iletilmesini önle|
-|Bu kuralı uygula...|Gönderen. . . dış/iç. . . Kuruluş içindeki|
-|Koşul ekleme|İleti özellikleri. . . ileti türünü ekleyin. . . Otomatik ilet|
-|Aşağıdakileri yapın...|İletiyi engelleyin. . . iletiyi reddedin ve bir açıklama ekleyin.|
-|İleti metni sağlama|E-postayı bu kuruluşun dışına otomatik olarak iletme güvenlik nedenleriyle engellenmiştir.|
+|Name|E-postanın dış etki alanlarına otomatik iletmesini engelleme|
+|Şu durumda bu kuralı uygula:|Gönderen . . . dış/iç . . . Kuruluşun içinde|
+|Koşul ekle|İleti özellikleri. . . ileti türünü de içerir. . . Otomatik iletme|
+|Aşağıdakini yapın ...|İletiyi engelin. . . iletiyi reddedin ve bir açıklama yazın.|
+|İleti metni sağlama|Güvenlik nedeniyle e-postanın bu kuruluş dışından otomatik olarak iletilene kadar iletmesi engellenebilir.|
 
 
-## <a name="protect-your-email-from-phishing-attacks"></a>E-postanızı kimlik avı saldırılarından korunma
+## <a name="protect-your-email-from-phishing-attacks"></a>E-postanızı kimlik avı saldırılarından koruma
 
-Office 365 veya Microsoft 365 ortamınız için bir veya daha fazla özel etki alanı yapılandırdıysanız, hedeflenen kimlik avı korumasını yapılandırabilirsiniz. Office 365 için Microsoft Defender 'ın bir parçası olan kimlik avından korunma koruması, kuruluşunuzun kötü kimliğe bürünme tabanlı kimlik avı saldırılarından ve diğer kimlik avı saldırılarından korunmasına yardımcı olabilir. Özel bir etki alanı belirtmediyseniz, bunu yapmanız gerekmez.
+Office 365 veya Microsoft 365 ortamınız için bir veya birden çok özel etki alanı yapılandırdıysanız, hedefli kimlik avı önleme korumasını yapılandırabilirsiniz. Office 365 için Microsoft Defender'ın bir parçası olan kimlik avı koruma, organizasyonlarınızı kimliğe bürünme tabanlı kimlik avı saldırılarına ve diğer kimlik avı saldırılarına karşı korumaya yardımcı olabilir. Özel etki alanını yapılandırmadıysanız, bunu yapmak zorunda değildir.
 
-En önemli kullanıcılarınızı ve özel etki alanınızı korumaya yönelik bir ilke oluşturarak bu korumaya başlamanızı öneririz.
+En önemli kullanıcılarınızı ve özel etki alanınızı korumak için bir ilke oluşturarak bu korumayla çalışmaya başlamanızı öneririz.
 
-Office 365 için Microsoft Defender 'da bir kimlik avı ilkesi oluşturmak için,  [Bu kısa eğitim videosunu](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)izleyin veya aşağıdaki adımları tamamlayın:
+Office 365 için Microsoft Defender'da kimlik avı önleme ilkesi oluşturmak için bu kısa eğitim  [videosunu](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)izleyin veya aşağıdaki adımları tamamlayın:
 
 1. [https://protection.office.com](https://protection.office.com) adımına gidin.
 
-2. Güvenlik &amp; Uyumluluk merkezinde, sol gezinti bölmesinde, **tehdit yönetimi** 'Nin altında, **ilke** 'yi seçin.
+2. Güvenlik Uyumluluk &amp; Merkezi'nin sol gezinti bölmesinde, Tehdit yönetimi altında **İlke'yi** **seçin.**
 
-3. **İlke** sayfasında, **kimlik avı önleme** 'yı seçin.
+3. İlke **sayfasında** Kimlik avı **önleme'yi seçin.**
 
-4. **Kimlik avı önleme** sayfasında **+ Oluştur** 'u seçin. Bir sihirbaz, kimlik avlama önleme ilkenizi tanımlama adımlarında size yol açar.
+4. Kimlik avı **önleme sayfasında +** **Oluştur'a tıklayın.** Kimlik avı önleme ilkenizi tanımlamanız için size yol belirleyen bir sihirbaz başlatır.
 
-5. Aşağıdaki tabloda önerildiği şekilde ilkenizin adını, açıklamasını ve ayarlarını belirtin. Daha fazla bilgi için [Office 365 Için Microsoft Defender 'daki kimlik avlama önleme ilkesi hakkında bilgi edinin](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies)konusuna bakın.
+5. İlkenizin adını, açıklamasını ve ayarlarını aşağıdaki tabloda önerilen şekilde belirtin. Daha fazla ayrıntı için, Office 365 için Microsoft Defender seçeneklerinde kimlik [avıyla mücadele ilkesi hakkında bilgi edinebilirsiniz.](../security/office-365-security/set-up-anti-phishing-policies.md)
 
-6. Ayarlarınızı inceledikten sonra **Bu Ilkeyi oluştur** veya uygun şekilde **Kaydet** 'i seçin.
+6. Ayarlarınızı gözden geçirdikten sonra, uygun şekilde Bu **ilkeyi oluştur veya** **Kaydet'i** seçin.
 
-|Ayar veya seçenek|Önerilen ayar|
+|Ayarlama veya seçenek|Önerilen ayar|
 |---|---|
 |Name|Etki alanı ve en değerli kampanya personeli|
-|Açıklama|Önemli personelin ve etki alanınızın özellikleri alınamaz olmasını sağlayın.|
-|Korunacak kullanıcıları ekleme|Select **+ Koşul Ekle, alıcı**. Kullanıcı adlarını yazın veya aday, kampanya yöneticisi ve diğer önemli personel üyelerinin e-posta adresini girin. Özelliklerini almada korunmalarını istediğiniz en çok 20 dahili ve harici adresi ekleyebilirsiniz.|
-|Korunacak etki alanları ekleme|Select **+ Koşul Ekle, alıcı etki alanı**. Siz tanımladıysanız, Microsoft 365 aboneliğinizle ilişkili özel etki alanını girin. Birden çok etki alanı girebilirsiniz.|
-|Eylemleri seçin|E-posta, kimliğine bürünülen bir kullanıcı tarafından gönderilirse: **iletiyi başka bir e-posta adresine yönlendir** 'i seçin ve güvenlik yöneticisinin e-posta adresini yazın; Örneğin, *çiğdem <span> <span> @contoso. com*. E-posta, kimliğine bürünülen etki alanı tarafından gönderilirse: **karantina iletisi** 'ni seçin.|
-|Posta kutusu bilgileri|Yeni bir kimlik avı ilkesi oluşturduğunuzda, varsayılan olarak, posta kutusu bilgileri seçilidir. Bu ayarı en iyi sonuçlar için **Açık** bırakın.|
-|Güvenilir Gönderenler ve etki alanları ekleme|Buraya kendi etki alanınızı veya diğer güvenilen etki alanlarını ekleyebilirsiniz.|
-|Uygulanacak|**Alıcı etki alanını** seçin. **Bunlardan herhangi** birinin altında **Seç** 'i seçin. **+ Ekle** 'yi seçin. Etki alanı adının yanındaki (örneğin, Contoso) yanındaki kutuyu işaretleyin *. <span> <span>* ve **Ekle** 'yi seçin. **Bitti** 'yi seçin.|
+|Açıklama|En önemli personelin ve etki alanımızın kimliğine bürünülmemelerinden emin olun.|
+|Korumak için kullanıcı ekleme|Select **+ Koşul ekle, Alıcı**. Kullanıcı adlarını yazın veya adayın, kampanya yöneticisinin ve diğer önemli personel üyelerinin e-posta adresini girin. Kimliğe bürünülmelerden korumak istediğiniz en çok 20 iç ve dış adres ebilirsiniz.|
+|Korumak için etki alanları ekleme|Select **+ Koşul ekle, Alıcı etki alanı**. Microsoft 365 aboneliğiniz ile ilişkilendirilmiş özel etki alanını (tanımladıysanız) girin. Birden çok etki alanı girebilirsiniz.|
+|Eylemleri seçme|E-posta kimliğine bürünülen bir kullanıcı tarafından gönderilirse: **İletiyi** başka bir e-posta adresine yeniden yönlendir'i seçin ve güvenlik yöneticisinin e-posta adresini yazın; örneğin, *Ali <span> <span> @contoso.com.* E-posta kimliğine bürünülen bir etki alanı tarafından gönderilirse: karantina **iletisi seçin.**|
+|Posta kutusu zekası|Yeni bir kimlik avı önleme ilkesi oluşturmanız, posta kutusu zekası varsayılan olarak seçilidir. En iyi sonuçları elde **etmek için bu** ayarı Açık bırakın.|
+|Güvenilen gönderenleri ve etki alanlarını ekleme|Buradan kendi etki alanlarınızı veya güvenilen diğer etki alanlarınızı eklemeye devam edersiniz.|
+|Uygulama|Alıcı **etki alanı öğesini seçin.** Bunların **herhangi biri altında, Seç'i** **seçin.** + **Ekle'yi seçin.** Etki alanının adının yanındaki onay kutusunu (örneğin, *contoso) seçin. <span> <span> com'da,* listede ve Ekle'yi **seçin.** **Bitti'yi seçin.**|
 
-## <a name="protect-against-malicious-attachments-and-files-with-safe-attachments"></a>Güvenli ekler içeren kötü niyetli eklere ve dosyalarda korunma
+## <a name="protect-against-malicious-attachments-and-files-with-safe-attachments"></a>Güvenli Ekler ile kötü amaçlı eklere ve dosyalara karşı koruma
 
-İnsanlar belgeler, sunular, elektronik tablolar ve daha fazlası gibi ekleri düzenli olarak gönderirler, alır ve paylaşabilir. Bir e-posta iletisine bakarak bir ekin güvenli veya kötü amaçlı olup olmadığını söylemek her zaman kolaydır. Office 365 için Microsoft Defender, güvenli ek korumasını içerir, ancak bu koruma varsayılan olarak açık değildir. Bu korumayı kullanmaya başlamak için yeni bir kural oluşturmanızı öneririz. Bu koruma, SharePoint, OneDrive ve Microsoft ekipte bulunan dosyalar için genişler.
+Kişiler belgeler, sunular, elektronik tablolar ve daha fazlası gibi ekleri düzenli olarak gönderir, alır ve paylaşır. Yalnızca e-posta iletisine bakarak ekin güvenli mi yoksa kötü amaçlı mı olduğunu söylemek her zaman kolay değildir. Office 365 için Microsoft Defender Güvenli Ek koruması içerir, ancak bu koruma varsayılan olarak açık değildir. Bu korumayı kullanmaya başlamak için yeni bir kural oluşturmanızı öneririz. Bu koruma SharePoint, OneDrive ve Microsoft Teams'de dosyalara kadar genişler.
 
-Güvenli bir ek ilkesi oluşturmak için [Bu kısa videoyu](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)izleyin veya aşağıdaki adımları tamamlayın:
+Güvenli Ek ilkesi oluşturmak için bu kısa [videoyu izleyin veya](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)aşağıdaki adımları tamamlayın:
 
-1. Adresine gidin [https://protection.office.com](https://protection.office.com) ve Yönetici hesabınızla oturum açın.
+1. 'a [https://protection.office.com](https://protection.office.com) gidin ve yönetici hesabınızla oturum açın.
 
-2. Güvenlik &amp; Uyumluluk merkezinde, sol gezinti bölmesinde, **tehdit yönetimi** 'Nin altında, **ilke** 'yi seçin.
+2. Güvenlik Uyumluluk &amp; Merkezi'nin sol gezinti bölmesinde, Tehdit yönetimi altında **İlke'yi** **seçin.**
 
-3. Ilke sayfasında **güvenilir ekler** 'i seçin.
+3. İlke sayfasında Güvenli **Ekler'i seçin.**
 
-4. Güvenli ekler sayfasında, **SharePoint, OneDrive ve Microsoft ekipleri IÇIN ATP 'Yi aç** seçeneğini belirleyerek bu korumayı genel kullanıma uygulayın.
+4. Güvenli ekler sayfasında, **SharePoint, OneDrive** ve Microsoft Teams için ATP'yi aç onay kutusunu seçerek bu korumayı kapsamlı olarak uygulayabilirsiniz.
 
-5. **+** Yeni ilke oluşturmak için öğesini seçin.
+5. Yeni **+** bir ilke oluşturmak için seçin.
 
-6. Aşağıdaki tabloda yer alan ayarları uygulayın.
+6. Aşağıdaki tabloda yer alan ayarları uygulama.
 
-7. Ayarlarınızı inceledikten sonra **Bu Ilkeyi oluştur** veya uygun şekilde **Kaydet** 'i seçin.
+7. Ayarlarınızı gözden geçirdikten sonra, Uygun şekilde Bu **ilkeyi oluştur veya** **Kaydet'i** seçin.
 
-|Ayar veya seçenek|Önerilen ayar|
+|Ayarlama veya seçenek|Önerilen ayar|
 |---|---|
-|Name|Kötü amaçlı yazılım bulunan güncel ve gelecek e-postaları engelleyin.|
-|Açıklama|Kötü amaçlı yazılım bulunan güncel ve gelecekteki e-postaları ve ekleri engelleyin.|
-|Ekleri Kaydet bilinmeyen kötü amaçlı yazılım yanıtı|**, Kötü amaçlı yazılım algılanan geçerli ve gelecekteki e-postaları engelle** seçeneğini belirleyin.|
-|Eki algılama sırasında yeniden yönlendirme|Yeniden yönlendirmeyi etkinleştir (Bu kutuyu seçin) karantina için yönetici hesabını veya posta kutusu kurulumunu girin.          Ek zaman aşımına uğruyor veya hata oluştuğunda, yukarıdaki seçimi uygulama (Bu kutuyu seçin).|
-|Uygulanacak|Alıcı etki alanı. . . etki alanınızı seçin.|
+|Name|Kötü amaçlı yazılım algılandığında geçerli ve gelecek e-postaları engelin.|
+|Açıklama|Kötü amaçlı yazılım algılandığında mevcut ve gelecek e-postaları ve ekleri engelin.|
+|Bilinmeyen kötü amaçlı yazılım yanıtını kaydetme|Engelle **-Algılandı kötü amaçlı yazılımla geçerli ve gelecekteki e-postaları ve ekleri engelle'yi seçin.**|
+|Algılamada eki yeniden yönlendirme|Yeniden yönlendirmeyi etkinleştir (bu kutuyu seçin) Yönetici hesabını veya karantina için bir posta kutusu kurulumu girin.          Kötü amaçlı yazılım ekleri tararsa veya hata oluşursa yukarıdaki seçimi uygulama (bu kutuyu seçin).|
+|Uygulama|Alıcı etki alanı . . . etki alanınızı seçin.|
 
-Daha fazla bilgi için, [Office 365 Microsoft Defender 'da kimlik avlama önleme Ilkelerini ayarlayın](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies).
+Daha fazla bilgi için Bkz. [Office 365](../security/office-365-security/set-up-anti-phishing-policies.md)için Microsoft Defender'da kimlik avı önleme ilkelerini ayarlama.
 
-## <a name="protect-against-phishing-attacks-with-safe-links"></a>Güvenli bağlantılarla sızdırma saldırılarına karşı korunma
+## <a name="protect-against-phishing-attacks-with-safe-links"></a>Güvenli Bağlantılar ile kimlik avı saldırılarına karşı koruma
 
-Saldırganlar bazen e-posta veya diğer dosyalardaki bağlantılarda kötü amaçlı Web sitelerini gizler. Office 365 için Microsoft Defender 'ın bir parçası olan güvenli bağlantılar, e-posta iletilerinde ve Office belgelerinde web adreslerinin (URL 'Ler) zaman içinde doğrulanmasını sağlayarak kuruluşunuzun korunmasını sağlayabilir. Koruma, güvenli bağlantı ilkeleri aracılığıyla tanımlanır.
+Bilgisayar korsanları bazen e-posta veya diğer dosyalarda bağlantılarda kötü amaçlı web sitelerini gizler. Office 365 için Microsoft Defender'ın bir parçası olan Güvenli Bağlantılar, e-posta iletilerinde ve Office belgelerinde web adreslerinin (URL'ler) tıklandırarak doğrulanmasına yardımcı olabilir. Koruma, Güvenli Bağlantılar ilkeleri aracılığıyla tanımlanır.
 
-Aşağıdakileri yapmanız önerilir:
+Şunları yapmanizi öneririz:
 
-- Korumayı yükseltmek için varsayılan ilkeyi değiştirin.
+- Korumayı artırmak için varsayılan ilkeyi değiştirme.
 
-- Etki alanınızda tüm alıcılara hedeflenmiş yeni bir ilke ekleyin.
+- Etki alanınız içinde yer alan tüm alıcılara hedeflenen yeni bir ilke ekleyin.
 
-Güvenli bağlantılar ayarlamak için [Bu kısa eğitim videosunu](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa)izleyin veya aşağıdaki adımları tamamlayın:
+Güvenli Bağlantıları ayarlamak için bu [kısa eğitim videosunu izleyin](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa)veya aşağıdaki adımları tamamlayın:
 
-1. Adresine gidin [https://protection.office.com](https://protection.office.com) ve Yönetici hesabınızla oturum açın.
+1. 'a [https://protection.office.com](https://protection.office.com) gidin ve yönetici hesabınızla oturum açın.
 
-2. Güvenlik &amp; Uyumluluk merkezinde, sol gezinti bölmesinde, **tehdit yönetimi** 'Nin altında, **ilke** 'yi seçin.
+2. Güvenlik Uyumluluk &amp; Merkezi'nin sol gezinti bölmesinde, Tehdit yönetimi altında **İlke'yi** **seçin.**
 
-3. Ilke sayfasında **güvenli bağlantılar** 'ı seçin.
+3. İlke sayfasında Güvenli **Bağlantılar'ı seçin.**
 
 Varsayılan ilkeyi değiştirmek için:
 
-1. Güvenli bağlantılar sayfasında, **tüm kuruluşa uygulanan ilkeler** altında, **varsayılan** ilkeyi seçin.
+1. Güvenli bağlantılar sayfasında, kuruluşun **tamamına uygulanacak İlkeler'in** altında Varsayılan **ilkeyi** seçin.
 
-2. **E-posta dışında içeriğe uygulanan ayarlar** 'ın altında **kurumsal Için Microsoft 365 uygulamaları, iOS ve Android için Office 'i** seçin.
+2. **E-posta dışındaki içeriğe uygulanacak Ayarlar'ın** altında, kurumsal **Microsoft 365 Uygulamaları, iOS ve Android için Office'i seçin.**
 
-3. **Kaydet** 'i seçin.
+3. **Kaydet**'i seçin.
 
-Etki alanınızda tüm alıcılara hedeflenmiş yeni bir ilke oluşturmak için:
+Etki alanınız içinde yer alan tüm alıcılara yönelik yeni bir ilke oluşturmak için:
 
-1. Güvenli bağlantılar sayfasında, **tüm kuruluşa uygulanan ilkeler** altında, **+** Yeni ilke oluşturmak için öğesini seçin.
+1. Güvenli bağlantılar sayfasında, kuruluşun **tamamına uygulanacak İlkeler'in** altında yeni **+** bir ilke oluşturmak için seçin.
 
-2. Aşağıdaki tabloda listelenen ayarları uygulayın.
+2. Aşağıdaki tabloda listelenen ayarları uygulama.
 
-3. **Kaydet** 'i seçin.
+3. **Kaydet**'i seçin.
 
-|Ayar veya seçenek|Önerilen ayar|
+|Ayarlama veya seçenek|Önerilen ayar|
 |---|---|
 |Name|Etki alanındaki tüm alıcılar için güvenli bağlantılar ilkesi|
-|İletilerde bilinmeyen kötü amaçlı olabilecek URL 'Ler için eylemi seçin|**URL 'yi seçin-URL 'ler yeniden yazılır ve Kullanıcı bağlantıya tıkladığında bilinen kötü niyetli bir bağlantı listesine karşı denetlenir**.|
-|İndirilebilir içeriği taramak için güvenli ekler kullanma|Bu kutuyu seçin.|
-|Uygulanacak|Alıcı etki alanı. . . etki alanınızı seçin.|
+|İletilerde bilinmeyen kötü amaçlı olabilecek URL'ler için eylemi seçme|Açık **- URL'ler yeniden yazılır ve kullanıcı** bağlantıya tıkladığında bilinen kötü amaçlı bağlantılar listesinde denetlenir.|
+|İndirilebilir içeriği taramak için Güvenli Ekler'i kullanma|Bu kutuyu seçin.|
+|Uygulama|Alıcı etki alanı . . . etki alanınızı seçin.|
 
-Daha fazla bilgi için bkz [.](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)
+Daha fazla bilgi için Güvenli [Bağlantılar'a bakın.](../security/office-365-security/atp-safe-links.md)
 
-## <a name="go-to-intune-admin-center"></a>Intune yönetim merkezine gidin
+## <a name="go-to-intune-admin-center"></a>Intune yönetim merkezine gitme
 
-1. [Azure portalında](https://portal.azure.com/)oturum açın.
+1. Azure portalında [oturum açın.](https://portal.azure.com/)
 
-2. **Tüm hizmetleri** seçin ve **Arama kutusuna** *Intune 'a* yazın.
+2. Tüm **hizmetleri seçin** ve Arama Kutusuna *Intune* **yazın.**
 
-3. Sonuçlar göründüğünde, **Microsoft Intune** 'un yanındaki Başlat 'ı seçerek bunu sık kullanılanlara koyun ve daha sonra kolayca bulabilirsiniz.
+3. Sonuçlar görüntüden sonra, Microsoft **Intune'un** yanındaki başlangıç öğesini seçerek sık kullanılanlara ve daha sonra kolayca bulunabilirsiniz.
 
-Yönetim merkezinin yanı sıra, kuruluşunuzun cihazlarını kaydettirmek ve yönetmek için Intune 'u kullanabilirsiniz. Daha fazla bilgi için, [Intune tarafından yönetilen cihazların](https://docs.microsoft.com/intune/enrollment-options)Windows cihazları ve kayıt seçenekleri [için kayıt yöntemine göre Capabilities](https://docs.microsoft.com/intune/enrollment/enrollment-method-capab) bölümüne bakın.
+Yönetim merkezine ek olarak, intune'u kullanarak kurum cihazlarınızı da kaydettirebilirsiniz. Daha fazla bilgi için Windows [cihazları için kayıt yöntemine göre](/intune/enrollment/enrollment-method-capab) özelliklere ve Intune tarafından yönetilen cihazlar için Kayıt [seçeneklerine bakın.](/intune/enrollment-options)

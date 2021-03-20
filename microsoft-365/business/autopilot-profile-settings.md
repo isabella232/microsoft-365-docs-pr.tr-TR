@@ -29,32 +29,31 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 99bfbf81-e719-4630-9b0f-c187edfa1f8a
-description: Otomatik Pilot profilleri, Windows'un kullanıcı aygıtlarına nasıl yükleniyi denetlemenize yardımcı olur. Profiller Cortana yüklemesini atla gibi varsayılan ve isteğe bağlı ayarlar içerir.
-ms.openlocfilehash: 100de5e9548f901008d3ae154ac5a237ef265ffb
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: AutoPilot profilleri, Windows'un kullanıcı cihazlarına nasıl yük olduğunu denetlemeye yardımcı olur. Profiller, Cortana yüklemesini atlama gibi varsayılan ve isteğe bağlı ayarlar içerir.
+ms.openlocfilehash: be10e0e1c8c96ce05aab8526d2010313662ed5f2
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401044"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913388"
 ---
 # <a name="about-autopilot-profile-settings"></a>AutoPilot Profili ayarları hakkında
 
-## <a name="autopilot-profile-settings"></a>Otomatik Pilot profil ayarları
+## <a name="autopilot-profile-settings"></a>AutoPilot profil ayarları
 
-Windows'un kullanıcı aygıtlarına nasıl yüklenirdenetlemek için Otomatik Pilot profillerini kullanabilirsiniz. Profiller aşağıdaki ayarları içerir.
+Kullanıcı cihazlarına Windows'un nasıl yük olduğunu kontrol etmek için AutoPilot profillerini kullanabilirsiniz. Profiller aşağıdaki ayarları içerir.
   
- **Otomatik Olarak ayarlanan Otomatik Pilot varsayılan özellikleri (gereklidir) :**
+ **Otomatik olarak ayarlanmış AutoPilot varsayılan özellikleri (gerekli):**
   
 |**Ayar**|**Açıklama**|
 |:-----|:-----|
-|Cortana, OneDrive ve OEM kaydını atla  <br/> |Cortana ve kişisel OneDrive gibi tüketici uygulamalarının yüklenmesini atlar. Aygıt kullanıcısı, aygıtta yerel bir yönetici olduğu sürece bunları daha sonra yükleyebilir. Aygıt Microsoft 365 Business Premium tarafından yönetilecektir, çünkü orijinal üretici kaydı atlanır.  <br/> |
-|Şirket markanızla deneyim de oturum açın  <br/> |Şirketinizin Microsoft [365 Oturum Açma sayfasına şirket markanızı ekle'ye](https://docs.microsoft.com/microsoft-365/admin/setup/customize-sign-in-page)sahipse, aygıt kullanıcısı oturum açken bu deneyimi yaşar.  <br/> |
-|Yapılandırılmış AAD hesapları ile MDM otomatik kayıt.  <br/> |Kullanıcı kimliği Azure Active Directory tarafından yönetilecek ve kullanıcılar Microsoft 365 Business Premium kimlik bilgileriyle Windows ve Microsoft 365'te oturum açacaktır.  <br/> |
+|Cortana, OneDrive ve OEM kaydını atlama  <br/> |Cortana ve kişisel OneDrive gibi tüketici uygulamalarının yüklemesini atlar. Kullanıcı cihazda yerel yönetici olduğu sürece cihaz kullanıcısı bunları daha sonra yükleyebilir. Cihaz Microsoft 365 İş Ekstra tarafından yönetilecek olduğundan orijinal üretici kaydı atlanır.  <br/> |
+|Şirket markanız ile oturum açma deneyimi  <br/> |Şirketinizin Microsoft [365](../admin/setup/customize-sign-in-page.md)Oturum Açma sayfasına şirket markası eklemesi varsa, cihaz kullanıcısı oturum aken bu deneyimi edinecektir.  <br/> |
+|Yapılandırılmış AAD hesaplarıyla MDM otomatik kaydı.  <br/> |Kullanıcı kimliği Azure Active Directory tarafından yönetiliyor ve kullanıcılar Windows ve Microsoft 365'te Microsoft 365 İş Ekstra kimlik bilgileriyle oturum aecek.  <br/> |
    
  **İsteğe bağlı ayarlar:**
   
 |**Ayar**|**Açıklama**|
 |:-----|:-----|
-|Gizlilik ayarlarını atla (Varsayılan olarak kapalı)  <br/> |Bu seçenek **Açık**olarak ayarlanmışsa, aygıt kullanıcısı ilk giriş yaptığında aygıt ve Windows için lisans sözleşmesini görmez.  <br/> |
-|Kullanıcının yerel yönetici olmasına izin verme  <br/> |Bu seçenek A.B.D. olarak ayarlanmışsa, aygıt kullanıcısı Cortana gibi herhangi bir kişisel uygulama yükleyemez. **On**<br/> |
-   
+|Gizlilik ayarlarını atla (Varsayılan olarak kapalı)  <br/> |Bu seçenek Açık olarak **ayarlanırsa,** cihaz kullanıcısı ilk kez oturum anlaşmayı kabul etmek için cihaz ve Windows lisans sözleşmesini görmez.  <br/> |
+|Kullanıcının yerel yönetici olmasına izin verme  <br/> |Bu seçenek Açık olarak **ayarlanırsa,** cihaz kullanıcısı Cortana gibi hiçbir kişisel uygulama yükleyemz.<br/> |

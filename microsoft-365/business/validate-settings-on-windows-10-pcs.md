@@ -25,48 +25,46 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: İş uygulaması koruma ayarları için Microsoft 365'in kullanıcılarınızın Windows 10 aygıtlarında etkili olduğunu nasıl doğrulayabilirsiniz öğrenin.
-ms.openlocfilehash: 39aee3bc811cb0090d58f9a282de7a8162c097b3
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Kullanıcılarınızı Windows 10 cihazlarında Microsoft 365 İş uygulama koruma ayarlarının geçerli olduğunu doğrulamayı öğrenin.
+ms.openlocfilehash: ff99b3a4fce49aebdb5c72f51e46678a7821e186
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403600"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912424"
 ---
-# <a name="validate-device-protection-settings-on-windows-10-pcs"></a>Windows 10 bilgisayarlarında aygıt koruma ayarlarını doğrulama
+# <a name="validate-device-protection-settings-on-windows-10-pcs"></a>Windows 10 bilgisayarlarda cihaz koruma ayarlarını doğrulama
 
-## <a name="verify-that-windows-10-device-policies-are-set"></a>Windows 10 aygıt ilkelerinin ayarlı olduğunu doğrulama
+## <a name="verify-that-windows-10-device-policies-are-set"></a>Windows 10 cihaz ilkelerinin ayar olduğunu doğrulama
 
-[Aygıtlar ilkelerini ayarladıktan](protection-settings-for-windows-10-pcs.md)sonra, ilkenin kullanıcıların aygıtları üzerinde etkili olması birkaç saat kadar sürebilir. Kullanıcıların cihazlarındaki çeşitli Windows Ayarları ekranlarına bakarak ilkelerin etkili olduğunu doğrulayabilirsiniz. Kullanıcılar Windows 10 cihazlarında Windows Update ve Windows Defender Antivirus ayarlarını değiştiremeyeceğinden, birçok seçenek gri renkte olacaktır.
+Cihaz [ilkelerini ayardikten](protection-settings-for-windows-10-pcs.md)sonra, ilkenin kullanıcıların cihazlarında etkili olarak yer almaları birkaç saat kadar sürebilir. İlkelerin, kullanıcıların cihazlarında çeşitli Windows Ayarları ekranlarına bakarak etkili olduğunu onaylayın. Kullanıcılar Windows 10 cihazlarında Windows Update ve Windows Defender Virüsten Koruma ayarlarını değiştiremayacaklarından, birçok seçenek gri görünür.
   
-1. Ayarlar **Settings** \> **Güvenlik &amp; Güncelleştirme** Windows \> **Update** Yeniden \> **Başlatma seçeneklerine** gidin ve tüm ayarların gri renkte olduğunu onaylayın. 
+1. Ayarlar  \> **Güncelleştirmesi &amp; güvenlik** \> **Windows Update Yeniden** Başlatma \> **seçeneklerine** gidin ve tüm ayarların gri renkte görüntüde olduğunu onaylayın. 
     
-    ![Tüm Yeniden Başlatma seçenekleri gri renkte.](../media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
+    ![Tüm Yeniden Başlatma seçenekleri gri görünür.](../media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
   
-2. Ayarlar **Settings** \> **Güvenlik &amp; Güncelleştirme** Windows \> **Update** \> **Gelişmiş seçeneklerine** gidin ve tüm ayarların gri renkte olduğunu onaylayın. 
+2. Ayarlar  \> **Güncelleştirmesi &amp; güvenliği** \> **Windows Update Gelişmiş** \> **seçeneklerine** gidin ve tüm ayarların gri olduğunu onaylayın. 
     
-    ![Windows Advanced güncelleştirmeleri seçeneklerinin tümü gri renktedir.](../media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
+    ![Windows Gelişmiş güncelleştirme seçeneklerinin hepsi gri görünür.](../media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
   
-3. **Ayarlar** Güncelleştirme \> ** &amp; güvenliğiwindows** \> **update** \> **Gelişmiş seçeneklerine** gidin \> **Güncelleştirmelerin nasıl teslim edilebildiğini seçin.**
+3. Ayarlar **Güncelleştirmesi** \> **güvenliği Windows Update &amp;** \> **Gelişmiş seçeneklerine** gidin \>  \> **Güncelleştirmelerin nasıl teslim alınarak teslim edileceklerini seçin.**
     
-    Bazı ayarların kuruluşunuz tarafından gizlendiğini veya yönetildiğini ve tüm seçeneklerin gri renkte olduğunu iletisini (kırmızı renkte) görebileceğinizi doğrulayın.
+    Bazı ayarların kuruluş tarafından gizlenmiş veya yönetiliyor olduğunu ve tüm seçeneklerin gri renkte olduğunu (kırmızı renkle) gördüğünüzden emin olun.
     
-    ![Ayarların kuruluşunuz tarafından gizlenip yönetildiğini belirten sayfanın nasıl teslim edileceğini seçin.](../media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
+    ![Güncelleştirmelerin nasıl teslim edilir sayfasında ayarların gizli olduğunu veya kuruluş tarafından yönetil olduğunu seçin.](../media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
   
-4. Windows Defender Güvenlik Merkezi'ni açmak için **Ayarlar** \> **Güncelleştirme &amp; güvenlik** \> **Windows Defender'a** gidin Windows Defender Güvenlik Merkezi Virüs iş parçacığı \> koruması virüs tehdit koruma **Open Windows Defender Security Center** \> ** &amp; ** \> ** &amp; ayarlarını**açın' ı tıklatın. 
+4. Windows Defender Güvenlik Merkezi'ne  gitmek için Windows Defender'ın Ayarlar Güncelleştirmesi güvenliğine gidin, Windows Defender Güvenlik Merkezi Virüs iş parçacığı koruması Virüs tehdit koruması ayarlarını \> **&amp;** \>  \>  \> **&amp;** \> **&amp; aç'a tıklayın.** 
     
 5. Tüm seçeneklerin gri renkte olduğunu doğrulayın. 
     
-    ![Virüs ve tehdit koruma ayarları gri.](../media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
+    ![Virüs ve tehdit koruması ayarları gri görünür.](../media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
   
 ## <a name="related-topics"></a>İlgili Konular
 
-[İş belgeleri ve kaynakları için Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=853701)
+[İşletmeler için Microsoft 365 belgeleri ve kaynakları](./index.yml)
   
-[İşletmeler için Microsoft 365 ile başlayın](microsoft-365-business-overview.md)
+[Microsoft 365 İş ile çalışmaya başlama](microsoft-365-business-overview.md)
   
-[İşletmeler için Microsoft 365'i yönetin](manage.md)
+[Microsoft 365 İş'i yönetme](manage.md)
   
 [Windows 10 bilgisayarlarında cihaz yapılandırmalarını ayarlama](protection-settings-for-windows-10-pcs.md)
-  
-

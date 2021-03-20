@@ -24,12 +24,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Microsoft 365'in yalnızca birkaç adımda Active Directory'ye katılmış yerel Windows 10 cihazlarını korumayı nasıl etkinleştirebilirsiniz?
-ms.openlocfilehash: 0b597110447272be128bfe1866234ac25a8e67e6
-ms.sourcegitcommit: 070724118be25cd83418d2a56863da95582dae65
+ms.openlocfilehash: 82d4ac3f1d6aba9489f9ea153de3a3d2083b47ec
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50407088"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913204"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Etki alanına katılmış Windows 10 cihazlarını Microsoft 365 İş Ekstra tarafından yönetillerini etkinleştirme
 
@@ -57,9 +57,9 @@ Uç Nokta [Yöneticisi'ne](https://endpoint.microsoft.com/#blade/Microsoft_Intun
 
 ## <a name="2-verify-azure-ad-is-enabled-for-joining-computers"></a>2. Bilgisayarları birleştirme için Azure AD'nin etkinleştirildiğinden emin olun
 
-- Yönetim merkezi listesinden yönetim merkezine gidin ve Azure Active Directory'yi seçin (Azure Active Directory görünür durumda değilse hepsini <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> **göster'i** seçin).  
+- Yönetim merkezleri listesinden yönetim merkezine gidin ve Azure Active Directory'yi seçin (Azure Active Directory görünür durumda değilse hepsini <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> **göster'i** seçin).  
 - Azure **Active Directory yönetim merkezinde,** **Azure Active Directory'ye** gidin, Cihazlar'ı **ve ardından** Cihaz **ayarlarını seçin.**
-- Kullanıcıların **cihazları Azure AD'ye katılanın etkinleştiril** olduğunu doğrulama 
+- Kullanıcıların **cihazları Azure AD'ye katılanın etkinleştirildiğinden** emin olun 
     1. Tüm kullanıcıları etkinleştirmek için, All olarak **ayarlayın.**
     2. Belirli kullanıcıları etkinleştirmek için, belirli bir **kullanıcı grubunu** etkinleştirmek üzere Seçili olarak ayarlayın.
         - Azure AD'de eşitlenen istenen etki alanı kullanıcılarını bir güvenlik [grubuna ekleyin.](../admin/create-groups/create-groups.md)
@@ -78,7 +78,7 @@ Uç Nokta [Yöneticisi'ne](https://endpoint.microsoft.com/#blade/Microsoft_Intun
 
 ## <a name="4-create-the-required-resources"></a>4. Gerekli kaynakları oluşturma 
 
-Karma [Azure AD](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join) birleştirmesini yapılandırmak için gereken görevlerin gerçekleştirilip [SecMgmt](https://www.powershellgallery.com/packages/SecMgmt) PowerShell modülünde bulunan [Initialize-SecMgmtHybirdDeviceEnrollment](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) cmdlet'i kullanımı basitleştirildi. Bu cmdlet'i çağırıldığında, gerekli hizmet bağlantı noktası ve grup ilkesi oluşturularak yapılandırılır.
+Karma [Azure AD](/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join) birleştirmesini yapılandırmak için gereken görevlerin gerçekleştirilip [SecMgmt](https://www.powershellgallery.com/packages/SecMgmt) PowerShell modülünde bulunan [Initialize-SecMgmtHybirdDeviceEnrollment](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) cmdlet'i kullanımı basitleştirildi. Bu cmdlet'i çağırıldığında, gerekli hizmet bağlantı noktası ve grup ilkesi oluşturularak yapılandırılır.
 
 Bir PowerShell örneğinden aşağıdakini kullanarak bu modülü yükleyebilirsiniz:
 

@@ -1,5 +1,5 @@
 ---
-title: İşletmeler için Microsoft 365'e sahip cihazlardaki verileri korumak için ön koşullar
+title: Microsoft 365 İş ile cihazlardaki verileri korumak için önkoşullar
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -21,32 +21,32 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
-description: İş için Microsoft 365 ile kuruluş ayarlama ve kullanıcılarınızın cihazlarındaki iş verilerini koruma gereksinimleri hakkında bilgi edinin.
-ms.openlocfilehash: 237825d2c2683bb6e71ae2fd31f8a25b1aa85ff7
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+description: Microsoft 365 İş ile kurum ayarlama gereksinimleri ve kullanıcı cihazlarında iş verilerini koruma hakkında bilgi edinebilirsiniz.
+ms.openlocfilehash: c0fca0e038d15b19cb2a37eb5705296ed3da3746
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44785902"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912912"
 ---
-# <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-for-business"></a>İşletmeler için Microsoft 365'e sahip cihazlardaki verileri korumak için ön koşullar
+# <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-for-business"></a>Microsoft 365 İş ile cihazlardaki verileri korumak için önkoşullar
 
-Bu makale Microsoft 365 Business Premium için geçerlidir.
+Bu makale Microsoft 365 İş Ekstra için geçerlidir.
 
-İş için Microsoft 365 ile kuruluşunuzu kurmanın ilk adımı, ön koşulları karşılayabildiğinizden emin olmaktır.
+İş için Microsoft 365 ile kurum ayarlamanın ilk adımı, önkoşulları karşılaya hazır olduğundan emin olmaktır.
   
-## <a name="requirements-for-setting-up-your-organization-with-microsoft-365-for-business"></a>Kuruluşunuzu iş için Microsoft 365 ile kurma gereksinimleri
+## <a name="requirements-for-setting-up-your-organization-with-microsoft-365-for-business"></a>Microsoft 365 İş ile organizasyonlarınızı ayarlama gereksinimleri
 
 - Windows cihazlarının Windows 7 Professional, Windows 8 Pro veya Windows 8.1 Pro sistemlerinden birini çalıştırıyor olması gerekir.
     
     [Windows cihazları Windows Pro Creators Update sürümüne yükseltme](upgrade-to-windows-pro-creators-update.md)
     
-    Windows 10 Home çalıştırıyorsanız, Windows 10 Pro **satın** almalısınız. Talimatlar için [Windows 10 Home'dan Windows 10 Pro'ya yükseltme](https://support.microsoft.com/office/0aee10c1-4d34-43ee-a325-579c6c2df90e) konusuna bakın. 
+    Windows 10 Home çalıştırdıysanız Windows  10 Pro satın alasanız iyi olur. Yönergeler [için Windows 10 Home'u Windows 10 Pro'ya](https://support.microsoft.com/office/0aee10c1-4d34-43ee-a325-579c6c2df90e) yükseltmeye bakın. 
     
-- Cihazları mobil yönetim çözümlerinden (Mobil Demir, AirWatch vb.) kaldırın. İş mobil yönetimi için kuruluşunuzdaki tüm kişileri Microsoft 365'e kaydedeceksiniz.
+- Mobil yönetim çözümlerinden cihazları kaldırın (Mobile Iron, AirWatch, vb.). İşletmeler için Microsoft 365 mobil yönetimine, organizasyon 365'te yer alan tüm kişilerin kaydını yaptıran siz oluruz.
     
 - Apple iOS 8.0 ve üzeri
     
-    Google Android 4.0 ve sonrası (Samsung KNOX Standart 4.0 ve üzeri dahil). Daha fazla bilgi için [Intune destekli aygıtlar'a](https://go.microsoft.com/fwlink/p/?linkid=852307)bakın.
+    Google Android 4.0 ve sonrası (Samsung KNOX Standard 4.0 ve sonrası dahil). Daha fazla bilgi için [Intune tarafından desteklenen cihazlara bakın.](/mem/intune/fundamentals/supported-devices-browsers)
     
-- Kullanıcı bilgisayarlarında varolan Office uygulamalarınız varsa, iş için Office 2016'yı kullanıcı bilgisayarlarına yüklemek üzere microsoft 365'i ayarlamadan önce uygulamanız gerekebilecek adımları anlamak [için Office istemci yüklemesine hazırla'yı](prepare-for-office-client-deployment.md) okuyun. 
+- Kullanıcı bilgisayarlarında mevcut Office uygulamaları [](prepare-for-office-client-deployment.md) varsa, Microsoft 365 İş'i office 2016'nın kullanıcı bilgisayarlarına yüklenmesi için ayarlamadan önce atılması gereken adımları anlamak için Office istemci yükleme hazırlığı makalesini okuyun.

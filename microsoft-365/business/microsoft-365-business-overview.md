@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Office üretkenlik uygulamalarını ve işletmeniz için sanal tehlikelere karşı gelişmiş korumayı içeren bir abonelik hizmeti olan Microsoft 365 İş Ekstra hakkında bilgi edinin.
-ms.openlocfilehash: e67ae036bf3ce7811f19c8745838bb51dde073ea
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: aa6e313f0f3db1c3401836c3e1737c219fcf6c3a
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48842190"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913012"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra’ya Genel Bakış
 
@@ -48,9 +48,9 @@ Microsoft 365 İş Ekstra’ya hızlı bir genel bakış için bu videoyu izleyi
   
 Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
 
-Microsoft 365 İş Ekstra, en fazla 300 lisans için uygundur. Daha fazla lisansa ihtiyacınız varsa daha fazla bilgi için [Microsoft 365 Kurumsal](https://go.microsoft.com/fwlink/p/?linkid=860986) belgelerine göz atın.
+Microsoft 365 İş Ekstra, en fazla 300 lisans için uygundur. Daha fazla lisansa ihtiyacınız varsa daha fazla bilgi için [Microsoft 365 Kurumsal](../enterprise/index.yml) belgelerine göz atın.
 
-Tüm özellik listesi için [Microsoft 365 İş Ekstra hizmet açıklamasına](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) göz atın.
+Tüm özellik listesi için [Microsoft 365 İş Ekstra hizmet açıklamasına](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) göz atın.
   
 ## <a name="small-business-security-needs"></a>Küçük işletmelerin güvenlik ihtiyaçları
 
@@ -103,7 +103,7 @@ Microsoft 365 İş Ekstra, tehditlere karşı şu şekilde **koruma** sağlar:
 
 - Kuruluşunuzdaki tüm Windows 10 bilgisayarlarının ilkelerini yönetmek için basitleştirilmiş denetimleri kullanma, BitLocker şifrelemesini zorunlu tutma ve kritik Windows güncelleştirmelerini otomatik olarak yükleme (Windows güncelleştirme ilkelerini zorunlu kılma).
 
-Güvenlik özelliklerinin tam listesini görmek için, bkz. [Microsoft 365 İş Ekstra güvenlik özellikleri](security-features.md). [Microsoft 365 İş Ekstra’yı kurma](set-up.md) işleminden sonra, rehberli kurulumun parçası olmayan güvenlik özelliklerini kullanmaya başlamak için [tehdit korumasını artırma](increase-threat-protection.md) ve [uyumluluk özelliklerini ayarlama](set-up-compliance.md) konularına bakın. Ayrıca siber suçlulara ve korsanlara karşı koruma ayarlama ile ilgili ayrıntılı bir genel bakış için [Office 365 ve Microsoft 365 İş Ekstra planlarının güvenliğini sağlamanın en iyi 10 yolu](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) makalesini okuyun.
+Güvenlik özelliklerinin tam listesini görmek için, bkz. [Microsoft 365 İş Ekstra güvenlik özellikleri](security-features.md). [Microsoft 365 İş Ekstra’yı kurma](set-up.md) işleminden sonra, rehberli kurulumun parçası olmayan güvenlik özelliklerini kullanmaya başlamak için [tehdit korumasını artırma](increase-threat-protection.md) ve [uyumluluk özelliklerini ayarlama](set-up-compliance.md) konularına bakın. Ayrıca siber suçlulara ve korsanlara karşı koruma ayarlama ile ilgili ayrıntılı bir genel bakış için [Office 365 ve Microsoft 365 İş Ekstra planlarının güvenliğini sağlamanın en iyi 10 yolu](/office365/admin/security-and-compliance/secure-your-business-data) makalesini okuyun.
 
 ## <a name="get-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra’yı edinin
 

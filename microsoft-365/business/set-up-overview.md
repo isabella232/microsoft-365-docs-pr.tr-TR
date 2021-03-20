@@ -26,73 +26,73 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: Microsoft 365 Business Premium için kurulum adımlarını, abone olmak, etki alanı ve kullanıcıları eklemeye, güvenlik ilkelerini ayarlamayı ve daha fazlasını öğrenin.
-ms.openlocfilehash: 46370166a9d5e8c9308b8947513e631c159f0b86
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+description: Aboneden etki alanı ve kullanıcı eklemeye, güvenlik ilkelerini ayarlamaya ve daha birçok işlemi yapmak için Microsoft 365 İş Ekstra'ya yönelik kurulum adımlarını öğrenin.
+ms.openlocfilehash: 9d92aefb3b5666bb7c2fd2e13c9a00f074f107a7
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48842140"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912500"
 ---
 # <a name="overview-of-setup"></a>Kuruluma genel bakış
 
-Microsoft 365 Business Premium kurulumu hakkında kısa bir video izleyin.<br><br>
+Microsoft 365 İş Ekstra kurulumu hakkında kısa bir video izleyin.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4jZwg] 
 
 Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
-Kurulum adımlarının çoğu Kılavuzlu kurulumda yapılabilir, ancak diğer seçenekler de listelenir.
+Kurulum adımlarının çoğu kılavuzlu kurulumda yapılabilir, ancak diğer seçenekler de listelenir.
 
-## <a name="step-1-add-your-domain-and-users"></a>Adım 1: etki alanınızı ve kullanıcılarınızı ekleme
+## <a name="step-1-add-your-domain-and-users"></a>1. Adım: Etki alanınızı ve kullanıcılarınızı ekleme
 
-   - **[Etki alanınızı ekleyin](set-up.md#add-your-domain-to-personalize-sign-in)** ( [kaydolma](sign-up.md)sırasında etki alanınızı satın aldıysanız, bu adım zaten yapılır.)
+   - **[Etki alanınızı](set-up.md#add-your-domain-to-personalize-sign-in)** ekleyin (kayıt sırasında etki alanınızı [satın aldıysanız,](sign-up.md)bu adım zaten tamamdır.)
 
-   - **Kullanıcıları ekleyin**. Kullanıcıları üç şekilde ekleyebilirsiniz:
-        - [Kılavuzlu kurulumda](set-up.md#add-users-in-the-wizard).
-        - Şirket içi Active Directory 'niz varsa [Azure AD Connect 'i kullanarak kullanıcıları eklemek](https://docs.microsoft.com/microsoft-365/enterprise/set-up-directory-synchronization) için dizin eşitlemesi kullanın.
-        - Ayrıca, [daha sonra Yönetim merkezinde kullanıcı ekleyebilirsiniz](add-users-m365b.md) .
-## <a name="step-2-set-up-security-policies-and-configure-devices"></a>Adım 2: güvenlik ilkelerini ayarlama ve cihazları yapılandırma 
+   - **Kullanıcı ekle 'yi seçin.** Kullanıcıları şu üç şekilden herhangi birini eklemenin yolları vardır:
+        - Kılavuzlu [kurulumda.](set-up.md#add-users-in-the-wizard)
+        - Şirket içi Active [directory'niz varsa, Azure AD Connect](../enterprise/set-up-directory-synchronization.md) kullanarak kullanıcıları eklemek için dizin eşitlemesini kullanın.
+        - Kullanıcıları daha [sonra yönetim merkezinden](../admin/add-users/add-users.md) de ebilirsiniz.
+## <a name="step-2-set-up-security-policies-and-configure-devices"></a>2. Adım: Güvenlik ilkelerini ayarlama ve cihazları yapılandırma 
 
-  - Cihaz ilkelerini yapılandırmak için [Kılavuzlu kurulumu](set-up.md#protect-your-organization) kullanın. 
-  - Ayrıca, daha sonra [Yönetim merkezinde](view-policies-and-devices.md) ve [Intune portalında](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)daha fazla ekleyebilir veya düzenleyebilirsiniz.
-  - Kurulum Sihirbazı ayrıca temel tehdit koruması ve veri kaybı önleme ayarlarını da ayarlar.
+  - Cihaz ilkelerini [yapılandırmak için](set-up.md#protect-your-organization) kılavuzlu kurulumu kullanın. 
+  - Ayrıca, daha sonra yönetim merkezinde ve Intune [portalında](view-policies-and-devices.md) daha fazla ekleyebilir veya [bunları düzenleyebilirsiniz.](/intune/tutorial-walkthrough-intune-portal)
+  - Kurulum sihirbazı ayrıca temel tehdit koruması ve veri kaybı önleme ayarlarını da ayarlar.
   
-  Kurulum sihirbazındaki güvenlik ayarlarına ek olarak, aşağıdaki ayarları ekleyerek güvenliğinizi artırabilirsiniz:
+  Kurulum sihirbazında güvenlik ayarlarına ek olarak, aşağıdaki ayarları ekleyerek güvenliğinizi artırabilirsiniz:
 
-- **Eposta koruması**
-- **Office 365 Defender 'da kimlik avını önleme**
+- **E-posta kötü amaçlı yazılıma karşı koruma**
+- **Office 365 için Defender'da kimlik avı önleme**
 - **Exchange Online Arşivleme**
-- **Azure bilgi koruması (Plan1** )
+- **Azure Information Protection (Plan1**)
 
-Başlamak için [tehdit korumasını arttırın](increase-threat-protection.md) ve [uyumluluk özelliklerini ayarlayın](set-up-compliance.md).
+Başlamak için tehdit [korumasını artırmaya bakın](increase-threat-protection.md) [ve uyumluluk özelliklerini ayarlayın.](set-up-compliance.md)
 
-[Microsoft 365 Iş ekstra için güvenli](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) bir yol haritası-en iyi güvenlik uygulamaları
+En iyi [güvenlik uygulamalarının yol haritası için Microsoft 365 İş Ekstra'nızı](/office365/admin/security-and-compliance/secure-your-business-data) güvenli hale etmenin en iyi 10 yolunu da inceleyebilirsiniz.
 
-## <a name="step-3-set-up-and-manage-windows-10-devices"></a>Adım 3: Windows 10 cihazlarını ayarlama ve yönetme
+## <a name="step-3-set-up-and-manage-windows-10-devices"></a>3. Adım: Windows 10 cihazlarını ayarlama ve yönetme
 
-Kılavuzlu kurulumu tamamladıktan sonra, kuruluşunuzdaki tüm Windows 10 bilgisayarlarını korumanız gerekecektir.
+Rehberli kurulumu tamamlandıktan sonra, organizasyonınızdaki tüm Windows 10 bilgisayarlarını korumak istediğinizden emin olun.
   
-- Windows 10 Pro, Microsoft 365 Business Premium için bir [önkoşuldur](pre-requisites-for-data-protection.md) , ancak Windows 7 Pro, Windows 8 Pro veya Windows 8,1 Pro kullanıyorsanız, aboneliğiniz [Windows 10 Pro 'ya yükseltme](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update)yapmanız aboneliğiniz.
-- Windows 10 cihazlarında ilkeler ayarlamak için [Windows 10 bilgisayarlarında güvenli](secure-win-10-pcs.md) olan adımları izleyin.
+- Windows 10 Pro, Microsoft 365 İş Ekstra'nın önkoşullarıdır, ancak Windows 7 Pro, Windows 8 Pro veya Windows 8.1 Pro'nız varsa, aboneliğiniz [size Windows 10 Pro'ya](./upgrade-to-windows-pro-creators-update.md)yükseltme hakkı sağlar. [](pre-requisites-for-data-protection.md)
+- Windows [10 cihazlarına yönelik](secure-win-10-pcs.md) ilkeleri ayarlamak için güvenli Windows 10 bilgisayarlarında adımları izleyin.
 
-Windows 10 bilgisayarlarında bir Windows 10 aygıtına katıldığınızda, Windows 10 bilgisayarlarında ayarladığınız ilkeler buna uygulanır. Daha fazla bilgi için bkz: [Microsoft 365 kullanıcıları Için Windows cihazları ayarlama](set-up-windows-devices.md).
+Bir Windows 10 cihazına Azure AD'ye katılsanız, Windows 10 bilgisayarlar için ayarınızdaki ilkeler bu cihaza uygulanır. Daha fazla bilgi için bkz. [Microsoft 365 kullanıcıları](set-up-windows-devices.md)için Windows cihazlarını ayarlama.
 
-## <a name="step-4-install-microsoft-365-apps-for-business"></a>Adım 4: işletmeler için Microsoft 365 uygulamalarını yükleme
-- [Kurulum sihirbazını](set-up.md#deploy-office-365-client-apps)kullanarak Windows cihazlarında Office 'i otomatik olarak yükleyebilirsiniz.
-- Kullanıcıların Windows için [Office uygulamalarını](https://docs.microsoft.com/office365/admin/setup/install-applications) ve aygıtlarını yüklemesini sağlayın.
+## <a name="step-4-install-microsoft-365-apps-for-business"></a>4. Adım: Microsoft 365 İş Uygulamalarını yükleme
+- Kurulum sihirbazını kullanarak Windows cihazlarına Office'i otomatik [olarak yükleyebilirsiniz.](set-up.md#deploy-office-365-client-apps)
+- Kullanıcıların Windows [ve cihazlar için Office](/office365/admin/setup/install-applications) uygulamalarını yüklemesine izin verin.
      
 ## <a name="advanced"></a>Gelişmiş
-- **Yeni cihazları ayarlamak için Autopilot 'ı kullanma**
+- **Yeni cihazları ayarlamak için Autopilot'a kullanma**
             
-     [Windows Autopilot](add-autopilot-devices-and-profile.md) 'ı kullanarak bir kullanıcı için **Yeni** Windows 10 cihazlarını otomatik olarak yapılandırabilirsiniz, ancak bunu sizin için yapabileceği bir [iş ortağı](https://www.microsoft.com/solution-providers/search) almanız daha kolaydır. Ayrıca, [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598)'a gidebilir ve bir bulut teknoloji uzmanından satın aldığınız yeni cihazları kurulumunu isteyebilirsiniz.
+     Kullanıcının yeni Windows 10 cihazlarını  otomatik olarak önceden yapılandırmak için [Windows Autopilot'u](add-autopilot-devices-and-profile.md) [](https://www.microsoft.com/solution-providers/search) kullanabilirsiniz, ancak bunu sizin için yapacak bir iş ortağını almak daha kolay olabilir. Ayrıca Microsoft [Store'a gidip](https://go.microsoft.com/fwlink/?linkid=874598)bir bulut teknolojisi uzmanının satın aldığınız yeni cihazları ayarlamalarını da sebilirsiniz.
 
 - **Şirket içi kaynaklara erişme**
 
-     - Kuruluşunuzda Windows Server Active Directory 'yi şirket içinde kullanıyorsanız, Microsoft 365 Iş ekstra 'ı, yerel kimlik doğrulaması gerektiren şirket içi kaynaklara erişimi sürdürmeye devam ederken Windows 10 aygıtlarınızı korumak için ayarlayabilirsiniz. Bu ayarı ayarlamak için [etki alanı odaklı Windows 10 aygıtlarının Microsoft 365 Iş ekstra tarafından yönetilmesini sağlama](manage-windows-devices.md) konusundaki adımları izleyin. Bu tercih edilen yöntemdir ve bu durumdaki cihazlar karma Azure AD birleştirilmiş cihazları olarak adlandırılır.
+     - Kuruluşta Windows Server Active Directory şirket içi kullanıyorsa, Windows 10 cihazlarınızı korumak için Microsoft 365 İş Ekstra'nın ayarlamasını yaparken, yerel kimlik doğrulaması gerektiren şirket içi kaynaklara erişimi de koruyabilirsiniz. Bu ayarı yapmak [için etki alanına katılmış Windows 10 cihazlarını Microsoft 365 İş Ekstra](manage-windows-devices.md) tarafından yönetilsin. Tercih edilen yöntem budur ve bu durumdaki cihazlar Karma Azure AD'ye katılmış cihazlar olarak adlandırılan cihazlar.
 
-    - İşletmenizde bazı şirket içi kaynaklar (dosya paylaşımları ve yazıcılar gibi) içeren yerel bir Active Directory varsa, buradaki adımları izleyerek Azure AD-birleştirilmiş cihazlarınıza bu kaynaklara erişim sağlayabilirsiniz: [Microsoft 365 Business Premium 'Da Azure AD 'a katılmış cihazından şirket içi kaynaklara erişim](access-resources.md)sağlayabilirsiniz.
+    - İşletmenizin bazı şirket içi kaynakları (dosya paylaşımları ve yazıcılar gibi) içeren yerel bir Active Directory'si varsa, Azure AD'ye katılmış cihazlarınıza şu adımları takip edin: [Microsoft 365 Business Premium'da Azure AD'ye](access-resources.md)katılmış bir cihazdan şirket içi kaynaklara erişme.
 
 ## <a name="see-also"></a>Ayrıca bkz.
 
-[Microsoft 365 iş eğitim videoları](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[İş için Microsoft 365 eğitim videoları](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
