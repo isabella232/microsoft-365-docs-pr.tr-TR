@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: BILGISAYAR, telefon ve tabletlerde verilerinizi korumaya yardımcı olmak için Microsoft 365 İş Ekstra ile birlikte gelen güvenlik özellikleri hakkında bilgi alın.
-ms.openlocfilehash: 74a22b654e60e4a980e397598117bb4c435e833b
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: d641fc66e27f3c5e0a7c8609e4fa25fac93d8561
+ms.sourcegitcommit: 956176ed7c8b8427fdc655abcd1709d86da9447e
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912560"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51052264"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Microsoft 365 İş Ekstra güvenlik ve uyumluluk özellikleri
 
@@ -45,7 +45,7 @@ Yönetim merkezinde microsoft 365 İş Ekstra güvenlik özelliklerinin çoğunu
     
 - [Windows 10 cihazları için uygulama koruma ayarlarını yapın.](protection-settings-for-windows-10-devices.md) 
     
-    Bu ayarlar hem şirkete ait olan hem de kişisel olarak sahip olunan cihazlardaki şirket verilerine uygulanabilir.
+    Bu ayarlar hem şirkete ait hem de kişisel olarak sahip olunan cihazlardaki şirket verilerine uygulanabilir.
     
 - [Windows 10 cihazları için cihaz koruma ayarlarını yapın.](protection-settings-for-windows-10-pcs.md) 
     
@@ -63,21 +63,21 @@ Yönetim merkezinde microsoft 365 İş Ekstra güvenlik özelliklerinin çoğunu
 
 Microsoft 365 İş Ekstra'daki gelişmiş özellikler, siber tehditlere karşı işlerinizi korumanıza ve hassas bilgileri korumaya yardımcı olmak için kullanılabilir.
   
-- **[Office 365 için Microsoft Defender](../security/office-365-security/office-365-atp.md)**
+- **[Office 365 için Microsoft Defender](../security/defender-365-security/defender-for-office-365.md)**
     
     Office 365 için Microsoft Defender, çalışan veya müşteri bilgilerini tehlikeye atarak tasarlanmış gelişmiş kimlik avı ve fidye yazılımı saldırılarına karşı işlerinizi korumanıza yardımcı olur. Özellikler şunlardır:
     
-  - Tehlikeli iletileri tespit etmek ve atmak için gelişmiş ek tarama ve yapay zeka destekli çözümleme.
+  - Tehlikeli iletileri tespit etmek ve atmak için gelişmiş ek taraması ve yapay zeka destekli çözümleme.
     
   - Kimlik avı düzeninin bir parçası olup olmadığını değerlendirmek için e-postada bağlantıların otomatik denetimleri. Bu, güvenli olmayan web sitelerine erişmenizi sağlar.
 
 - **[Azure portalında Intune'ın tüm özellikleri](/mem/intune/fundamentals/what-is-intune)**
     
-    Azure portalında Intune yönetim merkezine erişim, MacOS cihazları, iPhone ve Android cihazlarının yönetimi gibi ek güvenlik özellikleri ayarlamanın yanı sıra Microsoft 365 yönetim merkezi aracılığıyla edinilen Windows için gelişmiş cihaz yönetimi de ayarlamaya olanak tanır.
+    Azure portalında Intune yönetim merkezine erişim, MacOS cihazları, iPhone ve Android cihazlarının yönetimi gibi ek güvenlik özelliklerini ayarlamanın yanı sıra Microsoft 365 yönetim merkezi aracılığıyla edinilen Windows için gelişmiş cihaz yönetimi de ayarlamaya olanak tanır.
 - **Azure AD [Premium](/azure/active-directory/conditional-access/overview) P1 planıyla aynı Koşullu Erişim**
 
 
-    Koşullu Erişim, kuruma oturum açma risklerinden, beklenmeyen bir ağ veya yerel bağlantıdan erişim girişimlerine, riskli cihaz türlerinden erişim girişimlerine, bu türlere erişmeye yardımcı olabilir. Koşullu Erişim ilkeleri, ilk kimlik doğrulaması tamamlandıktan sonra uygulanır ve ilk kimlik doğrulama olayından gelen sinyalleri kullanarak, denenen erişimin onaylandır mı, redded mi olacağını veya daha fazla kanıt (ikinci kimlik formu gibi) gerek olup olmadığını belirler.
+    Koşullu Erişim, kuruma oturum açma risklerinden, beklenmeyen bir ağ veya yerel bağlantıdan erişim girişimlerine, riskli cihaz türlerinden erişim girişimlerine ve buna gibi çeşitli risklerden korunmanıza yardımcı olabilir. Koşullu Erişim ilkeleri, ilk kimlik doğrulaması tamamlandıktan sonra uygulanır ve ilk kimlik doğrulama olayından gelen sinyalleri kullanarak, denenen erişimin onaylandır mı, redded mi olacağını veya daha fazla kanıt (ikinci kimlik formu gibi) gerek olup olmadığını belirler.
 
     Koşullu erişim özellikleri şunlardır:
 
@@ -86,7 +86,7 @@ Microsoft 365 İş Ekstra'daki gelişmiş özellikler, siber tehditlere karşı 
     - [Konuma göre erişim](/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration);  yalnızca güvenilen IP aralıklarından veya belirli ülkelerden erişime izin ver 
     - Erişim için MFA gerektirme
     - Eski kimlik doğrulamayı kullanan [uygulamalara erişimi engelleme](/azure/active-directory/conditional-access/block-legacy-authentication)
-    - Uygulamaların [Intune uygulama korumasını kullanmalarını gerektirme](/azure/active-directory/conditional-access/app-protection-based-conditional-access)
+    - Uygulamaların [Intune uygulama korumasını kullanmasını gerektirme](/azure/active-directory/conditional-access/app-protection-based-conditional-access)
     - Üçüncü taraf sağlayıcılarla MFA gibi özel kimlik doğrulaması (DUO gibi).
    
     Diğer özellikler:
@@ -102,11 +102,11 @@ Microsoft 365 İş Ekstra aboneliğiniz, uyumluluk ve mevzuat standartlarını k
     
 - **[Exchange Online Arşivleme](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)**
     
-    Exchange Online Arşivleme lisansı, sürekli veri yedeklemeyle iletilerin kolayca arşivlenmesine olanak sağlar. Daha sonra keşif veya geri yükleme için gerekli olduğu durumlara karşı silinmiş öğeler de dahil olmak üzere kullanıcının tüm e-postalarını depolar. Buna ek olarak, mahkeme tutma, eBulma veya uyumluluk gereksinimlerini karşılamak için e-posta verilerini korumak için farklı bekletme ilkeleri kullanabilirsiniz.
+    Exchange Online Arşivleme lisansı, sürekli veri yedeklemeyle iletilerin kolayca arşivlenmesine olanak sağlar. Daha sonra keşif veya geri yükleme için gerekli olduğu durumlara karşı silinmiş öğeler de dahil olmak üzere kullanıcının tüm e-postalarını depolar. Buna ek olarak, mahkeme tutma, eBulma veya uyumluluk gereksinimlerini karşılamak üzere e-posta verilerini korumak için farklı bekletme ilkeleri kullanabilirsiniz.
     
 - **[Duyarlılık etiketleri](../compliance/sensitivity-labels.md)**
 
-   Microsoft 365 İş Ekstra, [Azure Information Protection Plan 1'in tüm özelliklerini içerir.](https://go.microsoft.com/fwlink/p/?linkid=871407) Bu planla, e-posta ve belgelerde "İ iletme" ve "Kopyalama" gibi denetimlerle hassas bilgilere erişimi denetlemenizi sağlayan Duyarlılık etiketleri oluşturabilirsiniz.  Ayrıca hassas bilgileri "Gizli" olarak sınıflandırabilir ve sınıflandırılmış bilgilerin işletme içinde ve dışında nasıl paylaşıla olacağını belirtebilirsiniz. Kurumsal sınıf şifreleme, e-posta ve belgelere kolayca uygulanarak, bilgilerin gizli tutabilirsiniz. Office uygulamaları için Azure Information Protection istemci eklentisini de yükleyebilirsiniz. Daha fazla bilgi için [Azure Information Protection birleşik etiketleme istemcisine bakın.](/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) Duyarlılık etiketleri için etiketi **AzInfoProtection_UL.exe.**
+   Microsoft 365 İş Ekstra, [Azure Information Protection Plan 1'in tüm özelliklerini içerir.](https://go.microsoft.com/fwlink/p/?linkid=871407) Bu planla, e-posta ve belgelerde "İ iletme" ve "Kopyalama" gibi denetimlerle hassas bilgilere erişimi denetlemenizi sağlayan Duyarlılık etiketleri oluşturabilirsiniz.  Ayrıca hassas bilgileri "Gizli" olarak sınıflandırabilir ve sınıflandırılmış bilgilerin işletme dışında ve iş içinde nasıl paylaşıla olacağını belirtebilirsiniz. Kurumsal sınıf şifreleme, e-posta ve belgelere kolayca uygulanarak, bilgilerin gizli tutabilirsiniz. Office uygulamaları için Azure Information Protection istemci eklentisini de yükleyebilirsiniz. Daha fazla bilgi için [Azure Information Protection birleşik etiketleme istemcisine bakın.](/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) Duyarlılık etiketleri için etiketi **AzInfoProtection_UL.exe.**
 
 Bu özellikleri Güvenlik Uyumluluk merkezi ve &amp; Intune yönetim merkezinde yönetsiniz. Zamanla basitleştirilmiş denetimler Microsoft 365 yönetim merkezine eklenecektir.
   

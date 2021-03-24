@@ -29,13 +29,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: Etki alanı ve kullanıcı ekleme, güvenlik ilkelerini ayarlama ve daha fazlası dahil olmak üzere Microsoft 365 İş Ekstra için kurulum adımlarını keşfedin.
-ms.openlocfilehash: 5b082e78f3dc4067dcce4a96a8088b2347bc3af4
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+description: Etki alanı ve kullanıcı ekleme, güvenlik ilkelerini ayarlama ve daha fazlası gibi Microsoft 365 İş Ekstra kurulum adımlarını keşfedin.
+ms.openlocfilehash: 4d49ba7ccdb65691756aaa505d0856deb115595b
+ms.sourcegitcommit: 956176ed7c8b8427fdc655abcd1709d86da9447e
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912580"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51052244"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Kurulum sihirbazında Microsoft 365 İş Ekstra'ya ayarlama
 
@@ -69,7 +69,7 @@ Microsoft 365 İş Ekstra'ı satın alırken, sahip olduğunuz bir etki alanın�
     
 4. [Microsoft 365](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) için etki alanının sahibinizi doğrulayanın herhangi bir DNS barındırma sağlayıcısında DNS kayıtları oluşturmak için sihirbazda yer alan adımları izleyin. Etki alanı ana nızı biliyorsanız, ana bilgisayarla ilgili [yönergelere de bakın.](/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)
 
-    Barındırma sağlayıcınız GoDaddy veya etki alanı [](/office365/admin/get-help-with-domains/domain-connect)bağlantısıyla etkinleştirilmiş başka bir ana bilgisayarsa, işlem kolaydır ve otomatik olarak oturum açmanız ve Sizin adnıza Microsoft'un kimlik doğrulamasına izin vermeniz istenmektedir.
+    Barındırma sağlayıcınız GoDaddy veya etki alanı [](/office365/admin/get-help-with-domains/domain-connect)bağlantısıyla etkinleştirilmiş başka bir ana bilgisayarsa, işlem kolaydır ve otomatik olarak oturum açmalı ve Sizin adınıza Microsoft'un kimlik doğrulamasına izin vermeniz istenmektedir.
 
     ![GoDaddy Erişimi Onayla sayfasında Yetkilendir'i seçin.](../media/godaddyauth.png)
 
@@ -94,10 +94,10 @@ Sihirbaza ekley istediğiniz kullanıcılara otomatik olarak bir Microsoft 365 �
   
 Hizmetleri ayarlamak için DNS ana bilgisayarınızda veya etki alanı kayıt şirketinizde bazı kayıtları güncelleştirmeniz gerekir.
   
-1. Kurulum sihirbazı, genellikle kayıt şirketinizi algılar ve kayıt şirketinin web sitesinde NS kayıtlarınızı güncelleştirmek için adım adım yönergelere ulaşabileceğiniz bir bağlantı verir. Bunu yoksa, Microsoft [365'i](../admin/get-help-with-domains/change-nameservers-at-any-domain-registrar.md)herhangi bir etki alanı kayıt şirketiyle ayarlamak için ad sunucularını değiştirme. 
+1. Kurulum sihirbazı, genellikle kayıt şirketinizi algılar ve kayıt şirketinin web sitesinde NS kayıtlarınızı güncelleştirmek için adım adım yönergelere ulaşabileceğiniz bir bağlantı verir. Bunu bilmiyorsa, Microsoft [365'i](../admin/get-help-with-domains/change-nameservers-at-any-domain-registrar.md)herhangi bir etki alanı kayıt şirketiyle ayarlamak için ad sunucularını değiştirme. 
 
-    - Mevcut DNS kayıtlarınız, örneğin var olan bir web siteniz [](/office365/admin/get-help-with-domains/domain-connect)varsa, ancak ETKI alanı bağlantısı için DNS barındırma etkinleştirilmişse, Kayıtları benim için **ekle'yi seçin.** Çevrimiçi **hizmetlerinizi seçin sayfasında,** tüm varsayılanları kabul edin ve  Sonraki'ni seçin ve DNS barındırma barındırma hizmet nizin sayfasında Yetkilendir'i seçin.
-    - Diğer DNS ana bilgisayarlarında mevcut DNS kayıtlarınız varsa (etki alanı bağlantısı için etkin değil), mevcut hizmetlerin bağlı kalacağından emin olmak için kendi DNS kayıtlarınızı yönetmek istemeniz gerekir. Daha [fazla bilgi için etki alanı](/office365/admin/get-help-with-domains/dns-basics) temel bilgilerine bakın.
+    - Mevcut DNS kayıtlarınız, örneğin var olan bir web siteniz [](/office365/admin/get-help-with-domains/domain-connect)varsa, ancak etki alanı bağlantısı için DNS barındırma etkinleştirilmişse, Kayıtları benim için **ekle'yi seçin.** Çevrimiçi **hizmetlerinizi seçin sayfasında,** tüm varsayılanları kabul edin ve  Sonraki'ni seçin ve DNS barındırma barındırma hizmet nizin sayfasında Yetkilendir'i seçin.
+    - Diğer DNS ana bilgisayarlarında var olan DNS kayıtlarınız varsa (etki alanı bağlantısı için etkin değil), mevcut hizmetlerin bağlı kalacağından emin olmak için kendi DNS kayıtlarınızı yönetmek istemeniz gerekir. Daha [fazla bilgi için etki alanı](/office365/admin/get-help-with-domains/dns-basics) temel bilgilerine bakın.
 
         ![Kayıtları etkinleştirme sayfası.](../media/activaterecords.png)
 
@@ -107,7 +107,7 @@ Hizmetleri ayarlamak için DNS ana bilgisayarınızda veya etki alanı kayıt ş
 
 Sihirbazda ayarlanıyor olan ilkeler, Tüm Kullanıcılar adlı [Güvenlik grubuna otomatik](/office365/admin/create-groups/compare-groups#security-groups) olarak *uygulanır.* Ayrıca, yönetim merkezinde ilke atamak için ek gruplar da oluşturabilirsiniz.
 
-1. Gelişmiş siber **tehditlere karşı** korumayı artırarak, [Office 365'in](../security/office-365-security/office-365-atp.md) Tehdit Koruması'nın Office uygulamalarına dosya ve bağlantı taramasına izin verme varsayılanlarını kabul etmenizi öneririz.
+1. Gelişmiş siber **tehditlere karşı** korumayı artırarak, [Office 365'in](../security/defender-365-security/defender-for-office-365.md) Tehdit Koruması'nın Office uygulamalarına dosya ve bağlantı taramasına izin verme varsayılanlarını kabul etmenizi öneririz.
 
     ![Korumayı artır sayfasının ekran görüntüsü.](../media/increasetreatprotection.png)
 
