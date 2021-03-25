@@ -22,16 +22,16 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: İşletmenizi Microsoft 365 İş Ekstra'dan Microsoft 365 E3'e taşımayı öğrenin.
-ms.openlocfilehash: 019a422bb879389f42a32cf30f9a8094f776078a
-ms.sourcegitcommit: eac5d9f759f290d3c51cafaf335a1a1c43ded927
+ms.openlocfilehash: 10630671f3deb7eff0ad0f601d301b90743ee35f
+ms.sourcegitcommit: 2a708650b7e30a53d10a2fe3164c6ed5ea37d868
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "50126211"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51164523"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Microsoft 365 İş Ekstra'dan Microsoft 365 E3'e geçiş
 
-Microsoft 365 İş Ekstra, sınıf açısından en iyi bulut tabanlı üretkenlik uygulamalarını basit cihaz yönetimi ve güvenlikle birleştirerek çalışanlarınızı en iyi şekilde çalışmalarına olanak sağlayan küçük işletmeniz için ihtiyacınız olan her şeye sahip. Bununla birlikte, bazı durumlarda Microsoft 365 İş Ekstra aboneliğinizi Microsoft 365 E3'e geçirmeniz gerekir. 
+Microsoft 365 İş Ekstra, sınıfı en iyi bulut tabanlı üretkenlik uygulamalarını basit cihaz yönetimi ve güvenlikle birleştirerek çalışanlarınızı en iyi şekilde çalışmalarına olanak sağlayan küçük işletmeniz için ihtiyacınız olan her şeye sahip. Bununla birlikte, bazı durumlarda Microsoft 365 İş Ekstra aboneliğinizi Microsoft 365 E3'e geçirmeniz gerekir. 
 
 Örneğin, işletmeniz büyüdü ve 300'den fazla lisansa ihtiyacı var (bu arada tebrikler).
 
@@ -51,13 +51,12 @@ Bu tablo, Microsoft 365 İş Ekstra ile Microsoft 365 E3 arasındaki farkları g
 |:-------|:-----|:-----|
 | **Şirket içi**        | | | 
 | Windows 10    | Windows 10 Business  |     Windows 10 Enterprise E3| 
-| Office uygulamaları*    | [Microsoft 365 İş Uygulamaları](#office-365-business)    | Kurumlar için Microsoft 365 Uygulamaları | 
+| Office uygulamaları*    | [İş için Microsoft 365 Uygulamaları](#office-365-business)    | Microsoft 365 Kurumsal Uygulamaları | 
 | **Bulut üretkenlik uygulamaları**        | | | 
-| Exchange Online ve Outlook    | Posta kutusu başına 50 GB depolama sınırı ve sınırsız Exchange Online arşivlemesi    | Posta kutusu başına 100 GB depolama sınırı ve sınırsız Exchange Online arşivlemesi | 
+| Exchange Online ve Outlook    | Posta kutusu başına 50 GB depolama sınırı ve sınırsız Exchange Online arşivleme    | Posta kutusu başına 100 GB depolama sınırı ve sınırsız Exchange Online arşivleme | 
 | Teams    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
 | OneDrive İş    | Kullanıcı başına 1 TB depolama sınırı    | Sınırsız | 
 | Yammer, SharePoint Online, Planner, Stream    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-| MileIQ    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | | 
 | **Tehdit Koruması**        | | | 
 | Saldırı yüzeyini azaltma özellikleri    | [Bu listeye bakın](#threat-protection) | Microsoft Edge için donanım tabanlı yalıtmanın kurumsal yönetimi | 
 | Office 365 için Defender Plan 1 | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | Dahil değildir, ancak | 
@@ -85,7 +84,7 @@ Bu tablo, Microsoft 365 İş Ekstra ile Microsoft 365 E3 arasındaki farkları g
 | İleti Kayıt Yönetimi (MRM) bekletme etiketleri ve bekletme ilkeleri    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
 ||||
 
-\* SaaS uygulamalarına erişim atanmış olan kullanıcılar en çok 10 uygulama için SSO erişimine sahip olabilir. Yöneticiler SSO'ya yapılandırarak kullanıcı erişimini farklı SaaS uygulamalarına değiştirebilir, ancak SSO erişimine bir defada kullanıcı başına yalnızca 10 uygulama izin verilir. Tüm Office 365 uygulamaları tek bir uygulama olarak sayılır.
+\* SaaS uygulamalarına erişim atanmış olan kullanıcılar en çok 10 uygulama için SSO erişimine sahip olabilir. Yöneticiler SSO'ya yapılandırarak kullanıcı erişimini farklı SaaS uygulamalarına değiştirebilir, ancak SSO erişimine her kullanıcı için bir defada yalnızca 10 uygulama izin verilir. Tüm Office 365 uygulamaları tek bir uygulama olarak sayılır.
 
 ## <a name="migration"></a>Geçiş
 
@@ -95,7 +94,7 @@ Aşağıdaki bölümlerde, varsa, hangi değişiklikleri yapmak için ihtiyacın
 
 ### <a name="microsoft-365-subscription-configuration-and-data"></a>Microsoft 365 abonelik yapılandırması ve verileri
 
-Geçerli aboneliğiniz veya verilerinizde, şu değişikliklerden önce değişiklik yapmak zorunda değildir:
+Şu bilgileri içeren, geçerli aboneliğiniz veya verilerinizde değişiklik yapmak zorunda değilsiniz:
 
 - DNS etki alanı adları gibi abonelik yapılandırması.
 - Kullanıcı ve grup hesapları ve çok faktörlü kimlik doğrulaması veya koşullu erişim ilkeleri gibi kimlik doğrulama ayarları.
@@ -104,10 +103,6 @@ Geçerli aboneliğiniz veya verilerinizde, şu değişikliklerden önce değişi
 Kullanıcılarınız artık Exchange Online posta kutularında ve OneDrive İş klasörlerinden sınırsız depolamanın keyfini çıkarabilirsiniz.
 
 10'dan fazla uygulama için Bulut Uygulama Bulma, Azure AD Connect Health ve SSO kullanmaya başlayabilirsiniz.
-
->[!Note]
->Microsoft 365 E3'e geçirilen kullanıcılar artık MileIQ kullanamaz.
->
 
 <a name="threat-protection"></a>
 ### <a name="threat-protection"></a>Tehdit koruması
@@ -124,9 +119,9 @@ Windows 10 Business şu korumaları içerir:
 - Akıllı Güvenlik Grafiği ile desteklenen uygulama denetimi
 - Cihaz denetimi (USB)
 - Web tabanlı tehditlere karşı ağ koruması
-- Ana bilgisayar izinsiz girişlerini önleme kuralları
+- Ana bilgisayar izinsiz giriş engelleme kuralları
 
-Windows 10 Enterprise E3, Microsoft Edge için donanım tabanlı yalıtmanın kurumsal yönetimini de içerir.
+Windows 10 Enterprise E3, Microsoft Edge için donanım tabanlı yalıtma yönetimini de içerir.
 
 >[!Note]
 >Microsoft 365 E3'e geçirilen kullanıcıların her biri, devam eden tehdit koruması için Office 365 için Microsoft Defender lisansı gerektirir. Office 365 için Defender'ın tüm kullanıcılarının lisanslı olması için ek Office 365 için Defender lisansları satın aldığınızdan emin olun. 
@@ -138,10 +133,10 @@ Kayıtlı cihazları ve cihaz ve uygulama ayarlarını içeren, başlamadan önc
 
 ### <a name="windows-10"></a>Windows 10
 
-Microsoft 365 İş Ekstra, Windows AutoPilot ile yük8885'i yüklerini yüklerini içeren Windows 10 Business'ı içerir. Microsoft 365 E3'e geçişte, her kullanıcı lisansı Windows 10 Enterprise E3'ü içerir ve bu lisansı Windows Autopilot ile de yükleyebilirsiniz.
+Microsoft 365 İş Ekstra, Windows AutoPilot ile yük885 İş'i içeren Windows 10 Business'ı içerir. Microsoft 365 E3'e geçişte, her kullanıcı lisansı Windows 10 Enterprise E3'ü içerir ve bu lisansı Windows Autopilot ile de yükleyebilirsiniz.
 
 <a name="office-365-business"></a>
-###  <a name="microsoft-365-apps-for-business"></a>Microsoft 365 İş Uygulamaları
+###  <a name="microsoft-365-apps-for-business"></a>İş için Microsoft 365 Uygulamaları
 
 Cihazlarınıza yüklenmiş olan İş için Microsoft 365 Uygulamaları istemciniz, otomatik olarak kuruluş için Microsoft 365 Uygulamaları'nın özelliklerini kullanmaya başlar. Geçiş sonrasında artık şunları kullanabilirsiniz:
 
