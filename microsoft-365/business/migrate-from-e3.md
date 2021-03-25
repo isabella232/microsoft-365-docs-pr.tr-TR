@@ -22,14 +22,14 @@ search.appverid:
 - BCS160
 - MET150
 description: İşletmenizi Office 365 E3'te Microsoft 365 İş Ekstra'ya taşımayı öğrenin.
-ms.openlocfilehash: f655037891bf8ec42e7b927256025c89c9354e98
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: cb70260201686cae02428c715ac98ffe2f88787f
+ms.sourcegitcommit: dcb97fbfdae52960ae62b6faa707a05358193ed5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912952"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51198107"
 ---
-# <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Office 365 E3'den Microsoft 365 İş Ekstra'ya 
+# <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Office 365 E3'den Microsoft 365 İş Ekstra'ya
 
 Microsoft 365 İş Ekstra, sınıfı en iyi bulut tabanlı üretkenlik uygulamalarını basit cihaz yönetimi ve güvenlikle birleştirerek küçük işletmeniz için ihtiyacınız olan her şeye sahip. Şu anda bir Office 365 E3 aboneliğiniz varsa ancak 300'den fazla çalışan yoksa, ek güvenlik özellikleri için Microsoft 365 İş Ekstra'ya geçmeyi göz önünde bulundurabilirsiniz.
 
@@ -42,14 +42,14 @@ Bu tablo, Microsoft 365 İş Ekstra ile Office 365 E3 arasındaki farkları gös
 | Özellik    | Microsoft 365 İş Ekstra desteği    | Office 365 E3'te destek | 
 |:-------|:-----|:-----|
 | **Şirket içi**        | | | 
-| Office uygulamaları<sup>1</sup>    | Microsoft 365 İş Uygulamaları    | Microsoft 365 Kurumsal Uygulamaları | 
+| Office uygulamaları<sup>1</sup>    | İş için Microsoft 365 Uygulamaları    | Microsoft 365 Kurumsal Uygulamaları | 
 | **Bulut üretkenlik uygulamaları**        | | | 
 | Exchange Online ve Outlook    | Posta kutusu başına 50 GB depolama sınırı ve sınırsız Exchange Online Arşivleme    | Posta kutusu başına 100 GB depolama sınırı ve sınırsız Exchange Online Arşivleme | 
 | Teams    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | ![Office 365 E3 ile birlikte](../media/check-mark.png) | 
 | OneDrive İş    | Kullanıcı başına 1 TB depolama sınırı    | Sınırsız | 
 | Yammer, SharePoint Online, Planner, Stream    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | ![Office 365 E3 ile birlikte](../media/check-mark.png) | 
 | StaffHub    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | ![Office 365 E3 ile birlikte](../media/check-mark.png) | 
-| Outlook Customer Manager, MileIQ    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | | 
+| Outlook Customer Manager    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | | 
 | **Tehdit Koruması**        | | | 
 | Office 365 için Defender Plan 1 | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | Dahil değildir, ancak | 
 | **Kimlik yönetimi**        | | | 
@@ -95,11 +95,11 @@ Kuruluşta yer alan herkesi Microsoft 365 İş Ekstra'ya yükselttiyebilirsiniz.
 
 Bu adımları Cihazlar sayfasında da tamamabilirsiniz:
   
-1. Yönetim merkezinde, sol gezintide Cihaz **İlkeleri'ne** \> **gidin.**
+1. Yönetim merkezinde, sol gezintide Cihazlar **İlkeleri'ne** \> **gidin.**
     
 2. Cihaz ilkeleri **sayfasında Ekle'yi** **seçin.**
     
-3. İlke **ekle bölmesinde,** ilkeye bir ad ve sonra açılan **listelerden bir** İlke türü seçin. 
+3. İlke **ekle bölmesinde** ilkeye bir ad verin ve ardından açılan **listelerden bir** İlke türü seçin. 
     
      Android ve iPhone cihazlarının yanı sıra Windows 10'da da dosyaları korumak için uygulama ilkeleri ayarlarken, şirkete ait Windows 10 cihazları için cihaz yapılandırma ilkelerini de kurabilirsiniz. Ayrıntılar için aşağıdaki bağlantılara bakın:
     
@@ -109,7 +109,7 @@ Bu adımları Cihazlar sayfasında da tamamabilirsiniz:
     
   - [Windows 10 bilgisayarlar için cihaz koruma ayarlarını ayarlama](protection-settings-for-windows-10-pcs.md)
   
-4. İlkeleri ayar verdiktan sonra, siz ve çalışanlarınız cihazları kurabilirsiniz:
+4. İlkeleri ayar defa siz ve çalışanlarınız cihazları kurabilirsiniz:
     
   - Windows [cihazları için adımlar için Bkz. Microsoft 365 İş Ekstra](set-up-windows-devices.md) kullanıcıları için Windows cihazlarını ayarlama. 
     
@@ -117,12 +117,12 @@ Bu adımları Cihazlar sayfasında da tamamabilirsiniz:
   
 ### <a name="mailbox-size"></a>Posta Kutusu Boyutu
 
-Exchange Online Plan 1'i kullandığı için Microsoft 365 İş Ekstra'nın 50 GB depolama sınırı vardır. Microsoft 365 İş Ekstra'ya geçirken, kullanıcılardan herhangi biri 50 GB'lık posta kutusu depolama alanını aşarsa, bu kullanıcıya Exchange Online Plan 2 atamanız ve Exchange Online Plan 1'i kaldırmanız önerilir çünkü her ikisini de atamak uygun değildir.
+Exchange Online Plan 1'i kullandığı için Microsoft 365 İş Ekstra'nın 50 GB depolama sınırı vardır. Microsoft 365 İş Ekstra'ya geçen kullanıcılardan herhangi biri 50 GB'lık posta kutusu depolama alanını aşarsa, bu kullanıcıya Exchange Online Plan 2 atamanız ve Exchange Online Plan 1'i kaldırmanız önerilir çünkü her ikisini de atamak uygun değildir.
 
 
 ### <a name="threat-protection"></a>Tehdit koruması
 
-Microsoft 365 İş Ekstra'ya katıldıktan sonra Office 365 için Defender'a sahipsiniz. Genel [bakış için Office 365 için Microsoft Defender'a](../security/office-365-security/office-365-atp.md) bakın. Ayarlamak için Güvenli [Bağlantılar'ı](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa) [ayarlama,](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)Güvenli Ekleri ayarlama ve [Office 365](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)için Defender'da Kimlik avı önlemeyi ayarlama.
+Microsoft 365 İş Ekstra'ya katıldıktan sonra Office 365 için Defender'a sahipsiniz. Genel [bakış için Office 365 için Microsoft Defender'a](../security/office-365-security/defender-for-office-365.md) bakın. Ayarlamak için Güvenli [Bağlantılar'ı](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa) [ayarlama,](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)Güvenli Ekleri ayarlama ve [Office 365](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)için Defender'da Kimlik avı önlemeyi ayarlama.
 
 ### <a name="sensitivity-labels"></a>Duyarlılık etiketleri
 

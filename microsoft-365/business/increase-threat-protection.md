@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Office 365 için Microsoft Defender'ı ayarlayın ve kimlik avı, kötü amaçlı yazılım ve diğer tehditlere karşı hassas verileri koruyun.
-ms.openlocfilehash: 80ad3767b277e4808b6df4bdd977688794649e11
-ms.sourcegitcommit: 956176ed7c8b8427fdc655abcd1709d86da9447e
+ms.openlocfilehash: 6526ed9a849e83f19f74656004978089ce367ea9
+ms.sourcegitcommit: dcb97fbfdae52960ae62b6faa707a05358193ed5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51050861"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51198401"
 ---
 # <a name="increase-threat-protection"></a>Tehdit korumasını artırma
 
@@ -57,7 +57,7 @@ Office 365 veya Microsoft 365 ortamınız kötü amaçlı yazılıma karşı kor
 
 6. **Kaydet'i seçin.**
 
-Daha fazla bilgi için bkz. [EOP'de kötü amaçlı yazılımdan koruma.](../security/defender-365-security/anti-malware-protection.md)
+Daha fazla bilgi için bkz. [EOP'de kötü amaçlı yazılımdan koruma.](../security/office-365-security/anti-malware-protection.md)
 
 ## <a name="protect-against-ransomware"></a>Fidye yazılımlarına karşı koruma
 
@@ -138,7 +138,7 @@ Office 365 için Microsoft Defender'da kimlik avı önleme ilkesi oluşturmak i�
 
 4. Kimlik avı **önleme sayfasında +** **Oluştur'a tıklayın.** Kimlik avı önleme ilkenizi tanımlamanız için size yol belirleyen bir sihirbaz başlatır.
 
-5. İlkenizin adını, açıklamasını ve ayarlarını aşağıdaki tabloda önerilen şekilde belirtin. Daha fazla ayrıntı için, [Office 365 için Microsoft Defender](../security/defender-365-security/set-up-anti-phishing-policies.md)seçeneklerinde kimlik avıyla mücadele ilkesi hakkında bilgi edinebilirsiniz.
+5. İlkenizin adını, açıklamasını ve ayarlarını aşağıdaki tabloda önerilen şekilde belirtin. Daha fazla ayrıntı için, [Office 365 için Microsoft Defender](../security/office-365-security/set-up-anti-phishing-policies.md)seçeneklerinde kimlik avıyla mücadele ilkesi hakkında bilgi edinebilirsiniz.
 
 6. Ayarlarınızı gözden geçirdikten sonra, Uygun şekilde Bu **ilkeyi oluştur veya** **Kaydet'i** seçin.
 
@@ -181,7 +181,7 @@ Güvenli Ek ilkesi oluşturmak için bu kısa [videoyu izleyin veya](https://sup
 |Algılamada eki yeniden yönlendirme|Yeniden yönlendirmeyi etkinleştir (bu kutuyu seçin) Yönetici hesabını veya karantina için bir posta kutusu kurulumu girin.          Kötü amaçlı yazılım ekleri tararsa veya hata oluşursa yukarıdaki seçimi uygulama (bu kutuyu seçin).|
 |Uygulama|Alıcı etki alanı . . . etki alanınızı seçin.|
 
-Daha fazla bilgi için Bkz. [Office 365](../security/defender-365-security/set-up-anti-phishing-policies.md)için Microsoft Defender'da kimlik avı önleme ilkelerini ayarlama.
+Daha fazla bilgi için Bkz. [Office 365](../security/office-365-security/set-up-anti-phishing-policies.md)için Microsoft Defender'da kimlik avı önleme ilkelerini ayarlama.
 
 ## <a name="protect-against-phishing-attacks-with-safe-links"></a>Güvenli Bağlantılar ile kimlik avı saldırılarına karşı koruma
 
@@ -224,7 +224,7 @@ Etki alanınız içinde yer alan tüm alıcılara yönelik yeni bir ilke oluştu
 |İndirilebilir içeriği taramak için Güvenli Ekler'i kullanma|Bu kutuyu seçin.|
 |Uygulama|Alıcı etki alanı . . . etki alanınızı seçin.|
 
-Daha fazla bilgi için Güvenli [Bağlantılar'a bakın.](../security/defender-365-security/safe-links.md)
+Daha fazla bilgi için Güvenli [Bağlantılar'a bakın.](../security/office-365-security/safe-links.md)
 
 ## <a name="go-to-intune-admin-center"></a>Intune yönetim merkezine gitme
 

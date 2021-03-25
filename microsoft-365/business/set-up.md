@@ -30,12 +30,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Etki alanı ve kullanıcı ekleme, güvenlik ilkelerini ayarlama ve daha fazlası gibi Microsoft 365 İş Ekstra kurulum adımlarını keşfedin.
-ms.openlocfilehash: 4d49ba7ccdb65691756aaa505d0856deb115595b
-ms.sourcegitcommit: 956176ed7c8b8427fdc655abcd1709d86da9447e
+ms.openlocfilehash: a06fb48ef5e1386a5c7b4df08500125f37943df6
+ms.sourcegitcommit: dcb97fbfdae52960ae62b6faa707a05358193ed5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51052244"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51198453"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Kurulum sihirbazında Microsoft 365 İş Ekstra'ya ayarlama
 
@@ -107,7 +107,7 @@ Hizmetleri ayarlamak için DNS ana bilgisayarınızda veya etki alanı kayıt ş
 
 Sihirbazda ayarlanıyor olan ilkeler, Tüm Kullanıcılar adlı [Güvenlik grubuna otomatik](/office365/admin/create-groups/compare-groups#security-groups) olarak *uygulanır.* Ayrıca, yönetim merkezinde ilke atamak için ek gruplar da oluşturabilirsiniz.
 
-1. Gelişmiş siber **tehditlere karşı** korumayı artırarak, [Office 365'in](../security/defender-365-security/defender-for-office-365.md) Tehdit Koruması'nın Office uygulamalarına dosya ve bağlantı taramasına izin verme varsayılanlarını kabul etmenizi öneririz.
+1. Gelişmiş siber **tehditlere karşı** korumayı artırarak, [Office 365'in](../security/office-365-security/defender-for-office-365.md) Tehdit Koruması'nın Office uygulamalarına dosya ve bağlantı taramasına izin verme varsayılanlarını kabul etmenizi öneririz.
 
     ![Korumayı artır sayfasının ekran görüntüsü.](../media/increasetreatprotection.png)
 

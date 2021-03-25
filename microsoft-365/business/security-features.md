@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: BILGISAYAR, telefon ve tabletlerde verilerinizi korumaya yardımcı olmak için Microsoft 365 İş Ekstra ile birlikte gelen güvenlik özellikleri hakkında bilgi alın.
-ms.openlocfilehash: d641fc66e27f3c5e0a7c8609e4fa25fac93d8561
-ms.sourcegitcommit: 956176ed7c8b8427fdc655abcd1709d86da9447e
+ms.openlocfilehash: f04a998c74128edac306167617e073c412fce2ea
+ms.sourcegitcommit: dcb97fbfdae52960ae62b6faa707a05358193ed5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51052264"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51198421"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Microsoft 365 İş Ekstra güvenlik ve uyumluluk özellikleri
 
@@ -63,7 +63,7 @@ Yönetim merkezinde microsoft 365 İş Ekstra güvenlik özelliklerinin çoğunu
 
 Microsoft 365 İş Ekstra'daki gelişmiş özellikler, siber tehditlere karşı işlerinizi korumanıza ve hassas bilgileri korumaya yardımcı olmak için kullanılabilir.
   
-- **[Office 365 için Microsoft Defender](../security/defender-365-security/defender-for-office-365.md)**
+- **[Office 365 için Microsoft Defender](../security/office-365-security/defender-for-office-365.md)**
     
     Office 365 için Microsoft Defender, çalışan veya müşteri bilgilerini tehlikeye atarak tasarlanmış gelişmiş kimlik avı ve fidye yazılımı saldırılarına karşı işlerinizi korumanıza yardımcı olur. Özellikler şunlardır:
     
