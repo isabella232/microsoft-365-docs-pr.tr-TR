@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Azure Active Directory'ye katılmış bir Windows 10 cihazından iş uygulamaları, dosya paylaşımları ve yazıcılar gibi şirket içi kaynaklara erişmeyi öğrenin.
-ms.openlocfilehash: b78509d72cbd9b3c121039c4965625bf5c21c7e0
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: 1bca0beb3ccc78e670ad33ce446b9b3f7c372ba7
+ms.sourcegitcommit: 39609c4d8c432c8e7d7a31cb35c8020e5207385b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50913532"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51445358"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra'da Azure AD'ye katılmış bir cihazdan şirket içi kaynaklara erişme
 
@@ -43,13 +43,13 @@ Kuruma katılan Azure AD cihazlarının şirket içi kaynaklara erişmesi için 
   
 1. Kullanıcılarınızı, gruplarınızı ve kişilerinizi yerel Active Directory'den Azure Active Directory'ye eşitlemek için, [Office 365](../enterprise/set-up-directory-synchronization.md)için dizin eşitlemesini ayarlama konusunda açıklandığı gibi Dizin eşitleme sihirbazını ve Azure AD Connect'i çalıştırın.
     
-2. Dizin eşitlemesi tamamlandıktan sonra, kuruluşun Windows 10 cihazlarının Azure AD'ye katıldığından emin olun. Bu adım, her Windows 10 cihazında ayrı ayrı yapılır. Ayrıntılar [için Bkz. Microsoft 365 İş Ekstra kullanıcıları için Windows](set-up-windows-devices.md) cihazlarını ayarlama. 
+2. Dizin eşitlemesi tamamlandıktan sonra, kuruluşun Windows 10 cihazlarının Azure AD'ye katıldığından emin olun. Bu adım, her Windows 10 cihazında ayrı ayrı yapılır. Ayrıntılar [için Bkz. Microsoft 365 İş Ekstra kullanıcıları](set-up-windows-devices.md) için Windows cihazlarını ayarlama. 
     
 3. Windows 10 cihazları Azure AD'ye katıldıktan sonra, her kullanıcının cihazlarını yeniden başlatması ve Microsoft 365 İş Ekstra kimlik bilgileriyle oturum açması gerekir. Artık tüm cihazlara şirket içi kaynaklara da erişebilirsiniz.
     
 Azure AD'ye katılmış cihazlar için şirket içi kaynaklara erişmek için ek adım gerekmez. Bu işlev Windows 10'da yerleşik olarak yer alan bir işlevdir. 
 
-PIN/Biyometrik WHFB kimlik bilgileriyle oturum açma gibi parola yöntemi dışında AADJ cihazında oturum açma ve ardından şirket içi kaynaklara (paylaşımlar,yazıcılar) erişme planlarınız varsa. vb. gibi) lütfen https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
+WHFB kimlik bilgileriyle oturum açma yoluyla PIN/Biyometrik gibi parola yöntemi dışında AADJ cihazında oturum açma ve ardından şirket içi kaynaklara (paylaşımlar,yazıcılar) erişme planlarınız varsa. vb. gibi) lütfen https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
   
 Organizasyonunız yukarıda açıklanan Azure AD'ye katılmış cihaz yapılandırmasında dağıtmaya hazır değilse, Karma Azure AD Katıldı cihaz [yapılandırmasını ayarlamayı göz önünde bulundurabilirsiniz.](manage-windows-devices.md)
   
@@ -57,10 +57,14 @@ Organizasyonunız yukarıda açıklanan Azure AD'ye katılmış cihaz yapıland�
 
 Azure-AD'ye katıldığınız Windows cihazı daha önce etki alanına katılmış veya bir çalışma grubunda yer alan bir cihazsa, aşağıdaki sınırlamaları göz önünde önünde önünde düşünün:
   
-- Azure AD'nin bir cihaz birleştirmesi, var olan bir profile başvurmadan yeni bir kullanıcı oluşturur. Profillerin el ile geçirilir. Kullanıcı profili sık kullanılanlar, yerel dosyalar, tarayıcı ayarları ve Başlangıç menüsü ayarları gibi bilgileri içerir. En iyi yaklaşım, var olan dosya ve ayarları yeni profile eşlemek için üçüncü taraf bir araç bulmaktır.
+- Azure AD'nin bir cihaz birleştirmesi, var olan bir profile başvurmadan yeni bir kullanıcı oluşturur. Profillerin el ile geçirilir. Kullanıcı profili sık kullanılanlar, yerel dosyalar, tarayıcı ayarları ve Başlangıç menüsü ayarları gibi bilgileri içerir. Mevcut dosyaları ve ayarları yeni profile eşlemek için üçüncü taraf bir araç bulmak en iyi yaklaşımdır.
 
 - Cihaz Grup İlkesi Nesneleri (GPO) kullanıyorsa, bazı GPOS'ların Intune'da karşılaştırılabilir bir Yapılandırma Hizmeti Sağlayıcısı [](/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) (CSP) olabilir. Mevcut [GPO'lar](https://www.microsoft.com/download/details.aspx?id=45520) için benzer CSP'leri bulmak için MMAT aracını çalıştırın.
 
 - Kullanıcılar, Active Directory kimlik doğrulamasına bağlı uygulamalarda kimlik doğrulamasına sahip olamayabilecektir. Eski uygulamayı değerlendirin ve mümkünse modern Kimlik Doğrulaması kullanan bir uygulamaya güncelleştirmeyi göz önünde bulundurabilirsiniz.
 
-- Active Directory yazıcı bulma çalışmaz. Tüm kullanıcılara doğrudan yazıcı yolları s sağlama veya Evrensel [Yazdırma'ı kullanabilirsiniz.](/universal-print/)
+- Active Directory yazıcı bulma çalışmaz. Tüm kullanıcılar için doğrudan yazıcı yolları s sağlama veya [Evrensel Yazdırma'ı kullanabilirsiniz.](/universal-print/)
+
+### <a name="related-articles"></a>İlgili Makaleler
+
+[Azure AD Connect için önkoşullar](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
