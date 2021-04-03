@@ -2,8 +2,8 @@
 title: Windows 10 cihazlarını yapılandırma
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -27,19 +27,19 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: da60e08e-2547-491a-9c97-94ac6d715623
-description: Windows 10 için kuruluşunuzdaki tüm kullanıcılar için geçerli olan aygıt ilkelerini yapılandırma ve güvenli bir şekilde bağlanmalarını sağlama hakkında bilgi edinin.
-ms.openlocfilehash: 811e948b33e8d305c88ff3e502c413356178696a
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Windows 10 için cihaz ilkelerini yapılandırma hakkında bilgi edinmek ve güvenli bir şekilde bağlantı kuracaklarını garanti etmek için, kuruluşta tüm kullanıcılara uygun olan ilkeler hakkında bilgi edinebilirsiniz.
+ms.openlocfilehash: c7d27b903734f9348471bb7765b88650caeed9d5
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401024"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580284"
 ---
 # <a name="configure-windows-10-devices"></a>Windows 10 cihazlarını yapılandırma
 
-Kurulum sırasında, Windows 10 için kuruluşunuzdaki tüm kullanıcılar için geçerli olan bir aygıt ilkesi oluşturursunuz. Bir kullanıcı Windows 10 cihazındaki bir Office uygulamasına iş veya okul hesabıyla giriş yaptığında, kullanıcının güvenli bir şekilde bağlandığından emin olmak için yapılandırdığınız ayarlar otomatik olarak uygulanır.
+Kurulum sırasında, Windows 10 için, kuruluşta yer alan tüm kullanıcılar için geçerli olan bir cihaz ilkesi oluşturabilirsiniz. Bir kullanıcı Windows 10 cihazında iş veya okul hesabıyla bir Office uygulamasında oturum açsa, kullanıcının güvenli bir şekilde bağlana olduğundan emin olmak için yapılandırılan ayarlar otomatik olarak uygulanır.
   
-Kurulum sırasında varsayılan yapılandırmayı kabul etmenizi öneririz. Kurulumdan sonra, daha fazla ilke oluşturabilir ve bunları belirli kullanıcı gruplarına hedefleyebilirsiniz.
+Kurulum sırasında varsayılan yapılandırmayı kabul etmenizi öneririz. Kurulumdan sonra daha fazla ilke oluşturabilir ve bunları belirli kullanıcı gruplarına hedefleyebilirsiniz.
   
 Windows 10 cihaz yapılandırmalarını yönetmek üzere bir ilke eklemek için bkz. [Windows 10 bilgisayarları için cihaz yapılandırmalarını ayarlama](protection-settings-for-windows-10-pcs.md).
   

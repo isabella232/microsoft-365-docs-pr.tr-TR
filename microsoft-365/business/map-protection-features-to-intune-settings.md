@@ -2,8 +2,8 @@
 title: Microsoft 365 İş Ekstra'daki koruma özellikleri Intune ayarlarıyla nasıl eşler
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 ms.date: 8/13/2018
 audience: Admin
@@ -26,12 +26,12 @@ search.appverid:
 - MET150
 ms.assetid: aad21b1a-c775-469a-b89c-c5d1d59d27db
 description: Microsoft 365 İş Ekstra'daki koruma özelliklerinin Intune ayarlarıyla nasıl eş olduğunu öğrenin. Abonelik size Intune ayarlarını değiştirme lisansı sağlar.
-ms.openlocfilehash: 5e8a7aa570b0f56324a483fb2cdb77c19f3b2379
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: 9a6dcf014e009389e49860fa96486c264c22f501
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50913032"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580124"
 ---
 # <a name="how-do-protection-features-in-microsoft-365-business-premium-map-to-intune-settings"></a>Microsoft 365 İş Ekstra'daki koruma özellikleri Intune ayarlarıyla nasıl eşler
 
@@ -43,7 +43,7 @@ Intune ayarını bulmak için, Microsoft 365 İş Ekstra yönetici kimlik bilgil
   
  > [!IMPORTANT]
  > 
- > Microsoft 365 İş Ekstra aboneliği, size tüm Intune ayarlarını değiştirme lisansı verir. Başlamak [için Intune'a Giriş'e bakın.](/intune/introduction-intune)
+ > Microsoft 365 İş Ekstra aboneliği size tüm Intune ayarlarını değiştirme lisansı verir. Başlamak [için Intune'a Giriş'e bakın.](/intune/introduction-intune)
   
 İstediğiniz İlke adını &mdash; seçin( örneğin, Android için Uygulama ilkesi) ve &mdash; ardından İlke **ayarları'ı seçin.**
   
@@ -105,6 +105,6 @@ Intune ayarını bulmak için Microsoft 365 İş Ekstra yönetici kimlik bilgile
 |Cihaz şu kadar süreyle boşta kaldığında ekranı kapat (dakika)  <br/> |Ekran kilitlenmeden önce geçmesi gereken, işlem yapılmayan dakika sayısı  <br/> |
 |Kullanıcıların Microsoft Store'ndan uygulama indirmesine izin ver  <br/> |Özel URI ilkesi  <br/> |
 |Kullanıcıların Cortana'ya erişmesine izin ver  <br/> |**Genel** \> **Cortana,** Microsoft  365 İş Ekstra'da kapalı olarak **ayar olduğunda** Intune'da engellenir.  <br/> |
-|Kullanıcıların Microsoft'tan Windows ipucu ve reklam almasına izin ver  <br/> |**Microsoft** 365 İş Ekstra'da bu ayar kapalı olarak **ayarlanırsa** Windows öne çıkanlar, hepsi engellenir.  <br/> |
-|Windows 10 cihazları otomatik olarak güncelleştir  <br/> | Bu ayar **Microsoft Intune** Hizmeti güncelleştirmeleri - Windows 10 Güncelleştirme Halkaları'nın \> içindedir, **Windows 10** cihazları için Güncelleştirme ilkesi'ne ve ardından **Özellikler Ayarları'nın seçin.** \>   <br/>  Microsoft 365 İş Ekstra ayarı Açık olarak **ayar olduğunda,** aşağıdaki tüm ayarlar ayarlanır:  <br/> **Hizmet dalı** **CB** olarak ayarlanır (Microsoft 365 İş Ekstra'da bu kapalıyken CBB).  <br/> **Microsoft ürün güncelleştirmeleri** seçeneği **İzin ver** olarak ayarlanır.  <br/> **Windows sürücüleri** seçeneği **İzin ver** olarak ayarlanır.  <br/> **Otomatik güncelleştirme davranışı** seçeneği **Bakım zamanında otomatik yükle** olarak ayarlanır ve:  <br/> **Etkin saatlerin başlangıcı** için **06:00** ayarlanır.  <br/> **Etkin saatlerin sonu** için **22:00** ayarlanır.  <br/> **Kalite güncelleştirmesi erteleme süresi (gün)** için **0** ayarlanır.  <br/> **Özellik güncelleştirmesi erteleme süresi (gün)** için **0** ayarlanır.  <br/> **Teslimi iyileştirme indirme modu** için **Aynı NAT arkasında eşleme ile karışık HTTP** ayarlanır.  <br/> |
+|Kullanıcıların Microsoft'tan Windows ipucu ve reklam almasına izin ver  <br/> |**Microsoft** 365 İş Ekstra'da kapalı olarak **ayarlanırsa** Windows öne çıkanlar, hepsi engellenir.  <br/> |
+|Windows 10 cihazları otomatik olarak güncelleştir  <br/> | Bu ayar **Microsoft Intune** Hizmeti güncelleştirmeleri - Windows 10 Güncelleştirme Halkaları'nın \> içindedir, **Windows 10** cihazları için Güncelleştirme ilkesi'ne ve ardından Özellikler Ayarları'nın **seçin.** \>   <br/>  Microsoft 365 İş Ekstra ayarı Açık olarak **ayar olduğunda,** aşağıdaki tüm ayarlar ayarlanır:  <br/> **Hizmet dalı** **CB** olarak ayarlanır (Microsoft 365 İş Ekstra'da bu kapalıyken CBB).  <br/> **Microsoft ürün güncelleştirmeleri** seçeneği **İzin ver** olarak ayarlanır.  <br/> **Windows sürücüleri** seçeneği **İzin ver** olarak ayarlanır.  <br/> **Otomatik güncelleştirme davranışı** seçeneği **Bakım zamanında otomatik yükle** olarak ayarlanır ve:  <br/> **Etkin saatlerin başlangıcı** için **06:00** ayarlanır.  <br/> **Etkin saatlerin sonu** için **22:00** ayarlanır.  <br/> **Kalite güncelleştirmesi erteleme süresi (gün)** için **0** ayarlanır.  <br/> **Özellik güncelleştirmesi erteleme süresi (gün)** için **0** ayarlanır.  <br/> **Teslimi iyileştirme indirme modu** için **Aynı NAT arkasında eşleme ile karışık HTTP** ayarlanır.  <br/> |
 |||

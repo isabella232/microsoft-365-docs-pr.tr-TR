@@ -2,8 +2,8 @@
 title: Windows 10 cihazları için uygulama koruma ayarlarını düzenleme veya ayarlama
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -29,12 +29,12 @@ search.appverid:
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
 description: Kullanıcılarınızı kişisel Windows 10 cihazlarında uygulama yönetimi ilkelerini oluşturma veya düzenlemeyi ve iş dosyalarını korumayı öğrenin.
-ms.openlocfilehash: 64c6aa620171a373cd7564c7de3abbf4a4546c4e
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: aa270c563e6bdce6fd48f8713d7db3ce23921925
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912832"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580024"
 ---
 # <a name="set-or-edit-application-protection-settings-for-windows-10-devices"></a>Windows 10 cihazları için uygulama koruma ayarlarını ayarlama veya düzenleme
 

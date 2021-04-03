@@ -2,8 +2,8 @@
 title: Microsoft 365 İş için tehdit korumasını artırma
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Office 365 için Microsoft Defender'ı ayarlayın ve kimlik avı, kötü amaçlı yazılım ve diğer tehditlere karşı hassas verileri koruyun.
-ms.openlocfilehash: 6526ed9a849e83f19f74656004978089ce367ea9
-ms.sourcegitcommit: dcb97fbfdae52960ae62b6faa707a05358193ed5
+ms.openlocfilehash: 8fb2c3881876cabea6d8907a85bc9397212126dc
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51198401"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580204"
 ---
 # <a name="increase-threat-protection"></a>Tehdit korumasını artırma
 

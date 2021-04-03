@@ -2,8 +2,8 @@
 title: Microsoft 365 İş Ekstra için tehdit korumasını artırma
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -21,17 +21,17 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Veri kaybını önlemek ve müşterilerimizin hassas bilgilerini güvende tutmaya yardımcı olmak için uyumluluk özelliklerini ayarlayın.
-ms.openlocfilehash: e210787718025c5df29af8d4a2283291dcecc2a8
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+description: Veri kaybını önlemek ve müşterilerimizin hassas bilgilerini güvenli tutmaya yardımcı olmak için uyumluluk özelliklerini ayarlayın.
+ms.openlocfilehash: c0accc37d3dcda9ba75813f01a98a3233c5a8369
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912540"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51579964"
 ---
 # <a name="set-up-compliance-features"></a>Uyumluluk özelliklerini ayarlama
 
-Microsoft 365 İş Ekstra, verilerinizi ve cihazlarınızı korumaya ve müşterilerimizin hassas bilgilerini güvende tutmanıza yardımcı olacak özelliklerle birlikte gelir.
+Microsoft 365 İş Ekstranız, verilerinizi ve cihazlarınızı korumaya ve müşterilerimizin hassas bilgilerini güvende tutmanıza yardımcı olacak özelliklerle birlikte gelir.
 
 ## <a name="set-up-dlp-features"></a>DLP özelliklerini ayarlama
 
@@ -43,7 +43,7 @@ DLP, birçok farklı yerel ayarın kullanımına hazır ilke şablonlarıyla bir
 
  **Exchange Online Arşivleme lisans** özellikleri, eBulma için e-posta içeriğini koruyarak uyumluluk ve mevzuat standartlarının korunmasına yardımcı olur. Ayrıca, bir sorun olduğu zaman risklerinizi azaltmaya yardımcı olur ve güvenlik ihlali sonrasında veya silinmiş öğeleri kurtarmanız gereken zaman verileri kurtarmak için bir yol sağlar. Bir kullanıcının içeriğinin hepsini korumak için mahkeme tutma veya korumak istediğiniz içeriği özelleştirmek için bekletme ilkelerini kullanabilirsiniz.
   
-**Mahkeme tutma:** Silinen öğeler de dahil olmak üzere tüm posta kutusu içeriğini, kullanıcının posta kutusunun tamamını mahkemelere koyarak koruyabilirsiniz. 
+**Mahkeme tutma:** Silinen öğeler dahil olmak üzere tüm posta kutusu içeriğini, kullanıcının posta kutusunun tamamını mahkemelere koyarak koruyabilirsiniz. 
     
 Posta kutusunu mahkeme tutmada tutmak için Yönetim merkezinde:
     

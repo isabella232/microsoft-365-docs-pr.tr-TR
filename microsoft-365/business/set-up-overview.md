@@ -2,8 +2,8 @@
 title: Kuruluma genel bakış
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: kwekua
+author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Aboneden etki alanı ve kullanıcı eklemeye, güvenlik ilkelerini ayarlamaya ve daha birçok işlemi yapmak için Microsoft 365 İş Ekstra'ya yönelik kurulum adımlarını öğrenin.
-ms.openlocfilehash: 9d92aefb3b5666bb7c2fd2e13c9a00f074f107a7
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: 749acbfdbde92ad97b09dc720c85dd850b76c9cf
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912500"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51579944"
 ---
 # <a name="overview-of-setup"></a>Kuruluma genel bakış
 
@@ -85,7 +85,7 @@ Bir Windows 10 cihazına Azure AD'ye katılsanız, Windows 10 bilgisayarlar içi
 ## <a name="advanced"></a>Gelişmiş
 - **Yeni cihazları ayarlamak için Autopilot'a kullanma**
             
-     Kullanıcının yeni Windows 10 cihazlarını  otomatik olarak önceden yapılandırmak için [Windows Autopilot'u](add-autopilot-devices-and-profile.md) [](https://www.microsoft.com/solution-providers/search) kullanabilirsiniz, ancak bunu sizin için yapacak bir iş ortağını almak daha kolay olabilir. Ayrıca Microsoft [Store'a gidip](https://go.microsoft.com/fwlink/?linkid=874598)bir bulut teknolojisi uzmanının satın aldığınız yeni cihazları ayarlamalarını da sebilirsiniz.
+     Yeni Windows 10 cihazlarını bir  kullanıcı için otomatik olarak önceden yapılandırmak için [Windows Autopilot'u](add-autopilot-devices-and-profile.md) kullanabilirsiniz, ancak bunu sizin için yapacak bir iş ortağını almak daha kolay olabilir. [](https://www.microsoft.com/solution-providers/search) Ayrıca Microsoft [Store'a gidip](https://go.microsoft.com/fwlink/?linkid=874598)bir bulut teknolojisi uzmanının satın aldığınız yeni cihazları ayarlamalarını da sebilirsiniz.
 
 - **Şirket içi kaynaklara erişme**
 
@@ -93,6 +93,6 @@ Bir Windows 10 cihazına Azure AD'ye katılsanız, Windows 10 bilgisayarlar içi
 
     - İşletmenizin bazı şirket içi kaynakları (dosya paylaşımları ve yazıcılar gibi) içeren yerel bir Active Directory'si varsa, Azure AD'ye katılmış cihazlarınıza şu adımları takip edin: [Microsoft 365 Business Premium'da Azure AD'ye](access-resources.md)katılmış bir cihazdan şirket içi kaynaklara erişme.
 
-## <a name="see-also"></a>Ayrıca bkz.
+## <a name="see-also"></a>Ayrıca bk.
 
 [İş için Microsoft 365 eğitim videoları](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

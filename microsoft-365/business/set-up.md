@@ -2,8 +2,8 @@
 title: Microsoft 365 İş Ekstra'ya ayarlama
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: kwekua
+author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -30,12 +30,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Etki alanı ve kullanıcı ekleme, güvenlik ilkelerini ayarlama ve daha fazlası gibi Microsoft 365 İş Ekstra kurulum adımlarını keşfedin.
-ms.openlocfilehash: a06fb48ef5e1386a5c7b4df08500125f37943df6
-ms.sourcegitcommit: dcb97fbfdae52960ae62b6faa707a05358193ed5
+ms.openlocfilehash: c8e2ca94f4947d4f9c69915d2fef410a6075bfed
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51198453"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51579924"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Kurulum sihirbazında Microsoft 365 İş Ekstra'ya ayarlama
 
@@ -131,6 +131,6 @@ Office'i mobil iOS veya Android cihazlara yüklemek için Bkz. [Microsoft 365 İ
 
 Office'i tek tek de yükleyebilirsiniz. Yönergeler [için BKZ. PC veya Mac bilgisayara Office](https://support.microsoft.com/office/4414eaaf-0478-48be-9c42-23adc4716658) yükleme.
 
-## <a name="see-also"></a>Ayrıca bkz.
+## <a name="see-also"></a>Ayrıca bk.
 
 [İş için Microsoft 365 eğitim videoları](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

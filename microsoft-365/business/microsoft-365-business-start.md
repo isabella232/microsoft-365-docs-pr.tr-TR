@@ -2,8 +2,8 @@
 title: Microsoft 365 İş ile çalışmaya başlama
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -28,18 +28,18 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Microsoft 365 İş hakkında, ayarlama ve kullanıcılarınızı ve bilgisayarlarını Microsoft 365 İş tarafından korunacak şekilde hazırlama hakkında bilgi edinebilirsiniz.
-ms.openlocfilehash: 9430dc7aa637be3fdb833150b83e96caacc82170
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: 83bd2ff87683c1ad810d20658ba20f3229408968
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912972"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580104"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Microsoft 365 İş ile çalışmaya başlama
 
 ## <a name="what-is-microsoft-365-for-business"></a>Microsoft 365 İş nedir?
 
-İş için Microsoft 365, outlook, Word, Excel ve diğer Office ürünleri gibi her zaman güncel olan kapsamlı bir iş üretkenliği ve işbirliği araçları kümesidir. Yönetimi basit kurumsal sınıf güvenlikle tüm iOS, Android ve Windows 10 cihazlarınız için iş dosyalarınızı koruyabilirsiniz.
+İş için Microsoft 365, Outlook, Word, Excel ve diğer Office ürünleri gibi her zaman güncel olan kapsamlı bir iş üretkenliği ve işbirliği araçları kümesidir. Yönetimi basit kurumsal sınıf güvenlikle tüm iOS, Android ve Windows 10 cihazlarınız için iş dosyalarınızı koruyabilirsiniz.
 
 Microsoft 365 İş'e hızlı bir genel bakış için bu videoyu izleyin.<br><br>
 
@@ -57,7 +57,7 @@ Microsoft 365 İş'e hızlı bir genel bakış için bu videoyu izleyin.<br><br>
 
  **Microsoft 365 İş Paketi'nin ayarlanmış sürümüne genel bakış**
   
-Aşağıdaki diyagramda yöneticilerin Microsoft 365 İş'i nasıl ayarlayaları açık bir şekilde açık almaktadır. Ayrıca, Windows bilgisayarlarını Microsoft 365 İş'e hazırlama adımları da açık almaktadır. Ayrıca, Microsoft 365 yönetim merkezinde Windows AutoPilot ile yeni [cihazlar da ebilirsiniz.](add-autopilot-devices-and-profile.md) AutoPilot'u kullanarak, kullanıcı microsoft 365 iş kimlik bilgileriyle oturum alar açmaz üretken kullanıma hazır olması için yeni cihazları ayarlar ve önceden yapılandırabilirsiniz.
+Aşağıdaki diyagramda yöneticilerin Microsoft 365 İş'i nasıl ayarlayaları açık bir şekilde açık almaktadır. Ayrıca, Windows bilgisayarlarını Microsoft 365 İş'e hazırlama adımları da açık almaktadır. Windows AutoPilot ile Microsoft 365 yönetim merkezine yeni cihazlar [da ebilirsiniz.](add-autopilot-devices-and-profile.md) AutoPilot'u kullanarak, kullanıcı microsoft 365 iş kimlik bilgileriyle oturum alar açmaz üretken kullanıma hazır olması için yeni cihazları ayarlar ve önceden yapılandırabilirsiniz.
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](../media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
 
@@ -92,9 +92,9 @@ Genel yönetici [kimlik bilgilerinizle Microsoft 365](https://portal.office.com/
   
 ### <a name="3-prepare-pcs"></a>3: Bilgisayarları hazırlama
 
-Yöneticiler, [Windows AutoPilot'u](add-autopilot-devices-and-profile.md)kullanarak yeni Windows 10 bilgisayarları için ayarları önceden seçebilirsiniz. Kullanıcılar, bu konudaki adımları kullanarak mevcut veya yeni Windows 10 cihazlarını oluşturabilir: Microsoft 365 İş kullanıcıları için [Windows pc'leri ayarlama.](set-up-windows-devices.md) Var olan cihazlar için, kullanıcılar **isteğe bağlı** [olarak dosyaları OneDrive İş'e taşımaya devam eder.](move-files-to-onedrive.md) Ayrıca, Windows profiliyle ilişkili dosyaları OneDrive'a taşımak için üçüncü taraf araçlarını da kullanabilirler.
+Yöneticiler, [Windows AutoPilot'u](add-autopilot-devices-and-profile.md)kullanarak yeni Windows 10 bilgisayarları için ayarları önceden seçebilirsiniz. Kullanıcılar, şu konudaki adımları takip edin: Microsoft [365](set-up-windows-devices.md)İş kullanıcıları için Windows pc'lerini ayarlama. Mevcut cihazlar için, kullanıcılar **isteğe bağlı olarak** [dosyaları OneDrive İş'e taşımaya devam eder.](move-files-to-onedrive.md) Ayrıca, Windows profiliyle ilişkili dosyaları OneDrive'a taşımak için üçüncü taraf araçlarını da kullanabilirler.
   
-Kuruluşta Windows Server Active Directory şirket içi kullanıyorsa, Windows 10 cihazlarınızı korumak için Microsoft 365 İş'i kurabilirsiniz ve öte yandan da yerel kimlik doğrulaması gerektiren şirket içi kaynaklara erişimi koruyabilirsiniz. Bu ayarı yapmak [için etki alanına katılmış Windows 10 cihazlarını Microsoft 365](manage-windows-devices.md) İş tarafından yönetilsin. Bu yöntem tercih edilir ve bu durumdaki cihazlar Karma **Azure AD'ye** katılmış cihazlar olarak adlandırılan cihazlar. 
+Kuruluşta Windows Server Active Directory şirket içi kullanıyorsa, Windows 10 cihazlarınızı korumak için Microsoft 365 İş'i kurabilirsiniz ve öte yandan yerel kimlik doğrulaması gerektiren şirket içi kaynaklara erişimi koruyabilirsiniz. Bu ayarı yapmak [için etki alanına katılmış Windows 10 cihazlarını Microsoft 365](manage-windows-devices.md) İş tarafından yönetilsin. Bu yöntem tercih edilir ve bu durumdaki cihazlar Karma Azure AD'ye katılmış **cihazlar olarak adlandırılan cihazlar.** 
   
 Bazı şirket içi kaynaklar (dosya paylaşımları ve yazıcılar gibi) içeren yerel bir Active Directory'niz varsa, **Azure AD'ye** katılmış cihazlarınıza şu adımları takip edin: Microsoft [365](access-resources.md)İş'te Azure AD'ye katılmış bir cihazdan şirket içi kaynaklara erişme.
   
@@ -107,7 +107,7 @@ Bazı şirket içi kaynaklar (dosya paylaşımları ve yazıcılar gibi) içeren
     
 - İşletmeler için Microsoft 365 yöneticisi olarak, müşteri desteği ekibimize erişiminiz vardır: İş ürünleri için de destek ekibiyle iletişime geçin **[- Yönetici Yardımı](../admin/contact-support-for-business-products.md)**
     
-## <a name="see-also"></a>Ayrıca bkz.
+## <a name="see-also"></a>Ayrıca bk.
 
 [İşletmeler için Microsoft 365 belgeleri ve kaynakları](./index.yml)
   

@@ -2,8 +2,8 @@
 title: Kurulum sırasında Windows 10'da Office'i yükleme
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -25,18 +25,18 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
-description: Microsoft 365 Business Premium ile kullanıcıların tüm Windows 10 cihazlarında Office'in en son sürümüne sahip olduğundan otomatik olarak nasıl emin olabileceğininizi keşfedin.
-ms.openlocfilehash: 1ca386f75743178aebaf0bfabbabcb74f4813685
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Microsoft 365 İş Ekstra ile kullanıcıların tüm Windows 10 cihazlarında Office'in en son sürümüne sahip olduğundan nasıl emin olayabilirsiniz?
+ms.openlocfilehash: d3c62eb42ea73c7af6df6012dbc9488828cd1ba8
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44400848"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580184"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>Kurulum sırasında Windows 10'da Office'i yükleme
 
-![Banner bu işaret https://aka.ms/aboutM365preview .](../media/m365admincenterchanging.png)
+![Bunu işaret alan https://aka.ms/aboutM365preview başlık.](../media/m365admincenterchanging.png)
 
-Bu ayar varsayılan olarak kapalıdır. Kullanıcıların tüm Windows 10 cihazlarında Office'in en son sürümüne sahip olduğundan emin olmak için açabilirsiniz, ancak önce tüm ön koşulların karşılandığını doğrulayın. Microsoft 365 Business [Premium tarafından Office istemci dağıtımıiçin hazırla'da](prepare-for-office-client-deployment.md)açıklanan diğer gereksinimlere ek olarak, yazılımı cihaza itmek için kullanıcıların Microsoft 365 Business Premium lisansına ek olarak lisanslanması gerekir.
+Bu ayar varsayılan olarak kapalıdır. Kullanıcıların tüm Windows 10 cihazlarında Office'in en son sürümüne sahip olduğundan emin olmak için bu sürümü açabilirsiniz, ancak önce tüm önkoşulların karşılı olduğunu doğrulanın. Bu ayarın yazılımı cihaza iletirken microsoft 365 İş Ekstra tarafından Office istemci dağıtımına hazırlanma konusunda açıklanan diğer gereksinimlere ek olarak, kullanıcıların [Microsoft 365](prepare-for-office-client-deployment.md)İş Ekstra lisansına sahip olması gerekir.
   
-Kurulum sırasında varsayılan ayarı kabul edersiniz.
+Kurulum sırasında varsayılan ayarı kabul etmenizi öneririz.

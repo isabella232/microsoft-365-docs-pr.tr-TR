@@ -1,9 +1,9 @@
 ---
-title: Etki alanına katılmış Windows 10 cihazlarının Microsoft 365 İş tarafından yönetilsini etkinleştirme
+title: Etki alanına katılmış Windows 10 cihazlarını Microsoft 365 İş tarafından yönetillerini etkinleştirme
 f1.keywords:
 - CSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -23,13 +23,13 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Microsoft 365'in yalnızca birkaç adımda Active Directory'ye katılmış yerel Windows 10 cihazlarını korumayı nasıl etkinleştirebilirsiniz?
-ms.openlocfilehash: 82d4ac3f1d6aba9489f9ea153de3a3d2083b47ec
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+description: Yalnızca birkaç adımda Microsoft 365'in Active Directory'ye katılmış yerel Windows 10 cihazlarını korumayı öğrenin.
+ms.openlocfilehash: 8a45c6959bee368491c5c6424e3713300c443779
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50913204"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580144"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Etki alanına katılmış Windows 10 cihazlarını Microsoft 365 İş Ekstra tarafından yönetillerini etkinleştirme
 
@@ -42,17 +42,17 @@ Bu videoda, bunu en yaygın senaryo için ayarlama adımları açıklanan ve aş
   
 
 ## <a name="before-you-get-started-make-sure-you-complete-these-steps"></a>Başlamadan önce şu adımları tamamlayın:
-- Azure AD Connect ile kullanıcıları Azure AD'ye eşitle.
+- Azure AD Connect ile kullanıcıları Azure AD ile eşitle.
 - Azure AD Connect Kuruluş Birimi (OU) eşitlemeyi tamamlama.
 - Eşitleyilen tüm etki alanı kullanıcılarının Microsoft 365 İş Ekstra lisansları olduğundan emin olun.
 
 Adımlar [için bkz. Etki alanı kullanıcılarını Microsoft'a](manage-domain-users.md) eşitleme.
 
-## <a name="1-verify-mdm-authority-in-intune"></a>1. Intune'da MDM Yetkilisini doğrulama
+## <a name="1-verify-mdm-authority-in-intune"></a>1. Intune'da MDM Yetkilisini Doğrulama
 
 Uç Nokta [Yöneticisi'ne](https://endpoint.microsoft.com/#blade/Microsoft_Intune_Enrollment/EnrollmentMenu/overview) gidin ve Microsoft Intune sayfasında  Cihaz kaydı'na tıklayın, ardından Genel Bakış sayfasında **MDM** yetkilisinin **Intune** olduğundan emin olun.
 
-- **MDM yetkilisi Yok** **ise,** **MDM yetkilisini** **intune** olarak ayarlamak için tıklatın.
+- **MDM yetkilisi Yok** **ise,** **MDM yetkilisini** **Intune** olarak ayarlamak için tıklatın.
 - **MDM** yetkilisi **Microsoft Office 365** ise Cihazları Kaydetme cihazlarına gidin ve   >   **Intune MDM** yetkilisini eklemek için sağdan **MDM** yetkili ekle iletişim kutusunu kullanın **(MDM** Yetkilisini Ekle iletişim kutusu yalnızca **MDM** Yetkilisi Microsoft Office 365 olarak ayarlanmışsa kullanılabilir).
 
 ## <a name="2-verify-azure-ad-is-enabled-for-joining-computers"></a>2. Bilgisayarları birleştirme için Azure AD'nin etkinleştirildiğinden emin olun
@@ -78,7 +78,7 @@ Uç Nokta [Yöneticisi'ne](https://endpoint.microsoft.com/#blade/Microsoft_Intun
 
 ## <a name="4-create-the-required-resources"></a>4. Gerekli kaynakları oluşturma 
 
-Karma [Azure AD](/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join) birleştirmesini yapılandırmak için gereken görevlerin gerçekleştirilip [SecMgmt](https://www.powershellgallery.com/packages/SecMgmt) PowerShell modülünde bulunan [Initialize-SecMgmtHybirdDeviceEnrollment](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) cmdlet'i kullanımı basitleştirildi. Bu cmdlet'i çağırıldığında, gerekli hizmet bağlantı noktası ve grup ilkesi oluşturularak yapılandırılır.
+Karma [Azure AD](/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join) birleştirmesini yapılandırmak için gereken görevler, [SecMgmt](https://www.powershellgallery.com/packages/SecMgmt) PowerShell modülünde bulunan [Initialize-SecMgmtHybirdDeviceEnrollment](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) cmdlet'i kullanımıyla basitleştirildi. Bu cmdlet'i çağırıldığında, gerekli hizmet bağlantı noktası ve grup ilkesi oluşturularak yapılandırılır.
 
 Bir PowerShell örneğinden aşağıdakini kullanarak bu modülü yükleyebilirsiniz:
 
@@ -98,7 +98,7 @@ PS C:\> Initialize-SecMgmtHybirdDeviceEnrollment -GroupPolicyDisplayName 'Device
 
 İlk komut Microsoft bulutuyla bağlantı kuracak ve sizden istendiğinde Microsoft 365 İş Ekstra genel yönetici kimlik bilgilerinizi belirtir.
 
-## <a name="5-link-the-group-policy"></a>5. Grup İlkesini bağlama
+## <a name="5-link-the-group-policy"></a>5. Grup İlkesini Bağlama
 
 1. Grup İlkesi Yönetim Konsolu'nda (GPMC), ilkeyi bağlamayı istediğiniz konuma sağ tıklayın ve bağlam menüsünden Var olan *bir GPO'ya bağla...* öğesini seçin.
 2. Yukarıdaki adımda oluşturulan ilkeyi seçin ve Tamam'a **tıklayın.**
