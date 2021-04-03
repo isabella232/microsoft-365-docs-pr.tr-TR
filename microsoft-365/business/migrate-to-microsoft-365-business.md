@@ -2,8 +2,8 @@
 title: Microsoft 365 İş Standard'dan Microsoft 365 İş Ekstra'ya yükseltme
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Microsoft 365 İş Standard ile Microsoft 365 İş Ekstra arasındaki farkı ve Microsoft 365 İş Ekstra'ya nasıl yükseltebilirsiniz öğrenin.
-ms.openlocfilehash: ef3d929164f83d4e48157065eb1ae1d2a1a9452e
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: 1f38270c9acb6b803d16bb842140cc6df9cee768
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912932"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578317"
 ---
 # <a name="upgrade-to-microsoft-365-business-premium-from-microsoft-365-business-standard"></a>Microsoft 365 İş Standard'dan Microsoft 365 İş Ekstra'ya yükseltme
 
@@ -48,11 +48,11 @@ Bu iki planı Microsoft 365 İş Ekstra Hizmet Açıklaması'nın yan [yana kar�
 
 ## <a name="before-you-get-started"></a>Başlamadan önce
 
-- **Ne zaman yükseltmeyi seçim?** Tek bir plana atanan tüm kullanıcıları yükseltmek **istediğiniz zaman,** yükseltme doğru seçimdir. Yükseltmeyi seçtiğiniz zaman, tüm plan kullanıcıları aynı anda başka bir plana geçebilirsiniz. Tek bir plana atanan herkesi yükseltmek istemiyorsanız, yeni plan için lisans satın alın (bu durumda Microsoft 365 İş Ekstra) ve bu lisansları yükseltmek istediğiniz her kullanıcıya tek tek atabilirsiniz. [](../admin/manage/assign-licenses-to-users.md)
+- **Ne zaman yükseltmeyi seçmem gerekiyor?** Tek bir plana atanmış tüm kullanıcıları yükseltmek **istediğiniz zaman,** yükseltme doğru seçimdir. Yükseltmeyi seçtiğiniz zaman, tüm plan kullanıcıları aynı anda başka bir plana geçebilirsiniz. Tek bir plana atanan herkesi yükseltmek istemiyorsanız, yeni plan için lisans satın alın (bu durumda Microsoft 365 İş Ekstra) ve bu lisansları yükseltmek istediğiniz her kullanıcıya tek tek atabilirsiniz. [](../admin/manage/assign-licenses-to-users.md)
 
 - **Bazı eklentiler yükseltmeyi engellenebilir** Yükseltmeyi başlatmayı dener ve devam etmeden önce bir eklentiniz varsa, önce eklentiyi kaldırabilir ve daha sonra gerekirse daha sonra yeniden ebilirsiniz.
 
-- **Planınızı ön ödemeli olarak satın** Ön ödemeli planlar için anlaşılır bir yükseltme yolu yok. Planınızı bir mağazadan satın aldığınız bir ürün kimliği kullanarak ayar aldığınız için ön ödemeli bir planınız olup olduğunu bilirsiniz. Yeni bir plana geçmek için bir iş ortağıyla iletişime geçin, Microsoft Store'a gidin veya ön ödemeli plan süresi dolana kadar bekleyin.
+- **Planınızı ön ödemeli olarak satın** Ön ödemeli planlar için kolay bir yükseltme yolu yok. Planınızı bir mağazadan satın aldığınız bir ürün kimliği kullanarak ayar aldığınız için ön ödemeli bir planınız olup olduğunu bilirsiniz. Yeni bir plana geçmek için bir iş ortağıyla iletişime geçin, Microsoft Store'a gidin veya ön ödemeli plan süresi dolana kadar bekleyin.
 
 ## <a name="upgrade-to-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra'ya yükseltme
 
@@ -77,7 +77,7 @@ Bu iki planı Microsoft 365 İş Ekstra Hizmet Açıklaması'nın yan [yana kar�
 7. Satın **alma işleminizi tamamlamak** için Sipariş yerine'yi seçin.\
 Microsoft'un yeni hizmet planlarınızı ayarlaması birkaç dakika sürer. İlerleme durumunu kontrol etmek için Yükseltme durumunu **kontrol edin'i seçin.**
 
-8. Planınız hazır olduğunda, yönetim merkezinde bazı ek kurulum adımlarını tamamlamanız gerekiyor olabilir. Ek kurulum adımlarını tamamlamak için **gezinti bölmesinde** Giriş'i seçin.
+8. Planınız hazır olduğunda, yönetim merkezinde bazı ek kurulum adımlarını tamamlamanız gerekiyor olabilir. Ek kurulum adımlarını tamamlamak **için gezinti bölmesinde** Giriş'i seçin.
 
 > [!NOTE]
 > Artık ihtiyacınız olmadığınız Microsoft 365 lisansları için ücrete göre ücret iadesi alırsınız. Yeni planınızı ayarladikten yaklaşık iki gün sonra banka hesabınız veya kredi kartınızdan ücret tahsil edilecektir.

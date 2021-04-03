@@ -2,8 +2,8 @@
 title: Microsoft 365 İş ile cihazlardaki verileri korumak için önkoşullar
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -22,18 +22,18 @@ search.appverid:
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
 description: Microsoft 365 İş ile kurum ayarlama gereksinimleri ve kullanıcı cihazlarında iş verilerini koruma hakkında bilgi edinebilirsiniz.
-ms.openlocfilehash: c0fca0e038d15b19cb2a37eb5705296ed3da3746
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: 73e5ebf61ca828ff79b0688ce7dcd374b77daf16
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912912"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578297"
 ---
 # <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-for-business"></a>Microsoft 365 İş ile cihazlardaki verileri korumak için önkoşullar
 
 Bu makale Microsoft 365 İş Ekstra için geçerlidir.
 
-İş için Microsoft 365 ile kurum ayarlamanın ilk adımı, önkoşulları karşılaya hazır olduğundan emin olmaktır.
+İş için Microsoft 365 ile organizasyon ayarlamanın ilk adımı, önkoşulları karşılaya hazır olduğundan emin olmaktır.
   
 ## <a name="requirements-for-setting-up-your-organization-with-microsoft-365-for-business"></a>Microsoft 365 İş ile organizasyonlarınızı ayarlama gereksinimleri
 
@@ -49,4 +49,4 @@ Bu makale Microsoft 365 İş Ekstra için geçerlidir.
     
     Google Android 4.0 ve sonrası (Samsung KNOX Standard 4.0 ve sonrası dahil). Daha fazla bilgi için [Intune tarafından desteklenen cihazlara bakın.](/mem/intune/fundamentals/supported-devices-browsers)
     
-- Kullanıcı bilgisayarlarında mevcut Office uygulamaları [](prepare-for-office-client-deployment.md) varsa, Microsoft 365 İş'i office 2016'nın kullanıcı bilgisayarlarına yüklenmesi için ayarlamadan önce atılması gereken adımları anlamak için Office istemci yükleme hazırlığı makalesini okuyun.
+- Kullanıcı bilgisayarlarında var olan Office [](prepare-for-office-client-deployment.md) uygulamalarınız varsa, Microsoft 365 İş'i office 2016'nın kullanıcı bilgisayarlarına yüklenmesi için ayarlamadan önce atılması gereken adımları anlamak için Office istemci yükleme hazırlığı makalesini okuyun.

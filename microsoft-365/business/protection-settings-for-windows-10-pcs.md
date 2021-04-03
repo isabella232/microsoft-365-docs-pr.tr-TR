@@ -2,8 +2,8 @@
 title: Windows 10 bilgisayarlar için cihaz koruma ayarlarını düzenleme veya oluşturma
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: bd66c26c-73a4-45a8-8642-3ea4ee7cd89d
 description: Windows 10 cihazlarının güvenliğini sağlamak için Microsoft 365 İş'te bulunan ayarlar hakkında bilgi edinebilirsiniz.
-ms.openlocfilehash: db310731ef996500de61535b5b9f99e240ec75ff
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: acfb27b2e4592d4ed1e446a63c9495ae07d916de
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912812"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578237"
 ---
 # <a name="edit-or-create-device-protection-settings-for-windows-10-pcs"></a>Windows 10 bilgisayarlar için cihaz koruma ayarlarını düzenleme veya oluşturma
 
@@ -46,7 +46,7 @@ Microsoft 365 İş Ekstra ile Windows 10 cihazlarının güvenliğini sağlama h
 2. Sol gezintide Cihaz **İlkeleri** \> **Ekle'yi** \> **seçin.**
 3. **İlke ekle** bölmesinde bu ilke için benzersiz bir ad girin. 
 4. **İlke türü**'nün altında **Windows 10 Cihaz Yapılandırması**'nı seçin.
-5. Expand **Secure Windows 10 Devices** \> configure the settings how you would like. Daha fazla bilgi için bkz. [Kullanılabilir ayarlar](#available-settings). 
+5. Expand **Secure Windows 10 Devices** \> configure the settings how you would like. Daha fazla bilgi için Bkz. [Kullanılabilir ayarlar](#available-settings). 
     
     Varsayılan ayarlara dönmek için istediğiniz zaman **Varsayılan ayarlara sıfırla** bağlantısını kullanabilirsiniz. 
     
@@ -66,7 +66,7 @@ Microsoft 365 İş Ekstra ile Windows 10 cihazlarının güvenliğini sağlama h
 
 Varsayılan olarak tüm ayarlar **Açık** durumdadır. Aşağıdaki ayarlar kullanılabilir.
   
-Daha fazla bilgi için [bkz. Microsoft 365 Premium'daki koruma özellikleri ile Intune ayarları nasıl eşler.](map-protection-features-to-intune-settings.md) 
+Daha fazla bilgi için [Bkz. Microsoft 365 Premium'daki koruma özellikleri ile Intune ayarları nasıl eşler.](map-protection-features-to-intune-settings.md) 
   
 |||
 |:-----|:-----|
@@ -78,7 +78,7 @@ Daha fazla bilgi için [bkz. Microsoft 365 Premium'daki koruma özellikleri ile 
 |İnternetteki olası zararlı içeriklerin ağa erişimini engelle  <br/> |Kimlik avı dolandırıcılığı, açıkları kullanan yazılımlar veya diğer kötü amaçlı içerikleri barındırabilecek, itibarı düşük İnternet konumlarına giden kullanıcı bağlantılarını engellemek için bu ayarı kullanın. Bu ayar yalnızca Windows Defender Virüsten Koruma Açık olarak **ayarlanmışsa kullanılabilir.** Daha fazla bilgi için [bkz. Anızı koruma.](/windows/security/threat-protection/windows-defender-antivirus/configure-real-time-protection-windows-defender-antivirus)  <br/> |
 |BitLocker ile PC'lerdeki dosyaların ve klasörlerin yetkisiz erişime karşı korunmasına yardımcı ol  <br/> |BitLocker bilgisayar sabit sürücülerini şifreleyerek verileri korur ve bilgisayar kaybolduğunda veya çalındığında verilerin açığa çıkma durumuna karşı koruma sağlar. Daha fazla bilgi için [Bitlocker SSS bölümüne bakın.](/windows/security/information-protection/bitlocker/bitlocker-frequently-asked-questions)  <br/> |
 |Kullanıcıların Microsoft Store'ndan uygulama indirmesine izin ver  <br/> |Kullanıcıların Microsoft Store'ndan uygulama indirmesine ve yüklemesine izin verir. Uygulamalar, oyunlardan üretkenlik araçlarına kadar her şeyi içerebilir, dolayısıyla bu ayar **Açık** durumdadır ancak ek güvenlik için kapatabilirsiniz.  <br/> |
-|Kullanıcıların Cortana'ya erişmesine izin ver  <br/> |Cortana çok yararlı olabilir! Cortana sizin için ayarları açmak veya kapatmak, yol tarifleri vermek ve randevular için zamanında hazır olduğundan emin olabilir; dolayısıyla bu ayar varsayılan **olarak Açık** durumdadır.  <br/> |
+|Kullanıcıların Cortana'ya erişmesine izin ver  <br/> |Cortana çok yararlı olabilir! Cortana sizin için ayarları açma veya kapatma, yol tarifi verme ve randevular için zamanında hazır olduğundan emin olabilir; dolayısıyla bu ayar varsayılan **olarak Açık** durumdadır.  <br/> |
 |Kullanıcıların Microsoft'tan Windows ipucu ve reklam almasına izin ver  <br/> |Windows ipuçları kullanışlı olabilir ve yeni özellikler kullanıma sunulduğunda kullanıcıların yönlendirilmesine yardım edebilir.  <br/> |
 |Windows 10 cihazları otomatik olarak güncelleştir  <br/> |Windows 10 cihazların son güncelleştirmeleri otomatik olarak aldığından emin olur.  <br/> |
 |Cihaz şu kadar süre boşta kaldığında ekranı kapat  <br/> |Kullanıcı cihaz başında olmadığında şirket verilerinin korunmasını sağlar. Kullanıcı bir kafe gibi herkese açık bir konumda çalışıyorken kısa süreliğine uzaklaşabilir veya başka bir şeyle ilgilenebilir ve bu sırada diğer kişiler cihazdaki bilgilere bakabilir. Bu ayar sayesinde, ekran kapanmadan önce kullanıcının ne kadar süre boşta olabileceğini denetleyebilirsiniz.  <br/> |

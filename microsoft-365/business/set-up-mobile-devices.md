@@ -2,8 +2,8 @@
 title: Microsoft 365 kurumsal kullanıcıları için mobil cihazları ayarlama
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -26,12 +26,12 @@ search.appverid:
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: Office'i iPhone'a veya Android telefona yükleyin; Office uygulamaları altındaki iş dosyalarınız Microsoft 365 İş tarafından korunur.
-ms.openlocfilehash: ef18fcce851b8fa1573fd5134bd25fb7d4a3d8f9
-ms.sourcegitcommit: 855719ee21017cf87dfa98cbe62806763bcb78ac
+ms.openlocfilehash: fefec17344d199ced230907fbaa85d98198cfb94
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49928754"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578177"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>Microsoft 365 kurumsal kullanıcıları için mobil cihazları ayarlama
 
@@ -105,7 +105,7 @@ Outlook'u yeniden açın, PIN'i girin ve onaylayın. Outlook uygulamanız artık
   
 ![Set  PIN for Outlook app in Android](../media/edb91afb-f1ed-451a-bc6b-8ccba664e055.png)
 
-## <a name="see-also"></a>Ayrıca bkz.
+## <a name="see-also"></a>Ayrıca bk.
 
 [İş için Microsoft 365 eğitim videoları](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
 

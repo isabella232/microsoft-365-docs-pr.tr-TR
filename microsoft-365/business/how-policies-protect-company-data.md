@@ -1,9 +1,9 @@
 ---
-title: İşletmeler için Microsoft 365'teki ilkeler şirket verilerini nasıl korur?
+title: Microsoft 365 İş'te ilkeler şirket verilerini nasıl korur?
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -26,21 +26,21 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 665485be-2389-4f1d-9ef8-dbef19c6acdf
-description: Kullanıcıların kişisel cihazlarındaki şirket verilerini korumak için, belirli aygıtları ve güvenlik gruplarını hedefleyen ilkeler kullanın.
-ms.openlocfilehash: 18bf29d82b8020d31fec681b2114af86f52cad9c
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+description: Kullanıcıların kişisel cihazlarında şirket verilerini korumak için, belirli cihazları ve güvenlik gruplarını hedef alan ilkeleri kullanın.
+ms.openlocfilehash: 5c6a4b85b080c6c1afaf6ac5bec046f2a539ee20
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44471169"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578437"
 ---
-# <a name="how-policies-in-microsoft-365-for-business-protect-company-data"></a>İşletmeler için Microsoft 365'teki ilkeler şirket verilerini nasıl korur?
+# <a name="how-policies-in-microsoft-365-for-business-protect-company-data"></a>Microsoft 365 İş'te ilkeler şirket verilerini nasıl korur?
 
-Bu makale Microsoft 365 Business Premium için geçerlidir.
+Bu makale Microsoft 365 İş Ekstra için geçerlidir.
 
 Oluşturduğunuz ilkeler cihaz türüne özeldir ve belirli kullanıcı gruplarına uygulanabilir. Bu, yöneticileriniz için ayrı bir ilke oluşturup diğer herkes için ise farklı ilkeler oluşturabileceğiniz anlamına gelir.
   
-Android ve iOS aygıtları için Office uygulamalarını ve Office uygulamaları tarafından kullanılan iş dosyalarını koruyan uygulama ilkeleri ekleyebilir veya edebilirsiniz. Windows 10 aygıtlarını biraz daha kontrol edebiliyoruz, böylece uygulama ilkeleri ağ ve bulut konumları için şifreleme ve koruma gibi daha fazla ayar içerebilir. Ayrıca, virüs koruması ve otomatik güncelleştirmeler gibi ayarları uygulayan Windows 10 aygıtları için aygıt ilkeleri de oluşturabilirsiniz. Kurulum sırasında oluşturulan ilkelere bağlı kalmanızı öneririz, ancak ilkelerinizde ince ayar yapmak veya daha fazlasını eklemek isterseniz aşağıdaki makalelere bakın:
+Android ve iOS cihazlarında, Office uygulamaları tarafından kullanılan Office uygulamalarını ve iş dosyalarını koruyan uygulama ilkelerini ekleyebilir veya düzenleyebilirsiniz. Windows 10 cihazlarını biraz daha fazla kontrol edebilirsiniz, dolayısıyla uygulama ilkeleri, ağ ve bulut konumları için şifreleme ve koruma gibi daha fazla ayar içerebilir. Ayrıca, Windows 10 cihazları için virüs koruması ve otomatik güncelleştirmeler gibi ayarları zorunlu alan cihaz ilkeleri oluşturabilirsiniz. Kurulum sırasında oluşturulan ilkelere bağlı kalmanızı öneririz, ancak ilkelerinize ince ayar yapmak veya daha fazla bilgi eklemek için şu makalelere bakın:
   
 [Android veya iOS cihazlarda uygulama yapılandırmalarını ayarlama](app-protection-settings-for-android-and-ios.md)
   

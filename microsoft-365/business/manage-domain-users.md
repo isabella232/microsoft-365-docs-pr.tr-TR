@@ -2,8 +2,8 @@
 title: Etki alanı kullanıcılarını Microsoft 365'e eşitleme
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 - MOE150
 description: Etki alanı denetimli kullanıcıları Microsoft 365 İş ile eşitler.
-ms.openlocfilehash: 1c939dec7229f02991b15f08c48f184efecaddb0
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: b477b8a1f35a790d6c49937c973c141ad9f90ad4
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50913264"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578417"
 ---
 # <a name="synchronize-domain-users-to-microsoft-365"></a>Etki alanı kullanıcılarını Microsoft 365'e eşitleme
 
@@ -36,7 +36,7 @@ ms.locfileid: "50913264"
 
 Kullanıcılarınızı ve bilgisayarlarınızı yerel Active Directory Etki Alanı'nden eşitlemeden [önce, Microsoft 365'e dizin eşitlemesi için hazırlanma'ya bakabilirsiniz.](../enterprise/prepare-for-directory-synchronization.md) Özellikle:
 
-   - Dizinde şu öznitelikler için hiçbir yinelemenin mevcut olmadığını emin olun: **posta,** **proxyAddresses** ve **userPrincipalName**. Bu değerler benzersiz olmalı ve yinelenenler kaldırılmalıdır.
+   - Dizinde şu öznitelikler için hiçbir yinelemenin var olmadığını emin olun: **posta,** **proxyAddresses** ve **userPrincipalName**. Bu değerler benzersiz olmalı ve yinelenenler kaldırılmalıdır.
    
    - Her yerel kullanıcı hesabı için **userPrincipalName** (UPN) özniteliğini lisanslı Microsoft 365 kullanıcıya karşılık gelen birincil e-posta adresiyle eş olacak şekilde yapılandırmanızı öneririz. Örneğin:  *mary.shelley@contoso.com.local yerine mary@contoso.*
    
@@ -61,7 +61,7 @@ Kullanıcılarınızı, gruplarınızı ve kişilerinizi yerel Active Directory'
 
 Daha [fazla bilgi edinmek için Bkz. Microsoft 365 için dizin](../enterprise/set-up-directory-synchronization.md) eşitlemesini ayarlama.
 
-Azure AD Connect'e yönelik seçeneklerinizi yapılandırken, Microsoft 365 İş'te de desteklenen Parola Eşitlemesi, Sorunsuz Çoklu Oturum Açma ve parola geri yazma özelliğini etkinleştirmenizi öneririz. 
+Azure AD Connect'e yönelik seçeneklerinizi yapılandırarak, Parola Eşitlemeyi, Sorunsuz Çoklu  Oturum Açma özelliğini ve ayrıca Microsoft 365 İş'te de desteklenen parola geri yazma özelliğini etkinleştirmenizi öneririz.
 
 > [!NOTE]
 > Azure AD Connect'te parola geri yazma için bazı ek adımlar vardır. Daha fazla bilgi için bkz. [Nasıl yapılandırılır: parola geri yazma.](/azure/active-directory/authentication/howto-sspr-writeback) 

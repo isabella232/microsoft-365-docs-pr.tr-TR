@@ -2,8 +2,8 @@
 title: Microsoft 365 İş Ekstra'ya kaydolma
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -26,12 +26,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Microsoft 365 İş Ekstra'nın neler dahil olduğunu öğrenin ve Microsoft 365 İş Ekstra'ya kaydolma konusunda adım adım kılavuzdan faydalanın.
-ms.openlocfilehash: 54a8e92ccced24f446e73a96f75e4aa1531a95aa
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: d4aa1ae9ea48863434c960da69e41ffb2d3a0a89
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912520"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578117"
 ---
 # <a name="sign-up-for-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra'ya kaydolma
 
@@ -39,14 +39,14 @@ Microsoft 365 İş Ekstra'nın neler dahil olduğunu bulmak için kısa bir [vid
 
 Microsoft 365 İş Ekstra'ya üç şekilde faydalanabilirsiniz:
 - **Microsoft 365 İş Ekstra'nı** satın alın ve kendi kurulumlarınızı tamamlayın: Microsoft 365 İş Ekstra'nı çevrimiçi satın almak için aşağıdaki [adımları izleyin.](#sign-up-steps)
-- **Microsoft iş ortakları** için: İş ortağıysanız, Microsoft İş Ortağı Merkezi'nden [Microsoft 365 İş Ekstra'ya bakın.](get-microsoft-365-business.md)
+- **Microsoft iş ortakları** için: İş ortağıysanız Microsoft İş Ortağı Merkezi'nden [Microsoft 365 İş Ekstra'ya bakın.](get-microsoft-365-business.md)
 - **Microsoft mağazasından yardım al:** Microsoft Store'a [bakın.](https://go.microsoft.com/fwlink/?linkid=2109652) Microsoft mağazaları planlarla ilgili sorularınızda size yardımcı olabilir, iş ihtiyaçlarına uygun bir plan satın alamanıza ve kurulumlarınızı tamamlamanıza yardımcı olabilir.
 
 **Farklı bir şeye mi ihtiyacınız var?** Şunları yapabilirsiniz:
 - [Office 365 planınızı Microsoft 365 İş Ekstra'ya yükseltin.](migrate-to-microsoft-365-business.md)
 - [Bir ay boyunca ücretsiz](https://go.microsoft.com/fwlink/p/?linkid=2102309) bir Microsoft 365 İş Ekstra denemesi elde ettiysiniz.
 - [Daha az özelliği olan bir plana ihtiyacınız varsa Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkID=510935) İş Standard'a kaydol. İş planlarını içeren her planı [products.office.com.](https://go.microsoft.com/fwlink/?linkid=2109397)
-- [İş satın almıyorum, ev](https://go.microsoft.com/fwlink/?linkid=2109398) veya aile planına kaydol. 
+- [Bir işletme için satın almıyorum,](https://go.microsoft.com/fwlink/?linkid=2109398) ev veya aile planına kaydol. 
 
 ## <a name="sign-up-steps"></a>Kaydolma adımları
 
@@ -72,7 +72,7 @@ Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i il
 
         - **Etki alanı adım yok** 
         
-            E-posta adresiniz işletme adınızı yoksa ve iş adınızı kullanan bir web siteniz yoksa, şimdi kolayca bir etki alanı satın alabilirsiniz. Yeni **bir etki alanı adı satın al'ı** seçin ve işletmenizin adını girin. Örneğin, şirketin adı *ContosoSkis* ise, e-posta, Contosokis.com veya Contososkis.org girmeyi Contososkis.biz. Ardından, **seçili etki alanının** kullanılabilir olup olmadığını görmek için kullanılabilirliği kontrol edin'i seçin. Bir karar vermeden önce birden çok seçenek abilirsiniz. Etki alanı adınız mevcutsa, maliyeti size haber ve yeni planınız ile doğrudan faturalandırın. 
+            E-posta adresiniz işletme adınızı yoksa ve iş adınızı kullanan bir web siteniz yoksa, şimdi kolayca bir etki alanı satın alabilirsiniz. Yeni **bir etki alanı adı satın al'ı** seçin ve işletmenizin adını girin. Örneğin, şirketin adı *ContosoSkis* ise, e-posta, Contosokis.com veya Contososkis.org girmeyi Contososkis.biz. Ardından, seçili **etki alanının** kullanılabilir olup olmadığını görmek için kullanılabilirliği kontrol edin'i seçin. Bir karar vermeden önce birden çok seçenek abilirsiniz. Etki alanı adınız mevcutsa, maliyeti size haber ve yeni planınız ile doğrudan faturalandırın. 
        
             > [!TIP]
             > Yeni etki alanınız için hangi etki alanı uzantısını seçecek emin değilsanız (örneğin, .com veya .org), bkz. [Etki alanı adı satın alma](../admin/get-help-with-domains/buy-a-domain-name.md)
@@ -86,8 +86,8 @@ Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i il
 
     1. İşletmeniz için kaç kişinin Microsoft 365 lisansına  ihtiyacı olduğuna karar verin veya kullanıcı sayısını şimdilik 1 olarak ayarlayın ve daha sonra daha fazla kişi ekleyin. 
     2. Aylık veya yıllık faturalandırmayı seçin, toplam maliyeti kontrol edin ve Sonraki'yi **seçin.** 
-    3. Kredi kartı ayrıntılarınızı ekleyin. Şirket adresiniz kredi kartı adresinizle eşlerizse, şirket adresiniz de gerekir. Hangi vergileri ödeyebilirsiniz ve hangi hizmetlerin kullanılabilir olduğunu şirket adresiniz belirler. Vergiler hakkında daha fazla bilgi için bkz. [Hangi vergiler tahsil edilecek?](../commerce/billing-and-payments/tax-information.md)
-    4. Sipariş **sırala'ya seçin.** Microsoft'un yeni bir plan ayarlamayı bitirmesi kısa bir zaman alır.
+    3. Kredi kartı ayrıntılarınızı ekleyin. Şirket adresiniz kredi kartı adresinizle eş eşlerizse, şirket adresiniz de gerekiyor. Hangi vergileri ödeyebilirsiniz ve hangi hizmetlerin kullanılabilir olduğunu şirket adresiniz belirler. Vergiler hakkında daha fazla bilgi için bkz. [Hangi vergiler tahsil edilecek?](../commerce/billing-and-payments/tax-information.md)
+    4. Sipariş **sırala'ya seçin.** Microsoft'un yeni bir plan ayarlamayı bitirmesi kısa zaman alır.
 
 ## <a name="whats-next"></a>Sırada ne var?
 
@@ -95,6 +95,6 @@ Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i il
 
 Kurulumla ilgili yardım almak için [kuruluma bakın.](set-up.md)
 
-## <a name="see-also"></a>Ayrıca bkz.
+## <a name="see-also"></a>Ayrıca bk.
 
 [İş için Microsoft 365 eğitim videoları](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

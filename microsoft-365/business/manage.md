@@ -2,8 +2,8 @@
 title: Microsoft 365 İş'i yönetme
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: hub-page
@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
 description: İşletmeler için Microsoft 365 yönetici görevlerini, mobil cihazları, Windows 10 bilgisayarlarını ve bu tür birçok görevi yönetmeyi öğrenin.
-ms.openlocfilehash: d4136298a1305f12602e0ce258a440dd72e8cd64
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: 0ad2326bdcc785c0d8d1a52dee74187cdc1668e7
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50913184"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578377"
 ---
 # <a name="manage-microsoft-365-for-business"></a>Microsoft 365 İş'i yönetme
 
@@ -59,7 +59,7 @@ Office 365 [yönetici](/office365/admin/admin-home) içeriğinin çoğu, Microso
 
 - [Microsoft 365 kurumsal kullanıcıları için Windows cihazlarını ayarlama](set-up-windows-devices.md)
 
-    [Office'i otomatik olarak yüklemeden önce Microsoft 365](prepare-for-office-client-deployment.md) İş tarafından Office istemci dağıtımı için hazırlanma makalesini okuyun. 
+    [Office'i otomatik olarak yüklemeden önce Microsoft 365 İş](prepare-for-office-client-deployment.md) tarafından Office istemci dağıtımı için hazırlanma makalesini okuyun. 
     
 - [Windows 10 cihazlara yönelik cihaz koruma ayarlarını belirleme](protection-settings-for-windows-10-pcs.md)
     

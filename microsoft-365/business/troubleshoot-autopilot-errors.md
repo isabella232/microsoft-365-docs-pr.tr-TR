@@ -2,8 +2,8 @@
 title: AutoPilot cihazı sorunlarını giderme
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -27,25 +27,25 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 1f468690-530c-47ea-918f-fede24607c53
-description: Microsoft 365 Business Premium'da AutoPilot aygıt dosyalarıyla çalışırken görebileceğiniz hataları nasıl giderdiğinizi öğrenin.
-ms.openlocfilehash: bec5126696ee322db42e4b7c5cd8e0df485ab2c9
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Microsoft 365 İş Ekstra'da AutoPilot cihaz dosyalarıyla çalışırken gördüğünüz hataların nasıl giderilir öğrenin.
+ms.openlocfilehash: 1078ab74b07952e4bb565555a081b98ecce9db5c
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403420"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578097"
 ---
 # <a name="troubleshoot-autopilot-device-errors"></a>AutoPilot cihazı sorunlarını giderme
 
-## <a name="device-file-error-messages"></a>Aygıt dosyası hata iletileri
+## <a name="device-file-error-messages"></a>Cihaz dosyası hata iletileri
 
-Microsoft 365 Business Premium'da AutoPilot aygıt dosyalarıyla çalışırken görebileceğiniz bazı hatalar hakkında bilgiler aşağıda verilmiştir. 
+Microsoft 365 İş Ekstra'da AutoPilot cihaz dosyalarıyla çalışırken gördüğünüz hatalardan bazıları hakkında bilgi edinebilirsiniz. 
   
 |**Hata kodu**|**Denemek için düzeltme**|
 |:-----|:-----|
-|Geçersiz istek gövdesi  <br/> |Bu hatayı nadiren olur, bu hatayı görürseniz işlemi yeniden deneyin.  <br/> |
-|Aygıt için donanım karma değeri doğru değildir.  <br/> |Bu hatayı görürseniz, bir aygıtın donanım karma için CSV dosyanızda sağladığınız değerdoğru olmadığı anlamına gelir. İlk olarak, değerin doğru yazıldığını doğrulayın. Değerin doğru olduğunu düşünüyorsanız, ancak bu hata hala oluyorsa, donanım satıcınızdan yardım isteyin.  <br/> |
-|Başka bir kiracıya atanan aygıt  <br/> |Bu hatayı görürseniz, csv dosyanızda bir veya daha fazla aygıtın seri numarası veya ürün anahtarı için sağladığınız değerin doğru olmadığı anlamına gelir. İlk olarak, değerin doğru yazıldığını doğrulayın. Değerin doğru olduğunu düşünüyorsanız, ancak bu hata hala oluyorsa, donanım satıcınızdan yardım isteyin.  <br/> |
-|CSV dosyası geçersiz bir seri numarası veya ürün anahtarı içerir  <br/> |Bu hatayı görürseniz, kaydetmeye çalıştığınız aygıtın başka bir kuruluş tarafından zaten kaydedilmiş olduğu anlamına gelir. Bu hatayı gidermek için donanım satıcınızdan yardım isteyin.  <br/> |
-|Bu cihaz Otomatik Pilot kullanılarak kurulum için desteklenmez  <br/> | Bu hata, aygıtın Otomatik Pilot dağıtım gereksinimlerini karşılamadığı anlamına gelir. Cihazların şu gereksinimleri karşılaması gerekir:  <br/>  Windows 10, sürüm 1703 veya üstü.  <br/>  Windows'un kutudan çıkma deneyiminden geçmemiş yeni aygıtlar.  <br/> |
-|Aygıt bulunamadı  <br/> |Bu hata, CSV dosyanızdaki bir veya daha fazla aygıtın kuruluşunuza kayıtlı olmadığı anlamına gelir. Bunu düzeltmek için donanım satıcınızdan yardım isteyin.  <br/> |
+|Geçersiz istek gövdesi  <br/> |Bu hata çok seyrek olarak görülür, bu hatayı görüyorsanız işlemi yeniden deneyin.  <br/> |
+|Bir cihaz için donanım karma değeri doğru değil.  <br/> |Bu hatayı görüyorsanız, CSV dosyanıza bir cihazın donanım karması için sağladığınız değer doğru değildir. İlk olarak, değerin doğru yaz olduğunu doğrulayın. Değerin doğru olduğunu düşünüyorsanız, ancak bu hata hala devam ediyorsa donanım satıcıdan yardım istemeniz gerekir.  <br/> |
+|Başka bir kiracıya atanmış cihaz  <br/> |Bu hatayı görüyorsanız, CSV dosyanıza bir veya birden çok cihazın seri numarası veya ürün anahtarı için sağladığınız değer doğru değildir. İlk olarak, değerin doğru yaz olduğunu doğrulayın. Değerin doğru olduğunu düşünüyorsanız, ancak bu hata hala devam ediyorsa donanım satıcıdan yardım istemeniz gerekir.  <br/> |
+|CSV dosyası geçersiz bir seri numarası veya ürün anahtarı içeriyor  <br/> |Bu hatayı görüyorsanız, kaydolmaya çalışıyorsanız cihaz zaten başka bir kuruluş tarafından kaydedilmiş demektir. Bu hatayı düzeltmek için donanım satıcınıza yardım sorun.  <br/> |
+|Bu cihaz AutoPilot kullanarak kurulum için desteklenmiyor  <br/> | Bu hata, cihazın AutoPilot dağıtım gereksinimlerini karşılamıyor olduğu anlamına gelir. Cihazların şu gereksinimleri karşılaması gerekir:  <br/>  Windows 10, sürüm 1703 veya üstü.  <br/>  Windows'un ilk gelen deneyimine henüz sahip olmayan yeni cihazlar.  <br/> |
+|Cihaz bulunamadı  <br/> |Bu hata, CSV dosyanız içinde yer alan bir veya birden çok cihaz kuruma kayıtlı değil demektir. Bunu düzeltmek için donanım satıcınıza yardım sorun.  <br/> |

@@ -2,8 +2,8 @@
 title: AutoPilot cihaz ve profilleri eklemek için adım adım kılavuzu kullanın.
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -25,12 +25,12 @@ search.appverid:
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: İşletmeniz için çalışan kullanımına hazır olacak şekilde yeni Windows 10 cihazlarını ayarlamak üzere Windows AutoPilot'u nasıl kullanabileceğinizi öğrenin.
-ms.openlocfilehash: 75cc51b889f8673de8dba2357c777de47fd0d296
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: cd8777e6ae2e395506d2bf308c99309de1e24805
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50913512"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578537"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>AutoPilot cihaz ve profilleri eklemek için adım adım kılavuzu kullanın.
 
@@ -73,7 +73,7 @@ Henüz cihaz grupları veya profil oluşturmadınız, kullanmaya başlamanın en
     Daha fazla bilgi için bkz. [Cihaz listesi CSV dosyası](../admin/misc/device-list.md). **Cihaz listesiyle .csv dosyası yükleme** sayfasında bir örnek dosya da indirebilirsiniz. 
     
 > [!NOTE]
-> Bu betikte, müşterinin Windows Autopilot'a cihaz kaydetmesi için gereken özellikleri almak için ISEMN kullanılır. Sonuçta elde edilen CSV dosyasının Windows Ürün Kimliği (PKID) değerini toplamamanın normal olduğunu unutmayın, çünkü bu bir cihazı kaydetmek için gerekli değildir ve PKID'nin CSV çıktısı CSV'de NULL olması tamamen iyidir. Yalnızca seri numarası ve donanım karması doldurulur.
+> Bu betikte, bir müşterinin Windows Autopilot'a cihaz kaydetmesi için gereken özellikleri almak için ISEMN kullanılır. Sonuçta elde edilen CSV dosyasının Windows Ürün Kimliği (PKID) değerini toplamamanın normal olduğunu unutmayın, çünkü bu bir cihazı kaydetmek için gerekli değildir ve PKID'nin CSV çıktısı CSV'de NULL olması tamamen iyidir. Yalnızca seri numarası ve donanım karması doldurulur.
     
 4. Profil **atama sayfasında,** mevcut bir profili seçebilirsiniz veya yeni bir profil oluşturabilirsiniz. Henüz bir tane yoksa, bir tane oluşturmanız istenir. 
     

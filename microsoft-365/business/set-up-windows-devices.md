@@ -2,8 +2,8 @@
 title: Microsoft 365 İş Ekstra kullanıcıları için Windows cihazlarını ayarlama
 f1.keywords:
 - CSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: Microsoft 365 İş Ekstra kullanıcıları için Windows 10 Pro çalıştıran Windows cihazlarını ayarlamayı ve merkezi yönetim ve güvenlik denetimlerini etkinleştirmeyi öğrenin.
-ms.openlocfilehash: b1877d83f113a2ba23d0db374967e0afcd7fe067
-ms.sourcegitcommit: 855719ee21017cf87dfa98cbe62806763bcb78ac
+ms.openlocfilehash: 9c9ffe5bd74d9e9877a87309757c481576ee89d2
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49928734"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578137"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Microsoft 365 İş Ekstra kullanıcıları için Windows cihazlarını ayarlama
 
