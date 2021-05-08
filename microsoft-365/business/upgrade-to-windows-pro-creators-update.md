@@ -1,5 +1,5 @@
 ---
-title: Windows cihazlarını Windows 10 Pro'ya yükseltme
+title: Cihazları Windows için yükseltin Windows 10 Pro
 f1.keywords:
 - NOCSH
 ms.author: kwekua
@@ -25,41 +25,41 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
-description: Daha gelişmiş güvenlik ve iş ağı özelliklerinden yararlanmak için Windows cihazlarınızı Windows 10 Pro'ya yükseltmenin yollarını keşfedin.
-ms.openlocfilehash: ffcdff540da18a2ecc0578e8015424a2435de6a8
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Daha gelişmiş güvenlik ve iş ağı Windows kullanmak için Windows 10 Pro cihazlarınızı yükseltmenin yollarını keşfedin.
+ms.openlocfilehash: 0ed24f3560832890c1ba26f89ecbcd1f2ef7b098
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578057"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52244746"
 ---
-# <a name="upgrade-windows-devices-to-windows-10-pro"></a>Windows cihazlarını Windows 10 Pro'ya yükseltme
+# <a name="upgrade-windows-devices-to-windows-10-pro"></a>Cihazları Windows için yükseltin Windows 10 Pro
 
-Windows cihazlarını Windows 10 Pro'ya yükseltme hakkında kısa bir video izleyin.<br><br>
+Tek bir cihaza yükseltme Windows hakkında kısa bir Windows 10 Pro.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
 
-Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](../business-video/index.yml).
 
-## <a name="upgrade-to-windows-10-pro"></a>Windows 10 Pro'ya yükseltme
+## <a name="upgrade-to-windows-10-pro"></a>Yükseltme Windows 10 Pro
   
-Windows 10 Pro'ya yükseltmek için çeşitli seçenekleriniz vardır. Şunları yapabilirsiniz:
+Bu sürüme Windows 10 Pro için çeşitli seçenekleriniz vardır. Şunları yapabilirsiniz:
     
-- [Microsoft](https://go.microsoft.com/fwlink/?LinkID=836951 ) Yazılım İndirme sitesinden yükseltmeyi yükleyin Oturum açtığınız cihaz güncelleştirmek istediğiniz cihazla aynı cihazda ise bu &ndash; seçeneği belirtin. 
+- [Microsoft](https://go.microsoft.com/fwlink/?LinkID=836951 ) Yazılım İndirme sitesinden yükseltmeyi yükle Oturum açtığınız cihaz güncelleştirmek istediğiniz cihazla aynı cihazda ise &ndash; bu seçeneği belirtin. 
 
-    - Yazılım indirme sitesinde,  cihazı Windows 10 Pro Creators Update'e yükseltmeye başlamak için Şimdi Güncelleştir'e tıklayın. 
+    - Yazılım indirme sitesinde,  cihazı Windows 10 Pro Creators Update sürümüne yükseltmeye başlamak için Şimdi güncelleştir'e tıklayın. 
     
-- Medya Oluşturma Aracı'nı kullanarak yükleme medyası oluşturma Windows 10'u kullanmakta olandan farklı bir bilgisayara yüklemek için [](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; Windows 10 Pro Creators Update yükleme medyası (USB flash sürücü veya ISO dosyası) oluşturmak için bu seçeneği belirtin.
+- Medya Oluşturma Aracı'nı kullanarak yükleme medyası oluşturma Windows 10 Pro Creators Update yükleme medyası (USB flash sürücü veya ISO dosyası) oluşturmak ve Windows 10'ı kullanmakta olduğunuzdan farklı bir bilgisayara yüklemek için bu [](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; seçeneği belirtin.
 
-    - Aracı kullanma ve yükleme medyanızı oluşturma yönergelerini okuyun. 
+    - Aracın kullanımı ve yükleme medyanızı oluşturma ile ilgili yönergeleri okuyun. 
 
 > [!NOTE]
-> Windows 7 Pro, Windows 8 Pro veya Windows 8.1 Pro çalıştıran Windows cihazlarınız varsa, Microsoft 365 İş aboneliğiniz size Bir Windows Pro 10 yükseltmesi hakkı verir.
+> Windows Windows 7 Pro, Windows 8 Pro veya Windows 8.1 Pro çalıştıran Microsoft 365 cihazlarınız varsa, işletmeler için Microsoft 365 aboneliğiniz size Windows Pro 10 yükseltme hakkı verir.
     
-Windows [10 cihazlarını ayarlamayı tamamlamak üzere microsoft 365](set-up-windows-devices.md) İş kullanıcıları için Windows cihazlarını ayarlama makalesini ziyaret edin. 
+Bkz. [Windows cihazları ayarlama Microsoft 365 kurumsal kullanıcıların cihazlarını](set-up-windows-devices.md) ayarlamayı tamamlaması Windows 10. 
   
-Android ve iOS [cihazlarını ayarlamayı tamamlamak üzere Microsoft 365](set-up-mobile-devices.md) kurumsal kullanıcıları için mobil cihazları ayarlama makalesini ziyaret edin. 
+Bkz. Android ve iOS [Microsoft 365 için](set-up-mobile-devices.md) mobil cihazları ayarlama. 
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>Microsoft 365 İş'i ayarlama ve kullanma hakkında daha fazla bilgi için
+## <a name="related-content"></a>İlgili içerik
 
-[İş için Microsoft 365 eğitim videoları](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 eğitim videoları için giriş](../business-video/index.yml) (bağlantı sayfası)

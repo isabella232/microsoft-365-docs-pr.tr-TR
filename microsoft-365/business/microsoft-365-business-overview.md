@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Office üretkenlik uygulamalarını ve işletmeniz için sanal tehlikelere karşı gelişmiş korumayı içeren bir abonelik hizmeti olan Microsoft 365 İş Ekstra hakkında bilgi edinin.
-ms.openlocfilehash: d6b0ded25e0478f85e73b807789463e4d55b1bb0
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: a355c9856ead4a66f6876cc7cb5aa8eb469d7f12
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578357"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52244866"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra’ya Genel Bakış
 
@@ -46,7 +46,7 @@ Microsoft 365 İş Ekstra’ya hızlı bir genel bakış için bu videoyu izleyi
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](../business-video/index.yml). 
 
 Microsoft 365 İş Ekstra, en fazla 300 lisans için uygundur. Daha fazla lisansa ihtiyacınız varsa daha fazla bilgi için [Microsoft 365 Kurumsal](../enterprise/index.yml) belgelerine göz atın.
 
@@ -95,7 +95,7 @@ Microsoft 365 İş Ekstra, tehditlere karşı şu şekilde **koruma** sağlar:
 
 - Kullanıcıların ev bilgisayarlarından, onaylanmayan uygulamalardan veya çalışma saatlerinin dışında oturum açmasını engelleme seçenekleriyle, hangi cihazların ve kullanıcıların Microsoft verilerinize erişebileceğini denetleme.
 
-- iOS ve Android cihazlarda iş verilerini korumak için güvenlik ilkelerini uygulama. Örneğin, kullanıcıların iş verilerine erişmek için bir PIN veya parmak izi sağlamasını isteyebilir ve mobil cihazlarda verileri şifreleyebilirsiniz (Office mobil uygulamaları için uygulama koruması).
+- iOS ve Android cihazlarındaki iş verilerini korumak için güvenlik ilkeleri uygulama. Örneğin, kullanıcıların iş verilerine erişmek için bir PIN veya parmak izi sağlamasını isteyebilir ve mobil cihazlarda verileri şifreleyebilirsiniz (Office mobil uygulamaları için uygulama koruması).
 
 - İş belgelerini, e-postaları ve diğer verileri onaylı Office mobil uygulamalarında tutma ve çalışanların bunları yetkisiz uygulamalara ve konumlara kaydetmesini önleme (Office mobil uygulamaları için uygulama koruması).
 
@@ -111,6 +111,6 @@ Güvenlik özelliklerinin tam listesini görmek için, bkz. [Microsoft 365 İş 
 
 - Bir iş ortağınız yoksa ve Microsoft 365 İş Ekstra’ya sahip olmak istiyorsanız, [buradan satın alabilir](https://www.microsoft.com/microsoft-365/business) ve [kaydolma](sign-up.md) yönergelerini izleyebilirsiniz.
 
-## <a name="see-also"></a>Ayrıca bkz.
+## <a name="related-content"></a>İlgili içerik
 
-[Microsoft 365 İş Ekstra eğitim videoları](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 İş Ekstra eğitim videoları](../business-video/index.yml) (bağlantı sayfası)

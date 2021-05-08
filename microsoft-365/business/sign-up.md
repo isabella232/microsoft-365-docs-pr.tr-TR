@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 İş Ekstra'ya kaydolma
+title: Oturum açma için Microsoft 365 İş Ekstra
 f1.keywords:
 - NOCSH
 ms.author: cmcatee
@@ -25,28 +25,28 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Microsoft 365 İş Ekstra'nın neler dahil olduğunu öğrenin ve Microsoft 365 İş Ekstra'ya kaydolma konusunda adım adım kılavuzdan faydalanın.
-ms.openlocfilehash: d4aa1ae9ea48863434c960da69e41ffb2d3a0a89
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Bu Microsoft 365 İş Ekstra neler olduğunu öğrenin ve bu oturuma kaydolma konusunda adım adım Microsoft 365 İş Ekstra.
+ms.openlocfilehash: 18f4cea19225f053bef6ac8838275755b8a1f7ab
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578117"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52244766"
 ---
-# <a name="sign-up-for-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra'ya kaydolma
+# <a name="sign-up-for-microsoft-365-business-premium"></a>Oturum açma için Microsoft 365 İş Ekstra
 
-Microsoft 365 İş Ekstra'nın neler dahil olduğunu bulmak için kısa bir [video izleyin](../business-video/what-is-microsoft-365.md) ve Genel Bakış'a [bakın.](microsoft-365-business-overview.md)
+Bu videoların neler Microsoft 365 İş Ekstra için, kısa bir [video izleyin ve](../business-video/what-is-microsoft-365.md) Genel Bakış'a [bakın.](microsoft-365-business-overview.md)
 
-Microsoft 365 İş Ekstra'ya üç şekilde faydalanabilirsiniz:
-- **Microsoft 365 İş Ekstra'nı** satın alın ve kendi kurulumlarınızı tamamlayın: Microsoft 365 İş Ekstra'nı çevrimiçi satın almak için aşağıdaki [adımları izleyin.](#sign-up-steps)
-- **Microsoft iş ortakları** için: İş ortağıysanız Microsoft İş Ortağı Merkezi'nden [Microsoft 365 İş Ekstra'ya bakın.](get-microsoft-365-business.md)
-- **Microsoft mağazasından yardım al:** Microsoft Store'a [bakın.](https://go.microsoft.com/fwlink/?linkid=2109652) Microsoft mağazaları planlarla ilgili sorularınızda size yardımcı olabilir, iş ihtiyaçlarına uygun bir plan satın alamanıza ve kurulumlarınızı tamamlamanıza yardımcı olabilir.
+Bu şekilde devam etmek için üç Microsoft 365 İş Ekstra:
+- **Çevrimiçi Microsoft 365 İş Ekstra satın alın ve kendi** kurulumlarınızı tamamlayın: Çevrimiçi Microsoft 365 İş Ekstra satın almak için aşağıdaki adımları [izleyin.](#sign-up-steps)
+- **Microsoft iş ortakları** için: İş ortağıysanız, bkz. [Microsoft Microsoft 365 İş Ekstra Merkezi'nden iş ortağı edin.](get-microsoft-365-business.md)
+- **Microsoft mağazasında yardım al:** Bir mağazaya [Microsoft Store.](https://go.microsoft.com/fwlink/?linkid=2109652) Microsoft mağazaları planlar hakkında sorularınızda size yardımcı olabilir, iş ihtiyaçlarına uygun bir plan satın alamanıza ve kurulumlarınızı tamamlamanıza yardımcı olabilir.
 
-**Farklı bir şeye mi ihtiyacınız var?** Şunları yapabilirsiniz:
-- [Office 365 planınızı Microsoft 365 İş Ekstra'ya yükseltin.](migrate-to-microsoft-365-business.md)
-- [Bir ay boyunca ücretsiz](https://go.microsoft.com/fwlink/p/?linkid=2102309) bir Microsoft 365 İş Ekstra denemesi elde ettiysiniz.
-- [Daha az özelliği olan bir plana ihtiyacınız varsa Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkID=510935) İş Standard'a kaydol. İş planlarını içeren her planı [products.office.com.](https://go.microsoft.com/fwlink/?linkid=2109397)
-- [Bir işletme için satın almıyorum,](https://go.microsoft.com/fwlink/?linkid=2109398) ev veya aile planına kaydol. 
+**Farklı bir şey mi gerekiyor?** Şunları yapabilirsiniz:
+- [Microsoft 365 İş Ekstra için Office 365 planınızı yükseltin.](migrate-to-microsoft-365-business.md)
+- [Bir ay boyunca ücretsiz Microsoft 365 İş Ekstra](https://go.microsoft.com/fwlink/p/?linkid=2102309) deneme sürümüne ücretsiz olarak devam.
+- [Daha az özelliği Microsoft 365 İş Standart](https://go.microsoft.com/fwlink/p/?LinkID=510935) bir plana ihtiyacınız varsa o plan için kaydol. Her bir iş planının neleri dahil [olduğunu](https://go.microsoft.com/fwlink/?linkid=2109397)bu products.office.com.
+- [Bir işletme için satın almıyorum bir](https://go.microsoft.com/fwlink/?linkid=2109398) ev veya aile planı için kaydol' 
 
 ## <a name="sign-up-steps"></a>Kaydolma adımları
 
@@ -56,45 +56,45 @@ Kaydolma sürecine hızlı bir genel bakış için bu videoyu izleyin.<br><br>
 
 Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
-İşletmeniz için Microsoft 365'e kaydolmak ve satın almak için aşağıdaki adımları tamamlayın:
+İşletmenize kaydolmak ve Microsoft 365 satın almak için aşağıdaki adımları tamamlayın:
 
-1. Microsoft [365 İş sayfasında, Fiyatlara](https://go.microsoft.com/fwlink/?linkid=2109654)göre **planları & seçin.** 
-2. Sonraki sayfada aylık maliyeti bulun ve Microsoft 365'e nelerin dahil olduğu hakkında daha fazla bilgi için sayfayı aşağı kaydırın. Microsoft 365 İş Ekstra'nın altında Şimdi satın **al'ı seçin.**
-3. Microsoft **365 İş Ekstra'ya seçtiğiniz için** teşekkür sayfasında, çalışmaya başlamanız için bilgileri girin.
-4. **1. adımda,** zaten kullanmakta olduğunuz bir e-posta adresi girin. Bu geçerli iş e-posta adresiniz veya kurulum sırasında Microsoft'un size iletişim kurmak için kullanmalarını istediğiniz herhangi bir adres olabilir. Ayrıca faturanız ve yenilemeleriniz hakkında size bilgi gönder adresidir. Ardından, **Hesap ayarla'yi seçin.**
-5. **2. adımda,** adınız, iş telefon numaranız, şirket adınız ve konumunu girin. Ülkeniz veya Bölgeniz Microsoft'tan tam olarak hangi hizmetleri alasınız? Bu adımı tamamlandıktan sonra değiştirilemez. **İleri**'yi seçin.
+1. İş için [Microsoft 365 sayfasında, Planlara](https://go.microsoft.com/fwlink/?linkid=2109654)ve **fiyatlara bakın & seçin.** 
+2. Sonraki sayfada aylık maliyeti bulun ve ardından sayfayı aşağı kaydırarak aylık ödemeye nelerin dahil olduğu hakkında daha fazla Microsoft 365. Şimdi Microsoft 365 İş Ekstra satın **al'ı seçin.**
+3. **Seçeneğiniz için teşekkür Microsoft 365 İş Ekstra,** işe başlamanız için bilgileri girin.
+4. **1. adımda,** zaten kullanmakta olduğunuz bir e-posta adresi girin. Bu geçerli iş e-posta adresiniz veya kurulum sırasında Microsoft'un size iletişim kurmak için kullanmalarını istediğiniz herhangi bir adres olabilir. Ayrıca faturanız ve yenilemeleriniz hakkında size bilgi gönder adresidir. Ardından, **Hesap ayarla öğesini seçin.**
+5. **2. adımda**, kendi adını, iş telefon numarasını, şirket adını ve konumunu girin. Ülke veya Bölgeniz Microsoft'tan tam olarak hangi hizmetleri alasınız? bunu belirler ve bu adımı tamamlandıktan sonra değiştirilemez. **İleri**'yi seçin.
     > [!NOTE]
-    > Yönetim merkezinde şirket adı görüntülenir; Microsoft 365 kullanıcılarını, lisanslarını ve diğer hizmetleri burada yönetirsiniz. Ayrıca bunu tüm iç (SharePoint) site URL'lerine de dahil etmektir.
-6. **3. adımda:**
+    > Yönetim merkezinde şirket adı görüntüleniyor; kullanıcılarınızı, lisanslarınızı Microsoft 365 yönetebilirsiniz. Ayrıca, tüm iç (dış) site SHAREPOINT'lere de dahil etmek için bu URL'leri dahil etmektir.
+6. **3. adımda**:
 
-    1. Robot olmadığını kanıtla! Bana kısa **mesaj at** veya **Beni ara'ya** seçin ve size ulaşacak bir numara girin. Doğrulama **Kodu Gönder'i** seçin; hemen bir kısa mesaj veya çağrı alırsınız. Kodunuzu girin ve Doğrula'ya **seçin.**
-    2. Ardından, yeni bir etki alanı adı mı satın alın yoksa geçici bir ad mı alın?
+    1. Robot olmadığınız kanıtlayabilir! Bana kısa **mesaj at** veya Beni **ara seçeneğini** seçin ve size ulaşacak bir numara girin. Doğrulama **Kodu Gönder'i** seçerek hemen bir kısa mesaj veya çağrı alırsınız. Kodunuzu girin ve Doğrula öğesini **seçin.**
+    2. Ardından, yeni bir etki alanı adı mı satın alın yoksa geçici bir ad mı almaya karar verin:
 
         - **Etki alanı adım yok** 
         
-            E-posta adresiniz işletme adınızı yoksa ve iş adınızı kullanan bir web siteniz yoksa, şimdi kolayca bir etki alanı satın alabilirsiniz. Yeni **bir etki alanı adı satın al'ı** seçin ve işletmenizin adını girin. Örneğin, şirketin adı *ContosoSkis* ise, e-posta, Contosokis.com veya Contososkis.org girmeyi Contososkis.biz. Ardından, seçili **etki alanının** kullanılabilir olup olmadığını görmek için kullanılabilirliği kontrol edin'i seçin. Bir karar vermeden önce birden çok seçenek abilirsiniz. Etki alanı adınız mevcutsa, maliyeti size haber ve yeni planınız ile doğrudan faturalandırın. 
+            E-posta adresiniz işletme adınızı yoksa ve iş adınızı kullanan bir web siteniz yoksa, şimdi kolayca bir etki alanı satın alabilirsiniz. Yeni **bir etki alanı adı satın** al'ı seçin ve işletmenizin adını girin. Örneğin, şirketin adı *ContosoSkis* ise, şirket adı olarak Contoso Contosokis.com, Contososkis.org veya Contososkis.biz. Ardından, seçili **etki alanının kullanılabilir** olup olmadığını görmek için Kullanılabilirliği kontrol edin'i seçin. Bir karar vermeden önce birden çok seçeneği denemeniz gerekir. Etki alanı adınız kullanılabilirse, maliyeti size haber ve yeni planınız ile doğrudan faturalandırın. 
        
             > [!TIP]
-            > Yeni etki alanınız için hangi etki alanı uzantısını seçecek emin değilsanız (örneğin, .com veya .org), bkz. [Etki alanı adı satın alma](../admin/get-help-with-domains/buy-a-domain-name.md)
+            > Yeni etki alanınız için hangi etki alanı uzantısını seçecekden emin değilsanız (örneğin, .com veya .org), bkz. Etki [alanı adı satın alma](../admin/get-help-with-domains/buy-a-domain-name.md)
         
         - **Emin değilim veya zaten bir etki alanı adım var** 
         
-             Şimdilik **Bir Microsoft etki alanı al'ı seçin.** Bu hiçbir ücrete mal değil ve daha sonra işletmeniz için özel bir ad elde veya sahip olduğunuz bir adla bağlantı kurabilirsiniz. Nasıl olduğunu gösteriz.
+             Şimdilik **bir Microsoft etki alanı al'ı seçin.** Bu hiçbir ücrete gerek oluşturmaz ve daha sonra işletmeniz için özel bir ad kullanabilir veya sahip olduğunuz bir işletmeye bağlanabilirsiniz. Nasıl olduğunu göster gösteriz.
 
-    3. Kullanıcı **kimliği ve** iş e-posta adresinizi oluşturmak için Sonraki'yi seçin. Kullanmak istediğiniz adı (diğer ad olarak da adlandırılan) girin. Örneğin, Robert Young iş diğer adı olarak RobY veya RobYoung kullanabilir. Parola ekleyin ve **Kaydol'a tıklayın.** Parolanızı not edin. 1. adımda girdiğiniz adrese kullanıcı kimliğinizi anımsat etmek için bir e-posta göndeririz.
-7. **4. adımda:** 
+    3. Kullanıcı **kimliği ve** iş e-posta adresinizi oluşturmak için Sonraki'yi seçin. Kullanmak istediğiniz adı (diğer ad olarak da an) girin. Örneğin, Robert Young iş diğer adı olarak RobY veya RobYoung kullanabilir. Parola ekleyin ve **Kaydol'a tıklayın.** Parolanızı not edin. 1. adımda girdiğiniz adrese, kullanıcı kimliğinizi anımsat etmek için bir e-posta göndeririz.
+7. **4. adımda**: 
 
-    1. İşletmeniz için kaç kişinin Microsoft 365 lisansına  ihtiyacı olduğuna karar verin veya kullanıcı sayısını şimdilik 1 olarak ayarlayın ve daha sonra daha fazla kişi ekleyin. 
-    2. Aylık veya yıllık faturalandırmayı seçin, toplam maliyeti kontrol edin ve Sonraki'yi **seçin.** 
-    3. Kredi kartı ayrıntılarınızı ekleyin. Şirket adresiniz kredi kartı adresinizle eş eşlerizse, şirket adresiniz de gerekiyor. Hangi vergileri ödeyebilirsiniz ve hangi hizmetlerin kullanılabilir olduğunu şirket adresiniz belirler. Vergiler hakkında daha fazla bilgi için bkz. [Hangi vergiler tahsil edilecek?](../commerce/billing-and-payments/tax-information.md)
-    4. Sipariş **sırala'ya seçin.** Microsoft'un yeni bir plan ayarlamayı bitirmesi kısa zaman alır.
+    1. İşletmeniz için kaç kişinin lisansa ihtiyacı olduğuna Microsoft 365  veya Şu an için 1 olarak ayarlanmış kullanıcı sayısı'nın 1 olarak ayarlayın ve daha sonra daha fazla kişi ekleyin. 
+    2. Aylık veya yıllık faturalandırmayı seçin, toplam maliyeti kontrol edin ve Sonraki seçeneğini **seçin.** 
+    3. Kredi kartı ayrıntılarınızı ekleyin. Şirket adresiniz kredi kartı adresinizle eşlerizse, şirket adresinizi de istiyoruz. Hangi vergilerin ödeniyor ve hangi hizmetlerin kullanılabilir olduğu şirket adresiniz tarafından belirlenmektedir. Vergiler hakkında daha fazla bilgi için [bkz. Hangi vergiler tahsil edilecek?.](../commerce/billing-and-payments/tax-information.md)
+    4. Sipariş **ve yeri seçin.** Microsoft'un yeni bir plan ayarlaması kısa zaman alır.
 
 ## <a name="whats-next"></a>Sırada ne var?
 
-İşletmenizi **korumak için** daha fazla güvenlik ekleme ve Word ve Excel gibi Office uygulamalarını indirme gibi diğer adımları tamamlamak için kuruluma git'i seçin.
+İşletmenizi **korumak üzere daha** fazla güvenlik ekleme, Word ve Office gibi uygulamalar indirme gibi diğer adımları tamamlamak için Kuruluma git'i Excel.
 
-Kurulumla ilgili yardım almak için [kuruluma bakın.](set-up.md)
+Kurulumla ilgili yardım almak için [bkz. ayarlama](set-up.md).
 
-## <a name="see-also"></a>Ayrıca bk.
+## <a name="see-also"></a>Ayrıca bkz.
 
-[İş için Microsoft 365 eğitim videoları](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 eğitimi videoları için video](../business-video/index.yml)
