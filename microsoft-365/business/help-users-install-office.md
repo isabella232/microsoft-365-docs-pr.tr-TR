@@ -1,5 +1,5 @@
 ---
-title: Kullanıcılarının Windows 10 cihazlarına Office yüklemesini yardımcı olun
+title: Kullanıcılarının cihaza Office yükleme Windows 10 yardımcı olun
 f1.keywords:
 - NOCSH
 ms.author: efrene
@@ -26,42 +26,42 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: cbc6bfe5-565a-4fb8-95f0-b06e7b74ac46
-description: Kullanıcılarının Windows 10 cihazlarına Office uygulamalarını yüklemelerini ve Office'i Microsoft 365 yönetim merkezinden Windows 10 pc'lere kolayca yüklemelerini sağlar.
-ms.openlocfilehash: 35588589cf0b816bcbd686c69684d82b62383f17
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Kullanıcılarının Office uygulamaları Windows 10 yönetim merkezinden Office bilgisayarınıza Windows 10 kolayca yüklemelerini Microsoft 365.
+ms.openlocfilehash: 74c17533995b74655be57524b77d9c508f703c50
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580224"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52245174"
 ---
-# <a name="help-your-users-install-office-on-windows-10-devices"></a>Kullanıcılarının Windows 10 cihazlarına Office yüklemesini yardımcı olun
+# <a name="help-your-users-install-office-on-windows-10-devices"></a>Kullanıcılarının cihaza Office yükleme Windows 10 yardımcı olun
 
 [![Yönetim merkezinin değiştiğini size bildirmeye yarayan etiket ve daha fazla ayrıntıyı aka.ms/aboutM365preview sayfasında bulabilirsiniz.](../media/m365admincenterchanging.png)](/office365/admin/microsoft-365-admin-center-preview)
 
-Microsoft 365 yönetim merkezinden Windows 10 bilgisayarlara Office'i hızla ve kolayca yükleyebilirsiniz.
+Microsoft 365 yönetim merkezinden Office bilgisayarınıza Windows 10 ve Microsoft 365 yükleyebilirsiniz.
   
 Daha önce yüklenmiş Office uygulamaları olduğunda bu işlemin nasıl çalıştığını anlamak için, başlamadan önce [Office istemci yüklemesi hazırlığı](prepare-for-office-client-deployment.md) konusunu okuyun.
 
-Office uygulamalarını yükleme hakkında kısa bir video izleyin.<br><br>
+Office yükleme hakkında kısa Office izleyin.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/acce002c-0756-4b64-ac5d-2198ee96a9b1] 
 
-Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](../business-video/index.yml).
 
 ## <a name="manage-office-deployments"></a>Office dağıtımlarını yönetme
 
-1. Yönetim merkezine gidin ve <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> genel yönetici kimlik bilgileriyle oturum açma. 
+1. 'daki yönetim merkezine gidin <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> ve genel yönetici kimlik bilgileriyle oturum açma. 
 
-2. Sol gezinti **bölmesinde** Kurulum'a gidin ve Kurulum sayfasında Uygulamalar **ve** güncelleştirmeler'e **ilerleyin.**
+2. Sol gezinti **bölmesinde** Kurulum'a gidin ve Kurulum **sayfasında** Uygulamalar ve **güncelleştirmeler'e ilerleyin.**
     > [!NOTE]
-    > Tüm kullanıcılarınız Office uygulamalarını yüklemişse bu kartı görmeyebilirsiniz.
+    > Kullanıcılarının hepsi uygulama yüklemişse bu kartı Office.
   
-3. Yardım **kullanıcılarının Office uygulamaları kartını yüklemelerine yardımcı** olun, Görünüm'e **ve** sonra da **Başla'ya tıklayın.**
+3. Kullanıcıların Office **uygulamaları yüklemelerine yardımcı olun** kartında Görünüm'e **ve** ardından **Başla'ya tıklayın.**
     
-4. **E-posta kullanıcılarına Office panelini indirme** bağlantısında, e-postayla göndermek istediğiniz kullanıcıları seçin ve ardından E-postayla **seçilen kullanıcılara e-posta gönderin.**
+4. **E-posta kullanıcılarına e-posta Office** bağlantısı panelinde, e-postayla göndermek istediğiniz kullanıcıları seçin ve ardından Seçilen kullanıcılara **e-posta gönderin.**
 
-   ![Office indirme bağlantısıyla e-posta göndermek için kullanıcıları seçin.](../media/sendemailtousers.png)
+   ![İndirme bağlantısı içeren e-posta Office seçin.](../media/sendemailtousers.png)
 
-## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra'ı ayarlama ve kullanma hakkında daha fazla bilgi için
+## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>E-postayı ayarlama ve kullanma hakkında daha fazla Microsoft 365 İş Ekstra
 
-[İş için Microsoft 365 eğitim videoları](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 eğitimi videoları için video](../business-video/index.yml)
