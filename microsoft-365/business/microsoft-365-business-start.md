@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: İşletmeler Microsoft 365, nasıl kuracaklarını, kullanıcılarınızı cihaz ve bilgisayarları kurumsal cihazlarla korunacak şekilde nasıl hazırlayacaklarını Microsoft 365 öğrenin.
-ms.openlocfilehash: cc54147e75a27fbb93255d6f706b4f9044c75858
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: ddf6f8d12587c6fb562a599a41c190ffef32c147
+ms.sourcegitcommit: de5fce90de22ba588e75e1a1d2e87e03b9e25ec7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245134"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "52293717"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Microsoft 365 İş ile çalışmaya başlama
 
@@ -105,7 +105,7 @@ Bazı şirket içi kaynaklar (dosya paylaşımları ve yazıcılar gibi) içeren
   
 - İş ortağınızla iletişime geçin.
     
-- İşletme Microsoft 365 yöneticisi olarak, müşteri desteği ekibimize erişiminiz vardır: İş ürünleri için destan ile iletişime **[geçin - Yönetici Yardımı](../admin/contact-support-for-business-products.md)**
+- İşletme Microsoft 365 yöneticisi olarak, müşteri desteği ekibimize erişiminiz vardır: İş ürünleri için destan ile iletişime **[geçin - Yönetici Yardımı](../business-video/get-help-support.md)**
     
 ## <a name="related-content"></a>İlgili içerik
 
