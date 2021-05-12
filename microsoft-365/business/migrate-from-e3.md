@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: E3'te işlerinizi kurumsal Microsoft 365 İş Ekstra taşımayı Office 365 öğrenin.
-ms.openlocfilehash: f08b054473fdd63ec2372e81c776a1b64f89fe9d
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 990ca8bdae979f1efb8a60a3460add2953a51892
+ms.sourcegitcommit: 68383240ef7a673d5f28e2ecfab9f105bf1d8c8f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244846"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52327180"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>E3'Office 365 başka bir e-postaya Microsoft 365 İş Ekstra
 
@@ -39,25 +39,24 @@ Geçiş yapmak kolaydır: Önce lisansları değiştirersiniz ve geçerli abonel
 
 Bu tabloda, E3'Microsoft 365 İş Ekstra iki Office 365 gösterir.
 
-| Özellik    | Destek Microsoft 365 İş Ekstra    | Office 365 E3'te destek | 
+| Özellik    | Destek Microsoft 365 İş Ekstra    | Office 365 E3'te destek |
 |:-------|:-----|:-----|
-| **Şirket içi**        | | | 
-| Office uygulamaları<sup>1</sup>    | İş için Microsoft 365 Uygulamaları    | Microsoft 365 Kurumsal Uygulamaları | 
-| **Bulut üretkenlik uygulamaları**        | | | 
-| Exchange Online ve Outlook    | Posta kutusu başına 50 GB depolama sınırı ve sınırsız depolama Exchange Online Arşivleme    | Posta kutusu başına 100 GB depolama sınırı ve sınırsız depolama Exchange Online Arşivleme | 
+| **Şirket içi**        | | |
+| Office uygulamaları<sup>1</sup>    | İş için Microsoft 365 Uygulamaları    | Microsoft 365 Kurumsal Uygulamaları |
+| **Bulut üretkenlik uygulamaları**        | | |
+| Exchange Online ve Outlook    | Posta kutusu başına 50 GB depolama sınırı ve sınırsız depolama Exchange Online Arşivleme    | Posta kutusu başına 100 GB depolama sınırı ve sınırsız depolama Exchange Online Arşivleme |
 | Teams    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Office 365 E3'e dahil](../media/check-mark.png) | 
 | OneDrive İş    | Kullanıcı başına 1 TB depolama sınırı    | Sınırsız | 
 | Yammer, SharePoint Online, Planner, Stream    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Office 365 E3'e dahil](../media/check-mark.png) | 
-| StaffHub    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Office 365 E3'e dahil](../media/check-mark.png) | 
-| MileIQ    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | | 
-| **Tehdit Koruması**        | | | 
-| Office 365 için Defender Plan 1 | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | Dahil değildir, ancak | 
-| **Kimlik yönetimi**        | | | 
-| Karma kimlik bilgileri (Azure AD) Azure Active Directory, Azure AD multi-factor authentication (MFA), Koşullu Erişim için self servis parola sıfırlama, şirket içi kimlikler için parola geri yazma|     ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    |  | 
+| StaffHub    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Office 365 E3'e dahil](../media/check-mark.png) |
+| **Tehdit Koruması**        | | |
+| Office 365 için Defender Plan 1 | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | Dahil değildir, ancak |
+| **Kimlik yönetimi**        | | |
+| Karma kimlik bilgileri (Azure AD) Azure Active Directory, Azure AD multi-factor authentication (MFA), Koşullu Erişim için self servis parola sıfırlama, şirket içi kimlikler için parola geri yazma|     ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    |  |
 | **Cihaz ve uygulama yönetimi**        | | |
 | Microsoft Intune AutoPilot Windows a|     ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    |  |
 | Paylaşılan bilgisayar etkinleştirmesi|     ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Office 365 E3'e dahil](../media/check-mark.png)| 
-| Win 7/8.1 Windows 10 Pro lisanslarından yükseltme Pro hakları|     ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    || 
+| Win 7/8.1 Windows 10 Pro lisanslarından yükseltme Pro hakları|     ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    ||
 | **Bilgi koruması**        | | |
 |Office 365 Veri Kaybını Önleme|    ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)|![Office 365 E3'e dahil](../media/check-mark.png)|
 |Azure Information Protection Plan 1, BitLocker zorlaması|![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)||
@@ -96,29 +95,28 @@ Microsoft 365 İş Ekstra'a tüm kuruluş yükseltmelerini yaptıysanız, Giriş
 Şu adımları Cihazlar sayfasında da tamamabilirsiniz:
   
 1. Yönetim merkezinde, sol gezintide Cihaz **İlkeleri'ne** \> **gidin.**
-    
+
 2. Cihaz ilkeleri **sayfasında Ekle'yi** **seçin.**
-    
-3. İlke **ekle bölmesinde** ilkeye bir ad verin ve sonra açılan açılan seçim **listesinden** İlke türü seçin. 
-    
+
+3. İlke **ekle bölmesinde** ilkeye bir ad verin ve sonra açılan açılan seçim **listesinden** İlke türü seçin.
+
      Android ve iPhone cihazlarında dosyaların korunması için uygulama ilkelerinin yanı sıra Windows 10 ve şirkete ait farklı cihazlarda cihaz yapılandırma Windows 10 kurabilirsiniz. Ayrıntılar için aşağıdaki bağlantılara bakın:
-    
+
   - [Android veya iOS cihazlara yönelik uygulama koruma ayarlarını belirleme](app-protection-settings-for-android-and-ios.md)
-    
+
   - [Windows 10 cihazlarına yönelik uygulama koruma ayarlarını belirleme](protection-settings-for-windows-10-devices.md)
-    
+
   - [Bilgisayarlarda cihaz koruma Windows 10 ayarlama](protection-settings-for-windows-10-pcs.md)
   
 4. İlkeleri ayar defa siz ve çalışanlarınız cihazları kurabilirsiniz:
-    
+
   - Mobil [cihazlara Windows için Microsoft 365 İş Ekstra için](set-up-windows-devices.md) cihaz ayarlama Windows bakın. 
-    
+
   - Android telefonlar ve iPhone [Microsoft 365 İş Ekstra için](set-up-mobile-devices.md) mobil cihazları mobil cihazlara ayarlama. 
   
 ### <a name="mailbox-size"></a>Posta Kutusu Boyutu
 
 Microsoft 365 İş Ekstra Plan 1'i kullandığı için 50 GB Exchange Online sınırlaması vardır. Microsoft 365 İş Ekstra'a geçirken, kullanıcılardan herhangi biri 50 GB'lık posta kutusu depolama alanını aşıyorsa, bu kullanıcıya Exchange Online Plan 2 atamanız ve her ikisini de atamak uygun bir uygulama olduğu için Exchange Online Plan 1'i kaldırmanız önerilir.
-
 
 ### <a name="threat-protection"></a>Tehdit koruması
 
