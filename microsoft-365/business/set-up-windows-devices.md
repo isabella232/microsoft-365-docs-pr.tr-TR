@@ -26,17 +26,17 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
-description: Merkezi yönetim ve güvenlik Windows etkinleştirerek Windows 10 Pro için Microsoft 365 İş Ekstra cihazları ayarlamayı öğrenin.
-ms.openlocfilehash: 3e268d81ff6fb7113b7e0b0fe5d0545ff5c72b1e
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+description: Kullanıcı Windows çalışan Windows 10 Pro cihazlarını Microsoft 365 İş Ekstra ve merkezi yönetim ve güvenlik denetimlerini etkinleştirebilirsiniz.
+ms.openlocfilehash: 3d32a033a1a1c89d7d4d557cea6a28e24543ab2c
+ms.sourcegitcommit: b0d3abbccf4dd37e32d69664d3ebc9ab8dea760d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244786"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52594031"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Mobil Windows cihazları Microsoft 365 İş Ekstra ayarlama
 
-## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-premium-users"></a>Microsoft 365 İş Ekstra kullanıcıları için Windows cihazlarını ayarlamanın Microsoft 365 İş Ekstra önkoşulları
+## <a name="before-you-begin"></a>Başlamadan önce
 
 Microsoft 365 İş Ekstra için Windows cihazları ayarlamadan önce tüm Windows 1703 sürümü (Creators Update) Windows 10 Pro çalıştıran cihazlardan emin olun. Windows 10 Pro, Windows 10 Business'i tamamlayıcı nitelikte olan ve Windows 10 Pro'un merkezi yönetim ve güvenlik denetimlerini etkinleştiren bulut hizmetleri ve cihaz yönetimi özellikleri kümesi olan Microsoft 365 İş Ekstra.
   
@@ -128,6 +128,6 @@ Azure AD'ye katılmış Windows 10 cihazlarınızı Windows 10 Business aboneli�
 
 Mobil cihazlarınızı ayarlamak için bkz. Microsoft 365 İş Ekstra kullanıcıları için mobil cihazları ayarlama [,](set-up-mobile-devices.md)Cihaz koruma veya uygulama koruma ilkelerini ayarlamak için bkz. [Microsoft 365 yönetme](manage.md).
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>E-postayı ayarlama ve kullanma hakkında daha fazla Microsoft 365 İş Ekstra
+## <a name="related-content"></a>İlgili içerik
 
-[Microsoft 365 eğitimi videoları için video](../business-video/index.yml)
+[Microsoft 365 eğitim videoları için giriş](../business-video/index.yml) (bağlantı sayfası)
