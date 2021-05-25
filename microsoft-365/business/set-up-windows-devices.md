@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: Kullanıcı Windows çalışan Windows 10 Pro cihazlarını Microsoft 365 İş Ekstra ve merkezi yönetim ve güvenlik denetimlerini etkinleştirebilirsiniz.
-ms.openlocfilehash: 3d32a033a1a1c89d7d4d557cea6a28e24543ab2c
-ms.sourcegitcommit: b0d3abbccf4dd37e32d69664d3ebc9ab8dea760d
+ms.openlocfilehash: 7a9c75f6ec14605225d40c103c18e62937e773bf
+ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52594031"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52635884"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Mobil Windows cihazları Microsoft 365 İş Ekstra ayarlama
 
@@ -46,7 +46,7 @@ Windows cihazları Windows 10 Pro Creators Update sürümüne yükseltme hakkın
   
 Yükseltmeye [sahip olduğunuzdan emin olmak veya yükseltmenin](#verify-the-device-is-connected-to-azure-ad) çalıştığını doğrulamak için bkz. Cihazın Azure AD'ye bağlı olduğunu doğrulama.
 
-E-Windows'i Microsoft 365.<br><br>
+## <a name="watch-connect-your-pc-to-microsoft-365-business"></a>İzle: Bağlan için bilgisayarınızı Microsoft 365 İş
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3yXh3] 
 

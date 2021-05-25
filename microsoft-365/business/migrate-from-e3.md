@@ -21,13 +21,13 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: E3'te işlerinizi kurumsal Microsoft 365 İş Ekstra taşımayı Office 365 öğrenin.
-ms.openlocfilehash: 990ca8bdae979f1efb8a60a3460add2953a51892
-ms.sourcegitcommit: 68383240ef7a673d5f28e2ecfab9f105bf1d8c8f
+description: Office 365 E3 aboneliğiniz varsa ancak 300'den fazla çalışan yoksa, Microsoft 365 İş Ekstra.
+ms.openlocfilehash: d139d07c946ff3efed3db3a73eb5e1a4ae66c190
+ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52327180"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52623615"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>E3'Office 365 başka bir e-postaya Microsoft 365 İş Ekstra
 
@@ -125,3 +125,12 @@ Microsoft 365 İş Ekstra'a Office 365 için Defender'ınız Office 365. Genel [
 ### <a name="sensitivity-labels"></a>Duyarlılık etiketleri
 
 Duyarlılık etiketlerini kullanmaya başlamak için bkz. [Duyarlılık etiketlerine genel bakış](../compliance/sensitivity-labels.md) ve duyarlılık etiketleri videosu oluşturma ve [yönetme.](../business-video/create-sensitivity-labels.md)
+
+## <a name="related-content"></a>İlgili içerik
+
+[Planları el ile değiştirme](../commerce/subscriptions/change-plans-manually.md) (makale)\
+[Cihazları Windows (video)\ Windows 10 Pro](upgrade-to-windows-pro-creators-update.md) yükseltme
+[Android veya iOS cihazlarına yönelik uygulama koruma ayarlarını ayarlama](app-protection-settings-for-android-and-ios.md) (makale)\
+[Cihazlar için uygulama koruma ayarlarını Windows 10 düzenleme](protection-settings-for-windows-10-devices.md) (makale)\
+[]
+

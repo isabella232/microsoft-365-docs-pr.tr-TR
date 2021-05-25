@@ -24,17 +24,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
-description: İşletmeniz için çalışan kullanımına hazır olacak şekilde yeni Windows 10 cihazlarını ayarlamak üzere Windows AutoPilot'u nasıl kullanabileceğinizi öğrenin.
-ms.openlocfilehash: cd8777e6ae2e395506d2bf308c99309de1e24805
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: AutoPilot'Windows kullanabileceğiniz ve iş için Windows 10 kullanıma hazır olacak şekilde yeni cihaz ayarlamayı öğrenin.
+ms.openlocfilehash: e178e7df220e89605502d9ed400265bcd963e57e
+ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578537"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52636116"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>AutoPilot cihaz ve profilleri eklemek için adım adım kılavuzu kullanın.
 
-Windows AutoPilot'u kullanarak **işletmeniz** için yeni Windows 10 cihazlarını çalışanlarınıza verdiyken kullanıma hazır olacak şekilde kurabilirsiniz.
+Windows AutoPilot Windows 10 u kullanarak  işletmenize uygun yeni cihaz ve cihazları çalışanlarınıza verirken kullanıma hazır hale kullanabilirsiniz.
   
 ## <a name="device-requirements"></a>Cihaz gereksinimleri
 
@@ -42,25 +42,23 @@ Cihazlar şu gereksinimleri karşılamalıdır:
   
 - Windows 10, sürüm 1703 veya sonrası
     
-- Windows'un ilk gelen deneyimine henüz sahip olmayan yeni cihazlar
+- Henüz ilk ve en son Windows yeni cihazlar
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>Cihaz ve profil oluşturmak için kurulum kılavuzunu kullanma
 
-[![Yönetim merkezinin değiştiğini size bildirmeye yarayan etiket ve daha fazla ayrıntıyı aka.ms/aboutM365preview sayfasında bulabilirsiniz.](../media/m365admincenterchanging.png)](/office365/admin/microsoft-365-admin-center-preview)
-
-Henüz cihaz grupları veya profil oluşturmadınız, kullanmaya başlamanın en iyi yolu adım adım kılavuzu kullanmaktır. Ayrıca, [kılavuzu kullanmadan](create-and-edit-autopilot-devices.md) [cihazlar ekleyebilir ve](create-and-edit-autopilot-profiles.md) onlara profil atabilirsiniz. 
+Henüz cihaz grupları veya profil oluşturmadıysanız, başlamanın en iyi yolu adım adım kılavuzu kullanmaktır. Ayrıca, kılavuzu [kullanmadan](create-and-edit-autopilot-devices.md) [cihazlar ekleyebilir ve](create-and-edit-autopilot-profiles.md) onlara profil atabilirsiniz. 
   
-1. Yönetim merkezine <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> gidin:
+1. yönetim merkezine <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> gidin.
 
 2. Sol gezinti bölmesinde Cihazlar  \> **AutoPilot'ı seçin.**
 
-    ![Yönetim merkezinde cihazları ve ardından AutoPilot'ı seçin.](../media/AutoPilot.png)
+    ![Yönetim merkezinde cihazlar'ı ve ardından AutoPilot'ı seçin.](../media/AutoPilot.png)
   
 2. **AutoPilot sayfasında Kılavuzu** başlat'a tıklayın **veya dokunun.**
     
     ![Click Start guide for step-by-step instructions for Autopilot.](../media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   
-3. Cihaz **listesinin bulunduğu .csv dosyasını** karşıya yükle sayfasında, hazır bulundurarak bir konuma gidin. CSV dosyasını ve ardından **Sonrakini** \> **Aç'ı seçin.** Dosyanın üç üst bilgisi olmalı:
+3. Cihaz **Upload .csv listesinin bulunduğu dosyada,** dosyanın hazır bulunduğu konuma gidin ve .CSV **Aç'ı** \> **seçin.** Dosyada üç üst bilgi olması gerekir:
     
     - A sütunu: Cihaz Seri Numarası
     
@@ -73,24 +71,29 @@ Henüz cihaz grupları veya profil oluşturmadınız, kullanmaya başlamanın en
     Daha fazla bilgi için bkz. [Cihaz listesi CSV dosyası](../admin/misc/device-list.md). **Cihaz listesiyle .csv dosyası yükleme** sayfasında bir örnek dosya da indirebilirsiniz. 
     
 > [!NOTE]
-> Bu betikte, bir müşterinin Windows Autopilot'a cihaz kaydetmesi için gereken özellikleri almak için ISEMN kullanılır. Sonuçta elde edilen CSV dosyasının Windows Ürün Kimliği (PKID) değerini toplamamanın normal olduğunu unutmayın, çünkü bu bir cihazı kaydetmek için gerekli değildir ve PKID'nin CSV çıktısı CSV'de NULL olması tamamen iyidir. Yalnızca seri numarası ve donanım karması doldurulur.
+> Bu betikte, müşterinin cihazı AutoPilot'a kaydetmesi için gereken özellikleri almak Windows kullanılır. Sonuçta elde edilen CSV dosyasının BIR Windows Ürün Kimliği (PKID) değeri toplamamalerinin normal olduğunu, çünkü bir cihazı kaydetmek için bu değerin gerekli olmadığını ve PKID'nin CSV çıktısinde NULL olması tamamen sorun olmadığını unutmayın. Yalnızca seri numarası ve donanım karması doldurulur.
     
-4. Profil **atama sayfasında,** mevcut bir profili seçebilirsiniz veya yeni bir profil oluşturabilirsiniz. Henüz bir tane yoksa, bir tane oluşturmanız istenir. 
+4. Profil **atama sayfasında** mevcut bir profili seçebilirsiniz veya yeni bir profil oluşturabilirsiniz. Henüz bir tane yoksa, oluşturmak için bir hesap oluşturmanız istenir. 
     
     Profil, tek bir cihaza veya bir cihaz grubuna uygulanabilen ayarlar koleksiyonudur.
     
     Varsayılan özellikler gereklidir ve otomatik olarak ayarlanır. Varsayılan özellikler şunlardır:
     
-    - Cortana, OneDrive ve OEM kaydını atla.
+    - Cortana, kayıt OneDrive OEM kaydını atlayabilirsiniz.
     
     - Şirketinizin markasıyla oturum açma deneyimi oluşturma.
     
-    - Cihazlarınızı Azure Active Directory hesaplarına bağlanın ve bunları Microsoft 365 İş Ekstra tarafından yönetilleri için otomatik olarak kaydettirin.
+    - Bağlan hesaplarınıza Azure Active Directory ve sizin tarafından yönetilleri için otomatik olarak Microsoft 365 İş Ekstra.
     
-    Daha fazla bilgi için [bkz. AutoPilot Profili ayarları hakkında.](autopilot-profile-settings.md) 
+    Daha fazla bilgi için [bkz. AutoPilot Profili ayarları hakkında](autopilot-profile-settings.md). 
     
 5. Diğer ayarlar, **Gizlilik ayarlarını atla** ve **Kullanıcının yerel yönetici olmasına izin verme** şeklindedir. Varsayılan olarak ikisi de **Kapalı** durumdadır. 
     
     **İleri**'yi seçin.
     
-6. **Oluşturduğunuz (veya** seçtiğiniz) profilin, cihaz listesini yükerek oluşturduğunuz cihaz grubuna uygulan olacağını gösterir. Ayarlar, cihaz kullanıcıları bir sonraki oturum açmada etkili olur. **Kapat**'ı seçin.
+6. **Hepsi bu kadar,** oluşturduğunuz (veya seçtiğiniz) profilin, cihaz listesini yükerek oluşturduğunuz cihaz grubuna uygulanıyor olduğu gösterir. Ayarlar, cihaz kullanıcıları bir sonraki oturum açmada etkili olur. **Kapat**'ı seçin.
+
+## <a name="related-content"></a>İlgili içerik
+
+[AutoPilot Profili ayarları hakkında](autopilot-profile-settings.md) (makale)\
+[Cihazlarınızı ve uygulama verilerinizi koruma seçenekleri](../admin/devices/choose-device-security.md) (makale)

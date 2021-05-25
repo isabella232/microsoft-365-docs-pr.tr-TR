@@ -30,14 +30,16 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Etki alanı ve kullanıcı ekleme Microsoft 365 İş Ekstra, güvenlik ilkelerini ayarlama ve daha fazlası için kurulum adımlarını keşfedin.
-ms.openlocfilehash: 37607b483686fc12ac6253ae9f693ec86c073c4e
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 3e15f16db2a233d2e11d444600398102b075932d
+ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245054"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52624399"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Kurulum Microsoft 365 İş Ekstra ayarları
+
+## <a name="watch-overview-of-microsoft-365-setup"></a>İzle: Kuruluma genel Microsoft 365 görünümü
 
 Kurulumla ilgili genel bir bakış için bu Microsoft 365 İş Ekstra izleyin.<br><br>
 
@@ -131,6 +133,6 @@ Mobil iOS Office Android cihazlarına kullanıcı yüklemek için bkz. Mobil [ci
 
 Ayrıca e-Office yükleyebilirsiniz. Yönergeler [için Office PC veya Mac bilgisayara yükleme](https://support.microsoft.com/office/4414eaaf-0478-48be-9c42-23adc4716658) hakkında bilgi edinin.
 
-## <a name="see-also"></a>Ayrıca bkz.
+## <a name="related-content"></a>İlgili içerik
 
-[Microsoft 365 eğitimi videoları için video](../business-video/index.yml)
+[Microsoft 365 eğitim videoları için giriş](../business-video/index.yml) (bağlantı sayfası)

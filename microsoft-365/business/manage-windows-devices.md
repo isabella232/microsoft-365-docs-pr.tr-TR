@@ -24,24 +24,26 @@ search.appverid:
 - BCS160
 - MET150
 description: Yalnızca birkaç adımda Microsoft 365 Active-Directory'ye katılmış yerel Windows 10 cihazlarını nasıl koruyabilirsiniz hakkında bilgi edinebilirsiniz.
-ms.openlocfilehash: f16962dd3c33c3c228da507bc5c4a902d76a8a08
-ms.sourcegitcommit: b0d3abbccf4dd37e32d69664d3ebc9ab8dea760d
+ms.openlocfilehash: ec80159bdceffd8a13d09a297a2acc1b78c9b1b3
+ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52593903"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52636096"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Etki alanına katılmış Windows 10 cihazları başka bir kullanıcı tarafından yönetil Microsoft 365 İş Ekstra
 
 Kuruluşta Windows Server Active Directory şirket içi kullanıyorsa, Microsoft 365 İş Ekstra cihazlarınızı korumak için Windows 10'i kurabilirsiniz ve bu sırada yerel kimlik doğrulaması gerektiren şirket içi kaynaklara erişimi de koruyabilirsiniz.
 Bu korumayı ayarlamak için Azure **AD'ye katılan Karma cihazları kullanabilirsiniz.** Bu cihazlar hem şirket içi Active Directory'nize hem de kullanıcılarınıza Azure Active Directory.
 
+## <a name="watch-configure-hybrid-azure-active-directory-join"></a>İzle: Karma kimlik Azure Active Directory yapılandırma
+
 Bu videoda, bunu en yaygın senaryo için ayarlama adımları açıklanan ve aşağıdaki adımlarda da ayrıntılı olarak açıklanan bir anlatı yer almaktadır.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
   
+## <a name="before-you-begin"></a>Başlamadan önce
 
-## <a name="before-you-get-started-make-sure-you-complete-these-steps"></a>Başlamadan önce şu adımları tamamlayın:
 - Azure AD hizmetleriyle kullanıcıları Azure AD'ye Bağlan.
 - Azure AD Kurumsal Bağlan (OU) eşitlemeyi tamamlama.
 - Eşitleyilen tüm etki alanı kullanıcılarının lisanslarının olduğundan emin Microsoft 365 İş Ekstra.
@@ -119,8 +121,6 @@ Bu noktada, Varsayılan Azure AD kimlik bilgilerini kullanarak otomatik **MDM ka
 
 ## <a name="related-content"></a>İlgili içerik
 
-[Etki alanı kullanıcılarını yeni Microsoft 365](manage-domain-users.md) (makale)
-
-[Yönetim merkezinde grup oluşturma](../admin/create-groups/create-groups.md) (makale)
-
+[Etki alanı kullanıcılarını yeni Microsoft 365](manage-domain-users.md) (makale)\
+[Yönetim merkezinde grup oluşturma](../admin/create-groups/create-groups.md) (makale)\
 [Öğretici: Yönetilen etki Azure Active Directory için karma etki alanlarını yapılandırma](/azure/active-directory/devices/hybrid-azuread-join-managed-domains.md) (makale)

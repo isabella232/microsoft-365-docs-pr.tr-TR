@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 İş Ekstra ile korumalı cihazları yönetme
+title: Korumalı cihazları postayla Microsoft 365 İş Ekstra
 f1.keywords:
 - NOCSH
 ms.author: efrene
@@ -26,22 +26,20 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
-description: Koruma ilkeleri aracılığıyla yönetilen cihazlardan şirket verilerini kaldırmayı ve Windows 10 cihazlarını fabrika ayarlarına sıfırlamayı öğrenin.
-ms.openlocfilehash: fdd92e797774a47455d6b4163dfe399bf74d41f3
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Koruma ilkeleri aracılığıyla yönetilen cihazlardan şirket verilerini kaldırmayı ve cihazları fabrika Windows 10 ayarlarına sıfırlamayı öğrenin.
+ms.openlocfilehash: 0b757172ed337e9b2b68b4fcbdf5b102a8c76710
+ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580164"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52624296"
 ---
-# <a name="manage-protected-devices-with-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra ile korumalı cihazları yönetme
+# <a name="manage-protected-devices-with-microsoft-365-business-premium"></a>Korumalı cihazları postayla Microsoft 365 İş Ekstra
 
-Kullanıcı, kendi iş hesabıyla cihaza veya cihaz üzerinde Office uygulamalarına oturum alıklayarak kendi cihazına bağlanıyorsa, cihazı ayarlayarak ilkeleriyle koruyabilirsiniz. Bağlı cihazlar Cihazlar **sayfasında listelenir.** Kaybolan veya çalınan bir cihazı bu sayfadan yönetebilir ve böylece tüm şirket verilerini kaldırabilirsiniz. Ayrıca, Windows 10 cihazları fabrika ayarlarına sıfırlayarak tüm özel ayarları da temizleyebilirsiniz. 
+Kullanıcı, iş hesabıyla cihazında oturum açın veya cihazı Office uygulamaları kullanarak cihazı sizin için bağlanıyorsa, ayarlayarak cihazı korumanız gerekir. Bağlı cihazlar, Cihazlar **sayfasında** listelenir. Kaybolan veya çalınan bir cihazı bu sayfadan yönetebilir ve böylece tüm şirket verilerini kaldırabilirsiniz. Ayrıca, Windows 10 cihazları fabrika ayarlarına sıfırlayarak tüm özel ayarları da temizleyebilirsiniz. 
 
-Cihazları yönetmek için kullanabileceğiniz görevler hakkında daha fazla bilgi için şu makalelere bakın: 
+## <a name="related-content"></a>İlgili içerik
   
-[Cihazlardan şirket verilerini kaldırma](remove-company-data.md)
-  
-[Windows 10 cihazları fabrika ayarlarına sıfırlama](reset-devices-to-factory-settings.md)
-
-[Yönetilen cihaz ekleme](./app-protection-settings-for-android-and-ios.md)
+[Cihazlardan şirket verilerini kaldırma](remove-company-data.md) (makale)\
+[Cihaz Windows 10 fabrika ayarlarına sıfırlama](reset-devices-to-factory-settings.md) (makale)\
+[Yönetilen cihaz ekleme](./app-protection-settings-for-android-and-ios.md) (makale)
