@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: İşletmeler Microsoft 365, nasıl kuracaklarını, kullanıcılarınızı cihaz ve bilgisayarları kurumsal cihazlarla korunacak şekilde nasıl hazırlayacaklarını Microsoft 365 öğrenin.
-ms.openlocfilehash: ddf6f8d12587c6fb562a599a41c190ffef32c147
-ms.sourcegitcommit: de5fce90de22ba588e75e1a1d2e87e03b9e25ec7
+ms.openlocfilehash: be5f0e74b71f412bf647e4ef0e496cd932fc306a
+ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "52293717"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "52706468"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Microsoft 365 İş ile çalışmaya başlama
 
@@ -41,7 +41,7 @@ ms.locfileid: "52293717"
 
 Microsoft 365, her zaman güncel olan Outlook, Word, Excel ve diğer Office ürünleri gibi bir dizi kapsamlı iş üretkenliği ve işbirliği aracıdır. Tüm iOS, Android ve Windows 10 cihazlarınız üzerinde iş dosyalarınızı, yönetimi kolay kurumsal sınıf bir güvenlikle koruyabilirsiniz.
 
-kurumsal e-ticarete hızlı bir genel bakış için Microsoft 365 izleyin.<br><br>
+## <a name="watch-what-is-microsoft-365-business-premium"></a>İzle: Nedir Microsoft 365 İş Ekstra
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
@@ -61,7 +61,7 @@ Aşağıdaki diyagramda, yöneticilerin iş için iş için Microsoft 365 ayarla
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](../media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
 
-kurumsal kurulum ayarlarına genel bir bakış için Microsoft 365 bu videoyu izleyin.<br><br>
+## <a name="watch-set-up-microsoft-365-business"></a>İzle: E-Microsoft 365 İş
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
@@ -109,8 +109,7 @@ Bazı şirket içi kaynaklar (dosya paylaşımları ve yazıcılar gibi) içeren
     
 ## <a name="related-content"></a>İlgili içerik
 
-[Microsoft 365 belgeleri ve kaynakları için belgeler](./index.yml)
-  
-[İşletmeler Microsoft 365'i yönetme](manage.md)[Microsoft 365 İş'e geçiş](migrate-to-microsoft-365-business.md)
-
-[Microsoft 365 eğitimi videoları için video](../business-video/index.yml)
+[Microsoft 365 belgeleri ve kaynakları için belgeler](./index.yml) (bağlantı sayfası)\
+[İş Microsoft 365 yönetme](manage.md) (makale)\
+[İş için Microsoft 365'e geçirme](migrate-to-microsoft-365-business.md) (makale)\
+[Microsoft 365 eğitim videoları için giriş](../business-video/index.yml) (bağlantı sayfası)

@@ -26,16 +26,16 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: Daha gelişmiş güvenlik ve iş ağı Windows kullanmak için Windows 10 Pro cihazlarınızı yükseltmenin yollarını keşfedin.
-ms.openlocfilehash: 0ed24f3560832890c1ba26f89ecbcd1f2ef7b098
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 14a1705a333b2fd4d4dda37ed5170b34acb13abe
+ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244746"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "52705564"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Cihazları Windows için yükseltin Windows 10 Pro
 
-Tek bir cihaza yükseltme Windows hakkında kısa bir Windows 10 Pro.<br><br>
+## <a name="watch-upgrade-windows-10-home-to-windows-10-pro"></a>İzle: Yükseltme Windows 10 Home yükseltme Windows 10 Pro
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
 
@@ -56,9 +56,11 @@ Bu sürüme Windows 10 Pro için çeşitli seçenekleriniz vardır. Şunları ya
 > [!NOTE]
 > Windows Windows 7 Pro, Windows 8 Pro veya Windows 8.1 Pro çalıştıran Microsoft 365 cihazlarınız varsa, işletmeler için Microsoft 365 aboneliğiniz size Windows Pro 10 yükseltme hakkı verir.
     
-Bkz. [Windows cihazları ayarlama Microsoft 365 kurumsal kullanıcıların cihazlarını](set-up-windows-devices.md) ayarlamayı tamamlaması Windows 10. 
+## <a name="next-steps"></a>Sonraki adımlar
+
+Cihaz ayarlamayı Windows 10 için bkz. [Kurumsal kullanıcılar için Windows cihazları Microsoft 365 ayarlama](set-up-windows-devices.md). 
   
-Bkz. Android ve iOS [Microsoft 365 için](set-up-mobile-devices.md) mobil cihazları ayarlama. 
+Android ve iOS cihazlarını ayarlamayı tamamlamak için bkz. Kurumsal [kullanıcılar için Microsoft 365 cihazları ayarlama](set-up-mobile-devices.md). 
   
 ## <a name="related-content"></a>İlgili içerik
 
