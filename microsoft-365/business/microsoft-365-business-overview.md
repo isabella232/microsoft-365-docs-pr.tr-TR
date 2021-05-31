@@ -28,13 +28,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
-description: Office üretkenlik uygulamalarını ve işletmeniz için sanal tehlikelere karşı gelişmiş korumayı içeren bir abonelik hizmeti olan Microsoft 365 İş Ekstra hakkında bilgi edinin.
-ms.openlocfilehash: a355c9856ead4a66f6876cc7cb5aa8eb469d7f12
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+description: Office uygulamalarını ve siber tehditlere karşı gelişmiş koruma içeren bir abonelik hizmeti olan Microsoft 365 İş Ekstra hakkında bilgi edinin.
+ms.openlocfilehash: e4a182c5dd5444392486dd137e70361e880534bd
+ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244866"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "52705532"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra’ya Genel Bakış
 
@@ -42,7 +42,7 @@ ms.locfileid: "52244866"
 
 Microsoft 365 İş Ekstra (eski adıyla Microsoft 365 İş), 300’den az çalışanı olan işletmeler için kapsamlı bir abonelik hizmetidir. Sevdiğiniz Office üretkenlik uygulama ve hizmetleri ile Microsoft Teams gibi iş birliği araçlarını gelişmiş güvenlik ve cihaz yönetimi özellikleriyle birleştirir.
 
-Microsoft 365 İş Ekstra’ya hızlı bir genel bakış için bu videoyu izleyin.<br><br>
+## <a name="watch-what-is-microsoft-365-business-premium"></a>İzleyin: Microsoft 365 İş Ekstra nedir?
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
@@ -105,7 +105,7 @@ Microsoft 365 İş Ekstra, tehditlere karşı şu şekilde **koruma** sağlar:
 
 Güvenlik özelliklerinin tam listesini görmek için, bkz. [Microsoft 365 İş Ekstra güvenlik özellikleri](security-features.md). [Microsoft 365 İş Ekstra’yı kurma](set-up.md) işleminden sonra, rehberli kurulumun parçası olmayan güvenlik özelliklerini kullanmaya başlamak için [tehdit korumasını artırma](increase-threat-protection.md) ve [uyumluluk özelliklerini ayarlama](set-up-compliance.md) konularına bakın. Ayrıca siber suçlulara ve korsanlara karşı koruma ayarlama ile ilgili ayrıntılı bir genel bakış için [Office 365 ve Microsoft 365 İş Ekstra planlarının güvenliğini sağlamanın en iyi 10 yolu](/office365/admin/security-and-compliance/secure-your-business-data) makalesini okuyun.
 
-## <a name="get-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra’yı edinin
+## <a name="next-steps"></a>Sonraki adımlar
 
 - İş ortağınız varsa, o da Microsoft 365 İş Ekstra’ya sahip olabilir: [Microsoft 365 İş Ekstra’yı Microsoft İş Ortağı Merkezi'nden alma](get-microsoft-365-business.md).
 
