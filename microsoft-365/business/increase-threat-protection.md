@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Microsoft Defender'ı güvenlik için Office 365 kimlik avına, kötü amaçlı yazılıma ve diğer tehditlere karşı hassas verileri korur.
-ms.openlocfilehash: 4b5142efbf4392f017cd9b96f6a9c36ef2000bb7
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: a995063cef6fdc42ad62079d49d58edc9d07b52c
+ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245154"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52924329"
 ---
 # <a name="increase-threat-protection"></a>Tehdit korumasını artırma
 
@@ -81,8 +81,8 @@ Posta aktarım kuralı oluşturmak için:
 
 6. **Kaydet**'i seçin.
 
-|Ayar|Dosya eklerini açmadan önce Office uyar||
-|---|---|---|
+|Ayar|Dosya eklerini açmadan önce Office uyar|
+|---|---|
 |Name|Fidye yazılımıyla mücadele kuralı: kullanıcıları uyarın|
 |Bu kuralı şu durumda uygula: . . .|Herhangi bir ek. . . dosya uzantısı eşleşmeleri . . .|
 |Sözcükleri veya tümcecikleri belirtme|Şu dosya türlerini ekleyin:  <br/> dotm, docm, xlsm, sltm, xla, xlam, xll, pptm, potm, ppam, ppsm, sldm|
@@ -101,7 +101,7 @@ Bir kullanıcının posta kutusuna erişim elde eden bilgisayar korsanları, pos
 
 Posta aktarım kuralı oluşturmak için bu kısa [videoyu izleyin veya](../business-video/stop-email-auto-forward.md) şu adımları izleyin:
 
-1. Genel yönetim Microsoft 365 Yönetim merkezleri **'ni Exchange.** \> 
+1. Genel Microsoft 365 yönetim merkezi Yönetim merkezleri **'ni** \> **Exchange.**
 
 2. Posta **akışı kategorisinde kurallar** öğesini **seçin.**
 
