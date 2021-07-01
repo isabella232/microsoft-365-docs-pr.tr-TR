@@ -21,126 +21,123 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
-description: İşletmenizi Microsoft 365 İş Ekstra'dan Microsoft 365 E3'e taşımayı öğrenin.
-ms.openlocfilehash: 10630671f3deb7eff0ad0f601d301b90743ee35f
-ms.sourcegitcommit: 2a708650b7e30a53d10a2fe3164c6ed5ea37d868
+description: İşletmenizi yeni bir web Microsoft 365 İş Ekstra taşımayı Microsoft 365 E3.
+ms.openlocfilehash: 6502d79dbb283db37b00e4fccf89b15ab4291ce5
+ms.sourcegitcommit: 48195345b21b409b175d68acdc25d9f2fc4fc5f1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51164523"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53227629"
 ---
-# <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Microsoft 365 İş Ekstra'dan Microsoft 365 E3'e geçiş
+# <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Geçiş Microsoft 365 İş Ekstra Microsoft 365 E3
 
-Microsoft 365 İş Ekstra, sınıfı en iyi bulut tabanlı üretkenlik uygulamalarını basit cihaz yönetimi ve güvenlikle birleştirerek çalışanlarınızı en iyi şekilde çalışmalarına olanak sağlayan küçük işletmeniz için ihtiyacınız olan her şeye sahip. Bununla birlikte, bazı durumlarda Microsoft 365 İş Ekstra aboneliğinizi Microsoft 365 E3'e geçirmeniz gerekir. 
+Microsoft 365 İş Ekstra, sınıf için en iyi bulut tabanlı üretkenlik uygulamalarını basit cihaz yönetimi ve güvenlikle birleştirerek çalışanlarınızı en iyi şekilde çalışmalarını sağlayacak şekilde küçük işletmeniz için gereken her şeye sahip olur. Bununla birlikte bazı durumlarda, Microsoft 365 İş Ekstra aboneliğinizi başka bir Microsoft 365 E3.
 
-Örneğin, işletmeniz büyüdü ve 300'den fazla lisansa ihtiyacı var (bu arada tebrikler).
+Örneğin, işletmeniz büyür ve 300'den fazla lisansa ihtiyacı vardır (bu arada tebrikler).
 
-Ya da işletmenize kuruluş için Microsoft 365 Uygulamaları, Windows 10 Kurumsal E3 veya Kurumsal İstemci Erişimi Lisansları (CA'lar) gibi kurumsal özellikler gerekir.
+Ya da işletmenize İstemci Erişimi Lisansları (CA'lar) Kurumlar için Microsoft 365 Uygulamaları, Windows 10 Enterprise E3 veya Enterprise gibi kurumsal özellikler de gerekir.
 
-Kolayca yükseltebilirsiniz: Yükseltmeyi Yönetim [merkezinden başlatabilirsiniz.](../commerce/subscriptions/upgrade-to-different-plan.md) Geçerli aboneliğinizin tüm verileri ve yapılandırması korunur. Geçişe hazırlanmak için yapacak hiçbir şey yoktur ve sonrasında yeni özelliklerden yararlanmak dışında hiçbir şey olmaz.
+Yükseltme kolaydır: Yükseltmeyi Yönetim [merkezinden başlatabilirsiniz.](../commerce/subscriptions/upgrade-to-different-plan.md) Geçerli aboneliğinizin tüm verileri ve yapılandırması korunur. Geçişe hazırlanmak için size bir şey yoktur ve sonrasında yeni özelliklerden yararlanmak dışında herhangi bir şey yapmaya gerek yoktur.
 
->[!Note]
->Ayrıca, en fazla 300 kişi için Microsoft 365 İş Ekstra aboneliği kullanabilir ve 300'den fazla koltuk için Microsoft 365 E3 aboneliği edinebilirsiniz. Ancak Office 365 için Microsoft Defender, Microsoft 365 E3'e dahil değildir. Tehdit korumasının devamını almak için, Office 365 için Defender lisansları eklemeniz gerekir; böylelikle Office 365 için Defender'nız kapsamındaki tüm kullanıcıların lisansı olur.
->
+> [!NOTE]
+> Ayrıca en çok 300 Microsoft 365 İş Ekstra için Microsoft 365 E3 aboneliği kullanabilir ve 300'den fazla Microsoft 365 E3 aboneliğine sahip olursınız. Bununla birlikte, Office 365 için Microsoft Defender bu ürün Microsoft 365 E3. Tehdit korumasına devam etmek için Office 365 için ek Defender lisansları eklemeniz gerekir. Böylelikle, Office 365 için Defender İlkeniz kapsamındaki tüm kullanıcılar lisanslara sahip olur.
 
-## <a name="differences-between-microsoft-365-business-premium-and-microsoft-365-enterprise"></a>Microsoft 365 İş Ekstra ile Microsoft 365 Kurumsal arasındaki farklar
+## <a name="differences-between-microsoft-365-business-premium-and-microsoft-365-enterprise"></a>İki Microsoft 365 İş Ekstra arasındaki farklar Microsoft 365 Kurumsal
 
-Bu tablo, Microsoft 365 İş Ekstra ile Microsoft 365 E3 arasındaki farkları gösterir.
+Bu tabloda, iki tablo Microsoft 365 İş Ekstra arasındaki farklar Microsoft 365 E3.
 
-| Özellik    | Microsoft 365 İş Ekstra desteği    | Microsoft 365 E3'te destek | 
+| Özellik    | Destek Microsoft 365 İş Ekstra    | Destek Microsoft 365 E3 |
 |:-------|:-----|:-----|
-| **Şirket içi**        | | | 
-| Windows 10    | Windows 10 Business  |     Windows 10 Enterprise E3| 
-| Office uygulamaları*    | [İş için Microsoft 365 Uygulamaları](#office-365-business)    | Microsoft 365 Kurumsal Uygulamaları | 
-| **Bulut üretkenlik uygulamaları**        | | | 
-| Exchange Online ve Outlook    | Posta kutusu başına 50 GB depolama sınırı ve sınırsız Exchange Online arşivleme    | Posta kutusu başına 100 GB depolama sınırı ve sınırsız Exchange Online arşivleme | 
-| Teams    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-| OneDrive İş    | Kullanıcı başına 1 TB depolama sınırı    | Sınırsız | 
-| Yammer, SharePoint Online, Planner, Stream    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-| **Tehdit Koruması**        | | | 
-| Saldırı yüzeyini azaltma özellikleri    | [Bu listeye bakın](#threat-protection) | Microsoft Edge için donanım tabanlı yalıtmanın kurumsal yönetimi | 
-| Office 365 için Defender Plan 1 | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | Dahil değildir, ancak | 
-| **Kimlik yönetimi**        | | | 
-| Karma Azure Active Directory (Azure AD) hesapları için self servis parola sıfırlama, Azure AD çok faktörlü kimlik doğrulaması (MFA), Koşullu Erişim, şirket içi kimlikler için parola geri yazma|     ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-| Bulut Uygulaması Bulma, Azure AD Connect Durumu    |     | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-| Azure AD Office 365 uygulamaları Tek Sign-On (SSO): Kullanıcı başına 10 uygulama (Salesforce gibi Galeri SaaS uygulamaları)* | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-| Azure AD Premium 1 SSO: sınır yok (Azure AD Uygulama Ara Sunucusu aracılığıyla şirket içi uygulamalar ve Self-Service Tümleştirme şablonlarını kullanan galeri dışı uygulamalar)    |     | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-| **Cihaz ve uygulama yönetimi**        | | | 
-| Microsoft Intune, Windows Autopilot|     ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-|Sanal Masaüstü Erişimi (VDA)    |  |     ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-|Windows Sanal Masaüstü (WVD)    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png) |     ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-|Paylaşılan Bilgisayar Etkinleştirmesi (SCA)    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png) |     ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-| Microsoft Masaüstü İyileştirme Paketi    | |     ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-| **Bilgi koruması**        | | | 
-| Office 365 Veri Kaybını Önleme, Azure Information Protection Plan 1    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-| Uç nokta DLP için Pencere Bilgileri Koruması    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-| **İstemci Erişim Lisansı (CAL hakları)**    | | |     
-| Kurumsal CAL Paketi (Exchange, SharePoint, Skype, Windows, Microsoft Uç Nokta Yapılandırma Yöneticisi, Windows Hak Yönetimi)| |         ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-| **Uyumluluk**        | | | 
-| Sınırsız e-posta arşivleme    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-| Uyumluluk Yöneticisi    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-| eKbulma    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-| Yerinde tutma ve mahkeme tutma    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
-| İleti Kayıt Yönetimi (MRM) bekletme etiketleri ve bekletme ilkeleri    | ![Microsoft 365 İş Ekstra ile birlikte](../media/check-mark.png)    | ![Microsoft 365 E3 ile birlikte](../media/check-mark.png) | 
+| **Şirket içi**        | | |
+| Windows 10    | Windows 10 Business  |     Windows 10 Enterprise E3|
+| Office uygulamaları*    | [İş için Microsoft 365 Uygulamaları](#office-365-business)    | Microsoft 365 Kurumsal Uygulamaları |
+| **Bulut üretkenlik uygulamaları**        | | |
+| Exchange Online ve Outlook    | Posta kutusu başına 50 GB depolama sınırı ve sınırsız Exchange Online arşivleme    | Posta kutusu başına 100 GB depolama sınırı ve sınırsız Exchange Online arşivleme |
+| Teams    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Bu yeni Microsoft 365 E3](../media/check-mark.png) |
+| OneDrive İş    | Kullanıcı başına 1 TB depolama sınırı    | Sınırsız |
+| Yammer, SharePoint Online, Planner, Stream    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Bu yeni Microsoft 365 E3](../media/check-mark.png) |
+| **Tehdit Koruması**        | | |
+| Saldırı yüzeyini azaltma özellikleri    | [Bu listeye bakın](#threat-protection) | Enterprise için donanım tabanlı yalıtımnın yönetimini Microsoft Edge |
+| Office 365 için Defender Plan 1 | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | Dahil değildir, ancak |
+| **Kimlik yönetimi**        | | |
+| Karma kimlik bilgileri (Azure AD) Azure Active Directory, Azure AD multi-factor authentication (MFA), Koşullu Erişim için self servis parola sıfırlama, şirket içi kimlikler için parola geri yazma|     ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Bu yeni Microsoft 365 E3](../media/check-mark.png) |
+| Bulut Uygulaması Keşif, Azure AD Bağlan Durumu    |     | ![Bu yeni Microsoft 365 E3](../media/check-mark.png) |
+| Azure AD Office 365 Uygulamalar Tek Sign-On (SSO): Kullanıcı başına 10 uygulama (Salesforce gibi Galeri SaaS uygulamaları)* | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Bu yeni Microsoft 365 E3](../media/check-mark.png) |
+| Azure AD Premium 1 SSO kullanabilirsiniz: sınır yoktur (Azure AD Uygulama Ara Sunucusu üzerinden şirket içi uygulamalar ve Self-Service Tümleştirme şablonları kullanılarak galeri dışı uygulamalar)    |     | ![Bu yeni Microsoft 365 E3](../media/check-mark.png) |
+| **Cihaz ve uygulama yönetimi**        | | |
+| Microsoft Intune AutoPilot Windows'i çalıştırın|     ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Bu yeni Microsoft 365 E3](../media/check-mark.png) |
+|Sanal Masaüstü Erişimi (VDA)    |  |     ![Bu yeni Microsoft 365 E3](../media/check-mark.png) |
+|Windows Sanal Masaüstü (WVD)    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png) |     ![Bu yeni Microsoft 365 E3](../media/check-mark.png) |
+|Paylaşılan Bilgisayar Etkinleştirmesi (SCA)    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png) |     ![Bu yeni Microsoft 365 E3](../media/check-mark.png) |
+| Microsoft Masaüstü İyileştirme Paketi    | |     ![Bu yeni Microsoft 365 E3](../media/check-mark.png) |
+| **Bilgi koruması**        | | |
+| Office 365 Veri Kaybını Önleme, Azure Information Protection Plan 1    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Bu yeni Microsoft 365 E3](../media/check-mark.png) |
+| Uç nokta DLP için Window Information Protection    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Bu yeni Microsoft 365 E3](../media/check-mark.png) |
+| **İstemci Erişimi Lisansı (CAL hakları)**    | | |
+| Enterprise CAL Paketi (Exchange, SharePoint, Skype, Windows, Microsoft Endpoint Configuration Manager, Windows Yönetimi)| |         ![Bu yeni Microsoft 365 E3](../media/check-mark.png) |
+| **Uyumluluk**        | | |
+| Sınırsız e-posta arşivleme    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Bu yeni Microsoft 365 E3](../media/check-mark.png) |
+| Uyumluluk Yöneticisi    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Bu yeni Microsoft 365 E3](../media/check-mark.png) |
+| eKbulma    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Bu yeni Microsoft 365 E3](../media/check-mark.png) |
+| Yerinde tutma ve mahkeme tutma    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Bu yeni Microsoft 365 E3](../media/check-mark.png) |
+| İleti Kayıtları Yönetimi (MRM) bekletme etiketleri ve bekletme ilkeleri    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Bu yeni Microsoft 365 E3](../media/check-mark.png) |
 ||||
 
-\* SaaS uygulamalarına erişim atanmış olan kullanıcılar en çok 10 uygulama için SSO erişimine sahip olabilir. Yöneticiler SSO'ya yapılandırarak kullanıcı erişimini farklı SaaS uygulamalarına değiştirebilir, ancak SSO erişimine her kullanıcı için bir defada yalnızca 10 uygulama izin verilir. Tüm Office 365 uygulamaları tek bir uygulama olarak sayılır.
+\* SaaS uygulamalarına erişim atanmış olan kullanıcılar SSO'nun en çok 10 uygulamasına erişimi olabilir. Yöneticiler SSO'yi yapılandırarak kullanıcı erişimini farklı SaaS uygulamalarına değiştirebilir, ancak SSO erişimine bir defada kullanıcı başına yalnızca 10 uygulama izin verilir. Tüm Office 365 uygulamaları tek bir uygulama olarak sayılır.
 
 ## <a name="migration"></a>Geçiş
 
-Geçiş yapmak için microsoft 365 İş Ekstra aboneliğinizi ve lisanslarınızı lisansları ile uygun bir Microsoft 365 E3 aboneliğine taşımak için iş ortağınız ile birlikte çalışabilirsiniz.
+Geçiş yapmak için iş ortağınız ile birlikte çalışarak Microsoft 365 İş Ekstra lisansları olan uygun bir Microsoft 365 E3 aboneliğine geçin.
 
-Aşağıdaki bölümlerde, varsa, hangi değişiklikleri yapmak için ihtiyacınız olduğu ve geçiş sonrasında neler yaptığınız açıklanmaktadır.
+Aşağıdaki bölümlerde, geçiş sonrasında hangi değişiklikleri yapmak için ihtiyacınız olduğu ve varsa neler yapabilirsiniz açıklanmaktadır.
 
-### <a name="microsoft-365-subscription-configuration-and-data"></a>Microsoft 365 abonelik yapılandırması ve verileri
+### <a name="microsoft-365-subscription-configuration-and-data"></a>Microsoft 365 yapılandırmasını ve verilerini yapılandırma
 
-Şu bilgileri içeren, geçerli aboneliğiniz veya verilerinizde değişiklik yapmak zorunda değilsiniz:
+Şu gibi değişikliklerden önce geçerli aboneliğiniz veya verilerinizde değişiklik yapmak zorunda değilsiniz:
 
 - DNS etki alanı adları gibi abonelik yapılandırması.
-- Kullanıcı ve grup hesapları ve çok faktörlü kimlik doğrulaması veya koşullu erişim ilkeleri gibi kimlik doğrulama ayarları.
-- Teams, Exchange Online posta kutuları, SharePoint Online siteleri, OneDrive İş klasörleri ve OneNote not defterleri gibi üretkenlik hizmeti yapılandırmaları ve bunların verileri.
+- Çok faktörlü kimlik doğrulaması veya koşullu erişim ilkeleri gibi kullanıcı ve grup hesapları ile kimlik doğrulama ayarları.
+- Üretkenlik hizmeti yapılandırmaları ve Teams, Exchange Online kutuları, SharePoint Online siteleri, OneDrive İş klasörleri ve not defterleri gibi verileri OneNote.
 
-Kullanıcılarınız artık Exchange Online posta kutularında ve OneDrive İş klasörlerinden sınırsız depolamanın keyfini çıkarabilirsiniz.
+Kullanıcılarınız artık posta kutularına ve posta kutularına sınırsız Exchange Online keyfini OneDrive İş keyfini çıkarabilirsiniz.
 
-10'dan fazla uygulama için Bulut Uygulama Bulma, Azure AD Connect Health ve SSO kullanmaya başlayabilirsiniz.
+10'dan fazla uygulamada Bulut Uygulama Bulma, Azure AD Bağlan Health ve SSO kullanmaya başlayabilirsiniz.
 
 <a name="threat-protection"></a>
 ### <a name="threat-protection"></a>Tehdit koruması
 
 Windows 10 Business şu korumaları içerir:
 
-- İşletim sisteminin başlatma işleminin bütünlüğü zorlaması
-- Hassas işletim bileşenlerinin bütünlüğünü zorlama
-- Gelişmiş güvenlik açığı ve sıfır gün açıktan yararlanma azaltmaları
-- Microsoft Edge, Internet Explorer ve Chrome için saygınlık tabanlı ağ koruması
+- İşletim sisteminin önyükleme işleminin bütünlüğü zorlaması
+- Hassas işletim bileşenlerinin bütünlükle zorlaması
+- Gelişmiş güvenlik açığı ve sıfır gün açıkları açıkları azaltma
+- İnternet Explorer ve Chrome'da Microsoft Edge tabanlı ağ koruması
 - Ana bilgisayar tabanlı güvenlik duvarı
-- Fidye yazılımı riskleri
-- Microsoft Edge için donanım tabanlı yalıtma
-- Akıllı Güvenlik Grafiği ile desteklenen uygulama denetimi
+- Fidye yazılımı azaltma
+- Sistem için donanım tabanlı Microsoft Edge
+- Akıllı Güvenlik Tarafından desteklenen uygulama Graph
 - Cihaz denetimi (USB)
 - Web tabanlı tehditlere karşı ağ koruması
-- Ana bilgisayar izinsiz giriş engelleme kuralları
+- Host intrusion prevention rules
 
-Windows 10 Enterprise E3, Microsoft Edge için donanım tabanlı yalıtma yönetimini de içerir.
+Windows 10 Enterprise E3, teknik destek için donanım tabanlı yalıtım kurumsal yönetimini Microsoft Edge.
 
->[!Note]
->Microsoft 365 E3'e geçirilen kullanıcıların her biri, devam eden tehdit koruması için Office 365 için Microsoft Defender lisansı gerektirir. Office 365 için Defender'ın tüm kullanıcılarının lisanslı olması için ek Office 365 için Defender lisansları satın aldığınızdan emin olun. 
->
+> [!NOTE]
+> Microsoft 365 E3'a Microsoft 365 E3 devam eden tehdit koruması için Office 365 için Microsoft Defender gerekir. Güvenlik İlkeleri için Defender Office 365 kapsamındaki tüm kullanıcıların lisanslı olması için ek Office 365 Defender satın aldığınızdan emin olun.
 
 ### <a name="device-management-with-intune"></a>Intune ile cihaz yönetimi
 
-Kayıtlı cihazları ve cihaz ve uygulama ayarlarını içeren, başlamadan önce geçerli Intune yapılandırmanız üzerinde herhangi bir değişiklik yapmak zorunda değilsiniz.
+Kayıtlı cihazları ve cihaz ve uygulama ayarlarını da içeren, başlamadan önce geçerli Intune yapılandırmanız üzerinde değişiklik yapmak zorunda değilsiniz.
 
 ### <a name="windows-10"></a>Windows 10
 
-Microsoft 365 İş Ekstra, Windows AutoPilot ile yük885 İş'i içeren Windows 10 Business'ı içerir. Microsoft 365 E3'e geçişte, her kullanıcı lisansı Windows 10 Enterprise E3'ü içerir ve bu lisansı Windows Autopilot ile de yükleyebilirsiniz.
+Microsoft 365 İş Ekstra, Windows 10 Business AutoPilot ile yüklerini Windows içerir. Microsoft 365 E3'e geçiş Microsoft 365 E3, her kullanıcı lisansı Windows 10 Enterprise E3 içerir; bu E3'ü AutoPilot Windows da yükleyebilirsiniz.
 
 <a name="office-365-business"></a>
 ###  <a name="microsoft-365-apps-for-business"></a>İş için Microsoft 365 Uygulamaları
 
-Cihazlarınıza yüklenmiş olan İş için Microsoft 365 Uygulamaları istemciniz, otomatik olarak kuruluş için Microsoft 365 Uygulamaları'nın özelliklerini kullanmaya başlar. Geçiş sonrasında artık şunları kullanabilirsiniz:
+Cihazlarınıza İş için Microsoft 365 Uygulamaları bilgisayarınıza yüklenmiş olan kullanıcı istemciniz, sistem özelliklerinin otomatik olarak Kurumlar için Microsoft 365 Uygulamaları. Geçiş sonrasında şunları kullanabilirsiniz:
 
- - Grup İlkesi desteği
- - Elektronik tablo karşılaştırma ve sorgulama
- - İş zekası
-
+- Grup İlkesi desteği
+- Elektronik tablo karşılaştırma ve sorgulama
+- İş Zekası

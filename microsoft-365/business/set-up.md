@@ -30,12 +30,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Etki alanı ve kullanıcı ekleme Microsoft 365 İş Ekstra, güvenlik ilkelerini ayarlama ve daha fazlası için kurulum adımlarını keşfedin.
-ms.openlocfilehash: 3e15f16db2a233d2e11d444600398102b075932d
-ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
+ms.openlocfilehash: 74a98e915577cf86ec32a706bd3b8f558f49db95
+ms.sourcegitcommit: 48195345b21b409b175d68acdc25d9f2fc4fc5f1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52624399"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53227649"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Kurulum Microsoft 365 İş Ekstra ayarları
 
@@ -53,7 +53,7 @@ E-Microsoft 365 İş Ekstra satın alırken, sahip olduğunuz bir etki alanını
 
 ### <a name="add-your-domain-to-personalize-sign-in"></a>Oturum açmanızı kişiselleştirmek için etki alanınızı ekleme
 
-1. Genel yönetici [Microsoft 365 kullanarak](https://admin.microsoft.com) yönetim merkezinde oturum açma. 
+1. Genel yönetici [Microsoft 365 yönetim merkezi](https://admin.microsoft.com) kullanarak e-posta oturum açma. 
 
 2. Sihirbazı **başlatmak için Kuruluma** git'i seçin.
 
@@ -69,7 +69,7 @@ E-Microsoft 365 İş Ekstra satın alırken, sahip olduğunuz bir etki alanını
     ![Oturum açmanızı kişiselleştirin sayfasının ekran görüntüsü.](../media/adddomain.png)
 
     
-4. Etki alanının size ait olduğunu doğru yapan herhangi bir DNS barındırma [sağlayıcısında DNS](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) Microsoft 365 için sihirbazda yer alan adımları izleyin. Etki alanı barındırmanızı biliyorsanız, ana bilgisayarla ilgili [yönergelere de bakın.](/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)
+4. Etki alanının size ait olduğunu doğru yapan herhangi bir DNS barındırma [sağlayıcısında DNS](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) Microsoft 365 için sihirbazda yer alan adımları izleyin. Etki alanı barındırmanızı biliyorsanız, bkz. Etki [alanına etki alanı Microsoft 365.](/microsoft-365/admin/setup/add-domain)
 
     Barındırma sağlayıcınız GoDaddy veya etki alanı bağlantısı özelliği etkinleştirilmiş başka bir ana bilgisayarsa [işlem](/office365/admin/get-help-with-domains/domain-connect)kolaydır ve otomatik olarak oturum açmalı ve Microsoft'un sizin adına kimlik doğrulamasına izin vermelisiniz.
 
