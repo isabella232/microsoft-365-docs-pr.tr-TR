@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Office uygulamalarını ve siber tehditlere karşı gelişmiş koruma içeren bir abonelik hizmeti olan Microsoft 365 İş Ekstra hakkında bilgi edinin.
-ms.openlocfilehash: e4a182c5dd5444392486dd137e70361e880534bd
-ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
+ms.openlocfilehash: b7b71032ffc19c582f9658b93dae7dd9f89e02eb
+ms.sourcegitcommit: 4886457c0d4248407bddec56425dba50bb60d9c4
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/29/2021
-ms.locfileid: "52705532"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53287637"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Microsoft 365 İş Ekstra’ya Genel Bakış
 
@@ -44,14 +44,14 @@ Microsoft 365 İş Ekstra (eski adıyla Microsoft 365 İş), 300’den az çalı
 
 ## <a name="watch-what-is-microsoft-365-business-premium"></a>İzleyin: Microsoft 365 İş Ekstra nedir?
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
-  
-Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](../business-video/index.yml). 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA]
+
+Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i ilk kez kullananlara yönelik eğitim serisinin tamamına göz atın](../business-video/index.yml).
 
 Microsoft 365 İş Ekstra, en fazla 300 lisans için uygundur. Daha fazla lisansa ihtiyacınız varsa daha fazla bilgi için [Microsoft 365 Kurumsal](../enterprise/index.yml) belgelerine göz atın.
 
 Tüm özellik listesi için [Microsoft 365 İş Ekstra hizmet açıklamasına](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) göz atın.
-  
+
 ## <a name="small-business-security-needs"></a>Küçük işletmelerin güvenlik ihtiyaçları
 
 İşletme verilerinizin güvenliği çeşitli şekillerde ihlal edilebilir. Siz ve kullanıcılarınız, risk altındaki kimlik bilgileriyle oturum açtığınızda ya da şirket verilerini farklı cihaz ve uygulamalarda görüntülediğinizde, işletmenizin güvenliğini riske atabilirsiniz. Başka bir deyişle, işletmenizi riske atan faktörler şunlardır:
@@ -73,17 +73,17 @@ Microsoft 365 İş Ekstra, tehditlere karşı şu şekilde **koruma** sağlar:
 
 - Güvenli olmayan web sitelerini engellemek için e-posta ve belgelerdeki bağlantıları gerçek zamanlı olarak tarama ( Güvenli Bağlantılar).
 
-- Yeni geliştirilmiş kötü amaçlı yazılımları saptamak için korumalı bir ortamda e-posta eklerinin gelişmiş analizini yapma (Güvenli Ekler). 
+- Yeni geliştirilmiş kötü amaçlı yazılımları saptamak için korumalı bir ortamda e-posta eklerinin gelişmiş analizini yapma (Güvenli Ekler).
 
-- Gelişmiş saldırılara karşı koruma sağlamak için makine öğrenimi modellerini ve kimliğe bürünme algılamasını kullanan kimlik avından koruma ilkelerini etkinleştirme (Office 365 makine zekası Defender’ında kimlik avından korunma). 
+- Gelişmiş saldırılara karşı koruma sağlamak için makine öğrenimi modellerini ve kimliğe bürünme algılamasını kullanan kimlik avından koruma ilkelerini etkinleştirme (Office 365 makine zekası Defender’ında kimlik avından korunma).
 
-- Güvenilir olmayan konumlardan erişimi devre dışı bırakan veya ofis ağınız gibi güvenilir yerlerden erişimde çok faktörlü kimlik doğrulamasını atlayan gelişmiş ilkeler ayarlama (güvenilen IP’ler ve Koşullu Erişim dahil Azure MFA). 
+- Güvenilir olmayan konumlardan erişimi devre dışı bırakan veya ofis ağınız gibi güvenilir yerlerden erişimde çok faktörlü kimlik doğrulamasını atlayan gelişmiş ilkeler ayarlama (güvenilen IP’ler ve Koşullu Erişim dahil Azure MFA).
 
 - İşletmenizdeki tüm Windows 10 cihazlarında kötü amaçlı yazılım korumasını zorunlu tutma ve önemli sistem klasörlerindeki dosyaları fidye yazılımlar tarafından yapılacak değişikliklere karşı koruma (Windows Defender)
 
 **İş verileriniz** şu şekilde korunur:
 
-- Sosyal Güvenlik numarası veya kredi kartı gibi hassas bilgilerin işletmenizin dışına sızmasını önlemeye yardımcı olmak için otomatik algılamayı kullanma (veri kaybını önleme). 
+- Sosyal Güvenlik numarası veya kredi kartı gibi hassas bilgilerin işletmenizin dışına sızmasını önlemeye yardımcı olmak için otomatik algılamayı kullanma (veri kaybını önleme).
 
 - Müşterileriniz veya kuruluşunuzun dışındaki kişilerle güvenli bir şekilde iletişim kurabilmeniz için hassas bilgiler içeren e-postaları şifreleme. Bu işlem, iletiyi yalnızca hedef alıcının okuyabilmesini sağlar (Office 365 İleti Şifrelemesi).
 
