@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
 description: Yalnızca birkaç kolay adımda kişisel iş dosyalarınızı ve hassas şirket dosyalarınızı OneDrive İş başka bir yere taşımayı öğrenin.
-ms.openlocfilehash: 4dadc87c0168a9fcdcc795a94df8ee5b7fc7fd91
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 6def1c733093417162ca37906c1d55c0eab23e7d
+ms.sourcegitcommit: 0d1b065c94125b495e9886200f7918de3bda40b3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245114"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53339320"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>Dosyaları OneDrive İş'e taşıma
 
@@ -44,7 +44,7 @@ Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i il
 
 Kullanıcının çok fazla kişisel dosya içeren bir bilgisayarı varsa, önce bu dosyaları OneDrive İş'e taşımalısınız:
   
-1. Kullanıcı portal.office.com gidin ve kullanıcının iş kimlik bilgileri bilgileri Microsoft 365 oturum açma.
+1. Kullanıcı admin.microsoft.com gidin ve kullanıcının iş kimlik bilgileri bilgileri Microsoft 365 oturum açma.
 
 2. Uygulama başlatıcıya ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) tıklayın ve OneDrive'a gidin. 
     

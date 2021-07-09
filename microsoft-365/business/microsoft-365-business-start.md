@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: İşletmeler Microsoft 365, nasıl kuracaklarını, kullanıcılarınızı cihaz ve bilgisayarları kurumsal cihazlarla korunacak şekilde nasıl hazırlayacaklarını Microsoft 365 öğrenin.
-ms.openlocfilehash: be5f0e74b71f412bf647e4ef0e496cd932fc306a
-ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
+ms.openlocfilehash: 2ab0079da7a8f30d481cdb3d3dc6d165b4a19e99
+ms.sourcegitcommit: 0d1b065c94125b495e9886200f7918de3bda40b3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/29/2021
-ms.locfileid: "52706468"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53339300"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Microsoft 365 İş ile çalışmaya başlama
 
@@ -41,7 +41,7 @@ ms.locfileid: "52706468"
 
 Microsoft 365, her zaman güncel olan Outlook, Word, Excel ve diğer Office ürünleri gibi bir dizi kapsamlı iş üretkenliği ve işbirliği aracıdır. Tüm iOS, Android ve Windows 10 cihazlarınız üzerinde iş dosyalarınızı, yönetimi kolay kurumsal sınıf bir güvenlikle koruyabilirsiniz.
 
-## <a name="watch-what-is-microsoft-365-business-premium"></a>İzle: Nedir Microsoft 365 İş Ekstra
+## <a name="watch-what-is-microsoft-365-business-premium"></a>İzleyin: Microsoft 365 İş Ekstra nedir?
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
@@ -57,11 +57,11 @@ Microsoft 365 lisansı, 300'e kadar lisansa kadar anlamına geliyor. Daha fazla 
 
  **İşletmeler için Microsoft 365 Paketi'nin ayarlaması hakkında genel bakış**
   
-Aşağıdaki diyagramda, yöneticilerin iş için iş için Microsoft 365 ayarlanmıştır. Ayrıca, iş için PCleri hazırlama Windows adımlar da Microsoft 365 açıklarıdır. AutoPilot ile birlikte yönetim merkezinde Microsoft 365 cihazlar [da Windows abilirsiniz.](add-autopilot-devices-and-profile.md) AutoPilot'i kullanarak, yeni cihazları ayarlandıktan ve önceden yapılandırarak, kullanıcı kurumsal kimlik bilgileri için kendi Microsoft 365 anda üretken kullanıma hazır olur.
+Aşağıdaki diyagramda, yöneticilerin iş için iş için Microsoft 365 ayarlanmıştır. Ayrıca, iş için PCleri hazırlama Windows adımlar da Microsoft 365 açıklarıdır. AutoPilot ile birlikte mobil cihaza Microsoft 365 yönetim merkezi [Windows ebilirsiniz.](add-autopilot-devices-and-profile.md) AutoPilot'i kullanarak, yeni cihazları ayarlandıktan ve önceden yapılandırarak, kullanıcı kurumsal kimlik bilgileri için kendi Microsoft 365 anda üretken kullanıma hazır olur.
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](../media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
 
-## <a name="watch-set-up-microsoft-365-business"></a>İzle: E-Microsoft 365 İş
+## <a name="watch-set-up-microsoft-365-business"></a>İzle: Microsoft 365 İş'i ayarlama
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
@@ -70,7 +70,7 @@ Bu videoyu faydalı bulduysanız, [küçük işletmelere ve Microsoft 365’i il
   
 ### <a name="1-set-up-microsoft-365-for-business-admin"></a>1: İş Microsoft 365 ayarlama (Yönetici)
 
-Genel yönetici [Microsoft 365 bilgilerinizle](https://portal.office.com/adminportal/home) yönetim merkezinde oturum açma ve kurumsal yönetim bilgilerini ayarlamak için Microsoft 365 tamamlayın. 
+Genel yönetici [Microsoft 365 yönetim merkezi](https://admin.microsoft.com/adminportal/home) bilgilerinizle oturum açma ve kurumsal kimlik bilgilerinizi ayarlamak için Microsoft 365 tamamlayın. 
   
 1. [Cihazlardaki verileri iş için Microsoft 365 korumak için önkoşullar](pre-requisites-for-data-protection.md)
     
@@ -78,7 +78,7 @@ Genel yönetici [Microsoft 365 bilgilerinizle](https://portal.office.com/adminpo
     
 2. [Kurumsal kurulum sihirbazını kullanarak Microsoft 365 ayarlama](set-up.md)
     
-    Yerel bir **Active Directory'den** kalıcı olarak buluta taşınıyorsanız, Microsoft 365 yönetim merkezine gidip kullanıcılarınızı el ile eklemek için kurulum sihirbazını kullanabilir veya Azure AD ile tek seferlik eşitleme Bağlan. Bunu yapmanın iki yolu vardır: 
+    Yerel bir **Active Directory'den** kalıcı olarak buluta taşınıyorsanız, Microsoft 365 yönetim merkezi'e gidip kullanıcılarınızı el ile eklemek için kurulum sihirbazını kullanabilir veya Azure AD ile tek seferlik bir eşitleme Bağlan. Bunu yapmanın iki yolu vardır: 
     
     - Exchange 2010, Exchange 2013 veya Exchange 2016 sunucunuz varsa, Exchange posta kutularını Microsoft 365'e hızlıca geçirmek için En Düşük [Karma'Exchange kullanabilirsiniz.](/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate) Düşük karma adımlarında, kullanıcıların Azure AD'ye bir defalık eşitlemesi ve şirket içi e-postadan buluta geçiş işlemi yer alır. E-posta geçişi tamamlandıktan sonra, bu yöntemi kullanırsanız dizin eşitleme otomatik olarak kapanır.
     
@@ -94,12 +94,12 @@ Kurumsal kullanıcılar için [Microsoft 365](set-up-mobile-devices.md) için mo
 
 Yöneticiler [AutoPilot'a](add-autopilot-devices-and-profile.md)Windows 10 kullanarak yeni BILGISAYAR Windows önceden seçebilirsiniz. Kullanıcılar, şu konudaki adımları Windows 10 var olan veya yeni cihazlarında ayarlamalar yapabilirsiniz: Kurumsal kullanıcılar için [Windows Microsoft 365 pc'leri ayarlama](set-up-windows-devices.md). Var olan cihazlar için, kullanıcılar **isteğe bağlı** [olarak dosyaları OneDrive İş.](move-files-to-onedrive.md) Ayrıca, üçüncü taraf araçlarını kullanarak, bir profille ilişkili dosyaları Windows dosyaları başka OneDrive.
   
-Kuruluşta Windows Server Active Directory şirket içi kullanıyorsa, Windows 10 cihazlarınızı korumak için işletmeler için Microsoft 365'i kurabilirsiniz ve bu sırada yerel kimlik doğrulaması gerektiren şirket içi kaynaklara erişimi de koruyabilirsiniz. Bu özelliği ayarlamak için [Etki alanına katılmış Windows 10 cihazlarını işletmeler](manage-windows-devices.md) için Microsoft 365 tarafından yönetilsin mi? alanında yer alan adımları izleyin. Bu yöntem tercih edilir ve bu durumdaki cihazlar Karma **Azure AD'ye katılmış cihazlar olarak adlandırılan cihazlar.** 
+Kuruluşta Windows Server Active Directory şirket içi kullanıyorsa, Windows 10 cihazlarınızı korumak için Microsoft 365'i iş için ayar yaparken, yerel kimlik doğrulaması gerektiren şirket içi kaynaklara erişimi de koruyabilirsiniz. Bu özelliği ayarlamak için [Etki alanına katılmış Windows 10 cihazlarını işletmeler](manage-windows-devices.md) için Microsoft 365 tarafından yönetilsin mi? alanında yer alan adımları izleyin. Bu yöntem tercih edilir ve bu durumdaki cihazlar Karma **Azure AD'ye katılmış cihazlar olarak adlandırılan cihazlar.** 
   
 Bazı şirket içi kaynaklar (dosya paylaşımları ve yazıcılar gibi) içeren yerel bir Active Directory'niz **varsa, Azure AD'ye** katılmış cihazlarınıza buradaki adımları takip edin: İş için [Microsoft 365'te Azure AD'ye](access-resources.md)katılmış bir cihazdan şirket içi kaynaklara erişme .
   
   
-## <a name="contact-support"></a>Desteğe başvurun
+## <a name="contact-support"></a>Destek ekibine başvurun
 
  **Desteğe başvurmanız gerekiyorsa:**
   
