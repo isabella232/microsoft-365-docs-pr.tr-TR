@@ -15,12 +15,12 @@ localization_priority: Normal
 audience: microsoft-business
 keywords: Microsoft 365 İş, Microsoft 365, SMB, geçiş CSP aboneliği
 ms.date: 11/01/2017
-ms.openlocfilehash: 3f6c71edb50cc3c5509e61a83efb64185c10648d
-ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
+ms.openlocfilehash: 47b65b2de9db0fd27e29272937bab2041eb67300
+ms.sourcegitcommit: 7dc3b4dec05299abb4290a6e3d1ebe0fdc622ed7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52925013"
+ms.lasthandoff: 07/10/2021
+ms.locfileid: "53363829"
 ---
 # <a name="transition-a-microsoft-365-business-csp-subscription"></a>Microsoft 365 Business CSP aboneliğine geçiş
 
@@ -73,7 +73,7 @@ Aşağıdaki tabloda, Microsoft 365 Business Preview aboneliğinden Microsoft 36
 |-------|-----------------|--------------|---------------|---------------|
 | **Durum** | Yetkisiz kullanım süresi | Süresi doldu      | Devre dışı      | Visioned |
 | **Hizmet etkileri**                                                        |
-| **Microsoft 365 İş yönetim portalı** | İşlevsellik üzerinde hiçbir etkisi yok | İşlevsellik üzerinde hiçbir etkisi yok | Kullanıcıları ekleyebilir/silebilir, abonelik satın alabilirsiniz.</br> Lisansları atayama/iptal etme. | Müşterinin aboneliği ve tüm veriler silinir. Yönetici diğer ücretli abonelikleri yönetebilir. |
+| **Microsoft 365 yönetim merkezi** | İşlevsellik üzerinde hiçbir etkisi yok | İşlevsellik üzerinde hiçbir etkisi yok | Kullanıcıları ekleyebilir/silebilir, abonelik satın alabilirsiniz.</br> Lisansları atayama/iptal etme. | Müşterinin aboneliği ve tüm veriler silinir. Yönetici diğer ücretli abonelikleri yönetebilir. |
 | **Office uygulamaları**                         | Son kullanıcının etkilenmesi yok | Son kullanıcının etkilenmesi yok | Office işlevi, sınırlı işlevsellik moduna girer.</br> Kullanıcılar yalnızca dosyaları bakabilirsiniz. | Office işlevi, sınırlı işlevsellik moduna girer.</br> Kullanıcılar yalnızca dosyaları bakabilirsiniz. |
 | **Bulut hizmetleri (SharePoint Online, Exchange Online, Skype, Teams ve daha fazlası)** | Son kullanıcının etkilenmesi yok | Son kullanıcının etkilenmesi yok | Son kullanıcıların ve yöneticilerin buluttaki verilere erişimi yoktur. | Müşterinin aboneliği ve tüm veriler silinir. |
 | **EM+S bileşenleri** | Yöneticinin hiçbir etkisi yok</br> Son kullanıcının etkilenmesi yok | Yöneticinin hiçbir etkisi yok</br> Son kullanıcının etkilenmesi yok | Artık özellik zorunlu kılınmaz.</br> Daha [fazla bilgi için bkz.](#mobile-device-impacts-upon-subscription-expiration) Aboneliğin sona ermesi sırasında mobil cihaz etkileri Windows 10 ve abonelik süre sonu [sırasında](#windows-10-pc-impacts-upon-subscription-expiration) PC'nin etkilenmesi. | Artık özellik zorunlu kılınmaz.</br> Daha [fazla bilgi için bkz.](#mobile-device-impacts-upon-subscription-expiration) Aboneliğin sona ermesi sırasında mobil cihaz etkileri Windows 10 ve abonelik süre sonu [sırasında](#windows-10-pc-impacts-upon-subscription-expiration) PC'nin etkilenmesi. |
@@ -88,23 +88,23 @@ Aşağıdaki tabloda, mobil cihazlarda uygulama yönetimi ilkeleri üzerindeki e
 |----------------------------|------------------------------------------------|------------------------------------|
 | **Etkin olmayan cihazdan iş dosyalarını silme** | İş dosyaları seçilen günlerin ardından kaldırılır | İş dosyaları kullanıcının kişisel cihazlarda kalır |
 | **Tüm kullanıcıları iş dosyalarını OneDrive İş üzerine kaydetmeye zorla** | İş dosyaları yalnızca OneDrive İş | çalışma dosyaları her yere kaydedilebilir |
-| **İş dosyalarını şifrele** | İş dosyaları şifrelenir | İş dosyaları artık şifrelenmez.</br> Güvenlik ilkeleri kaldırılır ve uygulamalara yönelik Office verileri kaldırılır. |
-| **Office uygulamalarına erişmek için PIN veya parmak izi gerektirme** | Uygulamalara kısıtlanmış erişim | Uygulama düzeyi erişim kısıtlaması yok |
+| **İş dosyalarını şifrele** | İş dosyaları şifrelenir | İş dosyaları artık şifrelenmez.</br> Güvenlik ilkeleri kaldırılır ve Office verileri kaldırılır. |
+| **Diğer uygulamalara erişmek için PIN veya parmak Office gerektirme** | Uygulamalara kısıtlanmış erişim | Uygulama düzeyi erişim kısıtlaması yok |
 | **Oturum açma başarısız olduğunda PIN'i sıfırla** | Uygulamalara kısıtlanmış erişim | Uygulama düzeyi erişim kısıtlaması yok |
-| **Office uygulamaları boşta kaldıktan sonra kullanıcıların yeniden oturum açmasını gerektirme** | Oturum açma gerekli | Oturum açma gerekmez |
+| **Uygulamalar boşta kaldıktan sonra kullanıcıların Office yeniden oturum açmasını gerektirme** | Oturum açma gerekli | Oturum açma gerekmez |
 | **İşletim sistemi kısıtlamaları kaldırılmış veya kök erişim izni verilmiş cihazlardan iş dosyalarına erişilmesini engelle** | İş dosyalarına, bir yayından izin verili/kök erişime açık olan cihazlardan erişilemiyor | İş dosyalarına bir yayından erişim erişimli/kök erişim erişimli cihazlardan erişilebilir |
-| **Kullanıcıların Office uygulamalarına Kişisel uygulamalara içerik kopyalamasına izin ver** | Microsoft 365 aboneliği kapsamında kullanılabilen uygulamalarla kısıtlanmış kopyalama/yapıştırma | Tüm uygulamalar için kullanılabilir kopyalama/yapıştırma |
+| **Kullanıcıların kişisel uygulamalardan Kişisel uygulamalara Office içeriği kopyalamasına izin verme** | Microsoft 365 aboneliği kapsamında kullanılabilen uygulamalarla kısıtlanmış kopyalama/yapıştırma | Tüm uygulamalar için kullanılabilir kopyalama/yapıştırma |
 
-## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>Windows 10 bilgisayarı abonelik süresinin dolması üzerindeki etkiler
+## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>Windows 10 Aboneliğin sona ermesi üzerine bilgisayar üzerindeki etkiler
 
-Aşağıdaki tabloda, Windows 10 cihaz yapılandırma ilkeleri üzerindeki etkisi özetlenmiştir.
+Aşağıdaki tabloda, cihaz yapılandırma ilkelerinin Windows 10 özetlenmiştir.
 
 |                            | Tam lisanslı deneyim                      | T+60 gün son kullanma sonrası          |
 |----------------------------|------------------------------------------------|------------------------------------|
-| **Windows Defender kullanarak bilgisayarların tehditlere karşı korunmasına yardımcı olur** | Aç/kapat, kullanıcı denetimi dışında | Kullanıcı Windows 10 bilgisayarlarında Windows Defender'ı açabilir/kapatabilir |
-| **Bilgisayarları Microsoft Edge'de web tabanlı tehditlere karşı korumaya yardımcı ol** | Microsoft Edge'de bilgisayar koruması | Kullanıcı Microsoft Edge'de bilgisayar korumasını açabilir/kapatabilir |
+| **Bilgisayarların tehditlere karşı korunmasına yardımcı olmak için Windows Defender** | Aç/kapat, kullanıcı denetimi dışında | Kullanıcı bilgisayar Windows Defender aç/kapat Windows 10 |
+| **Bilgisayarları Microsoft Edge'de web tabanlı tehditlere karşı korumaya yardımcı ol** | Microsoft Edge'de bilgisayar Microsoft Edge | Kullanıcı bilgisayar korumasını kendi etki alanı içinde Microsoft Edge |
 | **Cihaz boşta olduğunda ekran kapatma** | Yönetici ekran zaman aşımı aralığı ilkesi tanımlar | Ekran zaman aşımı son kullanıcı tarafından ya da |
-| **Kullanıcıların Microsoft Store'ndan uygulama indirmesine izin ver** | Yönetici, bir kullanıcının Microsoft Store'dan uygulama indirenip indireye | Kullanıcı Microsoft Store'dan istediğiniz zaman uygulama indirebilir |
-| **Kullanıcıların Cortana'ya erişmesine izin ver** | Yönetici Cortana'ya kullanıcı erişimiyle ilgili ilkeyi tanımlar | Cortana'yı açmak/kapatmak için kullanıcı cihazları |
+| **Kullanıcıların Microsoft Store'ndan uygulama indirmesine izin ver** | Yönetici, kullanıcının uygulamaları dosyadan indir olup Microsoft Store | Kullanıcı e-postadan istediği Microsoft Store indirebilir |
+| **Kullanıcıların Cortana'ya erişmesine izin ver** | Yönetici, kullanıcı erişimiyle ilgili ilkeyi Cortana | E-postayı açmak/kapatmak için Cortana |
 | **Kullanıcıların Microsoft'tan ipucu ve reklam almalarına izin ver** | Yönetici, kullanıcının Microsoft'tan ipuçları ve reklamlar alma ilkesi tanımlar | Kullanıcı Microsoft'tan ipuçları ve reklamlar aç/kapat |
-| **Kullanıcıların Office uygulamalarından kişisel uygulamalara içerik kopyalamasına izin ver** | Yönetici, Windows 10 cihazlarını güncel tutmak için ilkeyi tanımlar | Kullanıcılar Windows'u ne zaman güncelleştirmeleri gerektir |
+| **Kullanıcıların Office uygulamalarından kişisel uygulamalara içerik kopyalamasına izin ver** | Yönetici, cihazları güncel Windows 10 ilkeyi tanımlar | Kullanıcılar güncelleştirme tarihine ne zaman karar Windows |
