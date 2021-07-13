@@ -1,5 +1,5 @@
 ---
-title: Şirket içinde Azure AD'ye katılmış bir cihazdan şirket içi kaynaklara Microsoft 365 İş
+title: Microsoft 365 İş'te Azure AD'ye katılmış bir cihazdan şirket içi kaynaklara erişme
 f1.keywords:
 - NOCSH
 ms.author: efrene
@@ -16,17 +16,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - AdminSurgePortfolio
+- AdminTemplateSet
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: İş uygulamaları, dosya paylaşımları ve yazıcılar gibi şirket içi kaynaklara bir Azure Active Directory bir Windows 10 öğrenin.
-ms.openlocfilehash: 72b3c5ae538cad24fc12e25717dedccb2fdc9017
-ms.sourcegitcommit: 4fb1226d5875bf5b9b29252596855a6562cea9ae
+ms.openlocfilehash: 71d60e0187c917dffb7390afcedf22dc73f44008
+ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/08/2021
-ms.locfileid: "52843332"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53393469"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Şirket içinde Azure AD'ye katılmış bir cihazdan şirket içi kaynaklara Microsoft 365 İş Ekstra
 
@@ -57,7 +58,7 @@ Organizasyon, yukarıda açıklanan Azure AD'ye katılmış cihaz yapılandırma
 
 Azure-AD Windows katıldığınız tüm cihaz daha önce etki alanına katılmış veya bir çalışma grubunda yer alan bir cihazsa, aşağıdaki sınırlamaları göz önünde önünde Windows:
 
-- Bir Azure AD birleştirme cihazı katsıyorsa, var olan profile başvurmak gerekmeden yeni bir kullanıcı oluşturur. Profillerin el ile geçişi gerekir. Kullanıcı profili sık kullanılanlar, yerel dosyalar, tarayıcı ayarları ve Başlat menüsü ayarları gibi bilgileri içerir. Mevcut dosyaları ve ayarları yeni profile eşlemek için bir üçüncü taraf aracı bulmak en iyi yaklaşımdır.
+- Bir Azure AD birleştirme cihazı katsıyorsa, var olan profile başvurmak gerekmeden yeni bir kullanıcı oluşturur. Profillerin el ile geçişi gerekir. Kullanıcı profilinde sık kullanılanlar, yerel dosyalar, tarayıcı ayarları ve sık Başlat menüsü vardır. Mevcut dosyaları ve ayarları yeni profile eşlemek için bir üçüncü taraf aracı bulmak en iyi yaklaşımdır.
 
 - Cihaz Grup İlkesi Nesneleri (GPO) kullanıyorsa, bazı GPOS'ların Intune'da benzer bir Yapılandırma Hizmeti Sağlayıcısı [](/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) (CSP) yok olabilir. Var olan [GPOS'lar](https://www.microsoft.com/download/details.aspx?id=45520) için karşılaştırılabilir CSP'leri bulmak için MMAT aracını çalıştırın.
 
