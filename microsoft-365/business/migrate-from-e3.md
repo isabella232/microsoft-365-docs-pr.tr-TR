@@ -1,5 +1,5 @@
 ---
-title: E3'Microsoft 365 İş E3'Office 365 geçirme
+title: Microsoft 365 İş'Office 365 E3'e geçiş
 f1.keywords:
 - NOCSH
 ms.author: cmcatee
@@ -18,51 +18,52 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - AdminSurgePortfolio
+- AdminTemplateSet
 search.appverid:
 - BCS160
 - MET150
 description: Office 365 E3 aboneliğiniz varsa ancak 300'den fazla çalışan yoksa, Microsoft 365 İş Ekstra.
-ms.openlocfilehash: d139d07c946ff3efed3db3a73eb5e1a4ae66c190
-ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
+ms.openlocfilehash: c1b4da07b3bf28cce1a48424ab45cde6ea54d367
+ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52623615"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53394181"
 ---
-# <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>E3'Office 365 başka bir e-postaya Microsoft 365 İş Ekstra
+# <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Bir başka Office 365 E3'a Microsoft 365 İş Ekstra
 
 Microsoft 365 İş Ekstra, sınıf için en iyi bulut tabanlı üretkenlik uygulamalarını basit cihaz yönetimi ve güvenlikle birleştirerek küçük işletmeniz için gereken her şeye sahip olur. Şu anda bir Office 365 E3 aboneliğiniz varsa ancak 300'den fazla çalışan yoksa, ek güvenlik özellikleri için Microsoft 365 İş Ekstra'e geçmeyi göz önünde bulundurabilirsiniz.
 
 Geçiş yapmak kolaydır: Önce lisansları değiştirersiniz ve geçerli aboneliğinizin tüm verileriyle kullanıcı bilgileri korunur. Geçiş sonrasında, Özellikler'e eklenen özellikleri Microsoft 365 İş Ekstra.
 
-## <a name="differences-between-office-365-e3-and-microsoft-365-business-premium"></a>E3 ile Office 365 arasındaki farklar Microsoft 365 İş Ekstra
+## <a name="differences-between-office-365-e3-and-microsoft-365-business-premium"></a>İki Office 365 E3 arasındaki Microsoft 365 İş Ekstra
 
-Bu tabloda, E3'Microsoft 365 İş Ekstra iki Office 365 gösterir.
+Bu tabloda, iki tablo Microsoft 365 İş Ekstra arasındaki farklar Office 365 E3.
 
-| Özellik    | Destek Microsoft 365 İş Ekstra    | Office 365 E3'te destek |
+| Özellik    | Destek Microsoft 365 İş Ekstra    | Destek Office 365 E3 |
 |:-------|:-----|:-----|
 | **Şirket içi**        | | |
 | Office uygulamaları<sup>1</sup>    | İş için Microsoft 365 Uygulamaları    | Microsoft 365 Kurumsal Uygulamaları |
 | **Bulut üretkenlik uygulamaları**        | | |
 | Exchange Online ve Outlook    | Posta kutusu başına 50 GB depolama sınırı ve sınırsız depolama Exchange Online Arşivleme    | Posta kutusu başına 100 GB depolama sınırı ve sınırsız depolama Exchange Online Arşivleme |
-| Teams    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Office 365 E3'e dahil](../media/check-mark.png) | 
+| Teams    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Bu yeni Office 365 E3](../media/check-mark.png) | 
 | OneDrive İş    | Kullanıcı başına 1 TB depolama sınırı    | Sınırsız | 
-| Yammer, SharePoint Online, Planner, Stream    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Office 365 E3'e dahil](../media/check-mark.png) | 
-| StaffHub    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Office 365 E3'e dahil](../media/check-mark.png) |
+| Yammer, SharePoint Online, Planner, Stream    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Bu yeni Office 365 E3](../media/check-mark.png) | 
+| StaffHub    | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Bu yeni Office 365 E3](../media/check-mark.png) |
 | **Tehdit Koruması**        | | |
 | Office 365 için Defender Plan 1 | ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | Dahil değildir, ancak |
 | **Kimlik yönetimi**        | | |
 | Karma kimlik bilgileri (Azure AD) Azure Active Directory, Azure AD multi-factor authentication (MFA), Koşullu Erişim için self servis parola sıfırlama, şirket içi kimlikler için parola geri yazma|     ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    |  |
 | **Cihaz ve uygulama yönetimi**        | | |
 | Microsoft Intune AutoPilot Windows a|     ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    |  |
-| Paylaşılan bilgisayar etkinleştirmesi|     ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Office 365 E3'e dahil](../media/check-mark.png)| 
+| Paylaşılan bilgisayar etkinleştirmesi|     ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    | ![Bu yeni Office 365 E3](../media/check-mark.png)| 
 | Win 7/8.1 Windows 10 Pro lisanslarından yükseltme Pro hakları|     ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)    ||
 | **Bilgi koruması**        | | |
-|Office 365 Veri Kaybını Önleme|    ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)|![Office 365 E3'e dahil](../media/check-mark.png)|
+|Office 365 Veri Kaybını Önleme|    ![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)|![Bu yeni Office 365 E3](../media/check-mark.png)|
 |Azure Information Protection Plan 1, BitLocker zorlaması|![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)||
 |Azure Information Protection Plan 1, Duyarlılık etiketleri|![Bu yeni Microsoft 365 İş Ekstra](../media/check-mark.png)||
 |**İstemci Erişimi Lisansı (CAL hakları)**|||
-|Enterprise CAL Paketi (Exchange, SharePoint, Skype)||![Office 365 E3'e dahil](../media/check-mark.png)|
+|Enterprise CAL Paketi (Exchange, SharePoint, Skype)||![Bu yeni Office 365 E3](../media/check-mark.png)|
 
 <sup>1</sup> Microsoft 365 İş Ekstra uygulamalarının en iyi sürümü Office Grup İlkesi, uygulama telemetrisi, güncelleştirme denetimleri, elektronik tablo karşılaştırma ve sorgulama veya İş Zekası aracılığıyla toplu etkinleştirmeyi içermemektedir.
 
@@ -71,7 +72,7 @@ Bu tabloda, E3'Microsoft 365 İş Ekstra iki Office 365 gösterir.
 Aboneliğinizi geçirmek için, [yalnızca birkaç kişiyi](../commerce/subscriptions/change-plans-manually.md) taşımak istediğiniz yönergeler için bkz. El ile Microsoft 365 İş Ekstra. Ayrıca, E3 [aboneliğinizi ve](../commerce/subscriptions/upgrade-to-different-plan.md)lisanslarınızı yeni bir aboneliğe taşımak için herkesi otomatik olarak yükseltebilirsiniz veya bir Microsoft 365 İş Ekstra çalışabilirsiniz.
 Aşağıdaki bölümlerde, varsa yapmak için ihtiyacınız olan değişiklikler ve geçiş sonrasında neler yapabilirsiniz açıklanmaktadır.
 
-### <a name="office-365-e3-subscription-configuration-and-data"></a>Office 365 E3 abonelik yapılandırması ve verileri
+### <a name="office-365-e3-subscription-configuration-and-data"></a>Office 365 E3 yapılandırmasını ve verilerini yapılandırma
 Şu gibi değişikliklerden önce geçerli aboneliğiniz veya verilerinizde değişiklik yapmak zorunda değilsiniz:
 
 - Dns kayıtları ve etki alanı adları gibi abonelik yapılandırması.
@@ -86,7 +87,7 @@ Windows Creator güncelleştirmesi'Windows Pro bunları Windows Pro [Creators Up
 ### <a name="set-up-policies-to-protect-user-devices-and-files"></a>Kullanıcı cihazlarını ve dosyalarını korumak için ilkeler ayarlama
 
 > [!NOTE]
-> Farklı MDM Office 365 cihazları ayarladısanız, bu cihazlar Yönetim Merkezi'nin **Cihazlar** Microsoft 365 listelenir. Ayar her ilke [Intune portalında](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview)klasik ilkeler listesinde görünür.
+> Farklı MDM Office 365 cihazları ayarladısanız, bu cihazlar mobil cihaz **sayfasındaki** Cihazlar Microsoft 365 yönetim merkezi. Ayar her ilke [Intune portalında](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview)klasik ilkeler listesinde görünür.
 
 Microsoft 365 İş Ekstra'a lisans atadikten sonra, kullanıcıların cihazlarını ve dosyalarını korumaya başlayabilirsiniz.
 
