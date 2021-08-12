@@ -26,19 +26,19 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: cbc6bfe5-565a-4fb8-95f0-b06e7b74ac46
-description: Kullanıcılarının Office uygulamaları Windows 10 yönetim merkezinden Office bilgisayarınıza Windows 10 kolayca yüklemelerini Microsoft 365.
-ms.openlocfilehash: 74c17533995b74655be57524b77d9c508f703c50
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+description: Kullanıcılarının Office uygulamalarını Windows 10 mobil cihazlara yüklemelerini ve Office bilgisayarlarını Windows 10 bilgisayarınıza kolayca yüklemelerini Microsoft 365 yönetim merkezi.
+ms.openlocfilehash: bfd0d9baba177bd68b4d3174eba7c5ffb3a38aa8c690c7b8314e5b298bdbdfc1
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53821025"
 ---
 # <a name="help-your-users-install-office-on-windows-10-devices"></a>Kullanıcılarının cihaza Office yükleme Windows 10 yardımcı olun
 
 [![Yönetim merkezinin değiştiğini size bildirmeye yarayan etiket ve daha fazla ayrıntıyı aka.ms/aboutM365preview sayfasında bulabilirsiniz.](../media/m365admincenterchanging.png)](/office365/admin/microsoft-365-admin-center-preview)
 
-Microsoft 365 yönetim merkezinden Office bilgisayarınıza Windows 10 ve Microsoft 365 yükleyebilirsiniz.
+E-Office bilgisayarınıza Office Windows 10 ve kolayca yükleyebilir Microsoft 365 yönetim merkezi siniz.
   
 Daha önce yüklenmiş Office uygulamaları olduğunda bu işlemin nasıl çalıştığını anlamak için, başlamadan önce [Office istemci yüklemesi hazırlığı](prepare-for-office-client-deployment.md) konusunu okuyun.
 
