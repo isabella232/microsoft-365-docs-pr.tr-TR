@@ -1,5 +1,5 @@
 ---
-title: Kullanıcıların Microsoft 365 İş Ekstra'ya bağlanmasına yardımcı olur
+title: Kullanıcıların diğer kullanıcılara bağlanmalarını Microsoft 365 İş Ekstra
 f1.keywords:
 - NOCSH
 ms.author: efrene
@@ -27,22 +27,22 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: f338e660-6483-4eef-acb9-53dee5bd4408
-description: Business Cloud Suite kurulumu tamamlandıktan ve varsayılan cihaz ilkeleriniz hazır olduktan ve başvurmaya hazır olduktan sonra neler beklemeniz gerekeceği hakkında bilgi edinebilirsiniz.
-ms.openlocfilehash: d3e47247197f2688388ed50057b16fde53e7e830
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Business Cloud Suite kurulumu tamamlandıktan ve varsayılan cihaz ilkeleriniz uygulanır ve uygulanabilirlik hazır olduğunda neler beklemeniz olduğunu öğrenin.
+ms.openlocfilehash: 62e5654deb3807a7a436fb2c4587c2e2614feb3e9812f6ecb269eed1cab7bfbb
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578457"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53856565"
 ---
-# <a name="help-users-connect-to-microsoft-365-business-premium"></a>Kullanıcıların Microsoft 365 İş Ekstra'ya bağlanmasına yardımcı olur
+# <a name="help-users-connect-to-microsoft-365-business-premium"></a>Kullanıcıların diğer kullanıcılara bağlanmalarını Microsoft 365 İş Ekstra
 
-Kurulumu tamamlandıktan sonra, varsayılan cihaz ilkeleriniz uygulanır ve uygulanabilir. Mobil cihazlarda kullanıcılar Office uygulamalarını indirir. Bundan sonra, kullanıcı iş veya okul hesabıyla oturum a oturum aken ilkeler uygulanır. İlkeler Windows PC'lerde uygulanmadan önce, yerinde yükseltme gibi yapılması gereken birkaç şey daha vardır. Kullanıcıların ayarlamalarına ve bağlanmalarına yardımcı olmak için aşağıdaki konulara bakın ve paylaşın:
+Kurulumu tamamlandıktan sonra, varsayılan cihaz ilkeleriniz uygulanır ve uygulanabilir. Kullanıcılar mobil cihazlarda tüm uygulamaları Office indirir. Ardından, kullanıcı iş veya okul hesabıyla oturum a açınca ilkeler uygulanır. İlkeler Windows PC'lerde uygulanmadan önce, yerinde yükseltme gibi yapılması gereken birkaç şey daha vardır. Kullanıcıların ayarlamalarına ve bağlanmalarına yardımcı olmak için aşağıdaki konulara bakın ve paylaşın:
   
-[Microsoft 365 İş Ekstra kullanıcıları için Windows cihazlarını ayarlama](set-up-windows-devices.md)
+[Mobil Windows cihazları Microsoft 365 İş Ekstra ayarlama](set-up-windows-devices.md)
   
 [AutoPilot cihaz ve profili eklemek için adım adım kılavuzu kullanma](add-autopilot-devices-and-profile.md)
   
-[Microsoft 365 İş Ekstra kullanıcıları için mobil cihazları ayarlama](set-up-mobile-devices.md)
+[Mobil cihazları mobil Microsoft 365 İş Ekstra ayarlama](set-up-mobile-devices.md)
   
 
