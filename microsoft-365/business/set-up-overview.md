@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Abone Microsoft 365 İş Ekstra, etki alanı ve kullanıcı eklemeye, güvenlik ilkelerini ayarlamaya ve daha fazlası için kurulum adımlarını öğrenin.
-ms.openlocfilehash: 008a5c51698589667acc0d01649f67dab33b4c58
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 7c09dca354781bf92f6bbecca0f3fb9875fb654515fe35c2f96cc780a894a764
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245074"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53803232"
 ---
 # <a name="overview-of-setup"></a>Kuruluma genel bakış
 
@@ -89,7 +89,7 @@ bir Windows 10 Azure AD'ye katılsanız, bu cihaza Windows 10 ilkeler uygulanır
 
 - **Şirket içi access kaynakları**
 
-     - Kuruluşta Windows Server Active Directory şirket içi kullanıyorsa, Microsoft 365 İş Ekstra cihazlarınızı korumak için Windows 10'i kurabilirsiniz ve bu sırada yerel kimlik doğrulaması gerektiren şirket içi kaynaklara erişimi de koruyabilirsiniz. Bu özelliği ayarlamak [için Etki alanına katılmış Windows 10 cihazlarını bu cihazlar](manage-windows-devices.md) tarafından Microsoft 365 İş Ekstra adımlarını izleyin. Bu tercih edilen yöntemdir ve bu durumdaki cihazlar Karma Azure AD'ye katılmış cihazlar olarak adlandırılan cihazlar.
+     - Kuruluşta şirket Windows Server Active Directory kullanıyorsa, Microsoft 365 İş Ekstra cihazlarınızı korumak için Windows 10 ve yerel kimlik doğrulaması gerektiren şirket içi kaynaklara erişimi korumaya devam etmek için Windows 10'i kurabilirsiniz. Bu özelliği ayarlamak [için Etki alanına katılmış Windows 10 cihazlarını bu cihazlar](manage-windows-devices.md) tarafından Microsoft 365 İş Ekstra adımlarını izleyin. Bu tercih edilen yöntemdir ve bu durumdaki cihazlar Karma Azure AD'ye katılmış cihazlar olarak adlandırılan cihazlar.
 
     - İşletmenizin bazı şirket içi kaynakları (dosya paylaşımları ve yazıcılar gibi) içeren yerel bir Active Directory'niz varsa, Azure AD'ye katılmış cihazlarınıza şu adımları takip edin: [Microsoft 365 İş Ekstra'te Azure AD'ye](access-resources.md)katılmış bir cihazdan şirket içi kaynaklara erişme .
 
