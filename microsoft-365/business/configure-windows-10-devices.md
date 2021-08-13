@@ -27,17 +27,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: da60e08e-2547-491a-9c97-94ac6d715623
-description: Windows 10 için cihaz ilkelerini yapılandırma hakkında bilgi edinmek ve güvenli bir şekilde bağlantı kuracaklarını garanti etmek için, kuruluşta tüm kullanıcılara uygun olan ilkeler hakkında bilgi edinebilirsiniz.
-ms.openlocfilehash: c7d27b903734f9348471bb7765b88650caeed9d5
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Güvenli bir şekilde bağlanmalarını sağlamak Windows 10 tüm kullanıcılar için geçerli olan kullanıcılar için cihaz ilkelerini yapılandırmayı öğrenin.
+ms.openlocfilehash: 42ebfe2784ff42302daa778f1851e528e5aa28ff1c03f1a8cf5ff66b1afdfa4e
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580284"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53809454"
 ---
 # <a name="configure-windows-10-devices"></a>Windows 10 cihazlarını yapılandırma
 
-Kurulum sırasında, Windows 10 için, kuruluşta yer alan tüm kullanıcılar için geçerli olan bir cihaz ilkesi oluşturabilirsiniz. Bir kullanıcı Windows 10 cihazında iş veya okul hesabıyla bir Office uygulamasında oturum açsa, kullanıcının güvenli bir şekilde bağlana olduğundan emin olmak için yapılandırılan ayarlar otomatik olarak uygulanır.
+Kurulum sırasında, e-postayı oluşturmak Windows 10 tüm kullanıcılar için geçerli olan bir cihaz ilkesi oluşturabilirsiniz. Bir kullanıcı kendi Office uygulaması cihazında iş veya okul hesabıyla Windows 10 oturum açınca, kullanıcının güvenli bir şekilde bağlana olduğundan emin olmak için sizin yapılandırılan ayarlar otomatik olarak uygulanır.
   
 Kurulum sırasında varsayılan yapılandırmayı kabul etmenizi öneririz. Kurulumdan sonra daha fazla ilke oluşturabilir ve bunları belirli kullanıcı gruplarına hedefleyebilirsiniz.
   

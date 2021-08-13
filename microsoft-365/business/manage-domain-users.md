@@ -1,5 +1,5 @@
 ---
-title: Etki alanı kullanıcılarını Microsoft 365'e eşitleme
+title: Etki alanı kullanıcılarını eşitlemek Microsoft 365
 f1.keywords:
 - NOCSH
 ms.author: efrene
@@ -22,48 +22,48 @@ search.appverid:
 - BCS160
 - MET150
 - MOE150
-description: Etki alanı denetimli kullanıcıları Microsoft 365 İş ile eşitler.
-ms.openlocfilehash: b477b8a1f35a790d6c49937c973c141ad9f90ad4
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Etki alanı denetimli kullanıcıları iş için Microsoft 365 eşitleme.
+ms.openlocfilehash: 468fa943df55b12573f0a4f595294e39a146b1850f3c430ac2088a30991c0e60
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578417"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53809322"
 ---
-# <a name="synchronize-domain-users-to-microsoft-365"></a>Etki alanı kullanıcılarını Microsoft 365'e eşitleme
+# <a name="synchronize-domain-users-to-microsoft-365"></a>Etki alanı kullanıcılarını eşitlemek Microsoft 365
 
-## <a name="1-prepare-for-directory-synchronization"></a>1. Dizin Eşitlemesi için Hazırlanma 
+## <a name="1-prepare-for-directory-synchronization"></a>1. Dizin Eşitlemesi'ne Hazırlanma 
 
-Kullanıcılarınızı ve bilgisayarlarınızı yerel Active Directory Etki Alanı'nden eşitlemeden [önce, Microsoft 365'e dizin eşitlemesi için hazırlanma'ya bakabilirsiniz.](../enterprise/prepare-for-directory-synchronization.md) Özellikle:
+Kullanıcılarınızı ve bilgisayarlarınızı yerel Active Directory Etki [](../enterprise/prepare-for-directory-synchronization.md)Alanı'Microsoft 365. Özellikle:
 
-   - Dizinde şu öznitelikler için hiçbir yinelemenin var olmadığını emin olun: **posta,** **proxyAddresses** ve **userPrincipalName**. Bu değerler benzersiz olmalı ve yinelenenler kaldırılmalıdır.
+   - Dizinde şu öznitelikler için yinelenen değerler **(mail,** **proxyAddresses** ve **userPrincipalName)** olduğundan emin olun. Bu değerlerin benzersiz olması ve tüm yinelenenlerin kaldırılması gerekir.
    
-   - Her yerel kullanıcı hesabı için **userPrincipalName** (UPN) özniteliğini lisanslı Microsoft 365 kullanıcıya karşılık gelen birincil e-posta adresiyle eş olacak şekilde yapılandırmanızı öneririz. Örneğin:  *mary.shelley@contoso.com.local yerine mary@contoso.*
+   - Her yerel kullanıcı hesabı için **userPrincipalName** (UPN) özniteliğini, lisanslı kullanıcıya karşılık gelen birincil e-posta adresiyle eşecek şekilde Microsoft 365 öneririz. Örneğin:  *mary.shelley@contoso.com.local yerine mary@contoso.*
    
-   - Active Directory etki alanı *.com* veya *.org* gibi İnternet'e yönlendirilebilir bir sonek yerine *.local* veya *.lan* gibi yönlendirilebilir olmayan bir sonekle bitiyorsa, önce dizin eşitlemesi için yönlendirilebilir olmayan bir etki alanını hazırlama konusunda açıklandığı gibi yerel kullanıcı hesaplarının UPN soneki [ayarlayın.](../enterprise/prepare-a-non-routable-domain-for-directory-synchronization.md) 
+   - Active Directory etki alanı *.com* veya *.org* gibi İnternet'e yönlendirilebilir bir sonek yerine *.local* veya *.lan* gibi yönlendirilebilir olmayan bir sonek ile bitiyorsa, öncelikle Dizin eşitlemesi için yönlendirilebilir olmayan bir etki alanını hazırlama konusunda açıklandığı gibi yerel kullanıcı hesaplarının UPN soneki [ayarlayın.](../enterprise/prepare-a-non-routable-domain-for-directory-synchronization.md) 
 
-Aşağıdaki dördüncü adımda (4) **IdFix** Çalıştır, şirket içi Active Directory'nizin dizin eşitlemesi için hazır olduğundan da emin olur.
+Aşağıdaki dört. adımda (4) **IdFix'i** çalıştır, şirket içi Active Directory'nizin dizin eşitlemeye hazır olduğundan da emin olur.
 
-## <a name="2-install-and-configure-azure-ad-connect"></a>2. Azure AD Connect'i yükleme ve yapılandırma
+## <a name="2-install-and-configure-azure-ad-connect"></a>2. Azure AD E-postalarını yükleme ve Bağlan
 
-Kullanıcılarınızı, gruplarınızı ve kişilerinizi yerel Active Directory'den Azure Active Directory'ye eşitlemek için, Azure Active Directory Connect'i yükleyin ve dizin eşitlemesini ayarlayın. 
+Kullanıcılarınızı, gruplarınızı ve kişilerinizi yerel Active Directory'den başka bir Azure Active Directory eşitlemek için Azure Active Directory Bağlan eşitlemesini yükleyin ve ayarlayın. 
 
- 1. Yönetim [merkezinde, sol](https://go.microsoft.com/fwlink/p/?linkid=2024339) **gezintide** Kurulum'u seçin.
+ 1. Yönetim [merkezinde, sol](https://go.microsoft.com/fwlink/p/?linkid=2024339) **gezintiden** Kurulum'u seçin.
 
- 2. Oturum **açma ve güvenlik altında, oturum** açma **kullanıcılarınızı** **eşitle'nin altında Görüntüle'yi seçin.**
+ 2. Oturum **açma ve güvenlik altında,** Kullanıcıların kuruluş **dizininden** **eşitle'nin altında Görüntüle'yi seçin.**
 
- 3. Kuruluş dizin **sayfasından Kullanıcıları eşitle'yi** **seçin.**
+ 3. Kuruluş **dizinden kullanıcıları eşitle sayfasında,** **Başla'ya tıklayın.**
 
- 4. Dizin eşitlemeye hazırlanmak için ilk adımda IdFix aracını çalıştırın.
+ 4. İlk adımda, IdFix aracını çalıştırarak Dizin eşitlemeye hazırlanmak için.
 
- 5. Azure AD Connect'i indirmek ve etki alanı denetimli kullanıcılarınızı Microsoft 365'e eşitlemek için sihirbaz adımlarını izleyin.
+ 5. Azure AD E-posta aboneliğini indirmek Bağlan sihirbaz adımlarını izleyin ve bu adımları kullanarak etki alanı denetimli kullanıcılarınızı eşitlemek Microsoft 365.
 
 
-Daha [fazla bilgi edinmek için Bkz. Microsoft 365 için dizin](../enterprise/set-up-directory-synchronization.md) eşitlemesini ayarlama.
+Daha [fazla bilgi edinmek için bkz. Microsoft 365](../enterprise/set-up-directory-synchronization.md) eşitlemeyi ayarlama.
 
-Azure AD Connect'e yönelik seçeneklerinizi yapılandırarak, Parola Eşitlemeyi, Sorunsuz Çoklu  Oturum Açma özelliğini ve ayrıca Microsoft 365 İş'te de desteklenen parola geri yazma özelliğini etkinleştirmenizi öneririz.
+Azure AD Bağlan için seçeneklerinizi yapılandırken, Parola Eşitlemesi **,** Sorunsuz Çoklu Oturum Açma  ve aynı zamanda işletmeler için Microsoft 365'de de desteklenen parola geri yazma özelliğini etkinleştirmenizi öneririz. 
 
 > [!NOTE]
-> Azure AD Connect'te parola geri yazma için bazı ek adımlar vardır. Daha fazla bilgi için bkz. [Nasıl yapılandırılır: parola geri yazma.](/azure/active-directory/authentication/howto-sspr-writeback) 
+> Azure AD'de parola geri yazma adımları, Azure AD'de onay kutusunun Bağlan. Daha fazla bilgi için [bkz. Nasıl yapılandırılır: parola geri yazma.](/azure/active-directory/authentication/howto-sspr-writeback) 
 
-Etki alanına katılmış Windows 10 cihazlarını da yönetmek için bkz. Etki alanına katılmış [Windows 10 cihazlarını Microsoft 365 Business Premium](manage-windows-devices.md) tarafından yönetecek şekilde etkinleştirme ve karma Azure AD Join ayarlama.
+Etki alanına katılmış cihazları da Windows 10, karma bir Azure AD Join ayarlamak için bkz. Etki alanına katılmış [Windows 10](manage-windows-devices.md) cihazlarının Microsoft 365 İş Ekstra tarafından yönetillerini etkinleştirme.

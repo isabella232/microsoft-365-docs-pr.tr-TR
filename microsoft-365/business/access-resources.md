@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: İş uygulamaları, dosya paylaşımları ve yazıcılar gibi şirket içi kaynaklara bir Azure Active Directory bir Windows 10 öğrenin.
-ms.openlocfilehash: 71d60e0187c917dffb7390afcedf22dc73f44008
-ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
+ms.openlocfilehash: 49d7150adb8bcb0dd611e7dce10ee92d3de1755dbe8662e454c9afcca2055e69
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53393469"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53809483"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Şirket içinde Azure AD'ye katılmış bir cihazdan şirket içi kaynaklara Microsoft 365 İş Ekstra
 
