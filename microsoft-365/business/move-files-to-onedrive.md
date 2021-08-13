@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
 description: Yalnızca birkaç kolay adımda kişisel iş dosyalarınızı ve hassas şirket dosyalarınızı OneDrive İş başka bir yere taşımayı öğrenin.
-ms.openlocfilehash: 6def1c733093417162ca37906c1d55c0eab23e7d
-ms.sourcegitcommit: 0d1b065c94125b495e9886200f7918de3bda40b3
+ms.openlocfilehash: db66c65913bae3c3590a9d5b9bfba186a14ea01bc171aa82164c840e02fd4ed8
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "53339320"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53856453"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>Dosyaları OneDrive İş'e taşıma
 
