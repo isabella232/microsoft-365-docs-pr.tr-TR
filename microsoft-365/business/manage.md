@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 İş'i yönetme
+title: İşletmeler Microsoft 365 yönetme
 f1.keywords:
 - NOCSH
 ms.author: efrene
@@ -21,53 +21,53 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
-description: İşletmeler için Microsoft 365 yönetici görevlerini, mobil cihazları, Windows 10 bilgisayarlarını ve bu tür birçok görevi yönetmeyi öğrenin.
-ms.openlocfilehash: 0ad2326bdcc785c0d8d1a52dee74187cdc1668e7
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: İşletmeyle ilgili Microsoft 365 görevleri, mobil cihazları, bilgisayarlarını ve bu Windows 10 görevleri yönetmeyi öğrenin.
+ms.openlocfilehash: 984554cbed0d8b29b8df82eb21e2fcaa9b9d4476fef6f22a37d253d92888d9cc
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578377"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53893177"
 ---
-# <a name="manage-microsoft-365-for-business"></a>Microsoft 365 İş'i yönetme
+# <a name="manage-microsoft-365-for-business"></a>İşletmeler Microsoft 365 yönetme
 
-## <a name="general-microsoft-365-for-business-admin-tasks"></a>Genel Microsoft 365 İş yönetici görevleri
+## <a name="general-microsoft-365-for-business-admin-tasks"></a>genel Microsoft 365 yönetici görevleri için
 
-Office 365 [yönetici](/office365/admin/admin-home) içeriğinin çoğu, Microsoft 365 İş için de geçerlidir.
+İş için yönetici [içeriğinin](/office365/admin/admin-home) Office 365, işletmeler için Microsoft 365 geçerlidir.
 
 - [Microsoft 365 İş'e daha fazla kullanıcı ekleme](../admin/add-users/add-users.md)
     
 - [İlkeleri ve cihazları görüntüleme](view-policies-and-devices.md)
     
-- [İş için Microsoft 365 güvenlik özellikleri](security-features.md)
+- [Microsoft 365 güvenliği özellikleri için özellik](security-features.md)
     
-- [Microsoft 365 İş'te koruma özellikleri Intune ayarlarıyla nasıl eşler](map-protection-features-to-intune-settings.md)
+- [Microsoft 365 Kurumsal'da koruma özellikleri Intune ayarlarıyla nasıl eş gösterilir?](map-protection-features-to-intune-settings.md)
     
-İşletmeler için Microsoft 365'i kullanarak, pc ve mobil cihazlardaki verilerinizi korumak için aşağıdaki bölümlere bakın.
+Kurumsal cihazlar ve PC'lerde Microsoft 365 verilerini korumak için İşletmeler için E-ticaret'i kullanma hakkında aşağıdaki bölümlere bakın.
   
 ## <a name="manage-mobile-devices"></a>Mobil cihazları yönetme
 
-- [Microsoft 365 kurumsal kullanıcıları için mobil cihazları ayarlama](set-up-mobile-devices.md)
+- [Kurumsal kullanıcılar için mobil Microsoft 365 cihazları ayarlama](set-up-mobile-devices.md)
     
 - [Android veya iOS cihazlara yönelik uygulama koruma ayarlarını belirleme](app-protection-settings-for-android-and-ios.md)
     
-    Bunun işe yaray olduğundan emin olmak için Bkz. Android veya [iOS cihazında uygulama koruma ayarlarını doğrulama.](validate-settings-on-android-or-ios.md) 
+    Bunun işe yaray olduğundan emin olmak için bkz. [Android veya iOS cihazında uygulama koruma ayarlarını doğrulama](validate-settings-on-android-or-ios.md). 
     
 - [Cihazlardan şirket verilerini kaldırma](remove-company-data.md)
     
 ## <a name="manage-windows-10-pcs"></a>Windows 10 PC'leri yönetme
 
-- [Microsoft 365 kurumsal kullanıcıları için Windows cihazlarını ayarlama](set-up-windows-devices.md)
+- [Kurumsal Windows cihazları Microsoft 365 cihazları ayarlama](set-up-windows-devices.md)
 
-    [Office'i otomatik olarak yüklemeden önce Microsoft 365 İş](prepare-for-office-client-deployment.md) tarafından Office istemci dağıtımı için hazırlanma makalesini okuyun. 
+    Otomatik [yüklemeden Office önce işletmeler için Microsoft 365 istemci dağıtımına](prepare-for-office-client-deployment.md) hazırlanma makalesini Office. 
     
 - [Windows 10 cihazlara yönelik cihaz koruma ayarlarını belirleme](protection-settings-for-windows-10-pcs.md)
     
-    Bunun işe yaray olduğundan emin olmak için Bkz. [Windows 10](validate-settings-on-windows-10-pcs.md)cihazlarında cihaz koruma ayarlarını doğrulama. 
+    Bunun işe yaray olduğundan emin olmak için [bkz. Cihaz koruma ayarlarını Windows 10 .](validate-settings-on-windows-10-pcs.md) 
     
 - [Windows 10 cihazlarına yönelik uygulama koruma ayarlarını belirleme](protection-settings-for-windows-10-devices.md)
     
-    Bunun işe yaray olduğundan emin olmak için Bkz. [Windows 10 pc'lerde uygulama koruma ayarlarını doğrulama.](validate-protection-settings-on-windows-10-pcs.md) 
+    Bunun işe yaray olduğundan emin olmak için [bkz.](validate-protection-settings-on-windows-10-pcs.md)Bilgisayarlarda uygulama koruma Windows 10 doğrulama . 
     
 - [Cihazlardan şirket verilerini kaldırma](remove-company-data.md)
     
@@ -75,7 +75,7 @@ Office 365 [yönetici](/office365/admin/admin-home) içeriğinin çoğu, Microso
     
 ### <a name="use-autopilot-to-deploy-windows-10-devices"></a>Windows 10 cihazlarını dağıtmak için AutoPilot'u kullanma
 
-Aşağıdaki konu başlıkları, Windows 10 cihazlarını önceden yapılandırmak üzere Microsoft 365 İş'te Windows AutoPilot'u nasıl kullanabileceğinizi açıklar.
+Aşağıdaki konu başlıkları, Windows cihazlarını önceden yapılandırmak için Microsoft 365 Microsoft 365 AutoPilot'Windows 10 açıklar.
   
 - [AutoPilot cihaz ve profili eklemek için adım adım kılavuzu kullanma](add-autopilot-devices-and-profile.md)
     
@@ -91,12 +91,12 @@ Aşağıdaki konu başlıkları, Windows 10 cihazlarını önceden yapılandırm
     
 ## <a name="set-up-and-prerequisite-information"></a>Ayarlama ve önkoşul bilgileri
 
-- [Microsoft 365 İş ile cihazlardaki verileri korumak için önkoşullar](pre-requisites-for-data-protection.md)
+- [Cihazlardaki verileri iş için Microsoft 365 korumak için önkoşullar](pre-requisites-for-data-protection.md)
     
-- [Kurulum sihirbazını kullanarak Microsoft 365 İş'i ayarlama](set-up.md)
+- [Kurulum Microsoft 365 kullanarak iş için kurulum sihirbazını ayarlama](set-up.md)
     
 - [Microsoft 365 İş'e geçiş](migrate-to-microsoft-365-business.md)
     
-- [Etki alanına katılmış Windows 10 cihazlarını Microsoft 365 İş tarafından yönetillerini etkinleştirme](manage-windows-devices.md)
+- [Etki alanına katılmış Windows 10 cihazlarını kurumsal cihazlar tarafından yönetil Microsoft 365 etkinleştirme](manage-windows-devices.md)
     
 - [Ek güvenlik özellikleri](security-features.md#additional-security-features)
