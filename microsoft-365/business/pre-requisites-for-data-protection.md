@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
 description: İşletmeler için mobil cihazlarında iş için Microsoft 365 ve iş verilerini koruma gereksinimleri hakkında bilgi edinebilirsiniz.
-ms.openlocfilehash: 2aadac94492af90d8b6eec7c48aeceb9a4e62533
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: a926eb02cfcf968d3bd00fa29e68a2a56504d3597b7e78313af99af582a20b58
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244826"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53873105"
 ---
 # <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-for-business"></a>Cihazlardaki verileri iş için Microsoft 365 korumak için önkoşullar
 
