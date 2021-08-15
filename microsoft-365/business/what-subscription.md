@@ -1,5 +1,5 @@
 ---
-title: İşletmeniz için hangi abonelik uygun?
+title: İşletmeniz için hangi abonelik en uygun?
 f1.keywords:
 - NOCSH
 ms.author: sharik
@@ -18,14 +18,14 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Office 365 E3, Microsoft 365 İş Standard veya Microsoft 365 İş Ekstra'nın işletmeniz için uygun olup olmadığını belirler.
-ms.openlocfilehash: 2f8c59e0af619730060862fc8ee24a702ca00343
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: İş Office 365 E3, Microsoft 365 İş Standart veya Microsoft 365 İş Ekstra doğru olup olmadığını belirler.
+ms.openlocfilehash: f186e61bff7962911864904415d1a4326931db819abf4f885a87132fd23290f4
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51579832"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53861569"
 ---
 # <a name="what-subscription-is-right-for-your-small-business"></a>Küçük işletmeniz için hangi abonelik uygun?
 
-Microsoft, küçük işletmeler için çeşitli planlar sunar. Önerilen abonelikler Microsoft 365 İş Standard veya En fazla 300 kullanıcılı Microsoft 365 İş Ekstra'dır. Microsoft 365 İş Ekstra, ek maliyet için Microsoft 365 İş Standard'dan daha fazla güvenlik özelliği sunar.
+Microsoft küçük işletmeler için çeşitli planlar sunar. Önerilen abonelikler, en Microsoft 365 İş Standart 300 Microsoft 365 İş Ekstra kadar aboneliktir. Microsoft 365 İş Ekstra, ek maliyet için Microsoft 365 İş Standart fazla güvenlik özelliği sunar.

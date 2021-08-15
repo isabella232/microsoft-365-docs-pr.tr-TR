@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Microsoft Defender'ı güvenlik için Office 365 kimlik avına, kötü amaçlı yazılıma ve diğer tehditlere karşı hassas verileri korur.
-ms.openlocfilehash: a995063cef6fdc42ad62079d49d58edc9d07b52c
-ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
+ms.openlocfilehash: d5aad66642fc2b509ae40dc1277167deb53de6fbb0593a3dcd766062305fbd6a
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52924329"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53831485"
 ---
 # <a name="increase-threat-protection"></a>Tehdit korumasını artırma
 
