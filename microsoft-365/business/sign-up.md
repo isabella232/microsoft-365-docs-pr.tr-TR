@@ -26,12 +26,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Bu Microsoft 365 İş Ekstra neler olduğunu öğrenin ve bu oturuma kaydolma konusunda adım adım Microsoft 365 İş Ekstra.
-ms.openlocfilehash: 18f4cea19225f053bef6ac8838275755b8a1f7ab
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 5a294f85aff688f247e918c82f22e6b445219e130878a472399a42cd2cd3e49d
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53837565"
 ---
 # <a name="sign-up-for-microsoft-365-business-premium"></a>Oturum açma için Microsoft 365 İş Ekstra
 
