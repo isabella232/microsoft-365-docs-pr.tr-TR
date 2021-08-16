@@ -30,12 +30,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Etki alanı ve kullanıcı ekleme Microsoft 365 İş Ekstra, güvenlik ilkelerini ayarlama ve daha fazlası için kurulum adımlarını keşfedin.
-ms.openlocfilehash: 74a98e915577cf86ec32a706bd3b8f558f49db95
-ms.sourcegitcommit: 48195345b21b409b175d68acdc25d9f2fc4fc5f1
+ms.openlocfilehash: 8158e911a8520c07cf5f85fea8b64d65820d603d7f9f49938849ff2df6fc45ed
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53227649"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53882019"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Kurulum Microsoft 365 İş Ekstra ayarları
 

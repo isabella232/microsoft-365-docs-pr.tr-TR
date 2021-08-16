@@ -29,31 +29,31 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 99bfbf81-e719-4630-9b0f-c187edfa1f8a
-description: AutoPilot profilleri, Windows'un kullanıcı cihazlarına nasıl yük olduğunu denetlemeye yardımcı olur. Profiller, Cortana yüklemesini atlama gibi varsayılan ve isteğe bağlı ayarlar içerir.
-ms.openlocfilehash: 86f8718131f0a0b93e18e65e39e02e7d65aded1a
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: AutoPilot profilleri, kullanıcı cihazlarına Windows ayarları denetlemeye yardımcı olur. Profiller, yükleme işlemini atlama gibi varsayılan ve Cortana içerir.
+ms.openlocfilehash: 67ad6e92583d71207e2807657a7ad00261e1249291e2e6a7546f544ea924b394
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578517"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53896333"
 ---
 # <a name="about-autopilot-profile-settings"></a>AutoPilot Profili ayarları hakkında
 
 ## <a name="autopilot-profile-settings"></a>AutoPilot profil ayarları
 
-Kullanıcı cihazlarına Windows'un nasıl yük olduğunu kontrol etmek için AutoPilot profillerini kullanabilirsiniz. Profiller aşağıdaki ayarları içerir.
+AutoPilot profillerini kullanarak, kullanıcı cihazlarına Windows postanın nasıl yük olduğunu kontrol edin. Profiller aşağıdaki ayarları içerir.
   
  **Otomatik olarak ayarlanmış AutoPilot varsayılan özellikleri (gerekli):**
   
 |**Ayar**|**Açıklama**|
 |:-----|:-----|
-|Cortana, OneDrive ve OEM kaydını atlama  <br/> |Cortana ve kişisel OneDrive gibi tüketici uygulamalarının yüklemesini atlar. Kullanıcı cihazda yerel yönetici olduğu sürece cihaz kullanıcısı bunları daha sonra yükleyebilir. Cihaz Microsoft 365 İş Ekstra tarafından yönetilecek olduğundan orijinal üretici kaydı atlanır.  <br/> |
-|Şirket markanız ile oturum açma deneyimi  <br/> |Şirketinizin Microsoft [365](../admin/setup/customize-sign-in-page.md)Oturum Açma sayfasına şirket markası eklemesi varsa, cihaz kullanıcısı oturum aken bu deneyimi edinecektir.  <br/> |
-|Yapılandırılmış AAD hesaplarıyla MDM otomatik kaydı.  <br/> |Kullanıcı kimliği Azure Active Directory tarafından yönetiliyor ve kullanıcılar Windows ve Microsoft 365'te Microsoft 365 İş Ekstra kimlik bilgileriyle oturum aecek.  <br/> |
+|Kayıt Cortana, OneDrive OEM kaydı atla  <br/> |Kişisel ve kişisel müşteri uygulamaları gibi tüketici Cortana yüklemesini OneDrive. Kullanıcı cihazda yerel yönetici olduğu sürece cihaz kullanıcısı bunları daha sonra yükleyebilir. Orijinal üretici kaydı atlanır çünkü cihaz diğer üretici tarafından Microsoft 365 İş Ekstra.  <br/> |
+|Şirket markanız ile oturum açma deneyimi  <br/> |If your company has a [Add your company branding to Microsoft 365 Sign In page](../admin/setup/customize-sign-in-page.md), the device user will get that experience when signing in.  <br/> |
+|Yapılandırılmış AAD hesaplarıyla MDM otomatik kaydı.  <br/> |Kullanıcı kimliği E-posta Azure Active Directory tarafından yönetilir ve kullanıcılar kendi kimlik Windows ile Microsoft 365 oturum Microsoft 365 İş Ekstra.  <br/> |
    
  **İsteğe bağlı ayarlar:**
   
 |**Ayar**|**Açıklama**|
 |:-----|:-----|
-|Gizlilik ayarlarını atla (Varsayılan olarak kapalı)  <br/> |Bu seçenek Açık olarak **ayarlanırsa,** cihaz kullanıcısı ilk kez oturum anlaşmayı kabul etmek için cihaz ve Windows lisans sözleşmesini görmez.  <br/> |
-|Kullanıcının yerel yönetici olmasına izin verme  <br/> |Bu seçenek Açık olarak **ayarlanırsa,** cihaz kullanıcısı Cortana gibi hiçbir kişisel uygulama yükleyemz.<br/> |
+|Gizlilik ayarlarını atla (Varsayılan olarak Kapalı)  <br/> |Bu seçenek On olarak **ayarlanırsa,** cihaz kullanıcısı cihazın lisans sözleşmelerini görmez ve Windows ilk kez oturum a açınca oturum açın.  <br/> |
+|Kullanıcının yerel yönetici olmasına izin verme  <br/> |Bu seçenek Açık olarak **ayarlanırsa,** cihaz kullanıcısı Kullanıcı Hesabı gibi hiçbir kişisel Cortana.<br/> |

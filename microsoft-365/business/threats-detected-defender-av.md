@@ -15,12 +15,12 @@ ms.collection:
 ms.custom: AdminSurgePortfolio
 search.appverid: MET150
 description: Diğer cihazların Microsoft Defender Virüsten Koruma ve yazılım Windows yazılım tehditlerine karşı nasıl korumaları olduğunu öğrenin.
-ms.openlocfilehash: 7c5d000e2a8c30e17d1f890cef69fe88beed75bb
-ms.sourcegitcommit: dcb97fbfdae52960ae62b6faa707a05358193ed5
+ms.openlocfilehash: 79ec44a44c3939a4a868b98d75ab4f24eaf949fcd9bbafb7c0a3173e267f4680
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "53465440"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53896313"
 ---
 # <a name="threats-detected-by-microsoft-defender-antivirus"></a>Tehdit tarafından algılanan Microsoft Defender Virüsten Koruma
 
