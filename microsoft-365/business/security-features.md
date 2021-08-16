@@ -24,18 +24,18 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: PC, telefon ve tabletler Microsoft 365 İş Ekstra güvenlik özellikleri hakkında bilgi alın.
-ms.openlocfilehash: 974204e100d3228f78406aca4acce67a889b08c3
-ms.sourcegitcommit: 05f40904f8278f53643efa76a907968b5c662d9a
+ms.openlocfilehash: 50b74ed18d641e8de38db3284c3ef3abf319825f4f7dbe02b6575f6c0fbc6f85
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52113476"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53887590"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Microsoft 365 İş Ekstra ve uyumluluk özelliklerini daha iyi ifade edin
 
 Microsoft 365 İş Ekstra bilgisayarlar, telefonlar ve tabletler ile verilerinizi korumaya yardımcı olmak için basitleştirilmiş güvenlik özellikleri sunar.
     
-## <a name="microsoft-365-admin-center-security-features"></a>Microsoft 365 merkezi güvenlik özelliklerini nasıl yönetecek?
+## <a name="microsoft-365-admin-center-security-features"></a>Microsoft 365 yönetim merkezi özellikleri
 
 Yönetim merkezinde, bu özellikleri Microsoft 365 İş Ekstra açmanın veya kapatmanın basitleştirilmiş bir yolunu veren birçok güvenlik özelliklerini yönetebilrsiniz. Yönetim merkezinde şunları yapabilirsiniz:
   
@@ -49,7 +49,7 @@ Yönetim merkezinde, bu özellikleri Microsoft 365 İş Ekstra açmanın veya ka
     
 - [Mobil cihazlar için cihaz Windows 10 ayarlayın.](protection-settings-for-windows-10-pcs.md) 
     
-    Cihazın kaybolur veya [çalınırsa BitLocker](/windows/security/information-protection/bitlocker/bitlocker-frequently-asked-questions) korunmasına yardımcı olmak için güvenlik şifrelemesi etkinleştirebilirsiniz ve fidye yazılımlarına karşı gelişmiş koruma sağlamak için [Windows Exploit Guard'i](/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection) etkinleştirebilirsiniz. 
+    Bir cihazın kaybolur veya çalınırsa verilerin korunmasına yardımcı olmak için [BitLocker](/windows/security/information-protection/bitlocker/bitlocker-frequently-asked-questions) şifrelemesi'ni etkinleştirebilirsiniz ve fidye yazılımlarına karşı gelişmiş koruma sağlamak için [Windows Exploit Guard'ı](/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection) etkinleştirebilirsiniz. 
     
 - [Cihazlardan şirket verilerini kaldırma](remove-company-data.md)
     
@@ -73,8 +73,8 @@ Yeni Microsoft 365 İş Ekstra, işlerinizi siber tehditlere karşı korumanıza
 
 - **[Azure portalında Intune'a sahip tüm özellikler](/mem/intune/fundamentals/what-is-intune)**
     
-    Azure portalında Intune yönetim merkezine erişim, macOS cihazları, iPhone ve Android cihazlarının yönetimi gibi ek güvenlik özellikleriyle birlikte, Windows için gelişmiş cihaz yönetimi Microsoft 365 yönetim merkezi üzerinden kullanılamaz.
-- **Azure AD [ile](/azure/active-directory/conditional-access/overview) aynı Koşullu Erişim Premium P1 planı**
+    Azure portalında Intune yönetim merkezine erişim, macOS cihazları, iPhone ve Android cihazlarının yönetimi gibi ek güvenlik özelliklerinin yanı sıra, Windows için gelişmiş cihaz yönetimi ayarlamaya olanak tanır ve bu özellikler Microsoft 365 yönetim merkezi.
+- **Azure AD Premium P1 [](/azure/active-directory/conditional-access/overview) planıyla aynı Koşullu Erişim**
 
 
     Koşullu Erişim, kuruma oturum açma risklerinden, beklenmeyen bir ağ veya yerel ağa erişim denemelerine, riskli cihaz türlerinden erişim girişimlerine, bu gibi risklere karşı korunmanıza yardımcı olabilir. Koşullu Erişim ilkeleri, ilk kimlik doğrulama tamamlandıktan sonra uygulanır ve ilk kimlik doğrulama olayından sinyaller kullanarak erişimin onay mı, reddedilmiş mi yoksa daha fazla kanıta (ikinci bir kimlik biçimi gibi) gerek olup olmadığını belirler.
@@ -108,7 +108,7 @@ Microsoft 365 İş Ekstra aboneliğiniz uyumluluk ve mevzuat standartlarını ko
 
    Microsoft 365 İş Ekstra planı, Azure Information [Protection Plan 1'in tüm özelliklerini içerir.](https://go.microsoft.com/fwlink/p/?linkid=871407) Bu planla, e-posta ve belgelerdeki hassas bilgilere erişimi "İlerlet" ve "Kopyalama" gibi denetimlerle denetlemenizi sağlayan Duyarlılık etiketleri oluşturabilirsiniz.  Ayrıca, hassas bilgileri "Gizli" olarak sınıflandırabilir ve sınıflandırılmış bilgilerin işletme içinde ve dışında nasıl paylaşıla olacağını belirtebilirsiniz. Enterprise- sınıf şifreleme, bilgilerin gizli tutmak için e-posta ve belgelere kolayca uygulanır. Ayrıca, diğer uygulamalar için Azure Information Protection istemci eklentisini Office yükleyebilirsiniz. Daha fazla bilgi için [bkz. Azure Information Protection birleşik etiketleme istemcisi.](/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) Duyarlılık etiketleri için, metin **AzInfoProtection_UL.exe.**
 
-Bu özellikleri Güvenlik Uyumluluk Merkezi'nde &amp; ve Intune yönetim merkezinde yönetsiniz. Zamanla basitleştirilmiş denetimler yönetim merkezine Microsoft 365 eklenecektir.
+Bu özellikleri Güvenlik Uyumluluk Merkezi'nde &amp; ve Intune yönetim merkezinde yönetsiniz. Zaman içinde basitleştirilmiş denetimler diğer denetimlere Microsoft 365 yönetim merkezi.
   
     
 ## <a name="faq"></a>SSS
@@ -123,6 +123,6 @@ Evet, bu özellikler en çok satılan tüm Microsoft 365 İş Ekstra mevcuttur.
     
 2. Sol gezintide Yönetim **merkezleri'ni bulun** ve genişletin. 
     
-    ![Yönetim merkezinin sol gezintisinde Microsoft 365 merkezleri'ni seçin.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
+    ![Gezinti çubuğundaki sol gezintide Microsoft 365 yönetim merkezi merkezleri'ni seçin.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
 3. Güvenlik **uyumluluk &amp; merkezi'ne** gitmek için Güvenlik Uyumluluğu'seçin. &amp;
