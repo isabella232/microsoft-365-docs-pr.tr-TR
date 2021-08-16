@@ -23,25 +23,25 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
-description: Microsoft 365 İş'i kullanarak, yönetmek istediğiniz Windows 10 cihazlarını fabrika ayarlarına sıfırlamayı ve satın alınarak orijinal ayarlarına döndürmeyi öğrenin.
-ms.openlocfilehash: 29d5b8758ef7d86c7ac283460d0a1a87bffaf5f3
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: İşletmeler için Microsoft 365 fabrika sıfırlamayı, Windows 10 cihazları satın alınarak orijinal ayarlarına geri döndürmeyi öğrenin.
+ms.openlocfilehash: e355e9c916f52222efb5d8e7449520f63636dea320dd813b7acfa0f1f3a0b318
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578217"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53900621"
 ---
 # <a name="reset-windows-10-devices-to-their-factory-settings"></a>Windows 10 cihazlarını fabrika ayarlarına sıfırlama
 
-Bu makale Microsoft 365 İş Ekstra için geçerlidir.
+Bu makale diğer Microsoft 365 İş Ekstra.
 
-Fabrika sıfırlaması, cihazı satın alındığı sırada geçerli olan özgün ayarlarına döndürür. Satın alındıktan sonra cihaza yüklenmiş olan tüm uygulamalar ve veriler kaldırılır. Microsoft 365 İş'i kullanarak, yönetilen Windows 10 cihazlarını fabrika ayarlarına sıfırlayabilirsiniz.
+Fabrika sıfırlaması, cihazı satın alındığı sırada geçerli olan özgün ayarlarına döndürür. Satın alındıktan sonra cihaza yüklenmiş olan tüm uygulamalar ve veriler kaldırılır. Microsoft 365'i kullanarak, yönetmek Windows 10 fabrika sıfırlaması kullanabilirsiniz.
   
-1. Yönetim merkezine <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> gidin:
+1. yönetim merkezine <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> gidin.
     
 2. Sol gezintide Cihazlar **Yönet'i** \> **seçin.**
 
-3. Yönet **sayfasında,** verileri kaldırmak istediğiniz cihazın yanındaki onay kutusunu işaretleyin ve ardından  Yönet açılan listesinde Fabrika sıfırlamasını **seçin.**
+3. Yönet **sayfasında,** verileri kaldırmak istediğiniz cihazın yanındaki onay kutusunu işaretleyin ve sonra  Yönet açılan listesinde Fabrika sıfırlaması'yı **seçin.**
     
 4. **Aşağıdaki cihazlarda fabrika sıfırlaması yapmak istediğinizden emin misiniz** bölmesinde **Onayla** \> **Kapat**'ı seçin.
     
