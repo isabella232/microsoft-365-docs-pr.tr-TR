@@ -22,21 +22,21 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
-description: Genel yönetici kimlik bilgileriyle Microsoft 365 İş'te oturum açın ve cihaz ilkelerini ve eylemlerini görüntüleme.
-ms.openlocfilehash: 39d88e8fa84055e4bac62899a1b84bdf42f366a2
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Microsoft 365 kurumsal'da genel yönetici kimlik bilgileriyle oturum açın ve cihaz ilkelerini ve eylemlerini görüntüleme.
+ms.openlocfilehash: 8291af3f71554c706eed584deba0227ac378e92e48e67b8d15841e6766982f8c
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578037"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53900740"
 ---
 # <a name="view-and-manage-policies-and-devices"></a>İlkeleri ve cihazları görüntüleme ve yönetme
 
-Bu makale Microsoft 365 İş Ekstra için geçerlidir.
+Bu makale diğer Microsoft 365 İş Ekstra.
 
 ## <a name="view-and-edit-device-policies"></a>Cihaz ilkelerini görüntüleme ve düzenleme
 
-1.  Yönetim merkezine <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> gidin:
+1.  yönetim merkezine <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> gidin.
 2. Sol gezintide Cihaz **İlkeleri'ne** \> **seçin.**
 
     Bu sayfada, bir ilke oluşturabilir, düzenleyebilir, hedef grubu değiştirebilir veya silebilirsiniz.
@@ -47,7 +47,7 @@ Bu makale Microsoft 365 İş Ekstra için geçerlidir.
 
 1. Sol gezintide Cihazlar **Yönet'i** \> **seçin.** 
     
-    Bu sayfada bir veya daha fazla cihaz seçerek şirket verilerini kaldırabilirsiniz. Cihaz koruma ayarlarını yaptığınız Windows 10 cihazlarında, cihazı fabrika ayarlarına sıfırlamayı da seçebilirsiniz.
+    Bu sayfada bir veya birden çok cihaz seçerek şirket verilerini kaldırabilirsiniz. Cihaz koruma ayarlarını yaptığınız Windows 10 cihazlarında, cihazı fabrika ayarlarına sıfırlamayı da seçebilirsiniz.
   
    ![Cihazları yönet sayfası](../media/devicesmanage.png)
 
