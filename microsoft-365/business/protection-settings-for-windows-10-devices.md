@@ -1,5 +1,5 @@
 ---
-title: Windows 10 cihazları için uygulama koruma ayarlarını düzenleme veya ayarlama
+title: Mobil cihazlar için uygulama koruma Windows 10 düzenleme veya ayarlama
 f1.keywords:
 - NOCSH
 ms.author: sharik
@@ -28,44 +28,44 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
-description: Kullanıcılarınızı kişisel Windows 10 cihazlarında uygulama yönetimi ilkelerini oluşturma veya düzenlemeyi ve iş dosyalarını korumayı öğrenin.
-ms.openlocfilehash: aa270c563e6bdce6fd48f8713d7db3ce23921925
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Uygulama yönetimi ilkelerini oluşturma ve düzenleme ve kullanıcılarının kişisel cihazlarında iş dosyalarını koruma Windows 10 öğrenin.
+ms.openlocfilehash: 6d38d1765e0a331516b2261870112d530ab4ee50f24c6defba95964ea4d9dcfa
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580024"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53852673"
 ---
-# <a name="set-or-edit-application-protection-settings-for-windows-10-devices"></a>Windows 10 cihazları için uygulama koruma ayarlarını ayarlama veya düzenleme
+# <a name="set-or-edit-application-protection-settings-for-windows-10-devices"></a>Mobil cihazlar için uygulama koruma ayarlarını Windows 10 düzenleme
 
-Bu makale Microsoft 365 İş Ekstra için geçerlidir.
+Bu makale diğer Microsoft 365 İş Ekstra.
 
-## <a name="edit-an-app-management-policy-for-windows-10"></a>Windows 10 için uygulama yönetimi ilkesi düzenleme
+## <a name="edit-an-app-management-policy-for-windows-10"></a>E-Windows 10 için uygulama yönetimi Windows 10
 
-1. Yönetim merkezine <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> gidin:     
+1. yönetim merkezine <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> gidin.     
 2. Sol gezintide Cihaz **İlkeleri'ne** \> **seçin.**
-1. Var olan bir Windows uygulama ilkesi seçin ve ardından **Düzenle'yi seçin.**
-1. Değiştirmek **istediğiniz** ayarın yanındaki Düzenle'yi ve ardından Kaydet'i **seçin.**
+1. Var olan bir Windows ilkesi seçin ve sonra da **Düzenle'yi seçin.**
+1. Değiştirmek **istediğiniz** ayarın yanındaki Düzenle'yi seçin ve ardından Kaydet'i **seçin.**
 
 ## <a name="create-an-app-management-policy-for-windows-10"></a>Windows 10 için uygulama yönetimi ilkesi oluşturma
 
 Kullanıcılarınızın işle ilgili görevleri gerçekleştirdikleri kişisel Windows 10 cihazları varsa, verilerinizi bu cihazlarda da koruma altına alabilirsiniz.
   
-1. Yönetim merkezine <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> gidin: 
-2. Sol gezintide Cihaz **İlkeleri** \> **Ekle'yi** \> **seçin.**
+1. yönetim merkezine <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> gidin. 
+2. Sol gezintide Cihaz  İlkeleri \> **Ekle'yi** \> **seçin.**
 3. **İlke ekle** bölmesinde bu ilke için benzersiz bir ad girin. 
 4. **İlke türü**'nün altında **Windows 10 için Uygulama Yönetimi**'ni seçin.
-5. Cihaz **türü altında,** Kişisel'i **veya Şirkete** **Ait'i seçin.**
+5. Cihaz **türü altında,** Kişisel veya **Şirkete** Ait **'i seçin.**
 6. **İş dosyalarını şifrele** seçeneği otomatik olarak açılır. 
 7. Kullanıcıların çalışma dosyalarını kendi bilgisayarlarına kaydetmelerini istemiyorsanız, **Kullanıcıların şirket verilerini kişisel dosyalara kopyalamasını engelle ve çalışma dosyalarını OneDrive İş'e kaydetmelerini zorla** ilkesini **Açık** olarak ayarlayın. 
-9. **Windows cihazlarda Verileri kurtar'ı genişletin.** Bu açmanizi **öneririz.**
-    Veri Kurtarma Aracısı sertifikasının bulunduğu konuma göz atmadan önce bir sertifika oluşturmanız gerekir. Yönergeler için, Şifreleme [Dosyası Sistemi (EFS)](/windows/security/information-protection/windows-information-protection/create-and-verify-an-efs-dra-certificate)Veri Kurtarma Aracısı (DRA) sertifikası oluşturma ve doğrulama.
+9. Mobil **cihazlarda verileri Windows genişletin.** Bu aç'a açmanizi **öneririz.**
+    Veri Kurtarma Aracısı sertifikasının bulunduğu konuma göz atmadan önce bir sertifika oluşturmanız gerekir. Yönergeler için [bkz. Şifreleme Dosya Sistemi (EFS)](/windows/security/information-protection/windows-information-protection/create-and-verify-an-efs-dra-certificate)Veri Kurtarma Aracısı (DRA) sertifikasını oluşturma ve doğrulama.
     
     Varsayılan olarak iş dosyalarınız, cihazda depolanan ve kullanıcının profili ile ilişkilendirilmiş bir gizli anahtar kullanılarak şifrelenir. Yalnızca kullanıcı dosyanın şifresini çözebilir ve dosyayı açabilir. Bununla birlikte, cihaz kaybolursa veya kullanıcı kaldırılırsa, dosya şifrelenmiş halde kalabilir. Yönetici, dosyanın şifresini çözmek için Veri Kurtarma Aracısı (DRA) sertifikasını kullanabilir.
     
     ![Browse to Data Recovery Agent certificate.](../media/7d7d664f-b72f-4293-a3e7-d0fa7371366c.png)
   
-10. Listelenen **tüm uygulamalardaki dosyaların** korun olduğundan emin olmak için ek etki alanları veya SharePoint Online konumları eklemek için Ek ağ ve bulut konumlarını koru'ya genişletin. Alanlara birden çok öğe girmeniz gerekiyorsa, öğeler arasında noktalı virgül (;) kullanın.
+10. Listelenen **tüm uygulamalara yönelik dosyaların** korun olduğundan emin olmak için başka etki alanları veya SharePoint Çevrimiçi konumlar eklemek için Ek ağ ve bulut konumlarını koru'ya tıklayın. Alanlara birden çok öğe girmeniz gerekiyorsa, öğeler arasında noktalı virgül (;) kullanın.
     
     ![Expand Protect additional network and cloud locations, and enter domains or SharePoint Online sites you own.](../media/7afaa0c7-ba53-456d-8c61-312c45e09625.png)
   
